@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>TeatriTrentino</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Password gate -->
+<div id="gate" class="gate">
+    <div class="gate-box">
+        <h1>TeatriTrentino</h1>
+        <p>Inserisci la password per accedere</p>
+        <input type="password" id="gate-password" placeholder="Password" autofocus>
+        <button id="gate-submit">Entra</button>
+        <p id="gate-error" class="error" hidden>Password errata</p>
+    </div>
+</div>
+
+<!-- Main app -->
+<div id="app" hidden>
+    <header>
+        <h1>TeatriTrentino</h1>
+        <p class="subtitle">Eventi teatrali in Trentino</p>
+    </header>
+
+    <div class="filters">
+        <div class="filter-group">
+            <label for="filter-date">Periodo</label>
+            <select id="filter-date">
+                <option value="today">Oggi</option>
+                <option value="week" selected>Questa settimana</option>
+                <option value="month">Questo mese</option>
+                <option value="all">Tutti</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-location">Luogo</label>
+            <select id="filter-location">
+                <option value="">Tutti</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-venue">Teatro</label>
+            <select id="filter-venue">
+                <option value="">Tutti</option>
+            </select>
+        </div>
+
+        <div class="filter-group toggle-group">
+            <label>
+                <input type="checkbox" id="filter-past">
+                Mostra eventi passati
+            </label>
+        </div>
+    </div>
+
+    <div id="events-count" class="events-count"></div>
+    <div id="events-list" class="events-list"></div>
+
+    <footer>
+        <p id="last-updated"></p>
+        <p>Dati raccolti da fonti pubbliche a scopo personale.</p>
+    </footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
