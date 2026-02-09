@@ -41,8 +41,9 @@
     }
 
     function showApp() {
-        gate.hidden = true;
-        app.hidden = false;
+        gate.style.display = "none";
+        app.removeAttribute("hidden");
+        app.style.display = "block";
         loadEvents();
     }
 

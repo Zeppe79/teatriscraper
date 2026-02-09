@@ -33,6 +33,10 @@ body {
     z-index: 1000;
 }
 
+.gate[hidden] {
+    display: none;
+}
+
 .gate-box {
     background: var(--card-bg);
     padding: 2rem;
