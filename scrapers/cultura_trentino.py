@@ -11,11 +11,7 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.cultura.trentino.it/calendar/search/node/(id)/298848"
 TEATRO_CATEGORY = 30734
-
-# Try these 'when' values to cover a wide range with fewer requests.
-# The API seems to accept: "today", "week", "month", and possibly date strings.
-# We try week-by-week using date strings as fallback if named ranges don't cover enough.
-WEEKS_AHEAD = 9  # ~2 months of coverage
+DAYS_AHEAD = 90  # ~3 months of coverage
 
 
 class CulturaTrentinoScraper(BaseScraper):
@@ -25,30 +21,22 @@ class CulturaTrentinoScraper(BaseScraper):
         events: list[Event] = []
         seen_ids: set[int] = set()
 
-        # First try broad ranges: "month" may return the whole current month
-        for when_value in ["today", "week", "month"]:
-            self._fetch_events(when_value, events, seen_ids)
+        today = date.today()
+        end = today + timedelta(days=DAYS_AHEAD)
 
-        # Then fill in future weeks by querying specific dates (one per week)
-        start = date.today() + timedelta(days=7)
-        for week in range(WEEKS_AHEAD):
-            query_date = start + timedelta(weeks=week)
-            day_str = query_date.strftime("%d/%m/%Y")
-            self._fetch_events(day_str, events, seen_ids)
-
-        return events
-
-    def _fetch_events(
-        self, when: str, events: list[Event], seen_ids: set[int]
-    ) -> None:
-        params = {"what": TEATRO_CATEGORY, "when": when}
+        # Single request using dateRange parameter
+        params = {
+            "what": TEATRO_CATEGORY,
+            "when": "range",
+            "dateRange[]": [today.strftime("%Y%m%d"), end.strftime("%Y%m%d")],
+        }
 
         try:
             resp = self.fetch(BASE_URL, params=params)
             data = resp.json()
         except Exception:
-            logger.warning(f"[{self.name}] Failed to fetch when={when}")
-            return
+            logger.exception(f"[{self.name}] Failed to fetch date range")
+            return events
 
         for day_block in data.get("result", {}).get("events", []):
             for tipo in day_block.get("tipo_evento", []):
@@ -61,6 +49,8 @@ class CulturaTrentinoScraper(BaseScraper):
                     parsed = self._parse_event(ev)
                     if parsed:
                         events.append(parsed)
+
+        return events
 
     def _parse_event(self, ev: dict) -> Event | None:
         try:
