@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-02-11T17:53:15.595500+00:00",
-  "count": 167,
+  "last_updated": "2026-02-11T21:18:41.975906+00:00",
+  "count": 198,
   "events": [
+    {
+      "id": "541c6a87b0a3",
+      "title": "Grand Prix",
+      "date": "2025-02-08",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2806-grand-prix",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2806-grand-prix"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "cd96eb0c10a7",
+      "title": "Tartarughe. Due di tutto",
+      "date": "2026-02-01",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2716-tartarughe-due-di-tutto",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2716-tartarughe-due-di-tutto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "1f01845e8c4b",
+      "title": "Orfeo",
+      "date": "2026-02-03",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2794-orfeo-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2794-orfeo-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "78bbc141f59e",
+      "title": "Morte accidentale di un anarchico",
+      "date": "2026-02-04",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Comune di Pergine",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2692-morte-accidentale-di-un-anarchico",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2692-morte-accidentale-di-un-anarchico"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "8c84d082e3d2",
+      "title": "Cinque secondi",
+      "date": "2026-02-06",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "4c1e3c2a55b3",
+      "title": "Storia della canzone dagli anni '40 ai giorni nostri",
+      "date": "2026-02-07",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi - Musica",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2729-storia-della-canzone-dagli-anni-40-ai-giorni-nostri",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2729-storia-della-canzone-dagli-anni-40-ai-giorni-nostri"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "fe52a7f957ca",
+      "title": "Cinque secondi",
+      "date": "2026-02-08",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "0ba570b93aac",
+      "title": "L'anno nuovo che non arriva",
+      "date": "2026-02-10",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2795-l-anno-nuovo-che-non-arriva-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2795-l-anno-nuovo-che-non-arriva-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
     {
       "id": "97439f604c05",
       "title": "Secondo lei",
@@ -15,6 +135,21 @@
         "https://www.cultura.trentino.it/content/view/full/736630"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "29dc8a32e69e",
+      "title": "Secondo lei",
+      "date": "2026-02-11",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Comune di Pergine",
+      "source_url": "https://www.teatrodipergine.it/teatro/2693-secondo-lei",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2693-secondo-lei"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -48,6 +183,21 @@
       "is_past": false
     },
     {
+      "id": "95e22f9909d0",
+      "title": "Orchestra Haydn di Bolzano e Trento",
+      "date": "2026-02-12",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "source_url": "https://www.teatrodipergine.it/musica/2724-orchestra-haydn-12-febbraio",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2724-orchestra-haydn-12-febbraio"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "c67a4756b5ac",
       "title": "Foyer della Prosa - La coscienza di Zeno",
       "date": "2026-02-13",
@@ -75,6 +225,21 @@
         "https://www.cultura.trentino.it/content/view/full/743941"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "db9033648a8c",
+      "title": "Attitudini: nessuna",
+      "date": "2026-02-13",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/cinema/2820-attituini-nessuna",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2820-attituini-nessuna"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -184,6 +349,21 @@
       "is_past": false
     },
     {
+      "id": "8a1ae3599a46",
+      "title": "Fan Chaabi",
+      "date": "2026-02-14",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica | sul palco del Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/musica/2721-fan-chaabi",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2721-fan-chaabi"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "d0b70eff3850",
       "title": "La bugiarda",
       "date": "2026-02-14",
@@ -274,6 +454,21 @@
       "is_past": false
     },
     {
+      "id": "cceb77cc60f0",
+      "title": "Spongebob - Un'avventura da pirati",
+      "date": "2026-02-15",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/cinema/2807-spongebob-un-avventura-da-pirati",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2807-spongebob-un-avventura-da-pirati"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "1ed3e0a7a3f3",
       "title": "Mago per svago - L'Abile Teatro",
       "date": "2026-02-15",
@@ -319,6 +514,21 @@
       "is_past": false
     },
     {
+      "id": "8ee51fed4f1d",
+      "title": "Attitudini: nessuna",
+      "date": "2026-02-15",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/cinema/2820-attituini-nessuna",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2820-attituini-nessuna"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "1f15e1a1497a",
       "title": "Crave",
       "date": "2026-02-17",
@@ -334,6 +544,21 @@
       "is_past": false
     },
     {
+      "id": "bb4a2b1ef4c3",
+      "title": "Father Mother Sister Brother",
+      "date": "2026-02-17",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "source_url": "https://www.teatrodipergine.it/cinema/2796-father-mother-sister-brother-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2796-father-mother-sister-brother-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "efbe7104c66f",
       "title": "Rita",
       "date": "2026-02-18",
@@ -346,6 +571,21 @@
         "https://www.cultura.trentino.it/content/view/full/736631"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fb2065c74f5e",
+      "title": "Rita",
+      "date": "2026-02-18",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/teatro/2701-rita",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2701-rita"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -394,6 +634,36 @@
       "is_past": false
     },
     {
+      "id": "b1ae1f3c6bbc",
+      "title": "Flyover country",
+      "date": "2026-02-19",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione | sul palco del Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/teatro/2707-flyover-country",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2707-flyover-country"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "fd19c7325268",
+      "title": "L'invisibile filo rosso",
+      "date": "2026-02-20",
+      "time": "17:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/cinema/2808-l-invisibile-filo-rosso-cinema",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2808-l-invisibile-filo-rosso-cinema"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "e2393ff1236b",
       "title": "Foyer della Prosa - Le Indie de qua",
       "date": "2026-02-20",
@@ -436,6 +706,21 @@
         "https://www.cultura.trentino.it/content/view/full/743948"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "711ae1ca6d81",
+      "title": "Prog Legends - Il Grande Spettacolo Progressive Rock",
+      "date": "2026-02-21",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi",
+      "source_url": "https://www.teatrodipergine.it/eventi/2777-prog-legends-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2777-prog-legends-26"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -980,6 +1265,21 @@
       "is_past": false
     },
     {
+      "id": "1b208e528800",
+      "title": "Acquerello, il mio asinello",
+      "date": "2026-03-01",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2717-acquerello-il-mio-asinello-25",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2717-acquerello-il-mio-asinello-25"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "4ca30be45617",
       "title": "Piratesse",
       "date": "2026-03-01",
@@ -1040,6 +1340,21 @@
       "is_past": false
     },
     {
+      "id": "e529f806b050",
+      "title": "La piccola Amelie",
+      "date": "2026-03-03",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "source_url": "https://www.teatrodipergine.it/cinema/2798-la-piccola-amelie-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2798-la-piccola-amelie-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "665e6b741e38",
       "title": "Bestiario Umano",
       "date": "2026-03-04",
@@ -1097,6 +1412,21 @@
         "https://www.cultura.trentino.it/content/view/full/738937"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "422c7651b234",
+      "title": "Tre sull'altalena",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione | sul palco del Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/teatro/2733-tre-sull-altalena-fuoristagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2733-tre-sull-altalena-fuoristagione"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1203,6 +1533,21 @@
         "https://www.cultura.trentino.it/content/view/full/743972"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "75fd223c343b",
+      "title": "Marty Supreme",
+      "date": "2026-03-06",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/cinema/2815-marty-supreme",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2815-marty-supreme"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1356,6 +1701,21 @@
       "is_past": false
     },
     {
+      "id": "d5bf8e40fd0d",
+      "title": "Da Greco a Levante. Nevà Quartet",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica | sul palco del Teatro di Pergine",
+      "source_url": "https://www.teatrodipergine.it/musica/2722-da-greco-a-levante-neva-quartet",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2722-da-greco-a-levante-neva-quartet"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "82e575bcf04e",
       "title": "Esercizi di fantastica",
       "date": "2026-03-08",
@@ -1383,6 +1743,21 @@
         "https://www.cultura.trentino.it/content/view/full/742083"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e0117213adff",
+      "title": "Esercizi di fantastica",
+      "date": "2026-03-08",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2719-esercizi-di-fantastica",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2719-esercizi-di-fantastica"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1416,6 +1791,21 @@
       "is_past": false
     },
     {
+      "id": "17fa4522aa24",
+      "title": "Marty Supreme",
+      "date": "2026-03-08",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/cinema/2815-marty-supreme",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2815-marty-supreme"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "cf2dd3b80ff7",
       "title": "Esercizi di Fantastica | Sosta Palmizi",
       "date": "2026-03-10",
@@ -1428,6 +1818,21 @@
         "https://www.cultura.trentino.it/content/view/full/739276"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "542c04b9ae1a",
+      "title": "Sentimental Value",
+      "date": "2026-03-10",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "source_url": "https://www.teatrodipergine.it/cinema/2799-sentimental-value-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2799-sentimental-value-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1461,6 +1866,21 @@
       "is_past": false
     },
     {
+      "id": "3534b6603c43",
+      "title": "Alieni in laguna",
+      "date": "2026-03-11",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Comune di Pergine",
+      "source_url": "https://www.teatrodipergine.it/teatro/2694-alieni-in-laguna",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2694-alieni-in-laguna"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "f18e1466d42e",
       "title": "Toccando il vuoto",
       "date": "2026-03-11",
@@ -1473,6 +1893,21 @@
         "https://www.cultura.trentino.it/content/view/full/739987"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "985821112026",
+      "title": "Parole di Faber",
+      "date": "2026-03-12",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi",
+      "source_url": "https://www.teatrodipergine.it/eventi/2779-parole-di-faber-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2779-parole-di-faber-26"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1548,6 +1983,21 @@
         "https://www.cultura.trentino.it/content/view/full/743973"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c5d09daa0541",
+      "title": "I peccatori",
+      "date": "2026-03-13",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/cinema/2816-i-peccatori",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2816-i-peccatori"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1728,6 +2178,21 @@
         "https://www.cultura.trentino.it/content/view/full/739011"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1aeb0f2b0cf2",
+      "title": "I peccatori",
+      "date": "2026-03-15",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema",
+      "source_url": "https://www.teatrodipergine.it/cinema/2816-i-peccatori",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2816-i-peccatori"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
