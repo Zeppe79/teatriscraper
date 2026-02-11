@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-02-10T17:56:30.861836+00:00",
+  "last_updated": "2026-02-11T06:05:17.905455+00:00",
   "count": 167,
   "events": [
-    {
-      "id": "13400494fac8",
-      "title": "S.L.O.I. machine - Arditodesìo",
-      "date": "2026-02-09",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00 \nLo spettacolo del 10/2/2026 è SOLD OUT",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739229",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739229"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
     {
       "id": "97439f604c05",
       "title": "Secondo lei",
@@ -2509,6 +2494,21 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739294"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e93c92d1bcb5",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739298"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
