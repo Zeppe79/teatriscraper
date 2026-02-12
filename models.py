@@ -29,6 +29,7 @@ class Event:
     source_url: str
     source_name: str        # "cultura.trentino.it"
     description: str | None = None
+    image_url: str | None = None
     source_urls: list[str] = field(default_factory=list)
 
     def __post_init__(self):
@@ -55,6 +56,7 @@ class Event:
             "venue": self.venue,
             "location": self.location,
             "description": self.description,
+            "image_url": self.image_url,
             "source_url": self.source_urls[0] if self.source_urls else self.source_url,
             "source_urls": self.source_urls,
             "source_name": self.source_name,

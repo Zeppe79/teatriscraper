@@ -116,6 +116,17 @@ class TeatroDiPergineScraper(BaseScraper):
                     description = text
                     break
 
+            # Image: first <img> in the item that is not a small logo
+            image_url = None
+            for img in child.find_all("img"):
+                src = img.get("src", "")
+                try:
+                    if int(img.get("width", "0")) > 80:
+                        image_url = (BASE_URL + src) if src.startswith("/") else src
+                        break
+                except (ValueError, TypeError):
+                    pass
+
             for event_date, time_str in date_times:
                 key = (title, event_date)
                 if key in seen_keys:
@@ -131,6 +142,7 @@ class TeatroDiPergineScraper(BaseScraper):
                     source_url=source_url,
                     source_name=self.name,
                     description=description,
+                    image_url=image_url,
                 ))
 
         return events

@@ -172,11 +172,19 @@
                 var domain = url.replace(/https?:\/\//, "").split("/")[0];
                 return '<a href="' + url + '" target="_blank" rel="noopener">' + domain + '</a>';
             }).join(", ");
+            var imgHtml = ev.image_url
+                ? '<img class="event-img" src="' + ev.image_url + '" alt="" loading="lazy" onerror="this.style.display='none'">'
+                : '';
 
             return '<div class="event-card' + (isPast ? " past" : "") + '" onclick="this.querySelector(\'.event-details\').classList.toggle(\'open\')">' +
+                '<div class="event-row">' +
+                imgHtml +
+                '<div class="event-body">' +
                 '<div class="event-date">' + formatDate(ev.date) + timeStr + '</div>' +
                 '<div class="event-title">' + escapeHtml(ev.title) + '</div>' +
                 '<div class="event-meta">' + escapeHtml(ev.venue) + (ev.location ? " &middot; " + escapeHtml(ev.location) : "") + '</div>' +
+                '</div>' +
+                '</div>' +
                 '<div class="event-details">' +
                 (ev.description ? "<p>" + escapeHtml(ev.description) + "</p>" : "") +
                 '<p class="event-source">Fonte: ' + sources + '</p>' +

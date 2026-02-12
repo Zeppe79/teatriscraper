@@ -93,6 +93,9 @@ class CentroSantaChiaraScraper(BaseScraper):
             desc_el = card.select_one(".she_adv")
             description = desc_el.get_text(strip=True) if desc_el else None
 
+            img_el = card.select_one(".sne_img img")
+            image_url = img_el.get("src") if img_el else None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -102,6 +105,7 @@ class CentroSantaChiaraScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description or None,
+                image_url=image_url,
             )
         except Exception:
             logger.warning(f"[{self.name}] Failed to parse card")
