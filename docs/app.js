@@ -173,7 +173,7 @@
                 return '<a href="' + url + '" target="_blank" rel="noopener">' + domain + '</a>';
             }).join(", ");
             var imgHtml = ev.image_url
-                ? '<img class="event-img" src="' + ev.image_url + '" alt="" loading="lazy" onerror="this.style.display='none'">'
+                ? '<img class="event-img" src="' + ev.image_url + '" alt="" loading="lazy" onerror="this.remove()">'
                 : '';
 
             return '<div class="event-card' + (isPast ? " past" : "") + '" onclick="this.querySelector(\'.event-details\').classList.toggle(\'open\')">' +
