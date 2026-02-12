@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-12T15:24:38.295865+00:00",
-  "count": 208,
+  "last_updated": "2026-02-12T17:53:42.600873+00:00",
+  "count": 212,
   "events": [
     {
       "id": "541c6a87b0a3",
@@ -532,6 +532,22 @@
       "is_past": false
     },
     {
+      "id": "92baffa37812",
+      "title": "Le tre Marie",
+      "date": "2026-02-15",
+      "time": "17:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744422",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744422"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8ee51fed4f1d",
       "title": "Attitudini: nessuna",
       "date": "2026-02-15",
@@ -772,6 +788,22 @@
       "is_past": false
     },
     {
+      "id": "1047c044ba5c",
+      "title": "Par aria",
+      "date": "2026-02-21",
+      "time": "20:00",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744424",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744424"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "10ffa95e7c4f",
       "title": "Sinistra o destra stessa minestra",
       "date": "2026-02-21",
@@ -799,6 +831,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/743952",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743952"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "db687d2f4d1f",
+      "title": "Tra i lumini e i fiorellini",
+      "date": "2026-02-21",
+      "time": "20:30",
+      "venue": "",
+      "location": "",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744425",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744425"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "930dcc38b8fd",
+      "title": "La valisèta",
+      "date": "2026-02-21",
+      "time": "20:30",
+      "venue": "",
+      "location": "",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744426",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744426"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
