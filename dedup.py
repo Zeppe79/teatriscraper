@@ -23,6 +23,8 @@ def _merge_events(existing: Event, new: Event) -> Event:
         existing.time = new.time
     if not existing.description and new.description:
         existing.description = new.description
+    if not existing.image_url and new.image_url:
+        existing.image_url = new.image_url
 
     return existing
 

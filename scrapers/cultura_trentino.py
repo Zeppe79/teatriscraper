@@ -97,6 +97,20 @@ class CulturaTrentinoScraper(BaseScraper):
                 desc_parts.append(orario)
             description = " | ".join(desc_parts) if desc_parts else None
 
+            # Image: try common field names in the API response
+            image_url = None
+            for img_field in ["immagine_principale", "immagine", "foto", "image"]:
+                img_data = ev.get(img_field)
+                if isinstance(img_data, dict):
+                    image_url = img_data.get("src") or img_data.get("uri") or img_data.get("href")
+                elif isinstance(img_data, list) and img_data:
+                    first = img_data[0]
+                    image_url = (first.get("src") or first.get("uri") or first.get("href")) if isinstance(first, dict) else None
+                elif isinstance(img_data, str) and img_data.startswith("http"):
+                    image_url = img_data
+                if image_url:
+                    break
+
             return Event(
                 title=title,
                 date=event_date,
@@ -106,6 +120,7 @@ class CulturaTrentinoScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description,
+                image_url=image_url or None,
             )
         except Exception:
             logger.warning(

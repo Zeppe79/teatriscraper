@@ -132,6 +132,14 @@ class CrushsiteScraper(BaseScraper):
 
             description = item.get("description") or None
 
+            img_data = item.get("image", None)
+            if isinstance(img_data, dict):
+                image_url = img_data.get("url", img_data.get("@id", "")) or None
+            elif isinstance(img_data, str) and img_data.startswith("http"):
+                image_url = img_data
+            else:
+                image_url = None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -141,6 +149,7 @@ class CrushsiteScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description,
+                image_url=image_url,
             )
         except Exception:
             return None
@@ -183,6 +192,11 @@ class CrushsiteScraper(BaseScraper):
             if description == title:
                 description = None
 
+            img_el = card.select_one("img")
+            image_url = img_el.get("src") if img_el else None
+            if image_url and not image_url.startswith("http"):
+                image_url = (BASE_URL + image_url) if image_url.startswith("/") else None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -192,6 +206,7 @@ class CrushsiteScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description,
+                image_url=image_url,
             )
         except Exception:
             return None
@@ -222,6 +237,7 @@ class CrushsiteScraper(BaseScraper):
                         source_url=source_url,
                         source_name=self.name,
                         description=None,
+                        image_url=None,
                     )
                 except ValueError:
                     pass
@@ -239,6 +255,7 @@ class CrushsiteScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=None,
+                image_url=None,
             )
         except Exception:
             return None

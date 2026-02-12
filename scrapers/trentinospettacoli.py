@@ -68,7 +68,8 @@ class TrentinoSpettacoliScraper(BaseScraper):
                         "per_page": 100,
                         "page": page,
                         "after": today_str,
-                        "_fields": "id,title,date,link,excerpt,acf,meta",
+                        "_fields": "id,title,date,link,excerpt,acf,meta,_embedded",
+                        "_embed": "wp:featuredmedia",
                     },
                 )
                 items = resp.json()
@@ -133,6 +134,13 @@ class TrentinoSpettacoliScraper(BaseScraper):
             if description:
                 description = re.sub(r"<[^>]+>", "", description).strip() or None
 
+            # Featured image from _embedded
+            image_url = None
+            embedded = item.get("_embedded", {}) or {}
+            featured = embedded.get("wp:featuredmedia", [{}])
+            if featured and isinstance(featured[0], dict):
+                image_url = featured[0].get("source_url") or None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -142,6 +150,7 @@ class TrentinoSpettacoliScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description,
+                image_url=image_url,
             )
         except Exception:
             logger.warning(f"[{self.name}] Failed to parse API item")
@@ -216,6 +225,14 @@ class TrentinoSpettacoliScraper(BaseScraper):
             source_url = item.get("url", item.get("@id", ""))
             description = item.get("description") or None
 
+            img_data = item.get("image", None)
+            if isinstance(img_data, dict):
+                image_url = img_data.get("url", img_data.get("@id", "")) or None
+            elif isinstance(img_data, str):
+                image_url = img_data or None
+            else:
+                image_url = None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -225,6 +242,7 @@ class TrentinoSpettacoliScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description,
+                image_url=image_url,
             )
         except Exception:
             return None
@@ -272,6 +290,9 @@ class TrentinoSpettacoliScraper(BaseScraper):
             location_el = card.select_one(".location, .comune, .city")
             location = location_el.get_text(strip=True) if location_el else ""
 
+            img_el = card.select_one("img")
+            image_url = img_el.get("src") if img_el else None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -281,6 +302,7 @@ class TrentinoSpettacoliScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=None,
+                image_url=image_url,
             )
         except Exception:
             return None
@@ -323,6 +345,9 @@ class TrentinoSpettacoliScraper(BaseScraper):
                 continue
             seen_urls.add(source_url)
 
+            img_el = art.select_one("img")
+            image_url = img_el.get("src") if img_el else None
+
             events.append(Event(
                 title=title,
                 date=event_date,
@@ -332,6 +357,7 @@ class TrentinoSpettacoliScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=None,
+                image_url=image_url,
             ))
         return events
 

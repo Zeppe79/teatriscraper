@@ -90,6 +90,10 @@ class TeatroDiVillazzanoScraper(BaseScraper):
             source_url = ev.get("url", "")
             description = ev.get("excerpt", {}).get("rendered", "") or None
 
+            # Image from API response
+            img_data = ev.get("image", {})
+            image_url = img_data.get("url", "") if isinstance(img_data, dict) else ""
+
             return Event(
                 title=title,
                 date=event_date,
@@ -99,6 +103,7 @@ class TeatroDiVillazzanoScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=self._strip_html(description) if description else None,
+                image_url=image_url or None,
             )
         except Exception:
             logger.warning(f"[{self.name}] Failed to parse API event")
@@ -178,6 +183,14 @@ class TeatroDiVillazzanoScraper(BaseScraper):
             source_url = item.get("url", item.get("@id", ""))
             description = item.get("description", None)
 
+            img_data = item.get("image", None)
+            if isinstance(img_data, dict):
+                image_url = img_data.get("url", img_data.get("@id", "")) or None
+            elif isinstance(img_data, str):
+                image_url = img_data or None
+            else:
+                image_url = None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -187,6 +200,7 @@ class TeatroDiVillazzanoScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=description,
+                image_url=image_url,
             )
         except Exception:
             return None
@@ -232,6 +246,9 @@ class TeatroDiVillazzanoScraper(BaseScraper):
             venue_el = art.select_one(".tribe-venue")
             venue = venue_el.get_text(strip=True) if venue_el else VENUE
 
+            img_el = art.select_one(".tribe-events-event-image img, .tribe-event-featured-image img, img")
+            image_url = img_el.get("src") if img_el else None
+
             return Event(
                 title=title,
                 date=event_date,
@@ -241,6 +258,7 @@ class TeatroDiVillazzanoScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=None,
+                image_url=image_url,
             )
         except Exception:
             return None
@@ -287,6 +305,9 @@ class TeatroDiVillazzanoScraper(BaseScraper):
                 continue
             seen_urls.add(source_url)
 
+            img_el = art.select_one("img")
+            image_url = img_el.get("src") if img_el else None
+
             events.append(Event(
                 title=title,
                 date=event_date,
@@ -296,6 +317,7 @@ class TeatroDiVillazzanoScraper(BaseScraper):
                 source_url=source_url,
                 source_name=self.name,
                 description=None,
+                image_url=image_url,
             ))
         return events
 
