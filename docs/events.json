@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T21:18:41.975906+00:00",
+  "last_updated": "2026-02-12T06:00:51.384128+00:00",
   "count": 198,
   "events": [
     {
@@ -123,21 +123,6 @@
       "is_past": true
     },
     {
-      "id": "97439f604c05",
-      "title": "Secondo lei",
-      "date": "2026-02-11",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736630",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736630"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "29dc8a32e69e",
       "title": "Secondo lei",
       "date": "2026-02-11",
@@ -150,7 +135,7 @@
         "https://www.teatrodipergine.it/teatro/2693-secondo-lei"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "dfc1eaeafaf8",
@@ -2974,6 +2959,21 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739298"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9a81d61b4df2",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-13",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739297"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
