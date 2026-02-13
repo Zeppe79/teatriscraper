@@ -13,7 +13,7 @@ from scrapers.base import BaseScraper
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.crushsite.it"
-LISTING_URL = f"{BASE_URL}/it/soggetti/danza-teatro/"
+SOGGETTI_URL = f"{BASE_URL}/it/soggetti/danza-teatro/"
 
 ITALIAN_MONTHS = {
     "gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4,
@@ -26,6 +26,7 @@ DATE_RE = re.compile(
     r"(?:.*?ore\s+(\d{1,2})[.:](\d{2}))?",
     re.IGNORECASE,
 )
+SLASH_DATE_RE = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4})")
 TIME_RE = re.compile(r"(\d{1,2})[.:](\d{2})")
 
 
@@ -33,108 +34,178 @@ class CrushsiteScraper(BaseScraper):
     name = "crushsite.it"
 
     def scrape(self) -> list[Event]:
+        # Step 1: collect company page URLs from the soggetti listing
+        company_urls = self._get_company_urls()
+        logger.info(f"[{self.name}] Found {len(company_urls)} companies")
+
         events: list[Event] = []
         seen_urls: set[str] = set()
 
-        url: str | None = LISTING_URL
-        while url:
+        for company_url in company_urls:
             try:
-                resp = self.fetch(url)
+                resp = self.fetch(company_url)
                 soup = BeautifulSoup(resp.text, "lxml")
             except Exception:
-                logger.warning(f"[{self.name}] Could not fetch {url}")
-                break
+                logger.warning(f"[{self.name}] Could not fetch {company_url}")
+                continue
 
-            page_events = self._parse_page(soup, seen_urls)
-            events.extend(page_events)
-
-            url = self._next_page_url(soup)
-            if len(events) > 300:
-                break
+            for ev in self._parse_company_page(soup, company_url):
+                if ev.source_url not in seen_urls:
+                    seen_urls.add(ev.source_url)
+                    events.append(ev)
 
         return events
 
-    def _parse_page(self, soup: BeautifulSoup, seen_urls: set) -> list[Event]:
-        events = []
+    # ------------------------------------------------------------------
+    # Level 1: collect company URLs from /it/soggetti/danza-teatro/
+    # ------------------------------------------------------------------
 
-        # 1. Try JSON-LD structured data (most reliable)
+    def _get_company_urls(self) -> list[str]:
+        urls: list[str] = []
+        try:
+            resp = self.fetch(SOGGETTI_URL)
+            soup = BeautifulSoup(resp.text, "lxml")
+        except Exception:
+            logger.warning(f"[{self.name}] Could not fetch soggetti page")
+            return urls
+
+        # Each company card: .item-soggetto .titoli-eventi a
+        for a in soup.select(".item-soggetto .titoli-eventi a"):
+            href = a.get("href", "")
+            if not href:
+                continue
+            if href.startswith("http"):
+                urls.append(href)
+            elif href.startswith("/"):
+                urls.append(BASE_URL + href)
+
+        return urls
+
+    # ------------------------------------------------------------------
+    # Level 2: parse events from a company page
+    # ------------------------------------------------------------------
+
+    def _parse_company_page(self, soup: BeautifulSoup, company_url: str) -> list[Event]:
+        events: list[Event] = []
+
+        # 1. JSON-LD
         for script in soup.find_all("script", {"type": "application/ld+json"}):
             try:
                 data = json.loads(script.string or "")
                 items = data if isinstance(data, list) else [data]
                 for item in items:
-                    t = item.get("@type", "")
-                    if t in ("Event", "TheaterEvent", "DanceEvent", "MusicEvent"):
+                    if item.get("@type") in ("Event", "TheaterEvent", "DanceEvent", "MusicEvent"):
                         ev = self._parse_jsonld(item)
-                        if ev and ev.source_url not in seen_urls:
-                            seen_urls.add(ev.source_url)
+                        if ev:
                             events.append(ev)
             except Exception:
                 pass
-
         if events:
             return events
 
-        # 2. Try event card selectors (custom CMS patterns)
-        for selector in [
-            ".evento", ".card-evento", ".event-item", ".show-item",
-            ".spettacolo", ".event", "article.event", ".listing-item",
-            ".box-evento", ".item-evento",
-        ]:
-            cards = soup.select(selector)
-            for card in cards:
-                ev = self._parse_card(card)
-                if ev and ev.source_url not in seen_urls:
-                    seen_urls.add(ev.source_url)
-                    events.append(ev)
-            if events:
-                return events
-
-        # 3. Generic article/list item fallback
-        for art in soup.select("article, .post, li.event-item"):
-            ev = self._parse_generic(art)
-            if ev and ev.source_url not in seen_urls:
-                seen_urls.add(ev.source_url)
+        # 2. Crushsite event rows: each date block inside .colonnas-1-301
+        for row in soup.select(".colonnas-1-301"):
+            ev = self._parse_crushsite_row(row, company_url)
+            if ev:
                 events.append(ev)
+        if events:
+            return events
+
+        # 3. Generic: any element containing an Italian date
+        venue = self._extract_venue(soup)
+        location = self._extract_location(soup)
+        title = self._extract_title(soup)
+
+        text_blocks = soup.select("p, li, div.testo, div.contenuto, span.data")
+        for block in text_blocks:
+            text = block.get_text(" ", strip=True)
+            event_date, time_str = self._parse_italian_date(text)
+            if event_date:
+                events.append(Event(
+                    title=title or "Evento",
+                    date=event_date,
+                    time=time_str,
+                    venue=venue or "",
+                    location=location or "",
+                    source_url=company_url,
+                    source_name=self.name,
+                    description=None,
+                    image_url=None,
+                ))
 
         return events
+
+    def _parse_crushsite_row(self, row, fallback_url: str) -> Event | None:
+        try:
+            # Title from .titoli-eventi or heading
+            title_el = (
+                row.select_one(".titoli-eventi a")
+                or row.select_one(".titoli-eventi")
+                or row.select_one("h2, h3, h4")
+            )
+            if not title_el:
+                return None
+            title = title_el.get_text(strip=True)
+            a_el = title_el if title_el.name == "a" else title_el.find("a")
+            href = a_el.get("href", "") if a_el else ""
+            source_url = (
+                href if href.startswith("http")
+                else (BASE_URL + href if href.startswith("/") else fallback_url)
+            )
+
+            text = row.get_text(" ", strip=True)
+            event_date, time_str = self._parse_italian_date(text)
+            if not event_date:
+                return None
+
+            venue_el = row.select_one(".luogo, .venue, .teatro, .testoprincipale-titolinotizie")
+            venue = venue_el.get_text(strip=True) if venue_el else ""
+
+            img_el = row.select_one("img")
+            image_url = img_el.get("src") if img_el else None
+            if image_url and not image_url.startswith("http"):
+                image_url = (BASE_URL + image_url) if image_url.startswith("/") else None
+
+            return Event(
+                title=title,
+                date=event_date,
+                time=time_str,
+                venue=venue,
+                location="",
+                source_url=source_url,
+                source_name=self.name,
+                description=None,
+                image_url=image_url,
+            )
+        except Exception:
+            return None
 
     def _parse_jsonld(self, item: dict) -> Event | None:
         try:
             title = item.get("name", "").strip()
             if not title:
                 return None
-
             start = item.get("startDate", "")
             if not start:
                 return None
+            dt = datetime.fromisoformat(start.replace("Z", "+00:00"))
+            event_date = dt.date().isoformat()
+            time_str = f"{dt.hour:02d}:{dt.minute:02d}" if (dt.hour or dt.minute) else None
 
-            try:
-                dt = datetime.fromisoformat(start.replace("Z", "+00:00"))
-                event_date = dt.date().isoformat()
-                time_str = f"{dt.hour:02d}:{dt.minute:02d}" if (dt.hour or dt.minute) else None
-            except ValueError:
-                return None
-
-            location_data = item.get("location", {})
-            venue, city = "", ""
-            if isinstance(location_data, dict):
-                venue = location_data.get("name", "")
-                addr = location_data.get("address", {})
-                if isinstance(addr, dict):
-                    city = addr.get("addressLocality", "")
-            elif isinstance(location_data, str):
-                venue = location_data
+            loc = item.get("location", {})
+            venue = loc.get("name", "") if isinstance(loc, dict) else ""
+            city = ""
+            if isinstance(loc, dict):
+                addr = loc.get("address", {})
+                city = addr.get("addressLocality", "") if isinstance(addr, dict) else ""
 
             source_url = item.get("url", item.get("@id", ""))
             if source_url and not source_url.startswith("http"):
                 source_url = BASE_URL + source_url
 
-            description = item.get("description") or None
-
-            img_data = item.get("image", None)
+            img_data = item.get("image")
             if isinstance(img_data, dict):
-                image_url = img_data.get("url", img_data.get("@id", "")) or None
+                image_url = img_data.get("url") or img_data.get("@id") or None
             elif isinstance(img_data, str) and img_data.startswith("http"):
                 image_url = img_data
             else:
@@ -148,151 +219,18 @@ class CrushsiteScraper(BaseScraper):
                 location=city,
                 source_url=source_url,
                 source_name=self.name,
-                description=description,
+                description=item.get("description") or None,
                 image_url=image_url,
             )
         except Exception:
             return None
 
-    def _parse_card(self, card) -> Event | None:
-        try:
-            # Title and link
-            title_el = card.select_one(
-                "h2 a, h3 a, h4 a, .title a, .titolo a, "
-                ".event-title a, .nome a, a.event-link"
-            )
-            if not title_el:
-                title_el = card.select_one("h2, h3, h4, .title, .titolo")
-            if not title_el:
-                return None
+    # ------------------------------------------------------------------
+    # Helpers
+    # ------------------------------------------------------------------
 
-            title = title_el.get_text(strip=True)
-            if not title:
-                return None
-
-            a_el = card.find("a")
-            href = a_el.get("href", "") if a_el else ""
-            source_url = href if href.startswith("http") else (BASE_URL + href if href else "")
-
-            # Date
-            event_date, time_str = self._extract_date_and_time(card)
-            if not event_date:
-                return None
-
-            # Venue and location
-            venue_el = card.select_one(".venue, .luogo, .teatro, .sala, .location-name")
-            venue = venue_el.get_text(strip=True) if venue_el else ""
-
-            location_el = card.select_one(".city, .comune, .citta, .città, .location-city")
-            location = location_el.get_text(strip=True) if location_el else ""
-
-            # Description
-            desc_el = card.select_one(".description, .descrizione, .excerpt, p")
-            description = desc_el.get_text(strip=True) if desc_el else None
-            if description == title:
-                description = None
-
-            img_el = card.select_one("img")
-            image_url = img_el.get("src") if img_el else None
-            if image_url and not image_url.startswith("http"):
-                image_url = (BASE_URL + image_url) if image_url.startswith("/") else None
-
-            return Event(
-                title=title,
-                date=event_date,
-                time=time_str,
-                venue=venue,
-                location=location,
-                source_url=source_url,
-                source_name=self.name,
-                description=description,
-                image_url=image_url,
-            )
-        except Exception:
-            return None
-
-    def _parse_generic(self, el) -> Event | None:
-        try:
-            title_el = el.select_one("h2 a, h3 a, .entry-title a")
-            if not title_el:
-                return None
-            title = title_el.get_text(strip=True)
-            href = title_el.get("href", "")
-            source_url = href if href.startswith("http") else BASE_URL + href
-
-            # Try time[datetime] first
-            time_el = el.select_one("time[datetime]")
-            if time_el:
-                dt_str = time_el.get("datetime", "")
-                try:
-                    dt = datetime.fromisoformat(dt_str)
-                    event_date = dt.date().isoformat()
-                    time_str = None
-                    return Event(
-                        title=title,
-                        date=event_date,
-                        time=time_str,
-                        venue="",
-                        location="",
-                        source_url=source_url,
-                        source_name=self.name,
-                        description=None,
-                        image_url=None,
-                    )
-                except ValueError:
-                    pass
-
-            event_date, time_str = self._extract_date_and_time(el)
-            if not event_date:
-                return None
-
-            return Event(
-                title=title,
-                date=event_date,
-                time=time_str,
-                venue="",
-                location="",
-                source_url=source_url,
-                source_name=self.name,
-                description=None,
-                image_url=None,
-            )
-        except Exception:
-            return None
-
-    def _extract_date_and_time(self, el) -> tuple[str | None, str | None]:
-        """Try multiple strategies to extract date and time from an element."""
-        # 1. time[datetime] attribute
-        time_tag = el.select_one("time[datetime]")
-        if time_tag:
-            dt_str = time_tag.get("datetime", "")
-            try:
-                dt = datetime.fromisoformat(dt_str)
-                event_date = dt.date().isoformat()
-                time_str = f"{dt.hour:02d}:{dt.minute:02d}" if (dt.hour or dt.minute) else None
-                return event_date, time_str
-            except ValueError:
-                # Maybe just a date
-                try:
-                    d = date.fromisoformat(dt_str[:10])
-                    return d.isoformat(), None
-                except ValueError:
-                    pass
-
-        # 2. meta itemprop date
-        meta_date = el.select_one("meta[itemprop='startDate'], meta[itemprop='datePublished']")
-        if meta_date:
-            content = meta_date.get("content", "")
-            try:
-                dt = datetime.fromisoformat(content.replace("Z", "+00:00"))
-                event_date = dt.date().isoformat()
-                time_str = f"{dt.hour:02d}:{dt.minute:02d}" if (dt.hour or dt.minute) else None
-                return event_date, time_str
-            except ValueError:
-                pass
-
-        # 3. Italian date in text
-        text = el.get_text(" ", strip=True)
+    def _parse_italian_date(self, text: str) -> tuple[str | None, str | None]:
+        # "18 marzo 2026" / "18 marzo 2026 ore 20.30"
         m = DATE_RE.search(text)
         if m:
             day_s, month_name, year_s = m.group(1), m.group(2), m.group(3)
@@ -306,27 +244,30 @@ class CrushsiteScraper(BaseScraper):
                 except ValueError:
                     pass
 
-        # 4. ISO date in text or data attributes
-        iso_m = re.search(r"(\d{4}-\d{2}-\d{2})", text)
-        if iso_m:
-            event_date = iso_m.group(1)
-            t = TIME_RE.search(text[iso_m.end():])
-            time_str = f"{int(t.group(1)):02d}:{t.group(2)}" if t else None
-            return event_date, time_str
+        # "18/03/2026"
+        m2 = SLASH_DATE_RE.search(text)
+        if m2:
+            try:
+                event_date = date(int(m2.group(3)), int(m2.group(2)), int(m2.group(1))).isoformat()
+                t = TIME_RE.search(text[m2.end():])
+                time_str = f"{int(t.group(1)):02d}:{t.group(2)}" if t else None
+                return event_date, time_str
+            except ValueError:
+                pass
 
         return None, None
 
     @staticmethod
-    def _next_page_url(soup: BeautifulSoup) -> str | None:
-        el = soup.select_one(
-            "a.next, a.next-page, a[rel='next'], "
-            ".pagination a.next, .pager-next a, "
-            "a.page-next, li.next a"
-        )
-        if el:
-            href = el.get("href", "")
-            if href.startswith("http"):
-                return href
-            if href.startswith("/"):
-                return BASE_URL + href
-        return None
+    def _extract_title(soup: BeautifulSoup) -> str | None:
+        el = soup.select_one("h1, .titoli-eventi, .titolo-soggetto")
+        return el.get_text(strip=True) if el else None
+
+    @staticmethod
+    def _extract_venue(soup: BeautifulSoup) -> str | None:
+        el = soup.select_one(".luogo, .venue, .teatro")
+        return el.get_text(strip=True) if el else None
+
+    @staticmethod
+    def _extract_location(soup: BeautifulSoup) -> str | None:
+        el = soup.select_one(".citta, .città, .city, .comune")
+        return el.get_text(strip=True) if el else None
