@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T17:53:42.600873+00:00",
+  "last_updated": "2026-02-13T05:55:40.101609+00:00",
   "count": 212,
   "events": [
     {
@@ -147,22 +147,6 @@
       "is_past": true
     },
     {
-      "id": "dfc1eaeafaf8",
-      "title": "Flyover Country  | Scenario Trentino",
-      "date": "2026-02-12",
-      "time": "20:30",
-      "venue": "Teatro alla Cartiera",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/740033",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/740033"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c26bdf529f79",
       "title": "La coscienza di Zeno con Alessandro Haber",
       "date": "2026-02-12",
@@ -176,7 +160,7 @@
         "https://www.cultura.trentino.it/content/view/full/736213"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "95e22f9909d0",
@@ -192,7 +176,7 @@
         "https://www.teatrodipergine.it/musica/2724-orchestra-haydn-12-febbraio"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c67a4756b5ac",
@@ -3395,6 +3379,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4da66ee3b80f",
+      "title": "Pimpa. Il musical a pois",
+      "date": "2026-05-14",
+      "time": "17:00",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "Teatro di Tione di Trento | Stagione 2025/2026 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738952",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738952"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
