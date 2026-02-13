@@ -22,6 +22,7 @@
     const filterDate = document.getElementById("filter-date");
     const filterLocation = document.getElementById("filter-location");
     const filterVenue = document.getElementById("filter-venue");
+    const filterSource = document.getElementById("filter-source");
     const filterPast = document.getElementById("filter-past");
     const eventsCount = document.getElementById("events-count");
     const eventsList = document.getElementById("events-list");
@@ -101,11 +102,20 @@
             opt.textContent = v;
             filterVenue.appendChild(opt);
         });
+
+        const sources = [...new Set(allEvents.map(e => e.source_name).filter(Boolean))].sort();
+        sources.forEach(function (s) {
+            const opt = document.createElement("option");
+            opt.value = s;
+            opt.textContent = s;
+            filterSource.appendChild(opt);
+        });
     }
 
     filterDate.addEventListener("change", renderEvents);
     filterLocation.addEventListener("change", renderEvents);
     filterVenue.addEventListener("change", renderEvents);
+    filterSource.addEventListener("change", renderEvents);
     filterPast.addEventListener("change", renderEvents);
 
     // --- Render ---
@@ -140,6 +150,7 @@
         var dateRange = filterDate.value;
         var locFilter = filterLocation.value;
         var venueFilter = filterVenue.value;
+        var sourceFilter = filterSource.value;
         var showPast = filterPast.checked;
 
         var today = new Date();
@@ -153,6 +164,7 @@
             if (!isPast && !isInRange(ev.date, dateRange)) return false;
             if (locFilter && ev.location !== locFilter) return false;
             if (venueFilter && ev.venue !== venueFilter) return false;
+            if (sourceFilter && ev.source_name !== sourceFilter) return false;
 
             return true;
         });
