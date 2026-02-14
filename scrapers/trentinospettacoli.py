@@ -173,27 +173,11 @@ class TrentinoSpettacoliScraper(BaseScraper):
                 logger.warning(f"[{self.name}] Could not fetch {url}")
                 break
 
-            # Try JSON-LD structured data
-            page_had_jsonld = False
-            for script in soup.find_all("script", {"type": "application/ld+json"}):
-                try:
-                    data = json.loads(script.string or "")
-                    items = data if isinstance(data, list) else [data]
-                    for item in items:
-                        if item.get("@type") == "Event":
-                            ev = self._parse_jsonld(item)
-                            if ev and ev.source_url not in seen_urls:
-                                seen_urls.add(ev.source_url)
-                                events.append(ev)
-                                page_had_jsonld = True
-                except Exception:
-                    pass
-
-            if not page_had_jsonld:
-                new_events = self._parse_event_cards(soup, seen_urls)
-                if not new_events:
-                    new_events = self._parse_wp_posts(soup, seen_urls)
-                events.extend(new_events)
+            for card in soup.select(".contenitorearchivioeventievento"):
+                ev = self._parse_card(card)
+                if ev and ev.source_url not in seen_urls:
+                    seen_urls.add(ev.source_url)
+                    events.append(ev)
 
             url = self._next_page_url(soup)
             if len(events) > 300:
@@ -247,51 +231,45 @@ class TrentinoSpettacoliScraper(BaseScraper):
         except Exception:
             return None
 
-    def _parse_event_cards(self, soup: BeautifulSoup, seen_urls: set) -> list[Event]:
-        """Try selectors specific to trentinospettacoli.it event cards."""
-        events = []
-        # Try common event card selectors
-        for card in soup.select(".evento, .event-item, .event-card, article.event, .spettacolo"):
-            ev = self._parse_card(card)
-            if ev and ev.source_url not in seen_urls:
-                seen_urls.add(ev.source_url)
-                events.append(ev)
-        return events
-
     def _parse_card(self, card) -> Event | None:
         try:
-            title_el = card.select_one("h2 a, h3 a, .event-title a, .title a, a")
+            # Title: first text node of .h3archivioevento a (avoids spurious child tags)
+            title_el = card.select_one(".h3archivioevento a")
             if not title_el:
                 return None
-            title = title_el.get_text(strip=True)
+            title = next((c for c in title_el.children if isinstance(c, str)), "").strip()
+            if not title:
+                title = title_el.get_text(strip=True)
+            if not title:
+                return None
+
             href = title_el.get("href", "")
             source_url = href if href.startswith("http") else BASE_URL + href
 
-            # Date from time element or content
-            time_el = card.select_one("time[datetime]")
-            if time_el:
-                dt_str = time_el.get("datetime", "")
-                try:
-                    dt = datetime.fromisoformat(dt_str)
-                    event_date = dt.date().isoformat()
-                    time_str = f"{dt.hour:02d}:{dt.minute:02d}" if (dt.hour or dt.minute) else None
-                except ValueError:
-                    return None
-            else:
-                # Try to find date in text content
-                text = card.get_text(" ", strip=True)
-                event_date, time_str = self._extract_date_from_text(text)
-                if not event_date:
-                    return None
+            # Date + time: first .h4archivioevento
+            # e.g. "sabato 14 Febbraio 2026,\n\t\t16.30"
+            h4s = card.select(".h4archivioevento")
+            if not h4s:
+                return None
+            date_raw = h4s[0].get_text(" ", strip=True)
+            event_date, time_str = self._extract_date_from_text(date_raw)
+            if not event_date:
+                return None
 
-            venue_el = card.select_one(".venue, .luogo, .teatro")
-            venue = venue_el.get_text(strip=True) if venue_el else ""
-
-            location_el = card.select_one(".location, .comune, .city")
-            location = location_el.get_text(strip=True) if location_el else ""
+            # Venue + location: second .h4archivioevento
+            # e.g. "Borgo Valsugana – Teatro parrocchiale di Olle"
+            venue, location = "", ""
+            if len(h4s) > 1:
+                venue_raw = h4s[1].get_text(strip=True)
+                if " – " in venue_raw:
+                    loc_part, ven_part = venue_raw.split(" – ", 1)
+                    location = loc_part.strip()
+                    venue = ven_part.strip()
+                else:
+                    venue = venue_raw
 
             img_el = card.select_one("img")
-            image_url = img_el.get("src") if img_el else None
+            image_url = img_el.get("src") or img_el.get("data-src") if img_el else None
 
             return Event(
                 title=title,
@@ -307,60 +285,6 @@ class TrentinoSpettacoliScraper(BaseScraper):
         except Exception:
             return None
 
-    def _parse_wp_posts(self, soup: BeautifulSoup, seen_urls: set) -> list[Event]:
-        """Generic WordPress post listing fallback."""
-        events = []
-        for art in soup.select("article"):
-            title_el = art.select_one(".entry-title a, h2 a, h3 a")
-            if not title_el:
-                continue
-            title = title_el.get_text(strip=True)
-            href = title_el.get("href", "")
-            source_url = href if href.startswith("http") else BASE_URL + href
-
-            time_el = art.select_one("time[datetime]")
-            if not time_el:
-                continue
-            dt_str = time_el.get("datetime", "")
-            try:
-                dt = datetime.fromisoformat(dt_str)
-                event_date = dt.date().isoformat()
-                time_str = None
-            except ValueError:
-                continue
-
-            # Try to extract date from content (might be actual event date)
-            content_el = art.select_one(".entry-content, .entry-summary")
-            if content_el:
-                content_text = content_el.get_text(" ", strip=True)
-                extracted_date, extracted_time = self._extract_date_from_text(content_text)
-                if extracted_date:
-                    event_date = extracted_date
-                    time_str = extracted_time
-
-            venue_el = art.select_one(".tribe-venue, .venue")
-            venue = venue_el.get_text(strip=True) if venue_el else ""
-
-            if source_url in seen_urls:
-                continue
-            seen_urls.add(source_url)
-
-            img_el = art.select_one("img")
-            image_url = img_el.get("src") if img_el else None
-
-            events.append(Event(
-                title=title,
-                date=event_date,
-                time=time_str,
-                venue=venue,
-                location="",
-                source_url=source_url,
-                source_name=self.name,
-                description=None,
-                image_url=image_url,
-            ))
-        return events
-
     @staticmethod
     def _next_page_url(soup: BeautifulSoup) -> str | None:
         el = soup.select_one("a.next.page-numbers, a[rel='next'], .nav-next a")
@@ -370,12 +294,16 @@ class TrentinoSpettacoliScraper(BaseScraper):
         return None
 
     def _extract_date_from_text(self, text: str) -> tuple[str | None, str | None]:
-        """Try to extract an Italian date + time from text."""
+        """Extract Italian date + optional time from text.
+
+        Handles both:
+          - "14 Febbraio 2026, 16.30"  (trentinospettacoli format, no 'ore')
+          - "14 febbraio 2026 ore 20.30" (other sites)
+        """
         m = DATE_RE.search(text)
         if not m:
             return None, None
         day_s, month_name, year_s = m.group(1), m.group(2), m.group(3)
-        hour_s, min_s = m.group(4), m.group(5)
         month = ITALIAN_MONTHS.get(month_name.lower())
         if not month:
             return None, None
@@ -383,5 +311,10 @@ class TrentinoSpettacoliScraper(BaseScraper):
             event_date = date(int(year_s), month, int(day_s)).isoformat()
         except ValueError:
             return None, None
-        time_str = f"{int(hour_s):02d}:{min_s}" if hour_s and min_s else None
+
+        # Look for time anywhere after the date match
+        time_str = None
+        t = re.search(r"(\d{1,2})[.:](\d{2})", text[m.end():])
+        if t:
+            time_str = f"{int(t.group(1)):02d}:{t.group(2)}"
         return event_date, time_str
