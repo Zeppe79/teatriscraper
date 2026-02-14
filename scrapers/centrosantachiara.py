@@ -34,6 +34,14 @@ class CentroSantaChiaraScraper(BaseScraper):
     def scrape(self) -> list[Event]:
         events: list[Event] = []
         try:
+            # Warm up the session from the homepage first — eZ Platform
+            # sets session cookies on the root request; skipping this
+            # often causes a 403 on the events page from CI environments.
+            try:
+                self.fetch(BASE_URL, timeout=15)
+            except Exception:
+                pass  # best-effort; proceed anyway
+
             resp = self.fetch(URL)
             soup = BeautifulSoup(resp.text, "lxml")
         except Exception:
