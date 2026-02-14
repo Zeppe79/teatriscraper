@@ -49,6 +49,9 @@ class BaseScraper(ABC):
                 if exc.response is not None and exc.response.status_code < 500:
                     raise
                 last_exc = exc
+            except requests.exceptions.ConnectTimeout:
+                # TCP-level block (firewall drop) — retrying won't help
+                raise
             except (requests.exceptions.ConnectionError,
                     requests.exceptions.Timeout) as exc:
                 last_exc = exc
