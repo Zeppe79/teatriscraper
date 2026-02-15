@@ -20,8 +20,8 @@ HEADERS = {
     "Accept-Encoding": "gzip, deflate, br",
 }
 
-REQUEST_TIMEOUT = 30
-RETRY_DELAYS = (5, 15, 30)  # seconds between attempts 1→2, 2→3, 3→4
+REQUEST_TIMEOUT = 10
+RETRY_DELAYS = (5, 15)  # seconds between attempts 1→2, 2→3
 
 
 class BaseScraper(ABC):
