@@ -35,7 +35,7 @@ class CrushsiteScraper(BaseScraper):
 
     def scrape(self) -> list[Event]:
         # Step 1: collect company page URLs from the soggetti listing
-        company_urls = self._get_company_urls()
+        company_urls = self._get_company_urls()[:10]  # cap to avoid CI timeouts
         logger.info(f"[{self.name}] Found {len(company_urls)} companies")
 
         events: list[Event] = []
