@@ -12,7 +12,6 @@ from scrapers.base import BaseScraper
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.teatrodipergine.it"
-SEASON_URL = f"{BASE_URL}/stagione-2013-2014-3"
 CALENDAR_URL = f"{BASE_URL}/component/blog_calendar/{{year}}/{{month:02d}}?Itemid="
 
 VENUE = "Teatro Lux"
@@ -39,10 +38,7 @@ class TeatroDiPergineScraper(BaseScraper):
         events: list[Event] = []
         seen_keys: set[tuple[str, str]] = set()
 
-        # Primary: season overview page
-        events.extend(self._scrape_page(SEASON_URL, seen_keys))
-
-        # Secondary: monthly blog_calendar for current + next 2 months
+        # Monthly blog_calendar for current + next 2 months
         today = date.today()
         for offset in range(3):
             # Advance by offset months
@@ -50,24 +46,37 @@ class TeatroDiPergineScraper(BaseScraper):
             year = today.year + (month - 1) // 12
             month = ((month - 1) % 12) + 1
             url = CALENDAR_URL.format(year=year, month=month)
-            events.extend(self._scrape_page(url, seen_keys))
+            events.extend(self._scrape_month(url, seen_keys))
 
         return events
 
-    def _scrape_page(self, url: str, seen_keys: set) -> list[Event]:
+    def _scrape_month(self, start_url: str, seen_keys: set) -> list[Event]:
+        """Scrape all pages for a calendar month, following pagination."""
         events: list[Event] = []
+        page_url: str | None = start_url
+
+        while page_url:
+            page_events, next_url = self._scrape_page(page_url, seen_keys)
+            events.extend(page_events)
+            page_url = next_url
+
+        return events
+
+    def _scrape_page(self, url: str, seen_keys: set) -> tuple[list[Event], str | None]:
+        """Scrape a single page. Returns (events, next_page_url|None)."""
         try:
             resp = self.fetch(url)
             soup = BeautifulSoup(resp.text, "lxml")
         except Exception:
             logger.warning(f"[{self.name}] Could not fetch {url}")
-            return events
+            return [], None
 
         blog = soup.find("div", class_="blog")
         if not blog:
             logger.debug(f"[{self.name}] No .blog div found at {url}")
-            return events
+            return [], None
 
+        events: list[Event] = []
         current_h3_date: str | None = None
 
         for child in blog.children:
@@ -145,7 +154,17 @@ class TeatroDiPergineScraper(BaseScraper):
                     image_url=image_url,
                 ))
 
-        return events
+        # Follow pagination: .pagination a.next
+        next_url: str | None = None
+        next_a = soup.select_one(".pagination a.next")
+        if next_a:
+            href = next_a.get("href", "")
+            if href.startswith("/"):
+                next_url = BASE_URL + href
+            elif href.startswith("http"):
+                next_url = href
+
+        return events, next_url
 
     def _extract_date_times(self, strong_el) -> list[tuple[str, str | None]]:
         """Extract all (ISO date, time|None) pairs from a <strong> element."""
