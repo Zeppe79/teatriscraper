@@ -25,7 +25,40 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python main.py
+        run: python main.py 2>&1 | tee scraper.log
+
+      - name: Write job summary
+        if: always()
+        run: |
+          echo "## Scraper run – $(date -I)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Sorgente | Stato | Eventi |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|---|" >> $GITHUB_STEP_SUMMARY
+          grep -E "\[(INFO|ERROR)\] \[" scraper.log | grep -E "Scraped|Failed|Scraping failed" | while IFS= read -r line; do
+            if echo "$line" | grep -q "Scraped"; then
+              src=$(echo "$line" | grep -oP '\[\K[^\]]+(?=\] Scraped)')
+              n=$(echo "$line" | grep -oP 'Scraped \K\d+')
+              if [ "$n" = "0" ]; then
+                echo "| $src | ⚠️ 0 eventi | $n |" >> $GITHUB_STEP_SUMMARY
+              else
+                echo "| $src | ✅ OK | $n |" >> $GITHUB_STEP_SUMMARY
+              fi
+            else
+              src=$(echo "$line" | grep -oP '\[\K[^\]]+(?=\] (Failed|Scraping))')
+              echo "| $src | ❌ Errore | – |" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
+          echo "" >> $GITHUB_STEP_SUMMARY
+          total=$(grep -oP 'Total events after dedup: \K\d+' scraper.log || echo "?")
+          echo "**Totale eventi (dopo dedup): $total**" >> $GITHUB_STEP_SUMMARY
+
+      - name: Upload scraper log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-log-${{ github.run_id }}
+          path: scraper.log
+          retention-days: 7
 
       - name: Commit and push updated events
         run: |
