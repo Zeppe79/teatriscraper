@@ -63,6 +63,7 @@ class BaseScraper(ABC):
 
     def run(self) -> list[Event]:
         """Run the scraper with error handling."""
+        logger.info(f"[{self.name}] Starting...")
         try:
             events = self.scrape()
             logger.info(f"[{self.name}] Scraped {len(events)} events")
