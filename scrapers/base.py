@@ -49,11 +49,10 @@ class BaseScraper(ABC):
                 if exc.response is not None and exc.response.status_code < 500:
                     raise
                 last_exc = exc
-            except requests.exceptions.ConnectTimeout:
-                # TCP-level block (firewall drop) — retrying won't help
+            except requests.exceptions.Timeout:
+                # Connect or read timeout — retrying won't help if site blocks CI IPs
                 raise
-            except (requests.exceptions.ConnectionError,
-                    requests.exceptions.Timeout) as exc:
+            except requests.exceptions.ConnectionError as exc:
                 last_exc = exc
         raise last_exc  # type: ignore[misc]
 
