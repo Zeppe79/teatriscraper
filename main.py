@@ -29,14 +29,15 @@ def main() -> None:
 
     for scraper_class in ALL_SCRAPERS:
         scraper = scraper_class()
-        with ThreadPoolExecutor(max_workers=1) as ex:
-            future = ex.submit(scraper.run)
-            try:
-                events = future.result(timeout=60)
-                all_events.extend(events)
-            except FuturesTimeout:
-                logger.error(f"[{scraper.name}] Timed out after 60s — skipping")
-                future.cancel()
+        ex = ThreadPoolExecutor(max_workers=1)
+        future = ex.submit(scraper.run)
+        try:
+            events = future.result(timeout=60)
+            all_events.extend(events)
+        except FuturesTimeout:
+            logger.error(f"[{scraper.name}] Timed out after 60s — skipping")
+        finally:
+            ex.shutdown(wait=False)
 
     logger.info(f"Total events before dedup: {len(all_events)}")
     unique_events = deduplicate(all_events)
