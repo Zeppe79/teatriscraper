@@ -4,14 +4,18 @@ import logging
 import re
 from datetime import date, timedelta
 
+from bs4 import BeautifulSoup
+
 from models import Event
 from scrapers.base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-BASE_URL = "https://www.cultura.trentino.it/calendar/search/node/(id)/298848"
+SITE_BASE = "https://www.cultura.trentino.it"
+API_URL = f"{SITE_BASE}/calendar/search/node/(id)/298848"
 TEATRO_CATEGORY = 30734
 DAYS_AHEAD = 90  # ~3 months of coverage
+MAX_ENRICH = 20  # individual event page visits for image + description
 
 
 class CulturaTrentinoScraper(BaseScraper):
@@ -32,7 +36,7 @@ class CulturaTrentinoScraper(BaseScraper):
         }
 
         try:
-            resp = self.fetch(BASE_URL, params=params)
+            resp = self.fetch(API_URL, params=params)
             data = resp.json()
         except Exception:
             logger.exception(f"[{self.name}] Failed to fetch date range")
@@ -49,6 +53,36 @@ class CulturaTrentinoScraper(BaseScraper):
                     parsed = self._parse_event(ev)
                     if parsed:
                         events.append(parsed)
+
+        # Enrich the first MAX_ENRICH events that have a source_url but
+        # are missing image or description, by visiting their detail page.
+        enriched = 0
+        for ev in events:
+            if enriched >= MAX_ENRICH:
+                break
+            if ev.image_url and ev.description:
+                continue
+            url = ev.source_url
+            if not url:
+                continue
+            if not url.startswith("http"):
+                url = SITE_BASE + url
+            try:
+                resp = self.fetch(url)
+                soup = BeautifulSoup(resp.text, "lxml")
+            except Exception:
+                continue
+            enriched += 1
+
+            if ev.image_url is None:
+                og = soup.find("meta", property="og:image")
+                if og and og.get("content"):
+                    ev.image_url = og["content"]
+
+            if ev.description is None:
+                desc_el = soup.select_one(".descrizione")
+                if desc_el:
+                    ev.description = desc_el.get_text(" ", strip=True)[:500]
 
         return events
 
