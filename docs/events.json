@@ -1,128 +1,192 @@
 {
-  "last_updated": "2026-02-15T22:50:15.995838+00:00",
-  "count": 480,
+  "last_updated": "2026-02-17T11:25:42.567060+00:00",
+  "count": 419,
   "events": [
     {
-      "id": "7eb9b08963f4",
-      "title": "Jena ridens – Una rapina in diretta",
-      "date": "2018-11-10",
-      "time": "20:45",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2018/06/S9A6738-952x579.png",
-      "source_url": "https://www.teatrodivillazzano.it/event/jenaridens2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/jenaridens2/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "be63982f4145",
-      "title": "Carrousel – Laboratorio Urbano",
-      "date": "2022-06-30",
-      "time": "9:30",
-      "venue": "Parco di Gocciadoro",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/05/Carrousel.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/carrousel-laboratorio-urbano/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/carrousel-laboratorio-urbano/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "f8927a53dfbd",
-      "title": "La cameretta oscura – Laboratorio Urbano",
-      "date": "2022-07-09",
-      "time": "10:00",
-      "venue": "Parco di Gocciadoro",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/05/CamerettaOscura1-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-cameretta-oscura-laboratorio-urbano/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-cameretta-oscura-laboratorio-urbano/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "6e0f39b7a800",
-      "title": "Laboratorio musicale – Laboratorio Urbano",
-      "date": "2022-07-09",
-      "time": "9:30",
-      "venue": "Parco di Gocciadoro",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/05/Candirù-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/laboratorio-musicale-laboratorio-urbano/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/laboratorio-musicale-laboratorio-urbano/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "0dc10a6a3f81",
-      "title": "La cameretta oscura – Laboratorio Urbano",
-      "date": "2022-07-23",
-      "time": "10:00",
-      "venue": "Parco di Gocciadoro",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/05/CamerettaOscura1-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-cameretta-oscura-laboratorio-urbano-2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-cameretta-oscura-laboratorio-urbano-2/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "cf476e6d471a",
-      "title": "Laboratorio musicale – Laboratorio Urbano",
-      "date": "2022-07-23",
-      "time": "9:30",
-      "venue": "Parco di Gocciadoro",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/05/Candirù-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/laboratorio-musicale-laboratorio-urbano-2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/laboratorio-musicale-laboratorio-urbano-2/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "7edb67181eaa",
-      "title": "Urban Regeneration",
-      "date": "2025-05-29",
+      "id": "12e5686e7631",
+      "title": "EVENTI PER TUTTI I GUSTI",
+      "date": "2022-07-11",
       "time": null,
-      "venue": "Presentato il progetto Urban Regeneration che farà rivivere l'Urban Center di Rovereto [Oriente Occidente / Comunicato, maggio 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025/urban-regeneration.html",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "EVENTI PER TUTTI I GUSTI Il mix estivo rinfrescante a Villazzano!   Il Teatro di Villazzano e TeatroE non perdono il colpo sulla collina! Dal 14 luglio al 24 agosto tornano a Villazzano la serie di appuntamenti estivi con spettacoli...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/06/IMG_6441-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2022/07/11/eventi-tutti-gusti/",
       "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025/urban-regeneration.html"
+        "https://www.teatrodivillazzano.it/2022/07/11/eventi-tutti-gusti/"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
-      "id": "d67175ab4617",
-      "title": "Il Bel Paese",
-      "date": "2025-05-31",
-      "time": "18:00",
+      "id": "17b7f137cdea",
+      "title": "Esplorazioni",
+      "date": "2022-09-16",
+      "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/04/Untitled-design-952x579.jpg",
+      "description": "Esplorazioni avventure in tutte le stagioni e viaggi attraverso i festival Il Teatro di Villazzano riapre le porte, e lo fa in un anno molto speciale. TeatroE, la compagnia di produzione teatrale che lo ha gestito nell’ultimo lustro, si è...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2019/12/Vill_Banner2022_23_1200x900-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2022/09/16/esplorazioni/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2022/09/16/esplorazioni/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "d41c58ed6155",
+      "title": "FANTASIO 2022 – Al centro della “FATTORIA degli ANIMALI” di Orwell",
+      "date": "2022-11-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "FANTASIO 2022 Al centro della “FATTORIA degli ANIMALI” di Orwell   Dal 24 novembre parte la programmazione che andrà fino alle finali del 14,15,16,17 dicembre Quest’anno il testo a concorso è il romanzo “LA FATTORIA DEGLI ANIMALI” di George Orwell...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/11/Fantasio2022_1-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2022/11/23/fantasio-2022-al-centro-della-fattoria-degli-animali-orwell/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2022/11/23/fantasio-2022-al-centro-della-fattoria-degli-animali-orwell/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "9045e997c346",
+      "title": "Finali di Fantasio2022 – Ed è subito STAND UP!",
+      "date": "2022-12-22",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Fantasio – Festival Internazionale di Regia Teatrale – finali della 23° edizione La fattoria degli animali organizzato da Fantasio e TeatroE con il contributo di Fondazione Caritro, Regione Trentino Alto Adige, Provincia di Trento e Comune di Trento Vince la...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/12/00-44-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2022/12/22/finali-fantasio2022-ed-subito-stand/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2022/12/22/finali-fantasio2022-ed-subito-stand/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "0061a7a0ffc2",
+      "title": "Pregnancy call!",
+      "date": "2023-03-24",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Pregnancy call!   Un eufemismo, in voga fino a qualche anno fa, descriveva le donne incinte come “in stato interessante”. Dandogli un nuovo significato, lanciamo questa call per donne “interessanti”!   Sei un’attrice, una danzatrice, un’artista incinta? Cerchiamo te! Durante...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2023/03/Tabù_CALL_web-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2023/03/24/pregnancy-call/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2023/03/24/pregnancy-call/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6a709538037a",
+      "title": "Comunicato stampa _ Festival Tabù – corpo come campo di battaglia",
+      "date": "2023-04-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Comunicato stampa 18 aprile 2023 Il Teatro di Villazzano presenta Festival Tabù Dal 3 al 13 maggio 2023 produzione Teatro di Villazzano Il Teatro di Villazzano è lieto di annunciare la seconda edizione del Festival Tabù, un festival che mira...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2023/04/villtabuconfonferenza-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2023/04/19/comunicato-stampa-_-festival-tabu-corpo-campo-battaglia/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2023/04/19/comunicato-stampa-_-festival-tabu-corpo-campo-battaglia/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "a0ae4df280f5",
+      "title": "ESPLORAZIONI ESTIVE",
+      "date": "2023-07-05",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "EPLORAZIONI ESTIVE Avventuriamoci nei Festival, nell’Escape Room e non solo! Mix estivo intrigante e rigenerante!   Le Esplorazioni non sono finite! Avete detto vacanze? Ma perché allontanarsi da Villazzano? Il Teatro di Villazzano e TeatroE non perdono il colpo sulla...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2023/07/Vill_POST_Estate_900x900-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2023/07/05/esplorazioni-estive/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2023/07/05/esplorazioni-estive/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "1efdfaf89cde",
+      "title": "CALL AMBIENTIAMOCI!",
+      "date": "2023-07-26",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "AMBIENTIAMOCI! Entra anche tu a far parte del nuovo Festival per l’Ambiente! Sei un* hobbista, un* venditor*, un* artigian*? Hai un’attività che si prende cura dei temi legati alla salvaguardia dell’ambiente e alla sostenibilità? Vuoi far conoscere la tua realtà ed...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2023/07/Vill_quadratiSito_Estate_300x3002-625x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2023/07/26/call-ambientiamoci/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2023/07/26/call-ambientiamoci/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "94635c68e76f",
+      "title": "ESPLORAZIONI 2°ROUND!",
+      "date": "2023-09-22",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "ESPLORAZIONI IL MARCHIO DI FABBRICA DEL TEATRO DI VILLAZZANO!   L’associazione TeatroE è giunta al settimo anno di gestione del Teatro di Villazzano e con grande emozione vi invita a prendere parte all’indagine che continua quella intrapresa con le scorse...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2019/12/Vil_Banner2023_24_900x900-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2023/09/22/esplorazioni-2round/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2023/09/22/esplorazioni-2round/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "011d65378758",
+      "title": "Vince Fantasio – Spettacoli in corso 2023: “GENERAZIONI SPENSIERATE- ANDANTI MA NON TROPPO”",
+      "date": "2023-11-06",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Fantasio – Spettacoli in corso – Serate Finali organizzato da APS Fantasio con il contributo di Regione Trentino Alto Adige, Provincia di Trento e Comune di Trento Vince Fantasio – Spettacoli in corso 2023: “GENERAZIONI SPENSIERATE- ANDANTI MA NON TROPPO”...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2023/11/IMG_6082-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2023/11/06/vince-fantasio-spettacoli-corso-2023-generazioni-spensierate-andanti-non/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2023/11/06/vince-fantasio-spettacoli-corso-2023-generazioni-spensierate-andanti-non/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "50071469dd2c",
+      "title": "Festival Tabù 2024 _ La fine come inizio",
+      "date": "2024-04-04",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Comunicato stampa 4 aprile 2024   Il Teatro di Villazzano presenta Festival Tabù La fine come inizio dal 2 al 11 maggio 2024 produzione APS Fantasio   Presentata la terza edizione di Festival Tabù, il progetto di APS Fantasio che...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2019/12/Vil_Tabù24_900x900-870x450.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2024/04/04/festival-tabu-2024-_-la-fine-inizio/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2024/04/04/festival-tabu-2024-_-la-fine-inizio/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "4f86ab661406",
+      "title": "Il Bel Paese",
+      "date": "2025-04-24",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Artedanza presenta \"Il Bel Paese\", spettacolo di danza moderna contemporanea e classica sotto la direzione artistica di Fabrizio Bernardini.",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/04/Untitled-design-870x450.jpg",
       "source_url": "https://www.teatrodivillazzano.it/event/puttana-7-2/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/puttana-7-2/"
@@ -131,51 +195,533 @@
       "is_past": true
     },
     {
-      "id": "8ccb55954401",
-      "title": "Oriente Occidente guarda al futuro",
+      "id": "6044f165c0f7",
+      "title": "Risultati Homepage",
       "date": "2025-09-13",
       "time": null,
-      "venue": "Marcos Morau affiancherà come curatore associato la direzione artistica di Lanfranco Cis [45° Oriente Occidente Dance Festival / News, 13 settembre 2025]",
-      "location": "",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
       "description": null,
       "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025oriente-occidente-guarda-al-futuro.html",
+      "source_url": "https://www.teatrodivillazzano.it/risultati-homepage/",
       "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025oriente-occidente-guarda-al-futuro.html"
+        "https://www.teatrodivillazzano.it/risultati-homepage/"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
-      "id": "f53381944869",
-      "title": "Festival: Un bilancio della 45esima edizione",
-      "date": "2025-09-16",
+      "id": "4424b801663c",
+      "title": "Un amore di peso",
+      "date": "2025-09-23",
       "time": null,
-      "venue": "Numeri, impatto e visioni di una comunità culturale in movimento [45° Oriente Occidente Dance Festival / News, 16 settembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025festival-un-bilancio-della-45esima-edizione.html",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“Un Amore di Peso” racconta una storia che indaga l’amore filtrato dai pregiudizi sociali e dalle differenze fisiche, con uno sguardo ironico e profondo. Giorgio, protagonista ingenuo e romantico, è innamorato della sua affascinante capo d’azienda, Lara. Tutto sembra già...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/scheda-Un-Amore-di-Peso-Marco-Cavallaro-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/un-amore-di-peso-2/",
       "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025festival-un-bilancio-della-45esima-edizione.html"
+        "https://www.teatrodivillazzano.it/event/un-amore-di-peso-2/",
+        "https://www.teatrodivillazzano.it/event/un-amore-di-peso/"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
-      "id": "31c3b30ae121",
-      "title": "Aiutaci a crescere: la tua opinione conta!",
-      "date": "2025-09-16",
+      "id": "dfa154938110",
+      "title": "Ci prendesse un colpo",
+      "date": "2025-09-23",
       "time": null,
-      "venue": "Partecipa al concorso e vinci un abbonamento per il Festival 2026  [45° Oriente Occidente Dance Festival / News, 16 settembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025aiutaci-a-crescere-la-tua-opinione-conta.html",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Stella, dopo una delusione in una grande casa di moda, sogna di lanciare una sua linea di abbigliamento. Walter, architetto visionario licenziato per aver perso un appalto, vuole aprire una società edilizia green e proiettata nel futuro. Gianni, ex promessa...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/ci-prendesse-un-colpo-870x550.webp",
+      "source_url": "https://www.teatrodivillazzano.it/event/ci-prendesse-un-colpo/",
       "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025aiutaci-a-crescere-la-tua-opinione-conta.html"
+        "https://www.teatrodivillazzano.it/event/ci-prendesse-un-colpo/"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "788ce374c0ac",
+      "title": "Se mi lasci non vale",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La camera da letto di Luca e Lilli, coppia di cinquantenni sposati da una vita, diventa il centro di una nuova fase: il figlio è partito per l’università e i due si ritrovano finalmente soli. Lilli oscilla tra tristezza e...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/5-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/se-mi-lasci-non-vale/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/se-mi-lasci-non-vale/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6743f6eee740",
+      "title": "La battuta atomica",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Sul palco prende vita il backstage del celebre programma televisivo “Sganasciamoci & Scompisciamoci”. In un camerino improvvisato, Alberto (Stefano Chiodaroli) e Mirko (Alberto Cella), duo comico al debutto televisivo dopo anni di gavetta, si preparano alla grande occasione ottenuta grazie...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/L3A8330-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-battuta-atomica/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-battuta-atomica/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ef5d7f44cfd7",
+      "title": "Ho adottato mio fratello",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Dopo la morte dei genitori, due fratelli si trovano a condividere la loro unica eredità: un appartamento. Bruno è strafottente e scansafatiche, l’opposto del fratello Francesco che è intraprendente e crede negli antichi valori. Neanche a dirlo, sarà quest’ultimo a...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/HO-ADOTTATO-MIO-FRATELLO-5-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/ho-adottato-mio-fratello/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/ho-adottato-mio-fratello/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "7466b4544be3",
+      "title": "Le opere complete di Shakespeare in 90 minuti",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Uno dei fenomeni teatrali più amati al mondo: 37 opere condensate in 90 minuti da tre attori scatenati. Dopo il debutto al Festival di Edimburgo nel 1987 e nove anni in scena al Criterion Theatre di Londra, lo spettacolo arriva...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Shakespeare-web1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti-2/",
+        "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "04b417fb7b92",
+      "title": "Spazio. Ultima dentiera",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una nuova, sorprendente avventura attende la vulcanica nonna Nunzia: questa volta il viaggio non è dietro l’angolo, ma addirittura fra le galassie! La nonna più amata della regione si ritrova con un compito fuori dal comune, una missione importantissima per...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/immagine_Spazio_Ultima_Dentiera-A4No-Scritte-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/spazio-ultima-dentiera/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/spazio-ultima-dentiera/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ab2bb0056f62",
+      "title": "Smile",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Mario Cagol cerca l’origine della risata in un monologo comico pieno di ritmo e improvvisazione. Un viaggio teatrale tra passato, natura e vita quotidiana, con un unico obiettivo: far ridere, e tanto.",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/smile-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/smile/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/smile/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "95f751b12bca",
+      "title": "Asino a chi?",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Un gioco fatto di parole e fantasia dà vita alle favole di Esopo, reinterpretate in chiave comica da due bambini che inventano storie per addormentarsi. Uno spettacolo per tutta la famiglia che fa ridere, pensare e sognare.",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/asino-a-chi-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/asino-a-chi-4/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/asino-a-chi-4/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "233d198df74e",
+      "title": "La vita mi è passata davanti e io… tiè! L’ho doppiata.",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Alfredo Colina. Attore. Uomo. Racconta. Quella volta che si sentiva Bukowski e, prima di entrare in scena, ha bevuto perfino le pozzanghere. Quella volta che ha dimenticato una pistola di scena nel trolley, e il metal detector dell’aeroporto non l’ha...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Colina2-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "2d5a745b82dc",
+      "title": "Degusta Teatro: La società dei ribelli",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Mentre Renoir dipingeva sulla Senna… Tra le piccole storie di persone comuni e potenti Generali, cittadini e Imperatori, scienziati improvvisati e combattenti, La Società dei Ribelli è uno spettacolo che accende un sentimento di comunione e cambiamento di sguardo.Un viaggio...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/AG_2111008-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-la-societa-dei-ribelli/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/degusta-teatro-la-societa-dei-ribelli/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6dee8cf5df54",
+      "title": "Degusta Teatro: I cuori battono nelle uova",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tre donne, tre pance gonfie, tre vite in attesa. I cuori battono nelle uova è un inno alla maternità e alla fragilità, una riflessione poetica e tagliente sull’amore, la paura e il desiderio che accompagnano ogni nascita. In un linguaggio...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/1_LesMoustachesIcuoriBattonoNelleUova260923-4154-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-i-cuori-battono-nelle-uova/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/degusta-teatro-i-cuori-battono-nelle-uova/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "40a06daabdb6",
+      "title": "Degusta Teatro: L’occhio invisibile",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In un mondo in cui tutto è sicurezza — o almeno la sua percezione — L’occhio invisibile ci accompagna in una distopia sempre più reale, dove il confine tra protezione e controllo si fa sottile, quasi impercettibile. Lei ha subito...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/IMG-20250531-WA0012-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-locchio-invisibile/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/degusta-teatro-locchio-invisibile/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "3534227b5ff6",
+      "title": "L’elisir d’amore",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“L’elisir d’amore” di Gaetano Donizetti, celebre opera buffa, arriva in una versione unica e coinvolgente che trasforma il teatro in un suggestivo scenario ottocentesco grazie alla tecnica del videomapping. La collaborazione con l’Unione Italiana dei Ciechi e degli Ipovedenti ETS-APS...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Elisir-damore-3-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/lelisir-damore/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/lelisir-damore/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ac9e12bbc220",
+      "title": "La sedia di Lillà",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Parlare di disabilità senza cadere nella retorica o nel pietismo è difficile, ma possibile. La sedia di Lillà sceglie una terza via: quella del sogno, dell’empatia e dell’umanità condivisa. Lo spettacolo si svolge in un istituto, dove Mariano, un infermiere...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Senza-nome-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-sedia-di-lilla/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-sedia-di-lilla/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "cc4ffdb4cb0b",
+      "title": "Confronti – Concerto di fine anno",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Dal 2017, il 30 dicembre al Teatro di Villazzano è diventato sinonimo del Concerto di Capodanno “Confronti” con l’Orchestra Aurona: un appuntamento ormai imperdibile. Negli anni questo concerto sinfonico si è trasformato in un affascinante viaggio musicale, capace di sorprendere...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/confronti-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "f3da10a3246b",
+      "title": "Un amore pop",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cosa succede se a San Valentino, invece dei cioccolatini, si regalano note e canzoni? Un amore pop è lo spettacolo musicale di Xesse, alias Alessio Zanor, che trasforma il romanticismo in ritmo, parole e musica. Un concerto narrato che alterna...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Fdm-Venerdi-401-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/un-amore-pop/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/un-amore-pop/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "e5753890ce16",
+      "title": "Credo che sta comedia no la rifaren mai pù!",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una compagnia teatrale amatoriale tenta di allestire uno spettacolo drammatico, ma l’impresa si rivela subito un disastro annunciato. Attori fuori parte, prove caotiche e primedonne sopra le righe generano un’escalation di situazioni esilaranti. Ne nasce un vortice di equivoci e...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/credo-che-foto-2-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/credo-che-sta-comedia-no-la-rifaren-mai-pu/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/credo-che-sta-comedia-no-la-rifaren-mai-pu/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "55763dd4bae4",
+      "title": "Tra i lumini e i fiorellini",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una commedia in dialetto trentino ispirata a un fatto realmente accaduto che racconta con ironia e delicatezza l’umanità che popola i vialetti di un cimitero. Protagonisti sono vedove e vedovi che si ritrovano sulle panchine, esasperati dall’insolita invasione di conigli...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/173ba61e-e2eb-4d55-b2ed-7d74b81a8d5a-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/tra-i-lumini-e-i-fiorellini/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/tra-i-lumini-e-i-fiorellini/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "2cd8f391f54b",
+      "title": "Meno male che oggi è venerdì",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cosa succede quando ti svegli e non sei più tu? È quello che accade a Luigi e Ortensia, protagonisti di questa brillante commedia, quando una misteriosa figura irrompe nelle loro vite e li costringe a scambiarsi i corpi. All’improvviso devono...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/foto-di-scena-n.1-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/meno-male-che-oggi-e-venerdi/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/meno-male-che-oggi-e-venerdi/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "a5a20de3eda4",
+      "title": "Tacco 12 e Grombial",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tacco 12 e Grombial è il nuovo monologo comico di Loredana Cont, che dopo il debutto a Verona in occasione della Festa della Donna torna in una versione rinnovata e ancora più brillante. Un testo divertente, pungente e ricco di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/IMG_9854-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/tacco-12-e-grombial/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/tacco-12-e-grombial/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "96e9f0f3aca1",
+      "title": "Quattro bombe in tasca",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Quattro bombe in tasca è uno spettacolo corale che trasforma la memoria della Resistenza in un atto teatrale vivo e necessario. Ambientato nella primavera del 1944, racconta le storie di partigiani e delle persone intorno a loro, tra coraggio, dolore...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/P1010040-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/quattro-bombe-in-tasca/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/quattro-bombe-in-tasca/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "1b58f8565b33",
+      "title": "El filò magico",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "El filo magico è una commedia brillante in dialetto che mette al centro la storia di Ale, un uomo di cinquant’anni la cui vita viene improvvisamente sconvolta dal fallimento del matrimonio e da una profonda crisi personale ed economica. Costretto...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/1000023009-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/el-filo-magico/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/el-filo-magico/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "a7a87a21df46",
+      "title": "Gocce di Memoria + Le fiabe di Giovanna Borzaga",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "ore 16:00  Presentazione albo illustrato “Gocce di Memoria” +laboratorio creativo con l’autrice Martina Folena prodotto da TeatroE ETS  scritto da Martina Folena illustrato da Davide Panizza sotto la supervisione e coordinamento progetto di Elda Angela Detassis la ricerca storica di Lorenzo Vicentini (storico) “Gocce di Memoria” nasce...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/23032C8D-BF9B-48BD-A58D-B3CFCC137FE2-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/le-fiabe-di-giovanna-borzaga/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/le-fiabe-di-giovanna-borzaga/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "863d1c0cce4a",
+      "title": "Il canto di Natale",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Il canto di Natale, tratto dall’intramontabile racconto di Charles Dickens, viene portato in scena in una versione dal sapore classico ma arricchita dalla leggerezza e dall’ironia che da sempre caratterizzano il lavoro della compagnia. La storia racconta la redenzione di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/canto-di-natale-Ditta-Gioco-Fiaba-teatro-per-ragazzi.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-canto-di-natale/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-canto-di-natale/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6c1be52e242b",
+      "title": "Cenerentola. È il tuo tempo!",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cenerentola. È il tuo tempo! parte dalla fiaba classica per riflettere, con delicatezza e immaginazione, sul significato profondo del tempo. La storia prende vita attraverso la figura di un’orologiaia che accompagna lo spettatore in un mondo fatto di meccanismi, figure...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/CENERENTOLA-3-Arterie-Teatro-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/cenerentola-e-il-tuo-tempo/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/cenerentola-e-il-tuo-tempo/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "032814c2636e",
+      "title": "Il Signor Aquilone e i dispetti della nuvola Olga",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Nel mondo sospeso delle nuvole vivono il Signor Aquilone e la nuvola Olga. La loro quotidianità è tranquilla, forse un po’ solitaria, finché un incontro inatteso con una famiglia di uccellini non porta una ventata di gioia e cambiamento. L’uccellino...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/WhatsApp-Image-2023-02-09-at-14.06.36-2-Teatro-Ridotto-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6f4fa793ea32",
+      "title": "Un mare di avventure",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Un mare di avventure è un musical per famiglie che affronta con delicatezza e ironia i temi della disabilità e dell’inclusione sociale. Ispirato alla storia di Marlin e del piccolo Nemo, accompagna grandi e piccoli in un viaggio nell’oceano dove...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/9f960235-d237-4270-8fbe-cb1c15651571-794x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/un-mare-di-avventure/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/un-mare-di-avventure/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "007d98eca4a0",
+      "title": "La commedia di Cyrano",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Un classico senza tempo raccontato con il linguaggio giocoso e diretto della Commedia dell’Arte. La commedia di Cyrano mette in scena un’esilarante prova generale prima dello spettacolo: l’attore che deve interpretare Cirano entra in crisi, troppo segnato dalle proprie ferite...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/cirano-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-commedia-di-cyrano/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-commedia-di-cyrano/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ab60ca37d409",
+      "title": "Rosaspina",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Nel colorato e sgangherato mondo di un circo immaginario, Monsieur Loyal e il clown Cucù raccontano a modo loro la celebre fiaba della Bella Addormentata. Ma questa versione non è solo un racconto per bambini: è una metafora del cambiamento...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/4.-Rosaspina-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/rosaspina/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/rosaspina/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "7fef87e93b50",
+      "title": "Capra Capra Capra",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "C’erano una volta… sette capretti? O erano caprette? Poco importa: in Capra Capra Capra si ride comunque! Due attori portano in scena, con ritmo comico e stile inconfondibile, la celebre fiaba del lupo e dei sette piccoli animali, rovesciandone i...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/DSC_0034-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/capra-capra-capra-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/capra-capra-capra-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6d3ad2e60da5",
+      "title": "Bestiario Umano",
+      "date": "2025-09-23",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Bestiario Umano è un’enciclopedia immaginaria che trasforma la società contemporanea in un gioco di archetipi grotteschi e poetici. Ispirato a una finta citazione di Yuval Noah Harari, lo spettacolo riflette con ironia su identità, guerre, nuove fedi e un presente...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Foto-compagnia-2-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/bestiario-umano/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/bestiario-umano/"
+      ],
+      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -195,17 +741,17 @@
       "is_past": true
     },
     {
-      "id": "e4ef89c90eb9",
-      "title": "L’elisir d’amore",
-      "date": "2025-10-11",
-      "time": "20:30",
+      "id": "04955ae9badb",
+      "title": "BAMBU",
+      "date": "2025-10-06",
+      "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Elisir-damore-3-952x579.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/lelisir-damore/",
+      "description": "“BAMBU” è un progetto che mira allo sviluppo delle relazioni culturali con l’Africa su basi di vero e concreto reciproco rispetto.",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/10/AFRICA-PLURALE-2-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/bambu/",
       "source_urls": [
-        "https://www.teatrodivillazzano.it/event/lelisir-damore/"
+        "https://www.teatrodivillazzano.it/event/bambu/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -240,102 +786,6 @@
         "https://www.trentinospettacoli.it/eventi/ulisse-dove-sei/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "d6e7e02f7fe8",
-      "title": "Asino a chi?",
-      "date": "2025-10-12",
-      "time": "17:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/asino-a-chi-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/asino-a-chi-4/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/asino-a-chi-4/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "a301dc0cab38",
-      "title": "L'atleta del cuore 2025/26 - Corsi di teatro per adulti",
-      "date": "2025-10-13",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2024/latleta-del-cuore-202526-corsi-di-teatro-per-adulti.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2024/latleta-del-cuore-202526-corsi-di-teatro-per-adulti.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "26aeb72de961",
-      "title": "Immaginare",
-      "date": "2025-10-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2025/immaginare.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2025/immaginare.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "9288db87e600",
-      "title": "Ricordare",
-      "date": "2025-10-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2025ricordare.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2025ricordare.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "8b9b5c8381ca",
-      "title": "BAMBU",
-      "date": "2025-10-15",
-      "time": "20:45",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/10/AFRICA-PLURALE-2-952x579.png",
-      "source_url": "https://www.teatrodivillazzano.it/event/bambu/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/bambu/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "5ef88c9dbaf7",
-      "title": "Smile",
-      "date": "2025-10-18",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/smile-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/smile/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/smile/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -499,22 +949,6 @@
       "is_past": true
     },
     {
-      "id": "2f2c1a50ca50",
-      "title": "Open Call",
-      "date": "2025-11-06",
-      "time": null,
-      "venue": "Cerchiamo professionisti e professioniste per interpretare lo spettacolo di Claudia Catarzi [Oriente Occidente / Comunicato, novembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/bandi/2025/open-call.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/bandi/2025/open-call.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "25fe110b94d2",
       "title": "L’uomo che costruiva il futuro",
       "date": "2025-11-06",
@@ -547,22 +981,6 @@
       "is_past": true
     },
     {
-      "id": "b3f63dfe2d3c",
-      "title": "Un amore di peso",
-      "date": "2025-11-07",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/scheda-Un-Amore-di-Peso-Marco-Cavallaro-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/un-amore-di-peso/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/un-amore-di-peso/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "c5fcac73c249",
       "title": "C. CIAVALDINI – J. PEARSON",
       "date": "2025-11-07",
@@ -579,17 +997,17 @@
       "is_past": true
     },
     {
-      "id": "1e91b71c6422",
-      "title": "Un amore di peso",
+      "id": "cf74b341544c",
+      "title": "La rabbia di Louise",
       "date": "2025-11-08",
-      "time": "20:30",
+      "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/scheda-Un-Amore-di-Peso-Marco-Cavallaro-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/un-amore-di-peso-2/",
+      "description": "Rivoluzionaria e femminista. Poco conosciuta in Italia, ma persona di spicco in Francia, Louise Michel è una maestra vissuta a cavallo del 1800 e il 1900. Durante i giorni della Comune di Parigi del 1871, combattè in prima linea e...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/11/louise-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-rabbia-di-louise/",
       "source_urls": [
-        "https://www.teatrodivillazzano.it/event/un-amore-di-peso-2/"
+        "https://www.teatrodivillazzano.it/event/la-rabbia-di-louise/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -624,38 +1042,6 @@
         "https://www.trentinospettacoli.it/eventi/la-ballata-dei-tre-porcellini/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "f92e16844f04",
-      "title": "Parte la campagna di crowdfunding",
-      "date": "2025-11-12",
-      "time": null,
-      "venue": "Una poltrona per due: la prima campagna di crowdfunding di Oriente Occidente [Oriente Occidente / News, 12 novembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025parte-la-campagna-di-crowdfunding.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025parte-la-campagna-di-crowdfunding.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "905d1d7d9f31",
-      "title": "Degusta Teatro: La società dei ribelli",
-      "date": "2025-11-14",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/AG_2111008-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-la-societa-dei-ribelli/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/degusta-teatro-la-societa-dei-ribelli/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -755,22 +1141,6 @@
       "is_past": true
     },
     {
-      "id": "07aeca31e610",
-      "title": "Gocce di Memoria + Le fiabe di Giovanna Borzaga",
-      "date": "2025-11-16",
-      "time": "17:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/23032C8D-BF9B-48BD-A58D-B3CFCC137FE2-952x579.png",
-      "source_url": "https://www.teatrodivillazzano.it/event/le-fiabe-di-giovanna-borzaga/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/le-fiabe-di-giovanna-borzaga/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "cabd8bcbd2b8",
       "title": "I musicanti di Brema",
       "date": "2025-11-16",
@@ -803,22 +1173,6 @@
       "is_past": true
     },
     {
-      "id": "64fa24aa8605",
-      "title": "Rosaspina",
-      "date": "2025-11-18",
-      "time": "10:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/4.-Rosaspina-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/rosaspina/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/rosaspina/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "bbd9d5f8f52c",
       "title": "NIVES MEROI",
       "date": "2025-11-21",
@@ -848,22 +1202,6 @@
         "https://www.trentinospettacoli.it/eventi/novecento-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "0424f62dc091",
-      "title": "La rabbia di Louise",
-      "date": "2025-11-22",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/11/louise-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-rabbia-di-louise/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-rabbia-di-louise/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -947,22 +1285,6 @@
       "is_past": true
     },
     {
-      "id": "e2c5554271be",
-      "title": "Rooting Futures",
-      "date": "2025-11-26",
-      "time": null,
-      "venue": "Rooting Futures: nuovi modi di lavorare e collaborare nelle aree periferiche europee [Oriente Occidente / News, 26 novembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025rooting-futures.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025rooting-futures.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "0d00018e1759",
       "title": "Vorrei una voce",
       "date": "2025-11-26",
@@ -1040,22 +1362,6 @@
         "https://www.trentinospettacoli.it/eventi/filip-babicz/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "8813a0d3c213",
-      "title": "Credo che sta comedia no la rifaren mai pù!",
-      "date": "2025-11-29",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/credo-che-foto-2-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/credo-che-sta-comedia-no-la-rifaren-mai-pu/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/credo-che-sta-comedia-no-la-rifaren-mai-pu/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -1187,38 +1493,6 @@
       "is_past": true
     },
     {
-      "id": "f28e64e09797",
-      "title": "Stagione Regionale Contemporanea, aperte le prevendite",
-      "date": "2025-12-04",
-      "time": null,
-      "venue": "[Centro Servizi Culturali S. Chiara / Comunicato stampa, 4 dicembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025stagione-regionale-contemporanea-aperte-le-prevendite.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025stagione-regionale-contemporanea-aperte-le-prevendite.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "7c9da5ef87aa",
-      "title": "Ci prendesse un colpo",
-      "date": "2025-12-05",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/ci-prendesse-un-colpo-952x579.webp",
-      "source_url": "https://www.teatrodivillazzano.it/event/ci-prendesse-un-colpo/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/ci-prendesse-un-colpo/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "81b4a392e491",
       "title": "Dopo la Pioggia",
       "date": "2025-12-05",
@@ -1264,22 +1538,6 @@
         "https://www.trentinospettacoli.it/eventi/pimpa-il-musical-a-pois/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "01e7cc2f300d",
-      "title": "La sedia di Lillà",
-      "date": "2025-12-06",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Senza-nome-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-sedia-di-lilla/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-sedia-di-lilla/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -1344,6 +1602,22 @@
         "https://www.trentinospettacoli.it/eventi/casa-romantika/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": true
+    },
+    {
+      "id": "6c476bf43315",
+      "title": "Best Christmas Movie",
+      "date": "2025-12-09",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Il saggio di danza della Dance Team School che porta sul palco la magia dei film di Natale. Un viaggio tra coreografie, musica e atmosfere iconiche per celebrare la stagione più luminosa dell’anno.",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/12/Santa_Claus_Hat_On_A_Fingers_original_1091197-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/best-christmas-movie/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/best-christmas-movie/"
+      ],
+      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -1424,22 +1698,6 @@
         "https://www.trentinospettacoli.it/eventi/pippi-calzelunghe/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "5b034adf1ea6",
-      "title": "Tra i lumini e i fiorellini",
-      "date": "2025-12-13",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/173ba61e-e2eb-4d55-b2ed-7d74b81a8d5a-952x579.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tra-i-lumini-e-i-fiorellini/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tra-i-lumini-e-i-fiorellini/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -1539,22 +1797,6 @@
       "is_past": true
     },
     {
-      "id": "cfedfcfa24b4",
-      "title": "Best Christmas Movie",
-      "date": "2025-12-14",
-      "time": "18:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/12/Santa_Claus_Hat_On_A_Fingers_original_1091197-1-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/best-christmas-movie/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/best-christmas-movie/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "ea2db0b19d3f",
       "title": "ANTHONY MORGAN’S INSPIRATIONAL CHOIR OF HARLEM",
       "date": "2025-12-14",
@@ -1619,22 +1861,6 @@
       "is_past": true
     },
     {
-      "id": "1cd6904d8cb5",
-      "title": "Per le feste, regala un posto a teatro",
-      "date": "2025-12-16",
-      "time": null,
-      "venue": "Dona entro il 2025 e recupera il 65% con l’Art Bonus [Oriente Occidente / News, 16 dicembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025per-le-feste-regala-un-posto-a-teatro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025per-le-feste-regala-un-posto-a-teatro.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "394a4d0206b7",
       "title": "Romeo e Giulietta",
       "date": "2025-12-16",
@@ -1651,38 +1877,6 @@
       "is_past": true
     },
     {
-      "id": "5e8667a2c9b6",
-      "title": "Residenze artistiche 2026: la selezione",
-      "date": "2025-12-17",
-      "time": null,
-      "venue": "Ecco gli artisti e le artiste che arriveranno nel nostro Studio [Oriente Occidente / News, 17 dicembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025/residenze-artistiche-2026-la-selezione.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2025/residenze-artistiche-2026-la-selezione.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "81a37a0d5f54",
-      "title": "Degusta Teatro: I cuori battono nelle uova",
-      "date": "2025-12-17",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/1_LesMoustachesIcuoriBattonoNelleUova260923-4154-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-i-cuori-battono-nelle-uova/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/degusta-teatro-i-cuori-battono-nelle-uova/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "f9fb14ce7cbf",
       "title": "La versione di Barbie",
       "date": "2025-12-17",
@@ -1696,22 +1890,6 @@
         "https://www.trentinospettacoli.it/eventi/la-versione-di-barbiemonologo-comico-ad-alto-contenuto-satirico/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "5990f0750550",
-      "title": "Se mi lasci non vale",
-      "date": "2025-12-19",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/5-952x579.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/se-mi-lasci-non-vale/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/se-mi-lasci-non-vale/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -1779,22 +1957,6 @@
       "is_past": true
     },
     {
-      "id": "73e347ee90b5",
-      "title": "Il canto di Natale",
-      "date": "2025-12-21",
-      "time": "20:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/canto-di-natale-Ditta-Gioco-Fiaba-teatro-per-ragazzi.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/il-canto-di-natale/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/il-canto-di-natale/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "15d951298356",
       "title": "Lo sciopero delle bambine",
       "date": "2025-12-21",
@@ -1808,22 +1970,6 @@
         "https://www.trentinospettacoli.it/eventi/lo-sciopero-delle-bambineleroicomica-impresa-del-1902/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "bccdc33d00be",
-      "title": "Storie assenti",
-      "date": "2025-12-23",
-      "time": null,
-      "venue": "Il ciclo di Linguaggi 2025 è ora disponibile sulle principali piattaforme audio gratuite [Oriente Occidente / Comunicato, 23 dicembre 2025]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/bandi/2026/storie-assenti.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/bandi/2026/storie-assenti.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": true
     },
     {
@@ -1923,22 +2069,6 @@
       "is_past": true
     },
     {
-      "id": "3ccbdf27a40d",
-      "title": "Confronti – Concerto di fine anno",
-      "date": "2025-12-30",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/confronti-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "64e95d4952f9",
       "title": "Forza venite Gente",
       "date": "2025-12-30",
@@ -1984,22 +2114,6 @@
         "https://www.trentinospettacoli.it/eventi/il-lago-dei-cigni-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "0af269ef88f7",
-      "title": "Cenerentola. È il tuo tempo!",
-      "date": "2026-01-10",
-      "time": "17:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/CENERENTOLA-3-Arterie-Teatro-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/cenerentola-e-il-tuo-tempo/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/cenerentola-e-il-tuo-tempo/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -2144,38 +2258,6 @@
         "https://www.trentinospettacoli.it/eventi/giovanna-dei-disoccupatiun-apocrifo-brechtiano/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "4c177b08218a",
-      "title": "Un anno per scoprire il mondo della comunicazione culturale",
-      "date": "2026-01-16",
-      "time": null,
-      "venue": "Iscriviti al Servizio Civile della Provincia di Trento: entra nel team comunicazione! [Oriente Occidente / Comunicato, gennaio 2026]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/bandi/2026un-anno-per-scoprire-il-mondo-della-comunicazione-culturale.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/bandi/2026un-anno-per-scoprire-il-mondo-della-comunicazione-culturale.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "786f4e9e0bca",
-      "title": "La battuta atomica",
-      "date": "2026-01-16",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/L3A8330-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-battuta-atomica/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-battuta-atomica/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -2339,22 +2421,6 @@
       "is_past": true
     },
     {
-      "id": "f81b0ddb286c",
-      "title": "Nasce \"Victor\", laboratorio di critica teatrale per giovani spettatori",
-      "date": "2026-01-23",
-      "time": null,
-      "venue": "[Centro Servizi Culturali S. Chiara / Bando, 23 gennaio 2026]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/bandi/2026/nasce-victor-laboratorio-di-critica-teatrale-per-giovani-spettatori.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/bandi/2026/nasce-victor-laboratorio-di-critica-teatrale-per-giovani-spettatori.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "059a610571e4",
       "title": "Dalser. La Mussolina",
       "date": "2026-01-23",
@@ -2384,22 +2450,6 @@
         "https://www.trentinospettacoli.it/eventi/lu-santo-jullare-francesco-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "33a8be6d750c",
-      "title": "Meno male che oggi è venerdì",
-      "date": "2026-01-24",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/foto-di-scena-n.1-952x579.png",
-      "source_url": "https://www.teatrodivillazzano.it/event/meno-male-che-oggi-e-venerdi/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/meno-male-che-oggi-e-venerdi/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -2467,22 +2517,6 @@
       "is_past": true
     },
     {
-      "id": "80aca7e5d08f",
-      "title": "Bilancio Sociale 2024-2025 Ariateatro ETS",
-      "date": "2026-01-27",
-      "time": null,
-      "venue": "[Compagnia teatrale ariaTeatro / Comunicato, 27 gennaio 2026]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2026/bilancio-sociale-2024-2025-ariateatro-ets.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2026/bilancio-sociale-2024-2025-ariateatro-ets.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "cf800b9e292e",
       "title": "Ritratto dell’avvocato Paolo Levi",
       "date": "2026-01-27",
@@ -2528,22 +2562,6 @@
         "https://www.trentinospettacoli.it/eventi/ritratto-dellavvocato-paolo-levi-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "dc5d57305c97",
-      "title": "Degusta Teatro: L’occhio invisibile",
-      "date": "2026-01-30",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/IMG-20250531-WA0012-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-locchio-invisibile/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/degusta-teatro-locchio-invisibile/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -2627,38 +2645,6 @@
       "is_past": true
     },
     {
-      "id": "400f2055b87c",
-      "title": "Grande successo nel weekend per “Murmuration”",
-      "date": "2026-02-02",
-      "time": null,
-      "venue": "oltre 2000 gli spettatori che hanno affollato il Palaghiaccio di Trento [Centro Servizi Culturali S. Chiara / Comunicato stampa, 2 febbraio 2026]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2026grande-successo-nel-weekend-per-murmuration.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2026grande-successo-nel-weekend-per-murmuration.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "1637f2d8d843",
-      "title": "Capra Capra Capra",
-      "date": "2026-02-03",
-      "time": "10:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/DSC_0034-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/capra-capra-capra-2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/capra-capra-capra-2/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "f08a2b251afa",
       "title": "Lu santo jullare Francesco",
       "date": "2026-02-03",
@@ -2672,22 +2658,6 @@
         "https://www.trentinospettacoli.it/eventi/lu-santo-jullare-francesco/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "4c73213346cf",
-      "title": "Massimo Ongaro confermato alla direzione del Centro per i prossimi tre anni",
-      "date": "2026-02-04",
-      "time": null,
-      "venue": "[Centro Servizi Culturali S. Chiara / Comunicato stampa, 4 febbraio 2026]",
-      "location": "",
-      "description": null,
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/notizie/avvisi-comunicati/2026massimo-ongaro-confermato-alla-direzione-del-centro-per-i-prossimi-tre-anni.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2026massimo-ongaro-confermato-alla-direzione-del-centro-per-i-prossimi-tre-anni.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": true
     },
     {
@@ -2736,22 +2706,6 @@
         "https://www.trentinospettacoli.it/eventi/sfidati-di-me/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "f09b4b26e5f6",
-      "title": "Tacco 12 e Grombial",
-      "date": "2026-02-07",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/IMG_9854-952x579.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tacco-12-e-grombial/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tacco-12-e-grombial/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -2835,22 +2789,6 @@
       "is_past": true
     },
     {
-      "id": "c26bdf529f79",
-      "title": "La coscienza di Zeno con Alessandro Haber",
-      "date": "2026-02-12",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Stagione Teatro Sociale 2025/2026 | il 12 e il 13 febbraio alle ore 20.30\nil 14 febbraio alle ore 18.00\nil 15 febbraio alle ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736213",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736213"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "52fbac6ad907",
       "title": "Flyover country",
       "date": "2026-02-12",
@@ -2931,22 +2869,6 @@
       "is_past": true
     },
     {
-      "id": "168303bcf817",
-      "title": "Un amore pop",
-      "date": "2026-02-14",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": null,
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Fdm-Venerdi-401-952x579.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/un-amore-pop/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/un-amore-pop/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "79658bfb7dfd",
       "title": "SKASI’N SHOW",
       "date": "2026-02-14",
@@ -2963,135 +2885,6 @@
       "is_past": true
     },
     {
-      "id": "8d79ed1069f4",
-      "title": "Guarda le luci, amore mio",
-      "date": "2026-02-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/guarda-le-luci-amore-mio_118785.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/guarda-le-luci-amore-mio_118785.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "7cb6b60f7cb0",
-      "title": "La coscienza di Zeno",
-      "date": "2026-02-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/la-coscienza-di-zeno.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/la-coscienza-di-zeno.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b783cc56eda9",
-      "title": "Andrea Castelli - Stuf",
-      "date": "2026-02-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/andrea-castelli-stuf.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/andrea-castelli-stuf.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "75a5948e40b1",
-      "title": "Mago per svago - L'abile teatro",
-      "date": "2026-02-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mago-per-svago-labile-teatro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mago-per-svago-labile-teatro.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "a6722699591e",
-      "title": "La scuola delle mogli",
-      "date": "2026-02-15",
-      "time": "16:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/742076",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/742076"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1ed3e0a7a3f3",
-      "title": "Mago per svago - L'Abile Teatro",
-      "date": "2026-02-15",
-      "time": "16:30",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "Scappo a Teatro 2025/2026 | ore 16.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736244",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736244"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0204a4e08195",
-      "title": "Il Signor Aquilone e i dispetti della nuvola Olga",
-      "date": "2026-02-15",
-      "time": "17:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 17.00",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/WhatsApp-Image-2023-02-09-at-14.06.36-2-Teatro-Ridotto-952x579.jpeg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/737019",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737019",
-        "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "713cb2e0f755",
-      "title": "“Zitto, Zitto” Spettacolo comico e circense",
-      "date": "2026-02-15",
-      "time": "17:00",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 17.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739000",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739000"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "3523f16c8a51",
       "title": "“Zitto, Zitto”",
       "date": "2026-02-15",
@@ -3105,23 +2898,7 @@
         "https://www.trentinospettacoli.it/eventi/zitto-zittospettacolo-comico-e-circense/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "92baffa37812",
-      "title": "Le tre Marie",
-      "date": "2026-02-15",
-      "time": "17:30",
-      "venue": "",
-      "location": "Trento",
-      "description": "ore 17.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744422",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744422"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "8da5f13039f5",
@@ -3137,7 +2914,7 @@
         "https://www.trentinospettacoli.it/eventi/tra-le-scatoleclown-street-show-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c5a6d000596a",
@@ -3153,55 +2930,7 @@
         "https://www.trentinospettacoli.it/eventi/il-ritorno-del-piccolo-principe/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "3385f83906cc",
-      "title": "Familiar Touch",
-      "date": "2026-02-17",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/familiar-touch.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/familiar-touch.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "e63fd47f9ae2",
-      "title": "Crave",
-      "date": "2026-02-17",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/crave_118786.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/crave_118786.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "a9e8a575f8fa",
-      "title": "Workshop \"Scrivere un libro di comunicazione della scienza\"",
-      "date": "2026-02-17",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2025workshop-scrivere-un-libro-di-comunicazione-della-scienza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2025workshop-scrivere-un-libro-di-comunicazione-della-scienza.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1f15e1a1497a",
@@ -3211,7 +2940,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Rovereto",
       "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-111427/27755411-1-ita-IT/Screenshot-2025-11-05-111427_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739946",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739946"
@@ -3220,17 +2949,33 @@
       "is_past": false
     },
     {
-      "id": "f7cd314050fc",
-      "title": "SPaCCa | C&C Company - Beast without Beauty",
-      "date": "2026-02-18",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/beast-without-beauty_118787.html",
+      "id": "6c1351b873e4",
+      "title": "Crave",
+      "date": "2026-02-17",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Dall’opera di Sarah Kane / diretto e interpretato da Leda Kreider / assistente alla regia Antonio Perretta / scene Paolo Di Benedetto / sound designer Gianluca Agostini / compositrice e violinista Virginia Sutera / coproduzione Emilia Romagna Teatro ERT / Teatro Nazionale e TrentoSpettacoli / e con il sostegno di Centro Servizi Culturali Santa Chiara Trento / progetto selezionato nell’ambito del bando Maturazione 2024, parte dell’Accordo di Programma tra Regione Veneto e Teatro Stabile del Venet",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063336-994555.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/crave_118786.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/beast-without-beauty_118787.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/crave_118786.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "2abb5eecac96",
+      "title": "Familiar Touch",
+      "date": "2026-02-17",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063367-099455.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/familiar-touch.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/familiar-touch.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -3243,12 +2988,28 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736631",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736631"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f0226f59a657",
+      "title": "SPaCCa | C&C Company - Beast without Beauty",
+      "date": "2026-02-18",
+      "time": "20:30",
+      "venue": "Teatro Studio/Teatro Comunale, Piazza Verdi, Bolzano",
+      "location": "Bolzano",
+      "description": "Lo spettacolo prevede l’uso di luce stroboscopica e l’impiego di un effetto Larsen dal vivo Hinweis: Das Stück enthält Stroboskoplicht sowie Live-Larsen-Effekte",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064107-082.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/beast-without-beauty_118787.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/beast-without-beauty_118787.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -3259,26 +3020,10 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Stagione Teatro Sociale 2025/2026 | il 19 e il 20 febbraio alle ore 20.30\nil 21 febbraio alle ore 18.00\nil 22 febbraio alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736214",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736214"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "11d3059bde44",
-      "title": "Flyover country",
-      "date": "2026-02-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736632",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736632"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3291,10 +3036,26 @@
       "venue": "Teatro alla Cartiera",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2512/27757154-1-ita-IT/sfondo-ocra-251_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/740022",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/740022"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "11d3059bde44",
+      "title": "Flyover country",
+      "date": "2026-02-19",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736632",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736632"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3316,33 +3077,17 @@
       "is_past": false
     },
     {
-      "id": "776f71d79751",
-      "title": "Foyer della Prosa / Le indie del qua",
-      "date": "2026-02-20",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-indie-del-qua.html",
+      "id": "6eb793ba5d05",
+      "title": "Le indie de qua. Fede, potere e superstizione al tempo del Concilio di Trento",
+      "date": "2026-02-19",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Di e con Andrea Pennacchi / musiche originali dal vivo di Giorgio Gobbo / testi di Andrea Pennacchi e Marco D’Ambrosio (Makkox) / produzione Teatro Stabile di Bolzano, Centro Servizi Culturali S. Chiara di Trento, Galapagos Produzioni Stagione del Teatro Sociale Con il Concilio di Trento, la Chiesa cattolica risponde alla Riforma protestante riaffermando il proprio controllo dottrinale e disciplinare. La cultura religiosa non è più patrimonio diffuso, ma diventa qualcosa di regolato rigidamente ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063333-061756-pennacchi_in-scena.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/le-indie-de-qua-fede-potere-e-superstizione-al-tempo-del-concilio-di-trento.html",
       "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-indie-del-qua.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "760f8fdaf7d8",
-      "title": "Mini Bandus - Esperienze teatrali per piccolissimi e genitori",
-      "date": "2026-02-20",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/le-indie-de-qua-fede-potere-e-superstizione-al-tempo-del-concilio-di-trento.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -3355,12 +3100,28 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foyer.-le-indie/27751589-1-ita-IT/Foyer.-Le-Indie_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739814",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739814"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "635fcb1399a3",
+      "title": "Foyer della Prosa / Le indie del qua",
+      "date": "2026-02-20",
+      "time": "17:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/062146-990909.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-indie-del-qua.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-indie-del-qua.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -3371,11 +3132,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/HO-ADOTTATO-MIO-FRATELLO-5-952x579.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737018",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737018",
-        "https://www.teatrodivillazzano.it/event/ho-adottato-mio-fratello/"
+        "https://www.cultura.trentino.it/content/view/full/737018"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3388,12 +3148,44 @@
       "venue": "",
       "location": "Pomarolo",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743948",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743948"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "31dc54f8c9e8",
+      "title": "La stanza di Agnese",
+      "date": "2026-02-20",
+      "time": "20:30",
+      "venue": "Auditorium Polo Scolastico di Cles",
+      "location": "Cles",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744488",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744488"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "67eebee46620",
+      "title": "Fanny & Alexander - L'analfabeta",
+      "date": "2026-02-20",
+      "time": "20:30",
+      "venue": "Teatro Studio/Teatro Comunale, Piazza Verdi, Bolzano",
+      "location": "Bolzano",
+      "description": "Di Fanny & Alexander e Federica Fracassi / liberamente tratto dai testi di Ágota Kristóf / con Federica Fracassi regia, scene e luci Luigi Noah De Angelis / sound design Damiano Meacci / allestimento multimediale Voxel / drammaturgia Chiara Lagani / organizzazione e promozione Andrea Martelli e Marco Molduzzi / amministrazione Stefano Toma / produzione E Production, Piccolo Teatro di Milano-Teatro d’Europa, Teatro Stabile di Bolzano / in collaborazione con Romaeuropa Festival, AMAT, Comune di Sa",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064109-90934.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -3413,81 +3205,17 @@
       "is_past": false
     },
     {
-      "id": "1081eb946cd2",
-      "title": "Ritorno a casa / Laboratorio di teatro danza (Inizio corso)",
+      "id": "130268ee5697",
+      "title": "Ritorno a casa (Inizio corso)",
       "date": "2026-02-21",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
+      "time": "09:00",
+      "venue": "Sala Fondazione Caritro, Via Calepina 1, Trento",
+      "location": "Trento",
+      "description": "Scadenza candidature 20 febbraio 2026 / Per Info e candidature: inviare nome, cognome e numero di telefono a arteviva.teatrodanza@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064152-987987.jpg",
       "source_url": "https://www.crushsite.it/it/didattica/2026/ritorno-a-casa.html",
       "source_urls": [
         "https://www.crushsite.it/it/didattica/2026/ritorno-a-casa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "f5d147423669",
-      "title": "Fanny & Alexander - L'analfabeta",
-      "date": "2026-02-21",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "38d93b2b1e14",
-      "title": "Kataklò Athletic Dance Theatre - Aliena",
-      "date": "2026-02-21",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/kataklo-athletic-dance-theatre-aliena.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/kataklo-athletic-dance-theatre-aliena.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "00c425a42d38",
-      "title": "Elio - Quando un musicista ride",
-      "date": "2026-02-21",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/elio-quando-un-musicista-ride.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/elio-quando-un-musicista-ride.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "c636be9694af",
-      "title": "Fiabe africane",
-      "date": "2026-02-21",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fiabe-africane.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/fiabe-africane.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -3500,7 +3228,7 @@
       "venue": "Teatro San Marco",
       "location": "Trento",
       "description": "La famiglia va a Teatro 2025/2026 | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sito-sanmarco-eventi-quadrati-22/27692699-1-ita-IT/SITO-SanMarco-eventi-quadrati-2_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737750",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737750"
@@ -3516,7 +3244,7 @@
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
       "description": "ore 20.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744424",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744424"
@@ -3532,7 +3260,7 @@
       "venue": "Teatro Comunale di Castellano",
       "location": "Villa Lagarina",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743962",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743962"
@@ -3548,7 +3276,7 @@
       "venue": "Auditorium di Moscheri ",
       "location": "Trambileno",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743952",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743952"
@@ -3564,7 +3292,7 @@
       "venue": "",
       "location": "",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744425",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744425"
@@ -3589,6 +3317,22 @@
       "is_past": false
     },
     {
+      "id": "ffe01260e3f0",
+      "title": "Elio - Quando un musicista ride",
+      "date": "2026-02-21",
+      "time": "20:30",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "AGIDI - International Music and Arts presentano ELIO in QUANDO UN MUSICISTA RIDE / drammaturgia GIORGIO GALLIONE / arrangiamenti musicali PAOLO SILVESTRI / con ALBERTO TAFURI pianoforte, MARTINO MALACRIDA batteria, PIETRO MARTINELLI basso e contrabbasso, MATTEO ZECCHI sassofono, GIULIO TULLIO trombone / scenografie LORENZA GIOBERTI / costumi ELISABETTA MENZIANI / luci ANDREA VIOLATO / regia GIORGIO GALLIONE Stagione AudiPop! Elio e la sua band tornano dopo il successo di Ci vuole orecchio con un",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063291-903443.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/elio-quando-un-musicista-ride.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/elio-quando-un-musicista-ride.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "5c23ae897d5f",
       "title": "Come diventare ricchi e famosi da un momento all’altro",
       "date": "2026-02-21",
@@ -3596,7 +3340,7 @@
       "venue": "Cinema Teatro Monte Baldo",
       "location": "Brentonico",
       "description": "Teatro di Brentonico | Stagione 2025/2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-16-113844/27712795-1-ita-IT/Immagine-2025-10-16-113844_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738483",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738483"
@@ -3612,7 +3356,7 @@
       "venue": "Teatro Comunale di Zambana",
       "location": "Zambana",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-248/27730317-1-ita-IT/sfondo-ocra-248_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739113",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739113"
@@ -3628,7 +3372,7 @@
       "venue": "",
       "location": "Garniga Terme",
       "description": "Teatro di Garniga Terme | Stagione 2025/2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cabare2/27775318-1-ita-IT/Cabare_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/740732",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/740732"
@@ -3692,7 +3436,7 @@
       "venue": "Teatro Valle dei Laghi di Vezzano",
       "location": "",
       "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-155222/27726593-1-ita-IT/Immagine-2025-10-22-155222_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739005",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739005"
@@ -3708,7 +3452,7 @@
       "venue": "Auditorium Comunale di Lavis",
       "location": "Lavis",
       "description": "Teatro di Lavis | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-16-160105/27714402-1-ita-IT/Immagine-2025-10-16-160105_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738564",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738564"
@@ -3724,7 +3468,7 @@
       "venue": "Teatro Giacomo Sartori",
       "location": "Ala",
       "description": "Teatro di Ala | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/flyover-country/27707607-1-ita-IT/flyover-country_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738244",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738244"
@@ -3781,49 +3525,17 @@
       "is_past": false
     },
     {
-      "id": "f916b7ad91c7",
-      "title": "Le indie de qua. Fede, potere e superstizione al tempo del Concilio di Trento",
-      "date": "2026-02-22",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/le-indie-de-qua-fede-potere-e-superstizione-al-tempo-del-concilio-di-trento.html",
+      "id": "0a6a7d7061af",
+      "title": "Kataklò Athletic Dance Theatre - Aliena",
+      "date": "2026-02-21",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Vezzano (Tn)",
+      "location": "Vezzano",
+      "description": "Ideazione e direzione artistica Giulia Staccioli / Assistente alle coerografie Irene Saltarelli / Con Kataklò Athletic Dance Theatre / Contumi Olivia Spinelli / Musiche originali GP Cremonini / Disegno luci Sharon Remartini e Fabio Passerini Con Aliena Giulia Staccioli firma un’opera visionaria, manifesto poetico e fisico di oltre trent’anni di ricerca eclettica che ha dato vita a un nuovo genere teatrale. Sei danzatori di Kataklò Athletic Dance Theatre, con i loro corpi prestanti e il movimento",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/kataklo-athletic-dance-theatre-aliena.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/le-indie-de-qua-fede-potere-e-superstizione-al-tempo-del-concilio-di-trento.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "49795f531c32",
-      "title": "Fanny & Alexander - L'analfabeta",
-      "date": "2026-02-22",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof_119959.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof_119959.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "e83a5a980328",
-      "title": "Becco di rame - Teatro del Buratto",
-      "date": "2026-02-22",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/becco-di-rame-teatro-del-buratto.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/becco-di-rame-teatro-del-buratto.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/kataklo-athletic-dance-theatre-aliena.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -3890,6 +3602,22 @@
         "https://www.trentinospettacoli.it/eventi/i-musicanti-di-brema-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "0ecca964e540",
+      "title": "Becco di rame - Teatro del Buratto",
+      "date": "2026-02-22",
+      "time": "16:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "I posti sono numerati / Intero 6 euro; Ridotto 4 euro: per i possessori di Euregio Family Card e bambini dai 3 ai 13 anni compiuti /  Omaggio: bambini under 3, oltre al 3° figlio, e per chi (dai 3 ai 14 anni) compie gli anni nella settimana precedente allo spettacolo (a partire dal lunedì) / Le persone con una disabilità uguale o superiore al 67% hanno diritto ad un biglietto omaggio, eventuale accompagnatore pagherà secondo tariffa. La richiesta del biglietto omaggio va inviata a puntoinfo@cent",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064106-0993.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/becco-di-rame-teatro-del-buratto.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/becco-di-rame-teatro-del-buratto.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -3978,7 +3706,7 @@
       "date": "2026-02-22",
       "time": "20:30",
       "venue": "Teatro Cuminetti",
-      "location": "Rovereto",
+      "location": "Trento",
       "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/739827",
@@ -3989,19 +3717,35 @@
       "is_past": false
     },
     {
-      "id": "e0d955ed0fc8",
-      "title": "Love",
-      "date": "2026-02-24",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/love.html",
+      "id": "c4d6cbe249e0",
+      "title": "Fanny & Alexander - L'analfabeta",
+      "date": "2026-02-22",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Di Fanny & Alexander e Federica Fracassi / liberamente tratto dai testi di Ágota Kristóf / con Federica Fracassi regia, scene e luci Luigi Noah De Angelis / sound design Damiano Meacci / allestimento multimediale Voxel / drammaturgia Chiara Lagani / organizzazione e promozione Andrea Martelli e Marco Molduzzi / amministrazione Stefano Toma / produzione E Production, Piccolo Teatro di Milano-Teatro d’Europa, Teatro Stabile di Bolzano / in collaborazione con Romaeuropa Festival, AMAT, Comune di Sa",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064109-90934.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof_119959.html",
       "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/love.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/lanalfabeta-di-gota-kristof_119959.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "ab139d7013de",
+      "title": "I calchi di Pompei, una lezione recitata allo Spazio Archeologico Sotterraneo del Sas",
+      "date": "2026-02-24",
+      "time": "17:30",
+      "venue": "Spazio Archeologico Sotterraneo del Sas",
+      "location": "Trento",
+      "description": "ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744498",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744498"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4019,6 +3763,22 @@
         "https://www.trentinospettacoli.it/eventi/guarda-le-luci-amore-mio/"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "85cfe9c73ac8",
+      "title": "Love",
+      "date": "2026-02-24",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063368-90093443.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/love.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/love.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4086,14 +3846,14 @@
       "is_past": false
     },
     {
-      "id": "da6ae6247196",
+      "id": "d38129039509",
       "title": "Marty Supreme",
       "date": "2026-02-27",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
+      "time": "17:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063643-894501.jpg",
       "source_url": "https://www.crushsite.it/it/cinema/2026/marty-supreme_119263_119740.html",
       "source_urls": [
         "https://www.crushsite.it/it/cinema/2026/marty-supreme_119263_119740.html"
@@ -4182,6 +3942,22 @@
       "is_past": false
     },
     {
+      "id": "359d7a81e006",
+      "title": "Kepler-452 - A place of safety",
+      "date": "2026-02-27",
+      "time": "20:30",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Spettacolo in italiano, inglese, spagnolo e portoghese con sovratitoli / Spettacolo vincitore premio UBU 2025 \"Miglior spettacolo teatrale\"",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064108-2092.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-place-of-safety_118859.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/a-place-of-safety_118859.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4239f21cf62f",
       "title": "Dalser. La Mussolina",
       "date": "2026-02-27",
@@ -4211,54 +3987,6 @@
         "https://www.trentinospettacoli.it/eventi/dalser-la-mussolina-7/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "1f71d05d7fd3",
-      "title": "Kepler-452 - A place of safety",
-      "date": "2026-02-28",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-place-of-safety_118859.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/a-place-of-safety_118859.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "e3e94c5ed4b4",
-      "title": "Giovanni Lindo Ferretti in \"Percuotendo. In cadenza\"",
-      "date": "2026-02-28",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/musica/2026/giovanni-lindo-ferretti-in-percuotendo-in-cadenza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/giovanni-lindo-ferretti-in-percuotendo-in-cadenza.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "d60731061376",
-      "title": "INnaturale",
-      "date": "2026-02-28",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/innaturale.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/innaturale.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4455,33 +4183,17 @@
       "is_past": false
     },
     {
-      "id": "a5ddf84c105a",
-      "title": "La piccola Amèlie",
-      "date": "2026-03-01",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/la-piccola-amelie_118696_118778_118780_119741.html",
+      "id": "6bf9e0291e62",
+      "title": "Giovanni Lindo Ferretti in \"Percuotendo. In cadenza\"",
+      "date": "2026-02-28",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
+      "location": "Trento",
+      "description": "Cantante, autore e scrittore, Ferretti è stato tra i fondatori dei CCCP Fedeli alla Linea – tornati recentemente in tour con grande successo – e del Consorzio Suonatori Indipendenti (CSI), due band che hanno segnato la storia del punk e del rock alternativo italiano. A Trento presenterà il suo nuovo spettacolo “Percuotendo. In cadenza”, un viaggio tra musica e parola, dove il racconto personale si intreccia con suoni, ritmo e poesia. Sul palco sarà accompagnato da Simone Beneventi (percussioni) ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/062608-9994334.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/giovanni-lindo-ferretti-in-percuotendo-in-cadenza.html",
       "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/la-piccola-amelie_118696_118778_118780_119741.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "0a4350bd17c8",
-      "title": "L'Aviatore",
-      "date": "2026-03-01",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/laviatore_119024.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/laviatore_119024.html"
+        "https://www.crushsite.it/it/musica/2026/giovanni-lindo-ferretti-in-percuotendo-in-cadenza.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4615,6 +4327,22 @@
       "is_past": false
     },
     {
+      "id": "f39539c995de",
+      "title": "La piccola Amèlie",
+      "date": "2026-03-01",
+      "time": "17:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063328-4454.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/la-piccola-amelie_118696_118778_118780_119741.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/la-piccola-amelie_118696_118778_118780_119741.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4aad16c4d084",
       "title": "Il lungo giorno di Mastro Ezechiele",
       "date": "2026-03-01",
@@ -4628,22 +4356,6 @@
         "https://www.trentinospettacoli.it/eventi/il-lungo-giorno-di-mastro-ezechiele-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "d300c800d276",
-      "title": "A fil di cielo - Fondazione Solares delle Arti",
-      "date": "2026-03-02",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4663,17 +4375,17 @@
       "is_past": false
     },
     {
-      "id": "c987e90ae9ee",
-      "title": "Toni, mio padre",
-      "date": "2026-03-03",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/toni-mio-padre.html",
+      "id": "79d9dda83342",
+      "title": "A fil di cielo - Fondazione Solares delle Arti",
+      "date": "2026-03-02",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Di Gianluigi Gherzi / con Giuseppe Semeraro e Maria Vittoria Barrella / riprese video Marcella Foccardi / regia video Ivonne Capece / regia Gianluigi Gherzi C’è un’isola. Su quell’isola migliaia e migliaia di uccelli arrivano ogni primavera. Trovano rifugio tra le rocce degli antichi vulcani. Si preparano a deporre le uova, per poi ripartire. L’isola è un mondo a parte. Da sempre. Abitata da pochi pescatori ostinati. Da chi cerca di strappare alle rocce spazio per coltivare. Da chi sa che niente",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html",
       "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/toni-mio-padre.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4702,11 +4414,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 10.00",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Foto-compagnia-2-952x579.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737017",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737017",
-        "https://www.teatrodivillazzano.it/event/bestiario-umano/"
+        "https://www.cultura.trentino.it/content/view/full/737017"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4793,22 +4504,6 @@
       "is_past": false
     },
     {
-      "id": "4cc36cc9a990",
-      "title": "Foyer della Prosa / Gaber. Mi fa male il mondo",
-      "date": "2026-03-06",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-gaber-mi-fa-male-il-mondo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-gaber-mi-fa-male-il-mondo.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "37ab18350f26",
       "title": "Le opere complete di Shakespeare in 90 minuti",
       "date": "2026-03-06",
@@ -4816,13 +4511,11 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 11.30",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Shakespeare-web1-952x579.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737016",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737016",
-        "https://www.cultura.trentino.it/content/view/full/737015",
-        "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti-2/",
-        "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti/"
+        "https://www.cultura.trentino.it/content/view/full/737015"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4921,38 +4614,6 @@
         "https://www.cultura.trentino.it/content/view/full/744346"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ce74038dc1ac",
-      "title": "Faraualla - Paesaggi sonori",
-      "date": "2026-03-07",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/musica/2026/faraualla-paesaggi-sonori.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/faraualla-paesaggi-sonori.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "86f4175ae37c",
-      "title": "Lucio Gardin - Amore e altri disastri",
-      "date": "2026-03-07",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/lucio-gardin-amore-e-altri-disastri.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/lucio-gardin-amore-e-altri-disastri.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5180,97 +4841,17 @@
       "is_past": false
     },
     {
-      "id": "afde319f8bc2",
-      "title": "Goat – Sogna in Grande",
-      "date": "2026-03-08",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/goat-sogna-in-grande_119941_119965.html",
+      "id": "e936852ecbb3",
+      "title": "Faraualla - Paesaggi sonori",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 10, ridotto (under 26) € 5, gratuito (under 14) / Info e biglietti n. 370 124 5353, www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/061418-99.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/faraualla-paesaggi-sonori.html",
       "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/goat-sogna-in-grande_119941_119965.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "3389d4fbbae0",
-      "title": "MM Contemporary Dance Company - The Wall_Dance Tribute",
-      "date": "2026-03-08",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4299015261c5",
-      "title": "\"Gaber. Mi fa male il mondo\" con Neri Marcorè",
-      "date": "2026-03-08",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "28006c89689d",
-      "title": "Papero Alfredo - Teatro Giovani Teatro Pirata",
-      "date": "2026-03-08",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/papero-alfredo-teatro-giovani-teatro-pirata.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/papero-alfredo-teatro-giovani-teatro-pirata.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "6f7ed414a699",
-      "title": "Pierino e il Lupo - Orchestra Haydn",
-      "date": "2026-03-08",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-orchestra-haydn.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-orchestra-haydn.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "7461dc50dfda",
-      "title": "Esercizi di fantastica - Sosta Palmizi",
-      "date": "2026-03-08",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/esercizi-di-fantastica-sosta-palmizi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/esercizi-di-fantastica-sosta-palmizi.html"
+        "https://www.crushsite.it/it/musica/2026/faraualla-paesaggi-sonori.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5340,33 +4921,17 @@
       "is_past": false
     },
     {
-      "id": "4f0ce191cb55",
-      "title": "Sirat",
-      "date": "2026-03-10",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html",
+      "id": "3fb979bb7932",
+      "title": "Goat – Sogna in Grande",
+      "date": "2026-03-08",
+      "time": "17:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064052-999222.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/goat-sogna-in-grande_119941_119965.html",
       "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "a1655aa42fdb",
-      "title": "Gavin Friday – Ecce Homo",
-      "date": "2026-03-10",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html"
+        "https://www.crushsite.it/it/cinema/2026/goat-sogna-in-grande_119941_119965.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5385,38 +4950,6 @@
         "https://www.cultura.trentino.it/content/view/full/739276"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "797578f8aea7",
-      "title": "Cosmos - eVolution Dance Theater",
-      "date": "2026-03-11",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "75a9db3d6d07",
-      "title": "Gioco da ragazzi",
-      "date": "2026-03-11",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/gioco-da-ragazzi_119727.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/gioco-da-ragazzi_119727.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5500,38 +5033,6 @@
       "is_past": false
     },
     {
-      "id": "a0310d7b7c28",
-      "title": "Cosmos - eVolution Dance Theater",
-      "date": "2026-03-12",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038_118986.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038_118986.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "9d2c733bc9c1",
-      "title": "Kamal Aljafari – A Fidai Film",
-      "date": "2026-03-12",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/kamal-aljafari-a-fidai-film.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/kamal-aljafari-a-fidai-film.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "eed51c7f4acf",
       "title": "Come gli uccelli",
       "date": "2026-03-12",
@@ -5561,70 +5062,6 @@
         "https://www.trentinospettacoli.it/eventi/lu-santo-jullare-francesco-4/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "086e88a58094",
-      "title": "Lavoreremo da grandi",
-      "date": "2026-03-13",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/lavoreremo-da-grandi_119765_119780_119782_119966.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/lavoreremo-da-grandi_119765_119780_119782_119966.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4da932558b6c",
-      "title": "Cosmos - eVolution Dance Theater",
-      "date": "2026-03-13",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038_118986_118987.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038_118986_118987.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "fbdb14e9a1f7",
-      "title": "Foyer della Prosa / Come gli uccelli",
-      "date": "2026-03-13",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-come-gli-uccelli.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-come-gli-uccelli.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "d7baf4595e61",
-      "title": "Mini Bandus - Esperienze teatrali per piccolissimi e genitori",
-      "date": "2026-03-13",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5692,6 +5129,22 @@
       "is_past": false
     },
     {
+      "id": "df2936da0b88",
+      "title": "Lavoreremo da grandi",
+      "date": "2026-03-13",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063914-938422.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/lavoreremo-da-grandi_119765_119780_119782_119966.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/lavoreremo-da-grandi_119765_119780_119782_119966.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "73758515450e",
       "title": "Rita",
       "date": "2026-03-13",
@@ -5705,70 +5158,6 @@
         "https://www.trentinospettacoli.it/eventi/rita/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "310a6376f160",
-      "title": "Arditodesìo - Complessità",
-      "date": "2026-03-14",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/arditodesio-complessita.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/arditodesio-complessita.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "6744a0acafbb",
-      "title": "Echoes of life - Silvia Azzoni, Oleksandr Ryabko",
-      "date": "2026-03-14",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life-silvia-azzoni-oleksandr-ryabko.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life-silvia-azzoni-oleksandr-ryabko.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "fa31ad97450d",
-      "title": "Bunker",
-      "date": "2026-03-14",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bunker.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "f44544d91b2d",
-      "title": "Complessità",
-      "date": "2026-03-14",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/complessita_119530.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/complessita_119530.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5884,22 +5273,6 @@
       "is_past": false
     },
     {
-      "id": "fdfc7209df0e",
-      "title": "L’uomo, la bestia, la virtù  | Sipario d'Oro 2026",
-      "date": "2026-03-14",
-      "time": "20:30",
-      "venue": "Teatro San Floriano di Lizzana",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744344",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744344"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "5d1b5600ce1e",
       "title": "Complessità",
       "date": "2026-03-14",
@@ -5945,38 +5318,6 @@
         "https://www.trentinospettacoli.it/eventi/dalser-la-mussolina-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "f8eb10c3d6e5",
-      "title": "Come gli uccelli",
-      "date": "2026-03-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b4477516d69d",
-      "title": "Echoes of life - Silvia Azzoni, Oleksandr Ryabko",
-      "date": "2026-03-15",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life_115971_118979.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life_115971_118979.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6083,29 +5424,12 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/9f960235-d237-4270-8fbe-cb1c15651571-794x579.jpeg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737014",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737014",
-        "https://www.teatrodivillazzano.it/event/un-mare-di-avventure/"
+        "https://www.cultura.trentino.it/content/view/full/737014"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "4feff5903ebd",
-      "title": "Divine Comedy",
-      "date": "2026-03-17",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/divine-comedy_120001.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/divine-comedy_120001.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6155,22 +5479,6 @@
         "https://www.trentinospettacoli.it/eventi/opera-locosinternational-comic-opera-show/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "55262097b479",
-      "title": "Tango Fuego - Naturalis Labor",
-      "date": "2026-03-18",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/tango-fuego-naturalis-labor.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/tango-fuego-naturalis-labor.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6286,22 +5594,6 @@
       "is_past": false
     },
     {
-      "id": "0300cae5663f",
-      "title": "Emma Dante - L'angelo del focolare",
-      "date": "2026-03-20",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "dcb4878b1821",
       "title": "Ovo, galina e cul caldo",
       "date": "2026-03-20",
@@ -6411,22 +5703,6 @@
         "https://www.trentinospettacoli.it/eventi/iliadeil-coraggio-dei-codardi/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "40402ae483d2",
-      "title": "Alessandro Businaro - Le cose che restano",
-      "date": "2026-03-21",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/alessandro-businaro-le-cose-che-restano.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/alessandro-businaro-le-cose-che-restano.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6549,11 +5825,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/P1010040-952x579.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737013",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737013",
-        "https://www.teatrodivillazzano.it/event/quattro-bombe-in-tasca/"
+        "https://www.cultura.trentino.it/content/view/full/737013"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -6639,54 +5914,6 @@
       "is_past": false
     },
     {
-      "id": "c91a261ea556",
-      "title": "L’Agente Segreto",
-      "date": "2026-03-24",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/lagente-segreto.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/lagente-segreto.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4ba680834aaa",
-      "title": "Federica Rosellini - iGirl",
-      "date": "2026-03-24",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/federica-rosellini-igirl.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/federica-rosellini-igirl.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "a307ba99b455",
-      "title": "Nino Frassica & Los Plaggers Band - Tour 2000/3000",
-      "date": "2026-03-24",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nino-frassica-los-plaggers-band-tour-20003000.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nino-frassica-los-plaggers-band-tour-20003000.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "ec6f154b6c4c",
       "title": "La Mandragola",
       "date": "2026-03-24",
@@ -6700,38 +5927,6 @@
         "https://www.cultura.trentino.it/content/view/full/736637"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0366cee5e36f",
-      "title": "Federica Rosellini - iGirl",
-      "date": "2026-03-25",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/federica-rosellini-igirl_119968.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/federica-rosellini-igirl_119968.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "8a4932e6f020",
-      "title": "Urban Youth!",
-      "date": "2026-03-25",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026urban-youth.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026urban-youth.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6800,22 +5995,6 @@
       "is_past": false
     },
     {
-      "id": "33cdd4a6aa9e",
-      "title": "Mini Bandus - Esperienze teatrali per piccolissimi e genitori",
-      "date": "2026-03-27",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492_119493.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492_119493.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "124e0ec6170f",
       "title": "K(-A-)O | Fondazione Sipario Toscana",
       "date": "2026-03-27",
@@ -6855,11 +6034,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/immagine_Spazio_Ultima_Dentiera-A4No-Scritte-952x579.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737012",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737012",
-        "https://www.teatrodivillazzano.it/event/spazio-ultima-dentiera/"
+        "https://www.cultura.trentino.it/content/view/full/737012"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -6913,22 +6091,6 @@
       "is_past": false
     },
     {
-      "id": "3b39cec9111c",
-      "title": "Tango Gala - Naturalis Labor",
-      "date": "2026-03-28",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/tango-gala-naturalis-labor.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/tango-gala-naturalis-labor.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "d5c29b23b002",
       "title": "Il segreto del medaglione",
       "date": "2026-03-28",
@@ -6969,11 +6131,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/cirano-952x579.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737011",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737011",
-        "https://www.teatrodivillazzano.it/event/la-commedia-di-cyrano/"
+        "https://www.cultura.trentino.it/content/view/full/737011"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -7108,22 +6269,6 @@
       "is_past": false
     },
     {
-      "id": "389d790e4aac",
-      "title": "Foyer della Prosa / Bestiario idrico",
-      "date": "2026-04-10",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-bestiario-idrico.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-bestiario-idrico.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "fc9dd66f7044",
       "title": "Foyer della Prosa - Bestiario idrico",
       "date": "2026-04-10",
@@ -7163,11 +6308,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/1000023009-952x579.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737010",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737010",
-        "https://www.teatrodivillazzano.it/event/el-filo-magico/"
+        "https://www.cultura.trentino.it/content/view/full/737010"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -7186,22 +6330,6 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-4/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "a4372829e146",
-      "title": "\"Bestiario idrico\" di Marco Paolini",
-      "date": "2026-04-12",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -7301,22 +6429,6 @@
       "is_past": false
     },
     {
-      "id": "85bd7ef00d0e",
-      "title": "Foyer della Prosa / People, Places & Things",
-      "date": "2026-04-17",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "9180353b9636",
       "title": "Cenerentola - La Baracca / Testoni ragazzi",
       "date": "2026-04-17",
@@ -7372,11 +6484,10 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Colina2-940x579.jpeg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737008",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737008",
-        "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/"
+        "https://www.cultura.trentino.it/content/view/full/737008"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -7395,22 +6506,6 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "76a6ea33b1a3",
-      "title": "People, Places & Things",
-      "date": "2026-04-19",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -7475,22 +6570,6 @@
         "https://www.cultura.trentino.it/content/view/full/739973"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "765e06a8f5d2",
-      "title": "Mini Bandus - Esperienze teatrali per piccolissimi e genitori",
-      "date": "2026-04-24",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492_119493_119494.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492_119493_119494.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -7574,22 +6653,6 @@
       "is_past": false
     },
     {
-      "id": "8cd87da463bd",
-      "title": "Nicolò Govoni in \"L’uomo che costruiva il futuro\"",
-      "date": "2026-05-07",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "e93c92d1bcb5",
       "title": "The curse of Hotel Morgue | The Play Group",
       "date": "2026-05-12",
@@ -7638,22 +6701,6 @@
       "is_past": false
     },
     {
-      "id": "1c5169bc5da6",
-      "title": "The Rumpled",
-      "date": "2026-05-16",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/musica/2026/the-rumpled.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/the-rumpled.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "830ef43e0da1",
       "title": "Piratesse",
       "date": "2026-05-16",
@@ -7667,38 +6714,6 @@
         "https://www.cultura.trentino.it/content/view/full/743944"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "552e7c79528e",
-      "title": "Mini Bandus - Esperienze teatrali per piccolissimi e genitori",
-      "date": "2026-05-22",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492_119493_119494_119495.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026/mini-bandus-esperienze-teatrali-per-piccolissimi-e-genitori_119492_119493_119494_119495.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "7bd6a119cd95",
-      "title": "Einstürzende Neubauten",
-      "date": "2026-06-03",
-      "time": null,
-      "venue": "",
-      "location": "",
-      "description": null,
-      "image_url": "https://www.crushsite.it/themes/2018/foto-def/clock2.png",
-      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     }
   ]
