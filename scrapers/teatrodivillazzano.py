@@ -11,10 +11,13 @@ from scrapers.base import BaseScraper
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.teatrodivillazzano.it"
-ARCHIVE_URL = f"{BASE_URL}/archivio/"
+# Blank-search endpoint returns all posts (shows) sorted newest-first.
+# Pagination: /page/N/?s=
+SEARCH_URL = f"{BASE_URL}/page/{{page}}/?s="
 
 VENUE = "Teatro di Villazzano"
 LOCATION = "Trento"
+MAX_PAGES = 5
 
 
 class TeatroDiVillazzanoScraper(BaseScraper):
@@ -24,8 +27,8 @@ class TeatroDiVillazzanoScraper(BaseScraper):
         events: list[Event] = []
         seen_urls: set[str] = set()
 
-        url: str | None = ARCHIVE_URL
-        while url:
+        for page in range(1, MAX_PAGES + 1):
+            url = SEARCH_URL.format(page=page)
             try:
                 resp = self.fetch(url)
                 soup = BeautifulSoup(resp.text, "lxml")
@@ -33,18 +36,15 @@ class TeatroDiVillazzanoScraper(BaseScraper):
                 logger.warning(f"[{self.name}] Could not fetch {url}")
                 break
 
-            for card in soup.select(".gt-event-style-3"):
+            cards = soup.select(".gt-post-style-1")
+            if not cards:
+                break  # no more pages
+
+            for card in cards:
                 ev = self._parse_card(card)
                 if ev and ev.source_url not in seen_urls:
                     seen_urls.add(ev.source_url)
                     events.append(ev)
-
-            # Pagination: .gt-pagination a contains "Successivo"
-            next_el = soup.select_one(".gt-pagination a")
-            url = next_el.get("href") if next_el else None
-
-            if len(events) > 200:
-                break
 
         return events
 
@@ -56,33 +56,31 @@ class TeatroDiVillazzanoScraper(BaseScraper):
             title = title_el.get_text(strip=True)
             source_url = title_el.get("href", "")
 
-            date_el = card.select_one(".gt-date.gt-start-date span")
+            # Post publication date — "09/12/2025" (DD/MM/YYYY)
+            date_el = card.select_one("li.gt-date")
             if not date_el:
                 return None
-            date_text = date_el.get_text(strip=True)  # "18/04/2026"
+            date_text = date_el.get_text(strip=True)
             try:
                 event_date = datetime.strptime(date_text, "%d/%m/%Y").date().isoformat()
             except ValueError:
                 return None
 
-            time_el = card.select_one(".gt-time.gt-start-time span")
-            time_str = time_el.get_text(strip=True) if time_el else None  # "20:30"
-
-            loc_el = card.select_one(".gt-location ul li a")
-            venue = loc_el.get_text(strip=True) if loc_el else VENUE
-
             img_el = card.select_one(".gt-image img")
             image_url = img_el.get("src") if img_el else None
+
+            excerpt_el = card.select_one(".gt-excerpt")
+            description = excerpt_el.get_text(strip=True) if excerpt_el else None
 
             return Event(
                 title=title,
                 date=event_date,
-                time=time_str,
-                venue=venue or VENUE,
+                time=None,
+                venue=VENUE,
                 location=LOCATION,
                 source_url=source_url,
                 source_name=self.name,
-                description=None,
+                description=description,
                 image_url=image_url,
             )
         except Exception:
