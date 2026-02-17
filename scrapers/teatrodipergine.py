@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import logging
 import re
-from datetime import date
+from datetime import date, timedelta
 
 from bs4 import BeautifulSoup
 
@@ -38,26 +38,38 @@ class TeatroDiPergineScraper(BaseScraper):
         events: list[Event] = []
         seen_keys: set[tuple[str, str]] = set()
 
-        # Monthly blog_calendar for current + next 2 months
         today = date.today()
-        for offset in range(3):
-            # Advance by offset months
+        cutoff = today + timedelta(days=120)  # ~4 months ahead
+
+        # Monthly blog_calendar for current + next 3 months
+        for offset in range(4):
             month = today.month + offset
             year = today.year + (month - 1) // 12
             month = ((month - 1) % 12) + 1
             url = CALENDAR_URL.format(year=year, month=month)
-            events.extend(self._scrape_month(url, seen_keys))
+            events.extend(self._scrape_month(url, seen_keys, cutoff))
 
         return events
 
-    def _scrape_month(self, start_url: str, seen_keys: set) -> list[Event]:
-        """Scrape all pages for a calendar month, following pagination."""
+    def _scrape_month(self, start_url: str, seen_keys: set,
+                      cutoff: date) -> list[Event]:
+        """Scrape up to 2 pages for a calendar month.
+
+        The Joomla pagination links strip the year/month from the URL,
+        so following them indefinitely fetches the entire archive. Cap
+        at 2 pages (~20 events) to stay within budget and filter to the
+        scrape window.
+        """
         events: list[Event] = []
         page_url: str | None = start_url
+        pages_fetched = 0
 
-        while page_url:
+        while page_url and pages_fetched < 2:
             page_events, next_url = self._scrape_page(page_url, seen_keys)
-            events.extend(page_events)
+            pages_fetched += 1
+            for ev in page_events:
+                if date.fromisoformat(ev.date) <= cutoff:
+                    events.append(ev)
             page_url = next_url
 
         return events
