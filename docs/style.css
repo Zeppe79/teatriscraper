@@ -106,6 +106,38 @@ header .subtitle {
     background: var(--card-bg);
     border-bottom: 1px solid var(--border);
     display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+/* Search bar — full width on every screen */
+.filter-search-bar {
+    width: 100%;
+}
+
+.filter-search-bar input {
+    width: 100%;
+    padding: 0.55rem 0.85rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.95rem;
+    background: #fff;
+}
+
+.filter-search-bar input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px rgba(139,34,82,.15);
+}
+
+/* Accordion toggle — hidden on desktop */
+.filters-toggle {
+    display: none;
+}
+
+/* Filter dropdowns row */
+.filters-body {
+    display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
     align-items: end;
@@ -269,12 +301,47 @@ footer p {
 
 /* Mobile */
 @media (max-width: 600px) {
-    .filters {
-        flex-direction: column;
+    /* Accordion toggle button */
+    .filters-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0.55rem 0.85rem;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: var(--text);
+        cursor: pointer;
+    }
+
+    .filters-toggle-icon {
+        transition: transform 0.2s;
+    }
+
+    .filters-toggle[aria-expanded="true"] .filters-toggle-icon {
+        transform: rotate(180deg);
+    }
+
+    /* Filters body: hidden by default, 2-col grid when open */
+    .filters-body {
+        display: none;
+    }
+
+    .filters-body.open {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
 
     .filter-group {
-        min-width: 100%;
+        min-width: 0;
+    }
+
+    /* Checkbox row spans both columns */
+    .toggle-group {
+        grid-column: span 2;
     }
 
     .event-title {

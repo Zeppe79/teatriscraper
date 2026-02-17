@@ -19,11 +19,14 @@
     const gateSubmit = document.getElementById("gate-submit");
     const gateError = document.getElementById("gate-error");
     const app = document.getElementById("app");
+    const filterSearch = document.getElementById("filter-search");
     const filterDate = document.getElementById("filter-date");
     const filterLocation = document.getElementById("filter-location");
     const filterVenue = document.getElementById("filter-venue");
     const filterSource = document.getElementById("filter-source");
     const filterPast = document.getElementById("filter-past");
+    const filtersToggle = document.getElementById("filters-toggle");
+    const filtersBody = document.getElementById("filters-body");
     const eventsCount = document.getElementById("events-count");
     const eventsList = document.getElementById("events-list");
     const lastUpdated = document.getElementById("last-updated");
@@ -112,6 +115,13 @@
         });
     }
 
+    // --- Accordion toggle (mobile only) ---
+    filtersToggle.addEventListener("click", function () {
+        var open = filtersBody.classList.toggle("open");
+        filtersToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+
+    filterSearch.addEventListener("input", renderEvents);
     filterDate.addEventListener("change", renderEvents);
     filterLocation.addEventListener("change", renderEvents);
     filterVenue.addEventListener("change", renderEvents);
@@ -147,6 +157,7 @@
     }
 
     function renderEvents() {
+        var searchQuery = filterSearch.value.trim().toLowerCase();
         var dateRange = filterDate.value;
         var locFilter = filterLocation.value;
         var venueFilter = filterVenue.value;
@@ -165,6 +176,17 @@
             if (locFilter && ev.location !== locFilter) return false;
             if (venueFilter && ev.venue !== venueFilter) return false;
             if (sourceFilter && ev.source_name !== sourceFilter) return false;
+
+            if (searchQuery) {
+                var haystack = [
+                    ev.title,
+                    ev.venue,
+                    ev.location,
+                    ev.date,
+                    formatDate(ev.date)
+                ].join(" ").toLowerCase();
+                if (haystack.indexOf(searchQuery) === -1) return false;
+            }
 
             return true;
         });

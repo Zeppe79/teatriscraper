@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 import logging
 import sys
-from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeout
+import threading
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -29,15 +29,17 @@ def main() -> None:
 
     for scraper_class in ALL_SCRAPERS:
         scraper = scraper_class()
-        ex = ThreadPoolExecutor(max_workers=1)
-        future = ex.submit(scraper.run)
-        try:
-            events = future.result(timeout=60)
-            all_events.extend(events)
-        except FuturesTimeout:
+        result: list = []
+
+        t = threading.Thread(target=lambda: result.extend(scraper.run() or []),
+                             daemon=True)
+        t.start()
+        t.join(timeout=60)
+
+        if t.is_alive():
             logger.error(f"[{scraper.name}] Timed out after 60s — skipping")
-        finally:
-            ex.shutdown(wait=False)
+        else:
+            all_events.extend(result)
 
     logger.info(f"Total events before dedup: {len(all_events)}")
     unique_events = deduplicate(all_events)

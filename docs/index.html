@@ -28,42 +28,53 @@
     </header>
 
     <div class="filters">
-        <div class="filter-group">
-            <label for="filter-date">Periodo</label>
-            <select id="filter-date">
-                <option value="today">Oggi</option>
-                <option value="week" selected>Questa settimana</option>
-                <option value="month">Questo mese</option>
-                <option value="all">Tutti</option>
-            </select>
+        <div class="filter-search-bar">
+            <input type="search" id="filter-search" placeholder="Cerca per titolo, data, luogo…" autocomplete="off">
         </div>
 
-        <div class="filter-group">
-            <label for="filter-location">Luogo</label>
-            <select id="filter-location">
-                <option value="">Tutti</option>
-            </select>
-        </div>
+        <button class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters-body">
+            <span>Filtri</span>
+            <span class="filters-toggle-icon" aria-hidden="true">▾</span>
+        </button>
 
-        <div class="filter-group">
-            <label for="filter-venue">Teatro</label>
-            <select id="filter-venue">
-                <option value="">Tutti</option>
-            </select>
-        </div>
+        <div class="filters-body" id="filters-body">
+            <div class="filter-group">
+                <label for="filter-date">Periodo</label>
+                <select id="filter-date">
+                    <option value="today">Oggi</option>
+                    <option value="week" selected>Questa settimana</option>
+                    <option value="month">Questo mese</option>
+                    <option value="all">Tutti</option>
+                </select>
+            </div>
 
-        <div class="filter-group">
-            <label for="filter-source">Sorgente</label>
-            <select id="filter-source">
-                <option value="">Tutti</option>
-            </select>
-        </div>
+            <div class="filter-group">
+                <label for="filter-location">Luogo</label>
+                <select id="filter-location">
+                    <option value="">Tutti</option>
+                </select>
+            </div>
 
-        <div class="filter-group toggle-group">
-            <label>
-                <input type="checkbox" id="filter-past">
-                Mostra eventi passati
-            </label>
+            <div class="filter-group">
+                <label for="filter-venue">Teatro</label>
+                <select id="filter-venue">
+                    <option value="">Tutti</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="filter-source">Sorgente</label>
+                <select id="filter-source">
+                    <option value="">Tutti</option>
+                </select>
+            </div>
+
+            <div class="filter-group toggle-group">
+                <label>
+                    <input type="checkbox" id="filter-past">
+                    Mostra eventi passati
+                </label>
+            </div>
         </div>
     </div>
 
