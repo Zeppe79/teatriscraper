@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-18T17:51:04.190492+00:00",
-  "count": 467,
+  "last_updated": "2026-02-19T05:55:53.662597+00:00",
+  "count": 466,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3285,38 +3285,6 @@
       "is_past": true
     },
     {
-      "id": "efbe7104c66f",
-      "title": "Rita",
-      "date": "2026-02-18",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736631",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736631"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f0226f59a657",
-      "title": "SPaCCa | C&C Company - Beast without Beauty",
-      "date": "2026-02-18",
-      "time": "20:30",
-      "venue": "Teatro Studio/Teatro Comunale, Piazza Verdi, Bolzano",
-      "location": "Bolzano",
-      "description": "Lo spettacolo prevede l’uso di luce stroboscopica e l’impiego di un effetto Larsen dal vivo Hinweis: Das Stück enthält Stroboskoplicht sowie Live-Larsen-Effekte",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064107-082.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/beast-without-beauty_118787.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/beast-without-beauty_118787.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "3576fdb2e5de",
       "title": "Le Indie de qua. Fede, potere e superstizione al tempo del Concilio di Trento",
       "date": "2026-02-19",
@@ -3949,7 +3917,7 @@
       "venue": "Teatro Valle dei Laghi di Vezzano",
       "location": "Vallelaghi",
       "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-155222/27726593-1-ita-IT/Immagine-2025-10-22-155222_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739005",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739005"
@@ -5108,6 +5076,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b504294a5505",
+      "title": "\"Gaber. Mi fa male il mondo\" con Neri Marcorè",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Con Neri Marcorè / da Giorgio Gaber e Sandro Luporini / drammaturgia e regia Giorgio Gallione / arrangiamenti e direzione musicale Paolo Silvestri / lighting designer Marco Filibeck / scene e costumi Guido Fiorato pianisti (o.a.) Eugenia Canale, Lorenzo Fiorentini, Eleonora Lana, Francesco Negri / produzione Teatro Stabile di Bolzano, Teatro della Toscana / in collaborazione con Fondazione Giorgio Gaber e Centro Servizi Culturali Santa Chiara Stagione del Teatro Sociale Neri Marcorè, assieme al ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063434-99943.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
