@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-19T17:45:50.529137+00:00",
-  "count": 466,
+  "last_updated": "2026-02-20T05:50:06.215777+00:00",
+  "count": 464,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3298,39 +3298,7 @@
         "https://www.cultura.trentino.it/content/view/full/736214"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7937f938afd6",
-      "title": "Status quo | Scenario Trentino",
-      "date": "2026-02-19",
-      "time": "20:30",
-      "venue": "Teatro alla Cartiera",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2512/27757154-1-ita-IT/sfondo-ocra-251_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/740022",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/740022"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "11d3059bde44",
-      "title": "Flyover country",
-      "date": "2026-02-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736632",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736632"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1965a70f97ca",
@@ -3346,7 +3314,7 @@
         "https://www.trentinospettacoli.it/eventi/status-quoteatro-circo-struggente/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "6eb793ba5d05",
@@ -3362,7 +3330,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/le-indie-de-qua-fede-potere-e-superstizione-al-tempo-del-concilio-di-trento.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e2393ff1236b",
@@ -3612,7 +3580,7 @@
       "venue": "",
       "location": "Ton",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744544",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744544"
@@ -3628,7 +3596,7 @@
       "venue": "",
       "location": "Valfloriana",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744545",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744545"
