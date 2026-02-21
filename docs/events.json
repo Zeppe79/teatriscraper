@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T05:38:00.432486+00:00",
+  "last_updated": "2026-02-21T17:21:51.037489+00:00",
   "count": 460,
   "events": [
     {
@@ -3333,8 +3333,8 @@
       "is_past": true
     },
     {
-      "id": "67eebee46620",
-      "title": "Fanny & Alexander - L'analfabeta",
+      "id": "072022ee71df",
+      "title": "Fanny & Alexander / Federica Fracassi - L'analfabeta",
       "date": "2026-02-20",
       "time": "20:30",
       "venue": "Teatro Studio/Teatro Comunale, Piazza Verdi, Bolzano",
@@ -4215,6 +4215,22 @@
       "is_past": false
     },
     {
+      "id": "6992786f64e7",
+      "title": "I Legnanesi \"Promessa d'amore\"",
+      "date": "2026-02-24",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064226-90102.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/i-legnanesi-promessa-damore.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/i-legnanesi-promessa-damore.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "2c2927c94e80",
       "title": "Tripula | Farrés Brothers i Cia",
       "date": "2026-02-25",
@@ -4244,6 +4260,38 @@
         "https://www.cultura.trentino.it/content/view/full/736633"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4c0a4b5fe0f2",
+      "title": "Pablo Trincia - L'uomo sbagliato",
+      "date": "2026-02-26",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064229-89934.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pablo-trincia-luomo-sbagliato.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/pablo-trincia-luomo-sbagliato.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "31e43a2893bc",
+      "title": "No Vabbè Mi Adoro - Katia Follesa",
+      "date": "2026-02-26",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/no-vabbe-mi-adoro-katia-follesa.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/no-vabbe-mi-adoro-katia-follesa.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4815,7 +4863,7 @@
       "venue": "Teatro Cuminetti, Via S. Croce, Trento",
       "location": "Trento",
       "description": "Di Gianluigi Gherzi / con Giuseppe Semeraro e Maria Vittoria Barrella / riprese video Marcella Foccardi / regia video Ivonne Capece / regia Gianluigi Gherzi C’è un’isola. Su quell’isola migliaia e migliaia di uccelli arrivano ogni primavera. Trovano rifugio tra le rocce degli antichi vulcani. Si preparano a deporre le uova, per poi ripartire. L’isola è un mondo a parte. Da sempre. Abitata da pochi pescatori ostinati. Da chi cerca di strappare alle rocce spazio per coltivare. Da chi sa che niente",
-      "image_url": null,
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064227-80034.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html"
@@ -4853,22 +4901,6 @@
         "https://www.trentinospettacoli.it/eventi/lapocalisse-4/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "9e55d4435cd8",
-      "title": "Toni, mio padre",
-      "date": "2026-03-03",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064110-5558.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/toni-mio-padre.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/toni-mio-padre.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4953,38 +4985,6 @@
       "is_past": false
     },
     {
-      "id": "f197e9960aa8",
-      "title": "MM Contemporary Dance Company - The Wall_Dance Tribute",
-      "date": "2026-03-05",
-      "time": "20:30",
-      "venue": "Teatro Comunale, Piazza Verdi, Bolzano",
-      "location": "Bolzano",
-      "description": "Coreografia Michele Merola / regia Manuel Renga / musica Pink Floyd / regia video Fabio Massimo Iaquone / drammaturgia Emanuele Aldrovandi / luci Gessica Germini / costumi Nuvia Valestri / attore Jacopo Trebbi / danzatori Filippo Begnozzi, Mario Genovese, Paolo Giovanni Grosso, Aurora Lattanzi, Fabiana Lonardo, Federico Musumeci, Giorgia Raffetto, Alice Ruspaggiari, Diletta Savini, Nicola Stasi, Giuseppe Villarosa / produzione Fondazione Teatro Comunale di Ferrara, Fondazione I Teatri di Reggio ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063485-062070-061872-999944.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b504294a5505",
-      "title": "\"Gaber. Mi fa male il mondo\" con Neri Marcorè",
-      "date": "2026-03-05",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Con Neri Marcorè / da Giorgio Gaber e Sandro Luporini / drammaturgia e regia Giorgio Gallione / arrangiamenti e direzione musicale Paolo Silvestri / lighting designer Marco Filibeck / scene e costumi Guido Fiorato pianisti (o.a.) Eugenia Canale, Lorenzo Fiorentini, Eleonora Lana, Francesco Negri / produzione Teatro Stabile di Bolzano, Teatro della Toscana / in collaborazione con Fondazione Giorgio Gaber e Centro Servizi Culturali Santa Chiara Stagione del Teatro Sociale Neri Marcorè, assieme al ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063434-99943.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "df166472b7ae",
       "title": "Le Indie de qua",
       "date": "2026-03-05",
@@ -5047,22 +5047,6 @@
         "https://www.cultura.trentino.it/content/view/full/739816"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "947e9acf23ef",
-      "title": "Foyer della Prosa / Gaber. Mi fa male il mondo",
-      "date": "2026-03-06",
-      "time": "17:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/062146-990909.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-gaber-mi-fa-male-il-mondo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-gaber-mi-fa-male-il-mondo.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5159,6 +5143,22 @@
         "https://www.teatrodipergine.it/cinema/2815-marty-supreme"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a538778c17c5",
+      "title": "L'invisibile filo rosso",
+      "date": "2026-03-06",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063973-0394332.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/linvisibile-filo-rosso_119940_119942_120141.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/linvisibile-filo-rosso_119940_119942_120141.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
