@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-23T06:02:56.900539+00:00",
-  "count": 425,
+  "last_updated": "2026-02-23T17:58:13.684228+00:00",
+  "count": 427,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4087,22 +4087,6 @@
       "is_past": false
     },
     {
-      "id": "e39ed9126a9b",
-      "title": "Piratesse",
-      "date": "2026-03-01",
-      "time": "16:30",
-      "venue": "Teatro di Cembra",
-      "location": "Cembra Lisignago",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/piratesse/",
-      "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/piratesse/"
-      ],
-      "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
       "id": "e479b870d470",
       "title": "Tra i lumini e i fiorellini",
       "date": "2026-03-01",
@@ -5994,6 +5978,22 @@
       "is_past": false
     },
     {
+      "id": "4bcd746af993",
+      "title": "Piratesse",
+      "date": "2026-03-22",
+      "time": "17:00",
+      "venue": "Teatro di Cembra",
+      "location": "Cembra Lisignago",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/piratesse/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/piratesse/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "80cfacb6e888",
       "title": "1e95",
       "date": "2026-03-22",
@@ -6316,6 +6316,22 @@
       "is_past": false
     },
     {
+      "id": "9a2375f90868",
+      "title": "Voci d'autore",
+      "date": "2026-04-04",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/vocidautore.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2822-voci-d-autore",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2822-voci-d-autore"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "d1dda166afd7",
       "title": "Lapocalisse",
       "date": "2026-04-07",
@@ -6362,6 +6378,22 @@
         "https://www.cultura.trentino.it/content/view/full/730343"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "56ddacb187d0",
+      "title": "Braidus in rock",
+      "date": "2026-04-10",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/braidusinrock1.jpeg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2823-braidus-in-rock",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2823-braidus-in-rock"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
