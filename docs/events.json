@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T05:56:02.699396+00:00",
-  "count": 427,
+  "last_updated": "2026-02-24T17:54:02.340152+00:00",
+  "count": 428,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3581,7 +3581,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/autumnsgoddess0-balloons-991680_1920/27894588-1-ita-IT/autumnsgoddess0-balloons-991680_1920_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736633",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736633"
@@ -3805,27 +3805,11 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Trame di Comunità | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/28-febbraio-2026-1/27867362-1-ita-IT/28-FEBBRAIO-2026-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743907",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743907",
         "https://www.cultura.trentino.it/content/view/full/743661"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "58a5b99c1ccc",
-      "title": "Manhattan project",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736995",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736995"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3938,6 +3922,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/744357",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744357"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "58a5b99c1ccc",
+      "title": "Manhattan project",
+      "date": "2026-02-28",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736995",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736995"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4162,6 +4162,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739270",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739270"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e99a89b9adaf",
+      "title": "A fil di cielo",
+      "date": "2026-03-02",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744923",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744923"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
