@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T17:54:02.340152+00:00",
-  "count": 428,
+  "last_updated": "2026-02-25T05:58:07.785967+00:00",
+  "count": 426,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3461,69 +3461,20 @@
       "is_past": true
     },
     {
-      "id": "ab139d7013de",
-      "title": "I calchi di Pompei, una lezione recitata allo Spazio Archeologico Sotterraneo del Sas",
-      "date": "2026-02-24",
-      "time": "17:30",
-      "venue": "Spazio Archeologico Sotterraneo del Sas",
-      "location": "Trento",
-      "description": "ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sass_foto-jacopo-salvi_archivio-ufficio-beni-archeologici-pat_22/27884057-1-ita-IT/SASS_foto-Jacopo-Salvi_Archivio-Ufficio-beni-archeologici-PAT_2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744498",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744498"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "2b274e30b31a",
       "title": "Guarda le luci, amore mio",
       "date": "2026-02-24",
       "time": "20:30",
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
-      "description": "Teatro Zandonai – Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-132825/27724276-1-ita-IT/Immagine-2025-10-22-132825_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738935",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/guarda-le-luci-amore-mio/",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738935",
         "https://www.trentinospettacoli.it/eventi/guarda-le-luci-amore-mio/"
       ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "85cfe9c73ac8",
-      "title": "Love",
-      "date": "2026-02-24",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063368-90093443.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/love.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/love.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "6624d18d0df5",
-      "title": "La sedia di lillà",
-      "date": "2026-02-24",
-      "time": "21:00",
-      "venue": "Palacongressi di Riva del Garda",
-      "location": "Riva del Garda",
-      "description": "Teatro di Riva del Garda | Stagione 2025/2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/la-sedia-di-lilla/27719332-1-ita-IT/la-sedia-di-lilla_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738764",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738764"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "source_name": "trentinospettacoli.it",
+      "is_past": true
     },
     {
       "id": "1a45f149dae0",
@@ -3539,23 +3490,7 @@
         "https://www.trentinospettacoli.it/eventi/la-sedia-di-lilla-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "6992786f64e7",
-      "title": "I Legnanesi \"Promessa d'amore\"",
-      "date": "2026-02-24",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064226-90102.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/i-legnanesi-promessa-damore.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/i-legnanesi-promessa-damore.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2c2927c94e80",
@@ -3918,7 +3853,7 @@
       "venue": "Teatro San Floriano di Lizzana",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-350/27882053-1-ita-IT/sfondo-ocra-350_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744357",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744357"
@@ -3934,7 +3869,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736995",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736995"
@@ -4873,6 +4808,22 @@
       "is_past": false
     },
     {
+      "id": "a36644c0503a",
+      "title": "Esercizi di fantastica - Sosta Palmizi",
+      "date": "2026-03-08",
+      "time": "16:00",
+      "venue": "Teatro Comunale, Piazza Garibaldi 5/g, Pergine Valsugana (Tn)",
+      "location": "Pergine Valsugana",
+      "description": "Da un’idea di Giorgio Rossi / una creazione di Elisa Canessa, Federico Dimitri, Francesco Manenti, Giorgio Rossi / interpreti Elisa Canessa, Federico Dimitri e Francesco Manenti / scenografie Francesco Givone, Francesco Manenti, Francesca Lombardi / costumi Beatrice Giannini, Francesca Lombardi / illustrazioni Francesco Manenti / disegno luci Elena Tedde / esecuzione tecnica Massimiliano Ferrari, Sascha Chimenti / produzione Associazione Sosta Palmizi / con il contributo di MiBACT e Regione Tosc",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063486-062070-061872-999944.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/esercizi-di-fantastica-sosta-palmizi.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/esercizi-di-fantastica-sosta-palmizi.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "0352765591c4",
       "title": "Papero Alfredo - Teatro Giovani Teatro Pirata",
       "date": "2026-03-08",
@@ -4982,6 +4933,22 @@
         "https://www.teatrodipergine.it/cinema/2799-sentimental-value-cineforum"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "9ba7ade669c5",
+      "title": "Sirat",
+      "date": "2026-03-10",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063596-8043.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
