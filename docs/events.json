@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T17:54:55.485889+00:00",
-  "count": 428,
+  "last_updated": "2026-02-27T05:47:49.840169+00:00",
+  "count": 426,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3493,54 +3493,6 @@
       "is_past": true
     },
     {
-      "id": "2c2927c94e80",
-      "title": "Tripula | Farrés Brothers i Cia",
-      "date": "2026-02-25",
-      "time": "09:00",
-      "venue": "Teatro Sanbàpolis",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 9.00 e 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739265",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739265"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "5408a1d9111f",
-      "title": "Comizi d'amore",
-      "date": "2026-02-26",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/autumnsgoddess0-balloons-991680_1920/27894588-1-ita-IT/autumnsgoddess0-balloons-991680_1920_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736633",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736633"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "31e43a2893bc",
-      "title": "No Vabbè Mi Adoro - Katia Follesa",
-      "date": "2026-02-26",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/no-vabbe-mi-adoro-katia-follesa.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/no-vabbe-mi-adoro-katia-follesa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "d38129039509",
       "title": "Marty Supreme",
       "date": "2026-02-27",
@@ -3965,7 +3917,7 @@
       "venue": "Cinema Teatro di Cembra Lisignago",
       "location": "Cembra Lisignago",
       "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-160627/27720666-1-ita-IT/Immagine-2025-10-21-160627_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738814",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738814"
@@ -3981,7 +3933,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Teatro a gonfie vele 2025/2026 | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2992/27809264-1-ita-IT/sfondo-ocra-299_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/742012",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/742012"
@@ -4963,6 +4915,22 @@
       "source_url": "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html",
       "source_urls": [
         "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "caf8fa608165",
+      "title": "Gavin Friday – Ecce Homo",
+      "date": "2026-03-10",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
+      "location": "Trento",
+      "description": "Il sessantaquattrenne cantautore irlandese, figura leggendaria della scena post-punk internazionale, ed ex frontman dei Virgin Prunes, farà tappa all’Auditorium S. Chiara di Trento martedì 10 marzo 2026 per presentare al pubblico italiano il suo ultimo lavoro discografico, “Ecce Homo”. Nella biblioteca dalle pareti rosse della casa di Gavin Friday nel centro di Dublino, un sacro cuore pende dal soffitto bianco. Il totem di vetro era un regalo di benvenuto quando Friday è tornato nel centro della",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063023-gavin-santachiara.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
