@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:30:37.544168+00:00",
+  "last_updated": "2026-02-28T17:16:28.429422+00:00",
   "count": 420,
   "events": [
     {
@@ -3933,7 +3933,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739270",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739270"
@@ -4719,7 +4719,7 @@
       "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
       "location": "Rovereto",
       "description": "Lo spettacolo fa parte del progetto W la domenica! Le giornate per le famiglie al Mart",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/062149-45554.jpg",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064339-papero.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/papero-alfredo-teatro-giovani-teatro-pirata.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/papero-alfredo-teatro-giovani-teatro-pirata.html"
@@ -4792,6 +4792,22 @@
       "is_past": false
     },
     {
+      "id": "37e77738072c",
+      "title": "Trento e Lode - Episodio 1",
+      "date": "2026-03-10",
+      "time": "19:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Ingresso libero / Progetto in collaborazione con ATU Trento e Amor Vacui / Evento organizzato da Centro Santa Chiara e Opera Universitaria Trento",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064351-00333.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-1.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-1.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "542c04b9ae1a",
       "title": "Sentimental Value",
       "date": "2026-03-10",
@@ -4819,22 +4835,6 @@
       "source_url": "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html",
       "source_urls": [
         "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "caf8fa608165",
-      "title": "Gavin Friday – Ecce Homo",
-      "date": "2026-03-10",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
-      "location": "Trento",
-      "description": "Il sessantaquattrenne cantautore irlandese, figura leggendaria della scena post-punk internazionale, ed ex frontman dei Virgin Prunes, farà tappa all’Auditorium S. Chiara di Trento martedì 10 marzo 2026 per presentare al pubblico italiano il suo ultimo lavoro discografico, “Ecce Homo”. Nella biblioteca dalle pareti rosse della casa di Gavin Friday nel centro di Dublino, un sacro cuore pende dal soffitto bianco. Il totem di vetro era un regalo di benvenuto quando Friday è tornato nel centro della",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063023-gavin-santachiara.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
