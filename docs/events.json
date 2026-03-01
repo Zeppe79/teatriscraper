@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T17:16:28.429422+00:00",
-  "count": 420,
+  "last_updated": "2026-03-01T05:48:14.006407+00:00",
+  "count": 398,
   "events": [
     {
       "id": "06d96a048e56",
@@ -336,22 +336,6 @@
         "https://www.teatrodivillazzano.it/2024/04/04/festival-tabu-2024-_-la-fine-inizio/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "541c6a87b0a3",
-      "title": "Grand Prix",
-      "date": "2025-02-08",
-      "time": "16:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cinema",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/grandprix1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2806-grand-prix",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2806-grand-prix"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -2773,22 +2757,6 @@
       "is_past": true
     },
     {
-      "id": "cd96eb0c10a7",
-      "title": "Tartarughe. Due di tutto",
-      "date": "2026-02-01",
-      "time": "16:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Ragazzi",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/tartarughe1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2716-tartarughe-due-di-tutto",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2716-tartarughe-due-di-tutto"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "122e9ea11553",
       "title": "RAVANELLINA",
       "date": "2026-02-01",
@@ -2837,22 +2805,6 @@
       "is_past": true
     },
     {
-      "id": "1f01845e8c4b",
-      "title": "Orfeo",
-      "date": "2026-02-03",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cineforum Effetto Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/orfeo1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2794-orfeo-cineforum",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2794-orfeo-cineforum"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "f08a2b251afa",
       "title": "Lu santo jullare Francesco",
       "date": "2026-02-03",
@@ -2866,22 +2818,6 @@
         "https://www.trentinospettacoli.it/eventi/lu-santo-jullare-francesco/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "78bbc141f59e",
-      "title": "Morte accidentale di un anarchico",
-      "date": "2026-02-04",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Stagione Comune di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/morteaccidentalediunanarchico1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2692-morte-accidentale-di-un-anarchico",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2692-morte-accidentale-di-un-anarchico"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -2917,22 +2853,6 @@
       "is_past": true
     },
     {
-      "id": "8c84d082e3d2",
-      "title": "Cinque secondi",
-      "date": "2026-02-06",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cinema",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/cinquesecondi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "ceb92f8f0597",
       "title": "Sfìdati di me",
       "date": "2026-02-06",
@@ -2946,22 +2866,6 @@
         "https://www.trentinospettacoli.it/eventi/sfidati-di-me/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "4c1e3c2a55b3",
-      "title": "Storia della canzone dagli anni '40 ai giorni nostri",
-      "date": "2026-02-07",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Altri eventi - Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/bandaaldeno1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2729-storia-della-canzone-dagli-anni-40-ai-giorni-nostri",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2729-storia-della-canzone-dagli-anni-40-ai-giorni-nostri"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -3045,70 +2949,6 @@
       "is_past": true
     },
     {
-      "id": "fe52a7f957ca",
-      "title": "Cinque secondi",
-      "date": "2026-02-08",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cinema",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/cinquesecondi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2810-cinque-secondi"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "0ba570b93aac",
-      "title": "L'anno nuovo che non arriva",
-      "date": "2026-02-10",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cineforum Effetto Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lannonuovochenonarriva1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2795-l-anno-nuovo-che-non-arriva-cineforum",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2795-l-anno-nuovo-che-non-arriva-cineforum"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "29dc8a32e69e",
-      "title": "Secondo lei",
-      "date": "2026-02-11",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Stagione Comune di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/secondolei1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2693-secondo-lei",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2693-secondo-lei"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "95e22f9909d0",
-      "title": "Orchestra Haydn di Bolzano e Trento",
-      "date": "2026-02-12",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/orchestrahaydn1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2724-orchestra-haydn-12-febbraio",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2724-orchestra-haydn-12-febbraio"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "52fbac6ad907",
       "title": "Flyover country",
       "date": "2026-02-12",
@@ -3122,22 +2962,6 @@
         "https://www.trentinospettacoli.it/eventi/flyover-country-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "db9033648a8c",
-      "title": "Attitudini: nessuna",
-      "date": "2026-02-13",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/attitudininessuna1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2820-attituini-nessuna",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2820-attituini-nessuna"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -3250,22 +3074,6 @@
         "https://www.trentinospettacoli.it/eventi/tra-le-scatoleclown-street-show-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "8ee51fed4f1d",
-      "title": "Attitudini: nessuna",
-      "date": "2026-02-15",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/attitudininessuna1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2820-attituini-nessuna",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2820-attituini-nessuna"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -3493,38 +3301,6 @@
       "is_past": true
     },
     {
-      "id": "9ab52343eb2d",
-      "title": "A place of safety",
-      "date": "2026-02-27",
-      "time": "20:30",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-114012/27755530-1-ita-IT/Screenshot-2025-11-05-114012_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739951",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739951"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "359d7a81e006",
-      "title": "Kepler-452 - A place of safety",
-      "date": "2026-02-27",
-      "time": "20:30",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Spettacolo in italiano, inglese, spagnolo e portoghese con sovratitoli / Spettacolo vincitore premio UBU 2025 \"Miglior spettacolo teatrale\"",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064108-2092.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-place-of-safety_118859.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/a-place-of-safety_118859.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "ac87291858ed",
       "title": "Dalser. La Mussolina",
       "date": "2026-02-27",
@@ -3541,167 +3317,6 @@
       "is_past": true
     },
     {
-      "id": "999870eb4f6f",
-      "title": "INnaturale",
-      "date": "2026-02-28",
-      "time": "16:30",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La famiglia va a Teatro 2025/2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sito-sanmarco-eventi-quadrati-22/27692699-1-ita-IT/SITO-SanMarco-eventi-quadrati-2_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/737752",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737752"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a2367055b145",
-      "title": "I capelli dell’Orco",
-      "date": "2026-02-28",
-      "time": "16:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Trame di Comunità | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/28-febbraio-2026-1/27867362-1-ita-IT/28-FEBBRAIO-2026-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743907",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743907",
-        "https://www.cultura.trentino.it/content/view/full/743661"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "17ef0b69029e",
-      "title": "Parenti serpenti",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "Cinema Teatro Monte Baldo",
-      "location": "Brentonico",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743934",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743934"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7f73fa5c7157",
-      "title": "La famiglia Bruscolin",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "Auditorium di Moscheri ",
-      "location": "Trambileno",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743953",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743953"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "88e5d2039f17",
-      "title": "Feisbuc sisters cianel",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Avio",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743930",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743930"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "773b7433680a",
-      "title": "L'algeri, lè vegnù algeri",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Ala",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743927",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743927"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5eec07749d4f",
-      "title": "E' afondà l'embarcadero",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Villa Lagarina",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743960",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743960"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7ade0aa67f01",
-      "title": "Tre papà e un bebé",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "Teatro San Floriano di Lizzana",
-      "location": "Rovereto",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743980",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743980"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "acc69a79e33a",
-      "title": "Tre papà e un bebè  | Sipario d'Oro 2026",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "Teatro San Floriano di Lizzana",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-350/27882053-1-ita-IT/sfondo-ocra-350_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744357",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744357"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "58a5b99c1ccc",
-      "title": "Manhattan project",
-      "date": "2026-02-28",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736995",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736995"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "1b4a3779a478",
       "title": "«On Air!»",
       "date": "2026-02-28",
@@ -3715,7 +3330,7 @@
         "https://www.trentinospettacoli.it/eventi/on-air-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "53a1ea72e2db",
@@ -3731,23 +3346,7 @@
         "https://www.trentinospettacoli.it/eventi/le-indie-de-quafede-potere-e-superstizione-ai-tempi-del-concilio-di-trento-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "6bf9e0291e62",
-      "title": "Giovanni Lindo Ferretti in \"Percuotendo. In cadenza\"",
-      "date": "2026-02-28",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
-      "location": "Trento",
-      "description": "Cantante, autore e scrittore, Ferretti è stato tra i fondatori dei CCCP Fedeli alla Linea – tornati recentemente in tour con grande successo – e del Consorzio Suonatori Indipendenti (CSI), due band che hanno segnato la storia del punk e del rock alternativo italiano. A Trento presenterà il suo nuovo spettacolo “Percuotendo. In cadenza”, un viaggio tra musica e parola, dove il racconto personale si intreccia con suoni, ritmo e poesia. Sul palco sarà accompagnato da Simone Beneventi (percussioni) ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/062608-9994334.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/giovanni-lindo-ferretti-in-percuotendo-in-cadenza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/giovanni-lindo-ferretti-in-percuotendo-in-cadenza.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e0460739a239",
@@ -3933,7 +3532,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739270",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739270"
@@ -4029,7 +3628,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737017",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737017"
@@ -4045,7 +3644,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Stagione Teatro Sociale 2025/2026 | il 5 e il 6 marzo alle ore 20.30\nil 7 marzo alle ore 18.00\nl'8 marzo alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736215",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736215"
@@ -4061,7 +3660,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736634",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736634"
@@ -4077,7 +3676,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "Teatro Zandonai – Stagione 2025/2026 | ore 20.30",
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-133016/27724332-1-ita-IT/Immagine-2025-10-22-133016_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738937",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738937",
@@ -4142,7 +3741,7 @@
       "venue": "Palacongressi di Riva del Garda",
       "location": "Riva del Garda",
       "description": "Teatro di Riva del Garda | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/le-indie-de-qua/27719388-1-ita-IT/le-indie-de-qua_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738766",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738766"
@@ -4190,7 +3789,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 11.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737016",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737016",
@@ -4207,7 +3806,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foyer.-gaber/27751645-1-ita-IT/Foyer.-Gaber_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739816",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739816"
@@ -4255,7 +3854,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736987",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736987"
@@ -4271,7 +3870,7 @@
       "venue": "",
       "location": "Pomarolo",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743950",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743950"
@@ -4287,7 +3886,7 @@
       "venue": "Cinema Teatro Concordia di Volano",
       "location": "Volano",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743966",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743966"
@@ -4303,7 +3902,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743972",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743972"
@@ -4840,6 +4439,22 @@
       "is_past": false
     },
     {
+      "id": "caf8fa608165",
+      "title": "Gavin Friday – Ecce Homo",
+      "date": "2026-03-10",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
+      "location": "Trento",
+      "description": "Il sessantaquattrenne cantautore irlandese, figura leggendaria della scena post-punk internazionale, ed ex frontman dei Virgin Prunes, farà tappa all’Auditorium S. Chiara di Trento martedì 10 marzo 2026 per presentare al pubblico italiano il suo ultimo lavoro discografico, “Ecce Homo”. Nella biblioteca dalle pareti rosse della casa di Gavin Friday nel centro di Dublino, un sacro cuore pende dal soffitto bianco. Il totem di vetro era un regalo di benvenuto quando Friday è tornato nel centro della",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063023-gavin-santachiara.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "6dd492b467db",
       "title": "Opera Haydn - Note to a friend",
       "date": "2026-03-11",
@@ -4853,6 +4468,22 @@
         "https://www.cultura.trentino.it/content/view/full/739954"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "98313ee2bb27",
+      "title": "Note to a friend",
+      "date": "2026-03-11",
+      "time": "20:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada 80-88, Trento",
+      "location": "Trento",
+      "description": "Lo spettacolo è in inglese con sovratitoli in italiano e tedesco",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/061622-like.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/note-to-a-friend_115837_120294.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/note-to-a-friend_115837_120294.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6726,6 +6357,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743944"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "478e9065df01",
+      "title": "I tre giganti",
+      "date": "2026-05-30",
+      "time": "17:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744214",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
