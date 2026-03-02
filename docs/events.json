@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T17:18:37.351475+00:00",
-  "count": 398,
+  "last_updated": "2026-03-02T05:48:35.031402+00:00",
+  "count": 392,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3349,38 +3349,6 @@
       "is_past": true
     },
     {
-      "id": "e0460739a239",
-      "title": "DOC - comicamente disturbati",
-      "date": "2026-03-01",
-      "time": "16:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/comicamente-disturbati/27812061-1-ita-IT/comicamente-disturbati_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/742081",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/742081"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "608d71c0b20f",
-      "title": "Acquerello, il mio asinello",
-      "date": "2026-03-01",
-      "time": "16:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736667",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736667"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "1b208e528800",
       "title": "Acquerello, il mio asinello",
       "date": "2026-03-01",
@@ -3394,39 +3362,7 @@
         "https://www.teatrodipergine.it/ragazzi/2717-acquerello-il-mio-asinello-25"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "4ca30be45617",
-      "title": "Piratesse",
-      "date": "2026-03-01",
-      "time": "16:30",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-160627/27720666-1-ita-IT/Immagine-2025-10-21-160627_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738814",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738814"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "618a06b95a96",
-      "title": "Pinocchio",
-      "date": "2026-03-01",
-      "time": "16:30",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Teatro a gonfie vele 2025/2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2992/27809264-1-ita-IT/sfondo-ocra-299_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/742012",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/742012"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2c2f48d61e44",
@@ -3442,23 +3378,7 @@
         "https://www.trentinospettacoli.it/eventi/pinocchio/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "e479b870d470",
-      "title": "Tra i lumini e i fiorellini",
-      "date": "2026-03-01",
-      "time": "17:00",
-      "venue": "Teatro Sant'Anna di Vallarsa",
-      "location": "Vallarsa",
-      "description": "Sipario d'Oro 2026 | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743957",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743957"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "192c1456c0c0",
@@ -3474,23 +3394,7 @@
         "https://www.trentinospettacoli.it/eventi/cavoli-a-merenda-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "f39539c995de",
-      "title": "La piccola Amèlie",
-      "date": "2026-03-01",
-      "time": "17:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063328-4454.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/la-piccola-amelie_118696_118778_118780_119741.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/la-piccola-amelie_118696_118778_118780_119741.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "4aad16c4d084",
@@ -3506,23 +3410,7 @@
         "https://www.trentinospettacoli.it/eventi/il-lungo-giorno-di-mastro-ezechiele-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "17f7b683f66c",
-      "title": "M.other",
-      "date": "2026-03-01",
-      "time": "20:30",
-      "venue": "",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mother2/27897546-1-ita-IT/mother_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744992",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744992"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fbf362528e68",
@@ -3918,7 +3806,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3272/27881969-1-ita-IT/sfondo-ocra-327_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744346",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744346"
@@ -3982,7 +3870,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "Forza quattro! | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-209/27659694-1-ita-IT/sfondo-ocra-209_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736698",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736698"
@@ -3998,7 +3886,7 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Trame di Comunità | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/7-marzo-2026-2/27868661-1-ita-IT/7-marzo-2026-2_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743946",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743946"
@@ -4014,7 +3902,7 @@
       "venue": "Cinema Teatro Monte Baldo",
       "location": "Brentonico",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743935",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743935"
@@ -4030,7 +3918,7 @@
       "venue": "Teatro Giacomo Sartori",
       "location": "Ala",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743929",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743929"
@@ -4046,7 +3934,7 @@
       "venue": "Auditorium di Moscheri ",
       "location": "Trambileno",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743954",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743954"
@@ -4564,6 +4452,22 @@
         "https://www.trentinospettacoli.it/eventi/toccando-il-vuoto/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "a23d12ac731f",
+      "title": "Marco Travaglio - Cornuti e Contenti\"",
+      "date": "2026-03-11",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Dopo aver denunciato tante volte la mala-politica e la mala-informazione, penso che sia venuto il momento di guardarci allo specchio e cercare le nostre magagne. Perché milioni di italiani votano sempre per chi poi li tradisce, o addirittura li ha già traditi e si propone di rifarlo? Perché milioni di persone premiano, dalla carta stampata ai social, dalla televisione alla radio, quei media e quei programmi che sfornano sistematicamente bufale e bugie? Se veniamo continuamente truffati da politi",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064342-063543-99.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026marco-travaglio-cornuti-e-contenti.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026marco-travaglio-cornuti-e-contenti.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
