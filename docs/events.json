@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T05:48:35.031402+00:00",
-  "count": 392,
+  "last_updated": "2026-03-02T17:40:51.789208+00:00",
+  "count": 393,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3357,9 +3357,9 @@
       "location": "Pergine Valsugana",
       "description": "Teatro Ragazzi",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/acquerello1.jpg",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2717-acquerello-il-mio-asinello-25",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2717-acquerello-il-mio-asinello-25",
       "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2717-acquerello-il-mio-asinello-25"
+        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2717-acquerello-il-mio-asinello-25"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -5045,6 +5045,22 @@
         "https://www.cultura.trentino.it/content/view/full/739962"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "44fbb203dac7",
+      "title": "ERETICI MAESTRI",
+      "date": "2026-03-19",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/eretici-maestristrani-discorsi-sulla-cultura/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/eretici-maestristrani-discorsi-sulla-cultura/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
