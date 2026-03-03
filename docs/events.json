@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T17:40:51.789208+00:00",
-  "count": 393,
+  "last_updated": "2026-03-03T05:45:00.856994+00:00",
+  "count": 392,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3426,39 +3426,7 @@
         "https://www.cultura.trentino.it/content/view/full/739270"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e99a89b9adaf",
-      "title": "A fil di cielo",
-      "date": "2026-03-02",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3503/27895110-1-ita-IT/sfondo-ocra-350_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744923",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744923"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "79d9dda83342",
-      "title": "A fil di cielo - Fondazione Solares delle Arti",
-      "date": "2026-03-02",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Di Gianluigi Gherzi / con Giuseppe Semeraro e Maria Vittoria Barrella / riprese video Marcella Foccardi / regia video Ivonne Capece / regia Gianluigi Gherzi C’è un’isola. Su quell’isola migliaia e migliaia di uccelli arrivano ogni primavera. Trovano rifugio tra le rocce degli antichi vulcani. Si preparano a deporre le uova, per poi ripartire. L’isola è un mondo a parte. Da sempre. Abitata da pochi pescatori ostinati. Da chi cerca di strappare alle rocce spazio per coltivare. Da chi sa che niente",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064259-afildicielo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/a-fil-di-cielo-fondazione-solares-delle-arti.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e529f806b050",
@@ -3950,7 +3918,7 @@
       "venue": "",
       "location": "Isera",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743936",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743936"
@@ -4420,6 +4388,22 @@
         "https://www.trentinospettacoli.it/eventi/gioco-da-ragazzi/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "a7cf89adce78",
+      "title": "Cosmos - eVolution Dance Theater",
+      "date": "2026-03-11",
+      "time": "20:30",
+      "venue": "Teatro Puccini, Merano (Bz)",
+      "location": "Merano",
+      "description": "Direttore artistico e coreografo, Anthony Heinl / Co-direttrice artistica e coreografa, Nadessja Casavecchia / Light designer e direttore tecnico, Adriano Pisi / Direzione di palco, Paolo Ruda e Tommaso Contu / Laser effects, Simone Sparky / Costumi, Daniela Molinini / Management Live Arts, Management Cosmos conduce in un viaggio emozionante attraverso l’immensità dello spazio, tra pianeti e stelle ipnotiche che si muovono fra luce e ombra. Tra armonia e solitudine cosmica, lo spettacolo esplora",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063493-11.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
