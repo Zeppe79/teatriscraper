@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T05:45:00.856994+00:00",
-  "count": 392,
+  "last_updated": "2026-03-03T17:40:02.406810+00:00",
+  "count": 408,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3509,22 +3509,6 @@
       "is_past": false
     },
     {
-      "id": "773fb0de1662",
-      "title": "Tre sull'altalena",
-      "date": "2026-03-05",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736634",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736634"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "eb8a7a374f79",
       "title": "Kind of Miles",
       "date": "2026-03-05",
@@ -3537,6 +3521,22 @@
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738937",
         "https://www.trentinospettacoli.it/eventi/kind-of-miles/"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "773fb0de1662",
+      "title": "Tre sull'altalena",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina2/27905019-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736634",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736634"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3703,22 +3703,6 @@
       "is_past": false
     },
     {
-      "id": "21c60a8991d0",
-      "title": "Un giorno di fuoco",
-      "date": "2026-03-06",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736987",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736987"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c809a34f332b",
       "title": "Come due angeli sul cornicione, c'eravamo troppo amati",
       "date": "2026-03-06",
@@ -3783,6 +3767,38 @@
       "is_past": false
     },
     {
+      "id": "e8936a1abdc4",
+      "title": "Puttana",
+      "date": "2026-03-06",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736987",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736987"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a6a269ec8ded",
+      "title": "Due di noi",
+      "date": "2026-03-06",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Castellano",
+      "location": "Villa Lagarina",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-248/27730317-1-ita-IT/sfondo-ocra-248_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745252",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745252"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "75fd223c343b",
       "title": "Marty Supreme",
       "date": "2026-03-06",
@@ -3812,6 +3828,38 @@
         "https://www.crushsite.it/it/cinema/2026/linvisibile-filo-rosso_119940_119942_120141.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "bb39394f12d5",
+      "title": "“… lasciando sospesa nell’aria una scia di festosi richiami”",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "venue": "Palazzo delle Albere",
+      "location": "Trento",
+      "description": "In vista dello scatto | ore 11.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745247",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745247"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ef18b300db53",
+      "title": "La fabbrica del trucco imperfetto",
+      "date": "2026-03-07",
+      "time": "16:00",
+      "venue": "Cinema Teatro Rosmini",
+      "location": "Rovereto",
+      "description": "ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745265",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745265"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3905,7 +3953,8 @@
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743954",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743954"
+        "https://www.cultura.trentino.it/content/view/full/743954",
+        "https://www.cultura.trentino.it/content/view/full/745253"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3918,7 +3967,7 @@
       "venue": "",
       "location": "Isera",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/743936",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743936"
@@ -3991,6 +4040,38 @@
       "is_past": false
     },
     {
+      "id": "5d3632f34ca8",
+      "title": "Come narala a finir?",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745255",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745255"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d64b8a455091",
+      "title": "Con tut el ben che te vòi",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745254",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745254"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d5bf8e40fd0d",
       "title": "Da Greco a Levante. Nevà Quartet",
       "date": "2026-03-07",
@@ -4020,6 +4101,150 @@
         "https://www.crushsite.it/it/danza-teatro/2026/lucio-gardin-amore-e-altri-disastri.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "78d30964b1c1",
+      "title": "Sinistra o destra stessa minestra",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Cinema teatro oratorio di Dro",
+      "location": "Dro",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745262",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745262"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bd6356e57c6a",
+      "title": "‘Na gabia de mati",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Teatro San Gottardo di Mezzocorona",
+      "location": "Mezzocorona",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745259",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745259"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bbdc878985af",
+      "title": "Na malga par .. doe! Stavolta el malgaro l’ha ciapà na n’cavicià",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Teatro Monsignor Caproni di Levico",
+      "location": "Levico Terme",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745258",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745258"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8727588ace8b",
+      "title": "Coppie scoppiate",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Teatro San Domenico Savio di Olle",
+      "location": "Borgo Valsugana",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745260",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745260"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e7ff14f14f7d",
+      "title": "Ajò!",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Rumo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745256",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745256"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "48499ed69468",
+      "title": "Meno male che oggi è venerdì",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745261",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745261"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fef57c8f5c6e",
+      "title": "Tuti boni de ciacerar",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745257",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745257"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "86e3f832a7be",
+      "title": "La pazienza del signor prevosto",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "venue": "Auditorium Casa della Gioventù di Predazzo",
+      "location": "Predazzo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745263",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745263"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "935309690356",
+      "title": "Vizini de casa",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745264",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745264"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4162,6 +4387,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/736246",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736246"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d99874a18270",
+      "title": "Cabaret",
+      "date": "2026-03-08",
+      "time": "16:30",
+      "venue": "Cinema Teatro Dolomiti di Coredo",
+      "location": "Predaia",
+      "description": "ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745266",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745266"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4850,6 +5091,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739011",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739011"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2da646adb6a9",
+      "title": "“… lasciando sospesa nell’aria una scia di festosi richiami”",
+      "date": "2026-03-15",
+      "time": "17:00",
+      "venue": "Palazzo delle Albere",
+      "location": "Trento",
+      "description": "In vista dello scatto | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745249",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745249"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
