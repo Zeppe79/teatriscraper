@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:40:06.989471+00:00",
+  "last_updated": "2026-03-04T17:35:27.352671+00:00",
   "count": 407,
   "events": [
     {
@@ -3421,9 +3421,9 @@
       "location": "Pergine Valsugana",
       "description": "Cineforum Effetto Festival",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lapiccolaamelie1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2798-la-piccola-amelie-cineforum",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2798-la-piccola-amelie-cineforum",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2798-la-piccola-amelie-cineforum"
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2798-la-piccola-amelie-cineforum"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4264,22 +4264,6 @@
       "is_past": false
     },
     {
-      "id": "82e575bcf04e",
-      "title": "Esercizi di fantastica",
-      "date": "2026-03-08",
-      "time": "16:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "C:SC Circuito Danza 2025/2026 | Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736668",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736668"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "65b7bf673aa1",
       "title": "Un colpo quasi (*) perfetto",
       "date": "2026-03-08",
@@ -4291,6 +4275,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/742083",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/742083"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "82e575bcf04e",
+      "title": "Esercizi di fantastica",
+      "date": "2026-03-08",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "C:SC Circuito Danza 2025/2026 | Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736668",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736668"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4693,22 +4693,6 @@
         "https://www.cultura.trentino.it/content/view/full/736216"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d24b4fa412b1",
-      "title": "Come gli uccelli",
-      "date": "2026-03-12",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Di Wajdi Mouawad / consulente storico Natalie Zemon Davis / traduzione di Monica Capuani / dal testo originale Tous des oiseaux / adattamento di Lorenzo De Iacovo e Marco Lorenzi / regia di Marco Lorenzi / con Federico Palumeri, Barbara Mazzi, Irene Ivaldi, Francesca Osso, Rebecca Rossetti, Aleksandar Cvjetković, Elio D’Alessandro, Said Esserairi, Raffaele Musella / assistente alla regia Lorenzo De Iacovo dramaturg Monica Capuani / scenografia e costumi Gregorio Zurla / disegno luci Umberto Cam",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063435-comeuccellicsc.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5831,6 +5815,22 @@
         "https://www.cultura.trentino.it/content/view/full/744342"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8c20cf25bad5",
+      "title": "Rental Family - Nelle Vite degli Altri",
+      "date": "2026-03-27",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064203-900344.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/rental-family-nelle-vite-degli-altri_120192_120242_120368.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/rental-family-nelle-vite-degli-altri_120192_120242_120368.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
