@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T17:40:02.406810+00:00",
-  "count": 408,
+  "last_updated": "2026-03-04T05:40:06.989471+00:00",
+  "count": 407,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3413,22 +3413,6 @@
       "is_past": true
     },
     {
-      "id": "fbf362528e68",
-      "title": "A fil di cielo | Fondazione Solares delle Arti",
-      "date": "2026-03-02",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739270",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739270"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "e529f806b050",
       "title": "La piccola Amelie",
       "date": "2026-03-03",
@@ -3442,7 +3426,7 @@
         "https://www.teatrodipergine.it/cinema/2798-la-piccola-amelie-cineforum"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e2f8bb8a39f7",
@@ -3458,23 +3442,7 @@
         "https://www.trentinospettacoli.it/eventi/lapocalisse-4/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "9e55d4435cd8",
-      "title": "Toni, mio padre",
-      "date": "2026-03-03",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064110-5558.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/toni-mio-padre.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/toni-mio-padre.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "665e6b741e38",
@@ -3967,7 +3935,7 @@
       "venue": "",
       "location": "Isera",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743936",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743936"
@@ -4725,6 +4693,22 @@
         "https://www.cultura.trentino.it/content/view/full/736216"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d24b4fa412b1",
+      "title": "Come gli uccelli",
+      "date": "2026-03-12",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Di Wajdi Mouawad / consulente storico Natalie Zemon Davis / traduzione di Monica Capuani / dal testo originale Tous des oiseaux / adattamento di Lorenzo De Iacovo e Marco Lorenzi / regia di Marco Lorenzi / con Federico Palumeri, Barbara Mazzi, Irene Ivaldi, Francesca Osso, Rebecca Rossetti, Aleksandar Cvjetković, Elio D’Alessandro, Said Esserairi, Raffaele Musella / assistente alla regia Lorenzo De Iacovo dramaturg Monica Capuani / scenografia e costumi Gregorio Zurla / disegno luci Umberto Cam",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063435-comeuccellicsc.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
