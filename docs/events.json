@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:43:45.322513+00:00",
+  "last_updated": "2026-03-05T18:48:04.960344+00:00",
   "count": 406,
   "events": [
     {
@@ -4248,22 +4248,6 @@
       "is_past": false
     },
     {
-      "id": "65b7bf673aa1",
-      "title": "Un colpo quasi (*) perfetto",
-      "date": "2026-03-08",
-      "time": "16:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/742083",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/742083"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "82e575bcf04e",
       "title": "Esercizi di fantastica",
       "date": "2026-03-08",
@@ -4275,6 +4259,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/736668",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736668"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "65b7bf673aa1",
+      "title": "Un colpo quasi (*) perfetto",
+      "date": "2026-03-08",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/742083",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/742083"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
