@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T17:35:27.352671+00:00",
-  "count": 407,
+  "last_updated": "2026-03-05T05:43:45.322513+00:00",
+  "count": 406,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3445,22 +3445,6 @@
       "is_past": true
     },
     {
-      "id": "665e6b741e38",
-      "title": "Bestiario Umano",
-      "date": "2026-03-04",
-      "time": "10:00",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/737017",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737017"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "60eaa4459b2f",
       "title": "Gaber. Mi fa male il mondo con Neri Marcoré",
       "date": "2026-03-05",
@@ -3951,7 +3935,7 @@
       "venue": "",
       "location": "Avio",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743931",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743931"
