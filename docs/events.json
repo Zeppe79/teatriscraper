@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T18:48:04.960344+00:00",
-  "count": 406,
+  "last_updated": "2026-03-06T05:41:38.049824+00:00",
+  "count": 404,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3458,40 +3458,7 @@
         "https://www.cultura.trentino.it/content/view/full/736215"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "eb8a7a374f79",
-      "title": "Kind of Miles",
-      "date": "2026-03-05",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "Teatro Zandonai – Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-133016/27724332-1-ita-IT/Immagine-2025-10-22-133016_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738937",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738937",
-        "https://www.trentinospettacoli.it/eventi/kind-of-miles/"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "773fb0de1662",
-      "title": "Tre sull'altalena",
-      "date": "2026-03-05",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina2/27905019-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736634",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736634"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "422c7651b234",
@@ -3507,7 +3474,23 @@
         "https://www.teatrodipergine.it/teatro/2733-tre-sull-altalena-fuoristagione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
+    },
+    {
+      "id": "eb8a7a374f79",
+      "title": "Kind of Miles",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/kind-of-miles/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/kind-of-miles/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": true
     },
     {
       "id": "f197e9960aa8",
@@ -3523,7 +3506,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/mm-contemporary-dance-company-the-wall-dance-tribute_119037.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "b504294a5505",
@@ -3539,23 +3522,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/gaber-mi-fa-male-il-mondo-con-neri-marcore.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "df166472b7ae",
-      "title": "Le Indie de qua",
-      "date": "2026-03-05",
-      "time": "21:00",
-      "venue": "Palacongressi di Riva del Garda",
-      "location": "Riva del Garda",
-      "description": "Teatro di Riva del Garda | Stagione 2025/2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/le-indie-de-qua/27719388-1-ita-IT/le-indie-de-qua_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738766",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738766"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "21cbfeeb58a7",
@@ -3571,23 +3538,7 @@
         "https://www.trentinospettacoli.it/eventi/le-indie-de-quafede-potere-e-superstizione-ai-tempi-del-concilio-di-trento/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "cc061fcd35ff",
-      "title": "Pablo Trincia - L'uomo sbagliato",
-      "date": "2026-03-05",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064229-89934.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pablo-trincia-luomo-sbagliato.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/pablo-trincia-luomo-sbagliato.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "37ab18350f26",
@@ -3951,7 +3902,7 @@
       "venue": "Teatro Comunale di Castellano",
       "location": "Villa Lagarina",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743963",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743963"
@@ -3967,7 +3918,7 @@
       "venue": "",
       "location": "Mori",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743938",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743938"
@@ -3983,7 +3934,7 @@
       "venue": "Teatro San Floriano di Lizzana",
       "location": "Rovereto",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743981",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743981"
@@ -4677,6 +4628,22 @@
         "https://www.cultura.trentino.it/content/view/full/736216"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d24b4fa412b1",
+      "title": "Come gli uccelli",
+      "date": "2026-03-12",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Di Wajdi Mouawad / consulente storico Natalie Zemon Davis / traduzione di Monica Capuani / dal testo originale Tous des oiseaux / adattamento di Lorenzo De Iacovo e Marco Lorenzi / regia di Marco Lorenzi / con Federico Palumeri, Barbara Mazzi, Irene Ivaldi, Francesca Osso, Rebecca Rossetti, Aleksandar Cvjetković, Elio D’Alessandro, Said Esserairi, Raffaele Musella / assistente alla regia Lorenzo De Iacovo dramaturg Monica Capuani / scenografia e costumi Gregorio Zurla / disegno luci Umberto Cam",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063435-comeuccellicsc.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
