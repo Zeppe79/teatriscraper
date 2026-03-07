@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T05:35:17.532634+00:00",
-  "count": 287,
+  "last_updated": "2026-03-07T17:17:36.090226+00:00",
+  "count": 396,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3445,6 +3445,22 @@
       "is_past": true
     },
     {
+      "id": "60eaa4459b2f",
+      "title": "Gaber. Mi fa male il mondo con Neri Marcoré",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Stagione Teatro Sociale 2025/2026 | il 5 e il 6 marzo alle ore 20.30\nil 7 marzo alle ore 18.00\nl'8 marzo alle ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736215",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736215"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": true
+    },
+    {
       "id": "422c7651b234",
       "title": "Tre sull'altalena",
       "date": "2026-03-05",
@@ -3541,6 +3557,38 @@
       "is_past": true
     },
     {
+      "id": "bb39394f12d5",
+      "title": "“… lasciando sospesa nell’aria una scia di festosi richiami”",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "venue": "Palazzo delle Albere",
+      "location": "Trento",
+      "description": "In vista dello scatto | ore 11.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3543/27906003-1-ita-IT/sfondo-ocra-354_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745247",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745247"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ef18b300db53",
+      "title": "La fabbrica del trucco imperfetto",
+      "date": "2026-03-07",
+      "time": "16:00",
+      "venue": "Cinema Teatro Rosmini",
+      "location": "Rovereto",
+      "description": "ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745265",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745265"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0e2622fe1deb",
       "title": "Il Circo in Valigia",
       "date": "2026-03-07",
@@ -3554,6 +3602,199 @@
         "https://www.trentinospettacoli.it/eventi/il-circo-in-valigia-4/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "760d7d5e3ebe",
+      "title": "Lucio Gardin - Amore e altri disastri",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Forza quattro! | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-209/27659694-1-ita-IT/sfondo-ocra-209_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736698",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736698"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2d89e923c750",
+      "title": "Quattro donne",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Trame di Comunità | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/7-marzo-2026-2/27868661-1-ita-IT/7-marzo-2026-2_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743946",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743946"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a3f4c5d3f06f",
+      "title": "Betoneghe se nasse, no se deventa",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Cinema Teatro Monte Baldo",
+      "location": "Brentonico",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743935",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743935"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7208a7685550",
+      "title": "Morto un marito se ne fa un altro....",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743929",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743929"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "79093fbc236c",
+      "title": "Don Gervaso parroco per caso",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Auditorium di Moscheri ",
+      "location": "Trambileno",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743954",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743954",
+        "https://www.cultura.trentino.it/content/view/full/745253"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "48a2125463ad",
+      "title": "Non sarà mica la fine del mondo",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Isera",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743936",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743936"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0909b2f125f2",
+      "title": "Le bosie le g'ha le gambe corte",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Avio",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743931",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743931"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cd029c1827c8",
+      "title": "Due di noi",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Castellano",
+      "location": "Villa Lagarina",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743963",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743963"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a16199706775",
+      "title": "El filo magico",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Mori",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743938",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743938"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7e4b26ed63fc",
+      "title": "Farà giorno",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "Teatro San Floriano di Lizzana",
+      "location": "Rovereto",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743981",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743981"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5d3632f34ca8",
+      "title": "Come narala a finir?",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/come-narala-a-finir-3/27850833-1-ita-IT/Come-narala-a-finir-3_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745255",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745255"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d64b8a455091",
+      "title": "Con tut el ben che te vòi",
+      "date": "2026-03-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745254",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745254"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3586,6 +3827,150 @@
         "https://www.crushsite.it/it/danza-teatro/2026/lucio-gardin-amore-e-altri-disastri.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "78d30964b1c1",
+      "title": "Sinistra o destra stessa minestra",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Cinema teatro oratorio di Dro",
+      "location": "Dro",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745262",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745262"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bd6356e57c6a",
+      "title": "‘Na gabia de mati",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Teatro San Gottardo di Mezzocorona",
+      "location": "Mezzocorona",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745259",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745259"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bbdc878985af",
+      "title": "Na malga par .. doe! Stavolta el malgaro l’ha ciapà na n’cavicià",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Teatro Monsignor Caproni di Levico",
+      "location": "Levico Terme",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745258",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745258"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8727588ace8b",
+      "title": "Coppie scoppiate",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "Teatro San Domenico Savio di Olle",
+      "location": "Borgo Valsugana",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745260",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745260"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e7ff14f14f7d",
+      "title": "Ajò!",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Rumo",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745256",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745256"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "48499ed69468",
+      "title": "Meno male che oggi è venerdì",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/meno-male-che-oggi-e-venerdi2/27867097-1-ita-IT/Meno-male-che-oggi-e-venerdi_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745261",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745261"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fef57c8f5c6e",
+      "title": "Tuti boni de ciacerar",
+      "date": "2026-03-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745257",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745257"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "86e3f832a7be",
+      "title": "La pazienza del signor prevosto",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "venue": "Auditorium Casa della Gioventù di Predazzo",
+      "location": "Predazzo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745263",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745263"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "935309690356",
+      "title": "Vizini de casa",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745264",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745264"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3637,6 +4022,38 @@
       "is_past": false
     },
     {
+      "id": "82e575bcf04e",
+      "title": "Esercizi di fantastica",
+      "date": "2026-03-08",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "C:SC Circuito Danza 2025/2026 | Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736668",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736668"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "65b7bf673aa1",
+      "title": "Un colpo quasi (*) perfetto",
+      "date": "2026-03-08",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/742083",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/742083"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e0117213adff",
       "title": "Esercizi di fantastica",
       "date": "2026-03-08",
@@ -3685,6 +4102,38 @@
       "is_past": false
     },
     {
+      "id": "0352765591c4",
+      "title": "Papero Alfredo - Teatro Giovani Teatro Pirata",
+      "date": "2026-03-08",
+      "time": "16:30",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro 2025/2026 | ore  16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736246",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736246"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d99874a18270",
+      "title": "Cabaret",
+      "date": "2026-03-08",
+      "time": "16:30",
+      "venue": "Cinema Teatro Dolomiti di Coredo",
+      "location": "Predaia",
+      "description": "ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745266",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745266"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "94afdb55276f",
       "title": "Papero Alfredo - Teatro Giovani Teatro Pirata",
       "date": "2026-03-08",
@@ -3698,6 +4147,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/papero-alfredo-teatro-giovani-teatro-pirata.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "eeaa61eda1ce",
+      "title": "La scuola delle mogli",
+      "date": "2026-03-08",
+      "time": "17:00",
+      "venue": "Teatro Sant'Anna di Vallarsa",
+      "location": "Vallarsa",
+      "description": "Sipario d'Oro 2026 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743958",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743958"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3730,6 +4195,22 @@
         "https://www.teatrodipergine.it/cinema/2815-marty-supreme"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "cf2dd3b80ff7",
+      "title": "Esercizi di Fantastica | Sosta Palmizi",
+      "date": "2026-03-10",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739276",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739276"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3813,6 +4294,22 @@
       "is_past": false
     },
     {
+      "id": "6dd492b467db",
+      "title": "Opera Haydn - Note to a friend",
+      "date": "2026-03-11",
+      "time": "20:00",
+      "venue": "Teatro Sanbàpolis",
+      "location": "Trento",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739954",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739954"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "98313ee2bb27",
       "title": "Note to a friend",
       "date": "2026-03-11",
@@ -3826,6 +4323,22 @@
         "https://www.crushsite.it/it/musica/2026/note-to-a-friend_115837_120294.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "f71b62097763",
+      "title": "Alieni in laguna",
+      "date": "2026-03-11",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736635",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736635"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3877,6 +4390,22 @@
       "is_past": false
     },
     {
+      "id": "f18e1466d42e",
+      "title": "Toccando il vuoto",
+      "date": "2026-03-11",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Predazzo",
+      "location": "Predazzo",
+      "description": "Val di Fiemme Teatro | Stagione 2025/2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739987",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739987"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "cbf52b7db563",
       "title": "Toccando il vuoto",
       "date": "2026-03-11",
@@ -3925,6 +4454,22 @@
       "is_past": false
     },
     {
+      "id": "eed51c7f4acf",
+      "title": "Come gli uccelli",
+      "date": "2026-03-12",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Stagione Teatro Sociale 2025/2026 | il 12 e il 13 marzo alle ore 20.30\nil 14 marzo alle ore 18.00\nil 15 marzo alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736216",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736216"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d24b4fa412b1",
       "title": "Come gli uccelli",
       "date": "2026-03-12",
@@ -3970,6 +4515,70 @@
         "https://www.crushsite.it/it/danza-teatro/2026/federico-buffa-otto-infinito.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "5e820393b750",
+      "title": "Foyer della Prosa - Come gli uccelli",
+      "date": "2026-03-13",
+      "time": "17:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739818",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739818"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "624825823f3e",
+      "title": "Tut colpa de l'ors",
+      "date": "2026-03-13",
+      "time": "20:30",
+      "venue": "Cinema Teatro Concordia di Volano",
+      "location": "Volano",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743967",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743967"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5250667d8889",
+      "title": "Varda... no comment",
+      "date": "2026-03-13",
+      "time": "20:30",
+      "venue": "",
+      "location": "Pomarolo",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743951",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743951"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "50a76abc6f68",
+      "title": "Il campiello",
+      "date": "2026-03-13",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743973",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743973"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4037,6 +4646,134 @@
       "is_past": false
     },
     {
+      "id": "8cc3d816425b",
+      "title": "Un colpo (quasi) perfetto",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736996",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736996"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a071089b1619",
+      "title": "Segreto, segreto, segreto. Disastrosa trama di velenose trine",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Villa Lagarina",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743961",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743961"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37baf641b563",
+      "title": "Come narala a finir?",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Isera",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743937",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743937"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6bdab305ac32",
+      "title": "Le tre Marie",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Avio",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743932",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743932"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0be9506013f4",
+      "title": "Il commissario improvvisato",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Mori",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743939",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743939"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9d50b8eed084",
+      "title": "L'uomo, la bestia, la virtù",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "Teatro San Floriano di Lizzana",
+      "location": "Rovereto",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743982",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743982"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5d1b5600ce1e",
+      "title": "Complessità",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739960",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739960"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "116f82b70c93",
+      "title": "Dalser. La Mussolina",
+      "date": "2026-03-14",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738245",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738245"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "cc22e88e69c7",
       "title": "Dalser. La Mussolina",
       "date": "2026-03-14",
@@ -4053,6 +4790,54 @@
       "is_past": false
     },
     {
+      "id": "663e9e09fc62",
+      "title": "Ida e la bambina nuova",
+      "date": "2026-03-15",
+      "time": "16:00",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737002",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737002"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "44097a7794ef",
+      "title": "Varda... no comment",
+      "date": "2026-03-15",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/742085",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/742085"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e4d87a64e877",
+      "title": "Momo",
+      "date": "2026-03-15",
+      "time": "16:30",
+      "venue": "Centro culturale di Locca di Concei",
+      "location": "Ledro",
+      "description": "Teatro a gonfie vele 2025/2026 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/742013",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/742013"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "bc66b1eddbe9",
       "title": "Momo",
       "date": "2026-03-15",
@@ -4066,6 +4851,38 @@
         "https://www.trentinospettacoli.it/eventi/momo/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "db159593364f",
+      "title": "Pimpa. Il musical a pois",
+      "date": "2026-03-15",
+      "time": "17:00",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739011",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739011"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2da646adb6a9",
+      "title": "“… lasciando sospesa nell’aria una scia di festosi richiami”",
+      "date": "2026-03-15",
+      "time": "17:00",
+      "venue": "Palazzo delle Albere",
+      "location": "Trento",
+      "description": "In vista dello scatto | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745249",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745249"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4101,19 +4918,52 @@
       "is_past": false
     },
     {
+      "id": "3d02abf24dea",
+      "title": "Un mare di avventure",
+      "date": "2026-03-15",
+      "time": "20:45",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737014",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737014"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "b538be6d8316",
       "title": "Nel blu",
       "date": "2026-03-17",
       "time": "20:30",
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
-      "description": null,
+      "description": "Teatro Zandonai – Stagione 2025/2026 | ore 20.30",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/nel-blu/",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738941",
       "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738941",
         "https://www.trentinospettacoli.it/eventi/nel-blu/"
       ],
-      "source_name": "trentinospettacoli.it",
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "961b620d9811",
+      "title": "Opera Locos International Comic Opera Show",
+      "date": "2026-03-17",
+      "time": "21:00",
+      "venue": "Cinema Teatro San Pietro",
+      "location": "Mezzolombardo",
+      "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738779",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738779"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4165,6 +5015,54 @@
       "is_past": false
     },
     {
+      "id": "88167cad85d3",
+      "title": "L'uomo dei sogni",
+      "date": "2026-03-19",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736636",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736636"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "614ee56bf547",
+      "title": "Strighe Maledette!",
+      "date": "2026-03-19",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738817",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738817"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "549565f0c881",
+      "title": "L'angelo del focolare",
+      "date": "2026-03-19",
+      "time": "20:30",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739962",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739962"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "44fbb203dac7",
       "title": "ERETICI MAESTRI",
       "date": "2026-03-19",
@@ -4197,6 +5095,70 @@
       "is_past": false
     },
     {
+      "id": "d437fa5c9a1b",
+      "title": "1e95",
+      "date": "2026-03-19",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Predazzo",
+      "location": "Predazzo",
+      "description": "Val di Fiemme Teatro | Stagione 2025/2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739989",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739989"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "dcb4878b1821",
+      "title": "Ovo, galina e cul caldo",
+      "date": "2026-03-20",
+      "time": "20:30",
+      "venue": "",
+      "location": "Nogaredo",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743947",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743947"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f1ca419ac1c1",
+      "title": "Che pasticcio Mrs. Peach | Il musical",
+      "date": "2026-03-20",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743975",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743975"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c7d0d928e452",
+      "title": "Che pasticcio Mrs. Peach, il musical  | Sipario d'Oro 2026",
+      "date": "2026-03-20",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744340",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744340"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5eb44e77bdad",
       "title": "GHIACCIO",
       "date": "2026-03-20",
@@ -4210,6 +5172,22 @@
         "https://www.trentinospettacoli.it/eventi/ghiacciocristalli-di-memoria-3/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "d9fca9db91c1",
+      "title": "Iliade",
+      "date": "2026-03-20",
+      "time": "21:00",
+      "venue": "Auditorium del Conservatorio di Riva del Garda",
+      "location": "Riva del Garda",
+      "description": "Teatro di Riva del Garda | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738768",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738768"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4245,6 +5223,150 @@
       "is_past": false
     },
     {
+      "id": "bef5ed5c9fd2",
+      "title": "Bestiario umano",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736988",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736988"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0ea0b733c085",
+      "title": "Tuti boni de ciacerar",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Castellano",
+      "location": "Villa Lagarina",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743964",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743964"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f87c5cd69f89",
+      "title": "\"Ajò\"",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "",
+      "location": "Avio",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743933",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743933"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "124724559994",
+      "title": "L'importanza de ciamarse Onesto",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "",
+      "location": "Mori",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743940",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743940"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "954e50028bd1",
+      "title": "Maladie d'amour",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro San Floriano di Lizzana",
+      "location": "Rovereto",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743983",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743983"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8e5791677c30",
+      "title": "Maladie d'amour  | Sipario d'Oro 2026",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro San Floriano di Lizzana",
+      "location": "Rovereto",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744352",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744352"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "511d60364b8f",
+      "title": "Le cose che restano",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739965",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739965"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "868c5632f2c9",
+      "title": "Quattro bombe in tasca",
+      "date": "2026-03-21",
+      "time": "20:45",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737013",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737013"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2fc4f14fbcaa",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-03-21",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739014",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739014"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "971c33dbbf1d",
       "title": "iliade",
       "date": "2026-03-21",
@@ -4274,6 +5396,22 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "bfe72f1fc0df",
+      "title": "Co le femene le se 'mponta.... el medico el posto el ghe donta",
+      "date": "2026-03-22",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/742087",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/742087"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4309,19 +5447,68 @@
       "is_past": false
     },
     {
+      "id": "ec6f154b6c4c",
+      "title": "La Mandragola",
+      "date": "2026-03-24",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736637",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736637"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b9eb84aea98b",
+      "title": "Storia di un inverno che non voleva finire",
+      "date": "2026-03-25",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736641",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736641"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "871b9a9b0e37",
       "title": "Contrazioni pericolose",
       "date": "2026-03-25",
       "time": "20:30",
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
-      "description": null,
+      "description": "Teatro Zandonai – Stagione 2025/2026 | ore 20.30",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/contrazioni-pericolose/",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738943",
       "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738943",
         "https://www.trentinospettacoli.it/eventi/contrazioni-pericolose/"
       ],
-      "source_name": "trentinospettacoli.it",
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ecfe7a306e2c",
+      "title": "iGirl",
+      "date": "2026-03-25",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739967",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739967"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4341,6 +5528,102 @@
       "is_past": false
     },
     {
+      "id": "124e0ec6170f",
+      "title": "K(-A-)O | Fondazione Sipario Toscana",
+      "date": "2026-03-27",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739283",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739283"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "35d44b733862",
+      "title": "Castagne matte | La Terza Stagione",
+      "date": "2026-03-27",
+      "time": "14:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 14.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736989",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736989"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "49cfc4b346dd",
+      "title": "Spazio. Ultima dentiera",
+      "date": "2026-03-27",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737012",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737012"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3e8bbdb8cc04",
+      "title": "Che disastro di convento",
+      "date": "2026-03-27",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "Sipario d'Oro 2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743976",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743976"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a6d847b13836",
+      "title": "Compartimos. Un sogno chiamato Argentina",
+      "date": "2026-03-27",
+      "time": "20:30",
+      "venue": "",
+      "location": "Palù del Fersina",
+      "description": "Trame di Comunità | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743911",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743911"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7a17a6d94094",
+      "title": "Che disastro di convento  | Sipario d'Oro 2026",
+      "date": "2026-03-27",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744342",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744342"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8c20cf25bad5",
       "title": "Rental Family - Nelle Vite degli Altri",
       "date": "2026-03-27",
@@ -4354,6 +5637,22 @@
         "https://www.crushsite.it/it/cinema/2026/rental-family-nelle-vite-degli-altri_120192_120242_120368.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "d5c29b23b002",
+      "title": "Il segreto del medaglione",
+      "date": "2026-03-28",
+      "time": "17:00",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743909",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743909"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4373,6 +5672,22 @@
       "is_past": false
     },
     {
+      "id": "c23a15aa65ab",
+      "title": "La commedia di Cyrano",
+      "date": "2026-03-29",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736669",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736669"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "525fbda1f2b9",
       "title": "Jumpers – Un salto tra gli animali",
       "date": "2026-03-29",
@@ -4386,6 +5701,54 @@
         "https://www.crushsite.it/it/cinema/2026/jumpers-un-salto-tra-gli-animali_120468.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "356cf4907da4",
+      "title": "La commedia di Cyrano",
+      "date": "2026-03-29",
+      "time": "20:45",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737011",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737011"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b0c60bcd8683",
+      "title": "Ma che razza di Otello?",
+      "date": "2026-03-31",
+      "time": "21:00",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738568",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738568"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "58162e44d4ad",
+      "title": "Alfabeto delle emozioni",
+      "date": "2026-03-31",
+      "time": "21:00",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744416",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744416"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4421,6 +5784,22 @@
       "is_past": false
     },
     {
+      "id": "878483182048",
+      "title": "L'occhio invisibile",
+      "date": "2026-04-01",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Rovereto",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739970",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739970"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9a2375f90868",
       "title": "Voci d'autore",
       "date": "2026-04-04",
@@ -4434,6 +5813,22 @@
         "https://www.teatrodipergine.it/eventi/2822-voci-d-autore"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "d1dda166afd7",
+      "title": "Lapocalisse",
+      "date": "2026-04-07",
+      "time": "21:00",
+      "venue": "Cinema Teatro San Pietro",
+      "location": "Mezzolombardo",
+      "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738781",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738781"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4453,6 +5848,23 @@
       "is_past": false
     },
     {
+      "id": "cd1067fb7ed5",
+      "title": "Bestiario idrico di Marco Paolini",
+      "date": "2026-04-09",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Stagione Teatro Sociale 2025/2026 | il 9 e il 10 aprile alle ore 20.30\nl'11 aprile alle ore 18.00\nil 12 aprile alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736217",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736217",
+        "https://www.cultura.trentino.it/content/view/full/730343"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "56ddacb187d0",
       "title": "Braidus in rock",
       "date": "2026-04-10",
@@ -4466,6 +5878,22 @@
         "https://www.teatrodipergine.it/eventi/2823-braidus-in-rock"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "fc9dd66f7044",
+      "title": "Foyer della Prosa - Bestiario idrico",
+      "date": "2026-04-10",
+      "time": "17:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739820",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739820"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4485,6 +5913,22 @@
       "is_past": false
     },
     {
+      "id": "14262cea0f84",
+      "title": "El filo magico",
+      "date": "2026-04-11",
+      "time": "20:45",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737010",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737010"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "918591d2016f",
       "title": "Spazio",
       "date": "2026-04-11",
@@ -4498,6 +5942,22 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-4/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "318774760136",
+      "title": "Una pedalata spaziale",
+      "date": "2026-04-12",
+      "time": "16:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738819",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738819"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4533,6 +5993,118 @@
       "is_past": false
     },
     {
+      "id": "fa5f046a1892",
+      "title": "I sette capretti e il lupo | Arteviva",
+      "date": "2026-04-15",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739286",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739286"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1458989e401c",
+      "title": "Racconto alla rovescia | Momom Teatro",
+      "date": "2026-04-15",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739288",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739288"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fec662cc0ca3",
+      "title": "People, places and things",
+      "date": "2026-04-16",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Stagione Teatro Sociale 2025/2026 | il 16 e il 17 aprile alle ore 20.30\nil 18 aprile alle ore 18.00\nil 19 aprile alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736218",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736218"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9180353b9636",
+      "title": "Cenerentola - La Baracca / Testoni ragazzi",
+      "date": "2026-04-17",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739290",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739290"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2060d6ccad3a",
+      "title": "Foyer della Prosa - People, places and things",
+      "date": "2026-04-17",
+      "time": "17:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739822",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739822"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bb77bf839c85",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-04-18",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738821",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738821"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "35b3000e8b5c",
+      "title": "La vita mi è passata davanti e io… tiè! L’ho doppiata.",
+      "date": "2026-04-18",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737008",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737008"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "890cfb04f20b",
       "title": "Spazio",
       "date": "2026-04-18",
@@ -4549,6 +6121,22 @@
       "is_past": false
     },
     {
+      "id": "17e4b3556253",
+      "title": "Strighe Maledette!",
+      "date": "2026-04-21",
+      "time": "21:00",
+      "venue": "Cinema Teatro San Pietro",
+      "location": "Mezzolombardo",
+      "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738783",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738783"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "08cc5d53829a",
       "title": "Strighe Maledette!",
       "date": "2026-04-21",
@@ -4562,6 +6150,38 @@
         "https://www.trentinospettacoli.it/eventi/strighe-maledette-3/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "a8200d11374e",
+      "title": "Bibliotecari per un giorno",
+      "date": "2026-04-22",
+      "time": "20:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Trame di Comunità | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743741",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743741"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9dbfc346316e",
+      "title": "4:48 Psychosis",
+      "date": "2026-04-23",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Rovereto",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739973",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739973"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4594,6 +6214,134 @@
         "https://www.trentinospettacoli.it/eventi/ma-che-razza-di-otello-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "cb02f01920b9",
+      "title": "Cenerentola - La Baracca / Testoni ragazzi",
+      "date": "2026-04-27",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739291",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739291"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bfc554de890a",
+      "title": "Animal or man? | Annalisa Brianzi",
+      "date": "2026-05-05",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739295",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739295"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6cc3a1d57207",
+      "title": "Animal or man? | Annalisa Brianzi",
+      "date": "2026-05-06",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739294"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e93c92d1bcb5",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739298"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9a81d61b4df2",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-13",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4da66ee3b80f",
+      "title": "Pimpa. Il musical a pois",
+      "date": "2026-05-14",
+      "time": "17:00",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "Teatro di Tione di Trento | Stagione 2025/2026 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738952",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738952"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "830ef43e0da1",
+      "title": "Piratesse",
+      "date": "2026-05-16",
+      "time": "17:00",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743944"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "478e9065df01",
+      "title": "I tre giganti",
+      "date": "2026-05-30",
+      "time": "17:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744214",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744214"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     }
   ]
