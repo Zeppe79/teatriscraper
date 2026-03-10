@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T05:41:59.368964+00:00",
-  "count": 367,
+  "last_updated": "2026-03-10T17:42:26.362506+00:00",
+  "count": 378,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3621,6 +3621,22 @@
       "is_past": false
     },
     {
+      "id": "ba103af30245",
+      "title": "Swipe | scorrendo tra le generazioni",
+      "date": "2026-03-10",
+      "time": "17:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3593/27912925-1-ita-IT/sfondo-ocra-359_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745509",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745509"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8de4a3247f15",
       "title": "SWIPE: scorrendo tra le generazioni",
       "date": "2026-03-10",
@@ -3634,6 +3650,22 @@
         "https://www.crushsite.it/it/incontri/2026/swipe-scorrendo-tra-le-generazioni_120507.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "7f25adbcbe63",
+      "title": "Trenta e lode - episodio 1",
+      "date": "2026-03-10",
+      "time": "19:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "ore 19.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3662/27912981-1-ita-IT/sfondo-ocra-366_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745513",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745513"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3826,6 +3858,22 @@
         "https://www.trentinospettacoli.it/eventi/toccando-il-vuoto/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "b17d10627d8a",
+      "title": "Marco Travaglio | Cornuti e contenti",
+      "date": "2026-03-11",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-388/27913037-1-ita-IT/sfondo-ocra-388_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745515",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745515"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4085,6 +4133,22 @@
       "is_past": false
     },
     {
+      "id": "8af9ff20b973",
+      "title": "Filippo Caccamo | Fuori di tela",
+      "date": "2026-03-13",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3672/27913093-1-ita-IT/sfondo-ocra-367_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745517",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745517"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "73758515450e",
       "title": "Rita",
       "date": "2026-03-13",
@@ -4117,22 +4181,6 @@
       "is_past": false
     },
     {
-      "id": "8993ef69a371",
-      "title": "Echoes of life - Silvia Azzoni, Oleksandr Ryabko / EVENTO ANNULLATO",
-      "date": "2026-03-14",
-      "time": null,
-      "venue": "Teatro Cristallo, Via Dalmazia, Bolzano",
-      "location": "Bolzano",
-      "description": "Danzatori, Silvia Azzoni, Oleksandr Ryabko / Pianoforte, Michał Białk / Coreografi, Kristina Paulin, Marc Jubete, Thiago Bordin Silvia Azzoni e Oleksandr Ryabko, iconici interpreti dell’Hamburg Ballet sotto la direzione di John Neumeier, oggi artisti freelance, sono accompagnati al pianoforte da Michał Białk per un lavoro intimo e potente, dove ogni gesto diventa specchio dell’anima. Echoes of life è un viaggio emotivo e sensoriale nell’interiorità di due anime connesse, ispirato a una rilettura",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063490-903434.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life-silvia-azzoni-oleksandr-ryabko.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life-silvia-azzoni-oleksandr-ryabko.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "557779630963",
       "title": "Pimpa. Il musical a pois",
       "date": "2026-03-14",
@@ -4146,22 +4194,6 @@
         "https://www.trentinospettacoli.it/eventi/pimpa-il-musical-a-pois-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "8cc3d816425b",
-      "title": "Un colpo (quasi) perfetto",
-      "date": "2026-03-14",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736996",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736996"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4245,8 +4277,8 @@
       "is_past": false
     },
     {
-      "id": "5d1b5600ce1e",
-      "title": "Complessità",
+      "id": "7350c7c10709",
+      "title": "Arditodesìo - Complessità",
       "date": "2026-03-14",
       "time": "20:30",
       "venue": "Teatro Cuminetti",
@@ -4258,6 +4290,38 @@
         "https://www.cultura.trentino.it/content/view/full/739960"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8cc3d816425b",
+      "title": "Un colpo (quasi) perfetto",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736996",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736996"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "91be779b5d04",
+      "title": "Seasons - Kataklò Athletic Dance Theatre",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "venue": "Teatro Cristallo, Via Dalmazia, Bolzano",
+      "location": "Bolzano",
+      "description": "Kataklò Athletic Dance Theatre - SEASONS. Oltre le Stagioni / Ideazione e direzione artistica Giulia Staccioli / Assistente alle coreografie Irene Saltarelli / Con Kataklò Athletic Dance Theatre / Costumi Petra Papa / Disegno luci Fabio Passerini / Musiche Max Richter / Editing audio Giulia Staccioli Il cuore pulsante dell’opera è la sua visione innovativa. La capacità di combinare tradizione e modernità trova espressione nei celebri concerti per violino di Vivaldi, riarrangiati dal compositore ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064494-season-cristallo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/seasons-kataklo-athletic-dance-theatre.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/seasons-kataklo-athletic-dance-theatre.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4325,6 +4389,22 @@
       "is_past": false
     },
     {
+      "id": "122493e82aa7",
+      "title": "K-Pop Hunters",
+      "date": "2026-03-15",
+      "time": "15:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 15.00 e 18.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745519",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745519"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "663e9e09fc62",
       "title": "Ida e la bambina nuova",
       "date": "2026-03-15",
@@ -4332,7 +4412,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro di Meano | Stagione 2025/2026 | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737002",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737002"
@@ -4396,7 +4476,7 @@
       "venue": "Teatro Valle dei Laghi di Vezzano",
       "location": "",
       "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-155444/27726705-1-ita-IT/Immagine-2025-10-22-155444_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/739011",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739011"
@@ -4460,10 +4540,26 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/737014",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737014"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "81d774222a82",
+      "title": "Trento e lode |  - Episodio 2",
+      "date": "2026-03-17",
+      "time": "19:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "ore 19.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745520",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745520"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4886,6 +4982,22 @@
       "is_past": false
     },
     {
+      "id": "b263b5a53f4f",
+      "title": "Memorie dal reparto n.6",
+      "date": "2026-03-21",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745603",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745603"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2fc4f14fbcaa",
       "title": "Spazio Ultima dentiera",
       "date": "2026-03-21",
@@ -4897,6 +5009,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739014",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739014"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b5f1c84d1805",
+      "title": "Terapia di coppia",
+      "date": "2026-03-21",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745522",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745522"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4982,6 +5110,22 @@
       "is_past": false
     },
     {
+      "id": "80f103b1249e",
+      "title": "Ale e Franz - Capitol'ho",
+      "date": "2026-03-22",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745524",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745524"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ec6f154b6c4c",
       "title": "La Mandragola",
       "date": "2026-03-24",
@@ -5042,6 +5186,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739967",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739967"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9858eec1c8fb",
+      "title": "Alessandro Cattelan",
+      "date": "2026-03-25",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745526",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745526"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5699,6 +5859,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/743741",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743741"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6724301eca5d",
+      "title": "E Francesco cammina canta danza",
+      "date": "2026-04-22",
+      "time": "20:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745608",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745608"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
