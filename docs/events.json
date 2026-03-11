@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T17:42:26.362506+00:00",
-  "count": 378,
+  "last_updated": "2026-03-11T05:44:26.757546+00:00",
+  "count": 375,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3605,86 +3605,6 @@
       "is_past": true
     },
     {
-      "id": "cf2dd3b80ff7",
-      "title": "Esercizi di Fantastica | Sosta Palmizi",
-      "date": "2026-03-10",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739276",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739276"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ba103af30245",
-      "title": "Swipe | scorrendo tra le generazioni",
-      "date": "2026-03-10",
-      "time": "17:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3593/27912925-1-ita-IT/sfondo-ocra-359_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745509",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745509"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8de4a3247f15",
-      "title": "SWIPE: scorrendo tra le generazioni",
-      "date": "2026-03-10",
-      "time": "17:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Il quarto appuntamento di SWIPE – Scorrendo tra le generazioni si terrà il 10 marzo 2026, alle ore 17:30, al Teatro Sociale di Trento e avrà come protagonisti degli ospiti d’eccezione: Giulia Muscatelli, autrice ed esperta di affettività; Antonio Dikele Distefano, autore e testimone generazionale; Tony Boy, artista e voce della nuova generazione. Il tutto guidato dall’adulta ed empatica conduzione di Rudy Zerbi. Un dialogo aperto e senza filtri per approfondire il rapporto tra le nuove generazio",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064272-90443.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/swipe-scorrendo-tra-le-generazioni_120507.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/swipe-scorrendo-tra-le-generazioni_120507.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "7f25adbcbe63",
-      "title": "Trenta e lode - episodio 1",
-      "date": "2026-03-10",
-      "time": "19:30",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "ore 19.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3662/27912981-1-ita-IT/sfondo-ocra-366_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745513",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745513"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "37e77738072c",
-      "title": "Trento e Lode - Episodio 1",
-      "date": "2026-03-10",
-      "time": "19:30",
-      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero / Ingresso libero / Progetto in collaborazione con ATU Trento e Amor Vacui / Evento organizzato da Centro Santa Chiara e Opera Universitaria Trento",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064351-00333.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-1.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-1.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "542c04b9ae1a",
       "title": "Sentimental Value",
       "date": "2026-03-10",
@@ -3698,39 +3618,7 @@
         "https://www.teatrodipergine.it/cinema/2799-sentimental-value-cineforum"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "9ba7ade669c5",
-      "title": "Sirat",
-      "date": "2026-03-10",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063596-8043.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/sirat_119732_119961.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "caf8fa608165",
-      "title": "Gavin Friday – Ecce Homo",
-      "date": "2026-03-10",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
-      "location": "Trento",
-      "description": "Il sessantaquattrenne cantautore irlandese, figura leggendaria della scena post-punk internazionale, ed ex frontman dei Virgin Prunes, farà tappa all’Auditorium S. Chiara di Trento martedì 10 marzo 2026 per presentare al pubblico italiano il suo ultimo lavoro discografico, “Ecce Homo”. Nella biblioteca dalle pareti rosse della casa di Gavin Friday nel centro di Dublino, un sacro cuore pende dal soffitto bianco. Il totem di vetro era un regalo di benvenuto quando Friday è tornato nel centro della",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063023-gavin-santachiara.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/gavin-friday-ecce-homo.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "6dd492b467db",
@@ -4181,6 +4069,22 @@
       "is_past": false
     },
     {
+      "id": "8993ef69a371",
+      "title": "Echoes of life - Silvia Azzoni, Oleksandr Ryabko / EVENTO ANNULLATO",
+      "date": "2026-03-14",
+      "time": null,
+      "venue": "Teatro Cristallo, Via Dalmazia, Bolzano",
+      "location": "Bolzano",
+      "description": "Danzatori, Silvia Azzoni, Oleksandr Ryabko / Pianoforte, Michał Białk / Coreografi, Kristina Paulin, Marc Jubete, Thiago Bordin Silvia Azzoni e Oleksandr Ryabko, iconici interpreti dell’Hamburg Ballet sotto la direzione di John Neumeier, oggi artisti freelance, sono accompagnati al pianoforte da Michał Białk per un lavoro intimo e potente, dove ogni gesto diventa specchio dell’anima. Echoes of life è un viaggio emotivo e sensoriale nell’interiorità di due anime connesse, ispirato a una rilettura",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063490-903434.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life-silvia-azzoni-oleksandr-ryabko.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life-silvia-azzoni-oleksandr-ryabko.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "557779630963",
       "title": "Pimpa. Il musical a pois",
       "date": "2026-03-14",
@@ -4300,7 +4204,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736996",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736996"
@@ -4389,6 +4293,22 @@
       "is_past": false
     },
     {
+      "id": "9ea5837458c0",
+      "title": "Echoes of life - Silvia Azzoni, Oleksandr Ryabko / EVENTO ANNULLATO",
+      "date": "2026-03-15",
+      "time": null,
+      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Danzatori, Silvia Azzoni, Oleksandr Ryabko / Pianoforte, Michał Białk / Coreografi, Kristina Paulin, Marc Jubete, Thiago Bordin Circuito Danza Trentino Alto Adige Silvia Azzoni e Oleksandr Ryabko, iconici interpreti dell’Hamburg Ballet sotto la direzione di John Neumeier, oggi artisti freelance, sono accompagnati al pianoforte da Michał Białk per un lavoro intimo e potente, dove ogni gesto diventa specchio dell’anima. Echoes of life è un viaggio emotivo e sensoriale nell’interiorità di due anime",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063491-903434.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life_115971_118979.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/echoes-of-life_115971_118979.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "122493e82aa7",
       "title": "K-Pop Hunters",
       "date": "2026-03-15",
@@ -4405,6 +4325,22 @@
       "is_past": false
     },
     {
+      "id": "a0b995c21ac4",
+      "title": "K-Pop Hunters",
+      "date": "2026-03-15",
+      "time": "15:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Un mondo in equilibrio, una minaccia in arrivo e un gruppo di giovani eroine pronte a scoprire il proprio vero potere. Demon Hunters arriva a teatro con uno spettacolo originale, ispirato al film Netflix, che unisce danza, musica e racconto in una grande avventura dal linguaggio accessibile e coinvolgente. La storia segue le Demon Hunters nel momento più delicato della loro missione: l’energia che protegge il mondo si sta indebolendo e solo attraverso il talento, la collaborazione e il coraggio ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064452-k.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/k-pop-hunters.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/k-pop-hunters.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "663e9e09fc62",
       "title": "Ida e la bambina nuova",
       "date": "2026-03-15",
@@ -4412,7 +4348,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro di Meano | Stagione 2025/2026 | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737002",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737002"
@@ -4540,7 +4476,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737014",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737014"
@@ -4562,6 +4498,22 @@
         "https://www.cultura.trentino.it/content/view/full/745520"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "31bdaab35177",
+      "title": "Trento e Lode - Episodio 2",
+      "date": "2026-03-17",
+      "time": "19:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Ingresso libero / Progetto in collaborazione con ATU Trento e Amor Vacui / Evento organizzato da Centro Santa Chiara e Opera Universitaria Trento",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064351-00333.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-2.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-2.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
