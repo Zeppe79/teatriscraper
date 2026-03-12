@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T05:46:22.196931+00:00",
+  "last_updated": "2026-03-12T17:45:17.207040+00:00",
   "count": 391,
   "events": [
     {
@@ -3629,9 +3629,9 @@
       "location": "Pergine Valsugana",
       "description": "Stagione Comune di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/alieniinlaguna1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2694-alieni-in-laguna",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2694-alieni-in-laguna",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2694-alieni-in-laguna"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2694-alieni-in-laguna"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4028,7 +4028,7 @@
       "venue": "Cinema Teatro Comunale di Tione",
       "location": "Tione di Trento",
       "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3683/27918470-1-ita-IT/sfondo-ocra-368_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/745691",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745691"
@@ -4172,7 +4172,7 @@
       "venue": "Teatro Comunale di Ospedaletto",
       "location": "Ospedaletto",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/745703",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745703"
@@ -4188,7 +4188,7 @@
       "venue": "",
       "location": "Valfloriana",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/745702",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745702"
@@ -4226,6 +4226,70 @@
         "https://www.crushsite.it/it/danza-teatro/2026/arditodesio-complessita.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "ef6323da6c86",
+      "title": "La bugiarda",
+      "date": "2026-03-14",
+      "time": "20:45",
+      "venue": "Teatro Demattè di Ravina",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745713",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745713"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "abb4deb62a2f",
+      "title": "Tra i lumini e i fiorellini",
+      "date": "2026-03-14",
+      "time": "20:45",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745714",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745714"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "68af6d2cf55d",
+      "title": "En gran rebalton",
+      "date": "2026-03-14",
+      "time": "20:45",
+      "venue": "Teatro Gigi Cona di Gardolo",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745716",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745716"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3b84210f5566",
+      "title": "Doc – Comicamente disturbati",
+      "date": "2026-03-14",
+      "time": "20:45",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745715",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745715"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4272,70 +4336,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/745711",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745711"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ef6323da6c86",
-      "title": "La bugiarda",
-      "date": "2026-03-14",
-      "time": "20:45",
-      "venue": "Teatro Demattè di Ravina",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745713",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745713"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "abb4deb62a2f",
-      "title": "Tra i lumini e i fiorellini",
-      "date": "2026-03-14",
-      "time": "20:45",
-      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
-      "location": "Civezzano",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745714",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745714"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "3b84210f5566",
-      "title": "Doc – Comicamente disturbati",
-      "date": "2026-03-14",
-      "time": "20:45",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745715",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745715"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "68af6d2cf55d",
-      "title": "En gran rebalton",
-      "date": "2026-03-14",
-      "time": "20:45",
-      "venue": "Teatro Gigi Cona di Gardolo",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745716",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745716"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4796,7 +4796,7 @@
       "time": "21:00",
       "venue": "",
       "location": "San Lorenzo Dorsino",
-      "description": "Val di Fiemme Teatro | Stagione 2025/2026 | ore 21.00",
+      "description": "ore 21.00",
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/745694",
       "source_urls": [
@@ -4990,10 +4990,10 @@
       "location": "Spiazzo",
       "description": "ore 21.00",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745701",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745705",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745701",
-        "https://www.cultura.trentino.it/content/view/full/745705"
+        "https://www.cultura.trentino.it/content/view/full/745705",
+        "https://www.cultura.trentino.it/content/view/full/745701"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5512,22 +5512,6 @@
       "is_past": false
     },
     {
-      "id": "7a17a6d94094",
-      "title": "Che disastro di convento  | Sipario d'Oro 2026",
-      "date": "2026-03-27",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744342",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744342"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "8c20cf25bad5",
       "title": "Rental Family - Nelle Vite degli Altri",
       "date": "2026-03-27",
@@ -5814,6 +5798,22 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-8/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "985359e03fe6",
+      "title": "Dentro",
+      "date": "2026-04-11",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dentro1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2840-dentro",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2840-dentro"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
