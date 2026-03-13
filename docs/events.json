@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T17:45:17.207040+00:00",
-  "count": 391,
+  "last_updated": "2026-03-13T05:44:26.830496+00:00",
+  "count": 390,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3682,23 +3682,7 @@
         "https://www.teatrodipergine.it/eventi/2779-parole-di-faber-26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "ad882650fcd2",
-      "title": "Kamal Aljafari – A Fidai Film",
-      "date": "2026-03-12",
-      "time": "18:00",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Le proiezioni sono ad ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/062151-aq.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/kamal-aljafari-a-fidai-film.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/kamal-aljafari-a-fidai-film.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "eed51c7f4acf",
@@ -3714,7 +3698,7 @@
         "https://www.cultura.trentino.it/content/view/full/736216"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d24b4fa412b1",
@@ -3730,39 +3714,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/come-gli-uccelli.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "44b0c2551c45",
-      "title": "Cosmos - eVolution Dance Theater",
-      "date": "2026-03-12",
-      "time": "20:30",
-      "venue": "Forum, Bressanone (Bz)",
-      "location": "Bressanone",
-      "description": "Direttore artistico e coreografo, Anthony Heinl / Co-direttrice artistica e coreografa, Nadessja Casavecchia / Light designer e direttore tecnico, Adriano Pisi / Direzione di palco, Paolo Ruda e Tommaso Contu / Laser effects, Simone Sparky / Costumi, Daniela Molinini / Management Live Arts, Management Cosmos conduce in un viaggio emozionante attraverso l’immensità dello spazio, tra pianeti e stelle ipnotiche che si muovono fra luce e ombra. Tra armonia e solitudine cosmica, lo spettacolo esplora",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063493-11.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038_118986.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cosmos-evolution-dance-theater_119038_118986.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5778bad7efe3",
-      "title": "Lu santo jullare Francesco",
-      "date": "2026-03-12",
-      "time": "21:00",
-      "venue": "Centro culturale di Locca di Concei",
-      "location": "Ledro",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-391/27918358-1-ita-IT/sfondo-ocra-391_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745687",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745687"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e15c0299f79d",
@@ -3778,23 +3730,7 @@
         "https://www.trentinospettacoli.it/eventi/lu-santo-jullare-francesco-4/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "3c63a990d3f4",
-      "title": "Federico Buffa - Otto Infinito",
-      "date": "2026-03-12",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Di e con Federico Buffa / pianoforte Alessandro Nidi / percussioni Sebastiano Nidi / trombone Filippo Nidi / regia Maria Elisabetta Marelli / visual Francesco Poroli / animazione e postproduzione visual Mattia Galione / disegno luci Luca de Candido / produzione International Music and Arts Federico Buffa torna a teatro con uno spettacolo dedicato a Kobe Bryant, una delle più grandi leggende del basket. Attraverso una narrazione avvincente, ricca di aneddoti e spunti di riflessione, racconta la s",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064340-000923.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/federico-buffa-otto-infinito.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/federico-buffa-otto-infinito.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ff0958351a95",
@@ -4364,7 +4300,7 @@
       "venue": "Auditorium Comunale di Lavis",
       "location": "Lavis",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745717",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745717"
@@ -4918,6 +4854,22 @@
       "is_past": false
     },
     {
+      "id": "1af79633fe6e",
+      "title": "Emma Dante - L'angelo del focolare",
+      "date": "2026-03-19",
+      "time": "20:30",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Testo e regia di Emma Dante / con David Leone, Giuditta Perriera, Ivano Picciallo, Leonarda Saffi / elementi scenici e costumi Emma Dante / luci Cristian Zucaro / coordinamento e distribuzione Aldo Miguel Grompone, Roma / organizzazione Daniela Gusmano / coproduzione Piccolo Teatro di Milano – Teatro d’Europa, Teatro di Napoli – Teatro Nazionale, Châteauvallon-Liberté, scène national, Les Célestins, Théâtre de Lyon, La Comédie de Clermont-Ferrand, Scène Nationale d’ALBI-Tarn, Le Cratère, scène n",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064436-993044.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "dcb4878b1821",
       "title": "Ovo, galina e cul caldo",
       "date": "2026-03-20",
@@ -5127,6 +5079,22 @@
       "is_past": false
     },
     {
+      "id": "b2a6cde4af43",
+      "title": "Alessandro Businaro - Le cose che restano",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Regia e ideazione di Alessandro Businaro / drammaturgia di Stefano Fortin / assistenza alla regia di Chiara Businaro / con Grazia Capraro e Vassilij Gianmaria Mangheras / suono di Dario Felli / tecnico luci e suono Francesco Manzoni / un progetto di Bus14 con il sostegno produttivo di Tib Teatro / Il progetto si sviluppa a partire da un lavoro drammaturgico / realizzato nel 2016 da Alessandro Businaro e Irene Gandolfi Stagione regionale contemporanea Lui e Lei, una coppia unita (e separata) da u",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064437-9093.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/alessandro-businaro-le-cose-che-restano.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/alessandro-businaro-le-cose-che-restano.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "868c5632f2c9",
       "title": "Quattro bombe in tasca",
       "date": "2026-03-21",
@@ -5220,6 +5188,22 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "add85c7a423b",
+      "title": "I Panpers “Terapia di coppia”",
+      "date": "2026-03-21",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Dopo tanti anni qualche screzio è sempre inevitabile. La più piccola questione può esplodere in un caso di stato. È naturale, è umano, basta non mollare. Succede a tutti, anche ai PanPers , che, dopo anni a condividere gioie, dolori, amicizie, nemicizie, stanze di hotel e parcheggi dell’autogrill, dentifrici, spazzolini, splendide donne, saldi delle fatture delle suddette, sogni, speranze e persino il profilo Instagram, hanno forse bisogno di un aiuto per salvare questa coppia decennale prima ch",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064438-90323.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026i-panpers-terapia-di-coppia.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026i-panpers-terapia-di-coppia.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
