@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T05:44:26.830496+00:00",
+  "last_updated": "2026-03-13T17:31:04.650751+00:00",
   "count": 390,
   "events": [
     {
@@ -3677,9 +3677,9 @@
       "location": "Pergine Valsugana",
       "description": "Altri eventi",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/paroledifaber1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2779-parole-di-faber-26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2779-parole-di-faber-26",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2779-parole-di-faber-26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2779-parole-di-faber-26"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -3906,22 +3906,6 @@
         "https://www.cultura.trentino.it/content/view/full/745517"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "73758515450e",
-      "title": "Rita",
-      "date": "2026-03-13",
-      "time": "21:00",
-      "venue": "Casa Mondrone di Preore",
-      "location": "Tre Ville",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/rita/",
-      "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/rita/"
-      ],
-      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5828,6 +5812,22 @@
       "source_url": "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-4/",
       "source_urls": [
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-4/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "864629053402",
+      "title": "Rita",
+      "date": "2026-04-11",
+      "time": "21:00",
+      "venue": "Casa Mondrone di Preore",
+      "location": "Tre Ville",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/rita/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/rita/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": false
