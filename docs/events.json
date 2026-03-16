@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T06:17:44.087490+00:00",
+  "last_updated": "2026-03-16T17:56:50.671371+00:00",
   "count": 354,
   "events": [
     {
@@ -160,22 +160,6 @@
         "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/45-il-caso-kerenes"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "12e5686e7631",
-      "title": "EVENTI PER TUTTI I GUSTI",
-      "date": "2022-07-11",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "EVENTI PER TUTTI I GUSTI Il mix estivo rinfrescante a Villazzano!   Il Teatro di Villazzano e TeatroE non perdono il colpo sulla collina! Dal 14 luglio al 24 agosto tornano a Villazzano la serie di appuntamenti estivi con spettacoli...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2022/06/IMG_6441-870x450.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/2022/07/11/eventi-tutti-gusti/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/2022/07/11/eventi-tutti-gusti/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -3709,9 +3693,9 @@
       "location": "Pergine Valsugana",
       "description": "Cinema",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/ipeccatori1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2816-i-peccatori",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2816-i-peccatori",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2816-i-peccatori"
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2816-i-peccatori"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -3789,12 +3773,28 @@
       "location": "Pergine Valsugana",
       "description": "Cinema",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/ipeccatori1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2816-i-peccatori",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2816-i-peccatori",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2816-i-peccatori"
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2816-i-peccatori"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
+    },
+    {
+      "id": "9cf0a38a49d6",
+      "title": "Mumu e il Mago",
+      "date": "2026-03-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Alcuni ragazzi under 15 della compagnia Des Etoiles di Trento, rinomata scuola di danza sportiva è lieta di presentarvi il nuovo progetto creato tutto da loro , il musical Mumu e il mago. Il famosissimo Mago, insieme al suo simpatico...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/03/mumu-2026-pdf.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/mumu-e-il-mago/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/mumu-e-il-mago/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
     },
     {
       "id": "81d774222a82",
