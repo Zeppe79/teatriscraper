@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T17:56:50.671371+00:00",
+  "last_updated": "2026-03-17T05:56:10.408383+00:00",
   "count": 354,
   "events": [
     {
@@ -3794,7 +3794,7 @@
         "https://www.teatrodivillazzano.it/event/mumu-e-il-mago/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "81d774222a82",
