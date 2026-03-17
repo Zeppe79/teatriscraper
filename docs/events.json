@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T05:56:10.408383+00:00",
-  "count": 354,
+  "last_updated": "2026-03-17T17:55:27.196409+00:00",
+  "count": 361,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4231,22 +4231,6 @@
       "is_past": false
     },
     {
-      "id": "bef5ed5c9fd2",
-      "title": "Bestiario umano",
-      "date": "2026-03-21",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736988",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736988"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "0ea0b733c085",
       "title": "Tuti boni de ciacerar",
       "date": "2026-03-21",
@@ -4302,7 +4286,7 @@
       "venue": "Teatro San Floriano di Lizzana",
       "location": "Rovereto",
       "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743983",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743983"
@@ -4322,6 +4306,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739965",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739965"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bef5ed5c9fd2",
+      "title": "Bestiario umano",
+      "date": "2026-03-21",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Teatro di Meano | Stagione 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736988",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736988"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4353,23 +4353,24 @@
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737013",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737013"
+        "https://www.cultura.trentino.it/content/view/full/737013",
+        "https://www.cultura.trentino.it/content/view/full/745845"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
-      "id": "b263b5a53f4f",
-      "title": "Memorie dal reparto n.6",
+      "id": "e0e4999506fd",
+      "title": "Memorie dal reparto n. 6",
       "date": "2026-03-21",
       "time": "20:45",
       "venue": "Teatro San Marco",
       "location": "Trento",
-      "description": "ore 20.45",
+      "description": "monologo il 21 marzo alle ore 20.45\nlaboratorio il 22 marzo dalle ore 9.00",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745603",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745788",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745603"
+        "https://www.cultura.trentino.it/content/view/full/745788"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4503,6 +4504,22 @@
       "is_past": false
     },
     {
+      "id": "8d08c91cb305",
+      "title": "Due di noi",
+      "date": "2026-03-22",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745835",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745835"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "082e84f52af9",
       "title": "1e95",
       "date": "2026-03-22",
@@ -4583,8 +4600,8 @@
       "is_past": false
     },
     {
-      "id": "ec6f154b6c4c",
-      "title": "La Mandragola",
+      "id": "3a9267ac580c",
+      "title": "La Mandragola - Facetissima commedia dell’arte",
       "date": "2026-03-24",
       "time": "20:30",
       "venue": "Teatro Comunale di Pergine",
@@ -5289,6 +5306,54 @@
       "is_past": false
     },
     {
+      "id": "bc320a7769cd",
+      "title": "Festival Bellandi 2026 - Il programma",
+      "date": "2026-04-14",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Teatro Comunale di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi2.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2824-festival-bellandi-2026-programma",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2824-festival-bellandi-2026-programma"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "9c3632e5a268",
+      "title": "The Black's Tales Tour",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Forme rituali",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2825-the-blacks-tales-tour-festival-bellandi-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2825-the-blacks-tales-tour-festival-bellandi-2026"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "fb4a7c2a30f8",
+      "title": "Concerto Carlotta Sillano",
+      "date": "2026-04-14",
+      "time": "21:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Forme rituali",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2832-carlotta-sillano-festival-bellandi-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2832-carlotta-sillano-festival-bellandi-2026"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "fa5f046a1892",
       "title": "I sette capretti e il lupo | Arteviva",
       "date": "2026-04-15",
@@ -5321,6 +5386,22 @@
       "is_past": false
     },
     {
+      "id": "743418552a72",
+      "title": "Balance in - studio + Rami",
+      "date": "2026-04-16",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Forme rituali",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi2.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2826-balance-in-rami-festival-bellandi-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2826-balance-in-rami-festival-bellandi-2026"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "fec662cc0ca3",
       "title": "People, places and things",
       "date": "2026-04-16",
@@ -5334,6 +5415,22 @@
         "https://www.cultura.trentino.it/content/view/full/736218"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2c85cd73702d",
+      "title": "Il concerto in pantofole di Nico",
+      "date": "2026-04-16",
+      "time": "21:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Forme rituali",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2838-nico-tomasi-festival-bellandi-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2838-nico-tomasi-festival-bellandi-2026"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5366,6 +5463,38 @@
         "https://www.cultura.trentino.it/content/view/full/739822"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f91e21624711",
+      "title": "Bazar lazar",
+      "date": "2026-04-18",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Forme rituali",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi2.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "14c3767d300b",
+      "title": "Cenerentola",
+      "date": "2026-04-18",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 - Forme rituali",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2827-cenerentola-festival-bellandi-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2827-cenerentola-festival-bellandi-2026"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5460,22 +5589,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/743741",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743741"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6724301eca5d",
-      "title": "E Francesco cammina canta danza",
-      "date": "2026-04-22",
-      "time": "20:30",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745608",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745608"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
