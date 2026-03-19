@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T17:57:30.838804+00:00",
-  "count": 377,
+  "last_updated": "2026-03-19T05:55:14.057260+00:00",
+  "count": 375,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3829,22 +3829,6 @@
       "is_past": true
     },
     {
-      "id": "ed0a8affac0b",
-      "title": "Strighe Maledette!",
-      "date": "2026-03-18",
-      "time": "20:30",
-      "venue": "",
-      "location": "Fondo",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3683/27918470-1-ita-IT/sfondo-ocra-368_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745693",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745693"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "625cc52a76ca",
       "title": "Strighe Maledette!",
       "date": "2026-03-18",
@@ -3858,55 +3842,7 @@
         "https://www.trentinospettacoli.it/eventi/strighe-maledette-4/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "eeb0fcbfcc0e",
-      "title": "Stagione Haydn - Ottavio Dantone",
-      "date": "2026-03-18",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/061577-dantonemarzo25.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/stagione-haydn-ottavio-dantone.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/stagione-haydn-ottavio-dantone.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "f6073be05387",
-      "title": "Tango Fuego - Naturalis Labor",
-      "date": "2026-03-18",
-      "time": "20:30",
-      "venue": "Nobis, Brunico (Bz)",
-      "location": "Brunico",
-      "description": "Ideazione, regia, Luciano Padovani / Di e con, Lucila Prego y Roberto Angelica, Loredana de Brasi y Samuele Fragiacomo, Celeste Rey y Sebastian Nieva / Musica dal vivo trio, Tipico Tango Spleen (Mariano Speranza, pianoforte e voce /  Francesco Bruno, bandoneon / Fatma Mulhim,  violino) / Luci, Alberto Salmaso / Una produzione  Compagnia Naturalis Labor / Con il sostegno di Regione Veneto / Comune di Vicenza La Compagnia Naturalis Labor, sotto la guida di Luciano Padovani, riporta in scena il tan",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063489-fuego.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/tango-fuego-naturalis-labor.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/tango-fuego-naturalis-labor.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "3cf12e27cff7",
-      "title": "1e95",
-      "date": "2026-03-18",
-      "time": "21:00",
-      "venue": "",
-      "location": "San Lorenzo Dorsino",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-165812/27756548-1-ita-IT/Screenshot-2025-11-05-165812_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745694",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745694"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "7e9181113360",
@@ -3922,7 +3858,7 @@
         "https://www.trentinospettacoli.it/eventi/1e95/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "614ee56bf547",
@@ -4300,7 +4236,7 @@
       "venue": "Teatro di Cognola",
       "location": "Trento",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745967",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745967"
@@ -4316,7 +4252,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737013",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737013"
@@ -5174,6 +5110,22 @@
       "is_past": false
     },
     {
+      "id": "d8586f2d7888",
+      "title": "Nuzzo e Di Biase - Totalmente incompatibili",
+      "date": "2026-03-29",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "CORRADO NUZZO e MARIA DI BIASE in \"TOTALMENTE INCOMPATIBILI”, scritto da CORRADO NUZZO e MARIA DI BIASE TOTALMENTE INCOMPATIBILI - In contrasto tra di loro, in disaccordo con il mondo, felicemente inadattabili. Per Corrado Nuzzo e Maria Di Biase non valgono né il detto “chi si somiglia si piglia” e neppure “gli opposti si attraggono”, perché nulla li accomuna e tutto li allontana. Eppure, nonostante questo, da svariati anni continuano a stare insieme nella vita e in scena: perché? Perché amano l",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064567-8345.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nuzzo-e-di-biase-totalmente-incompatibili.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/nuzzo-e-di-biase-totalmente-incompatibili.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "b0c60bcd8683",
       "title": "Ma che razza di Otello?",
       "date": "2026-03-31",
@@ -5235,6 +5187,22 @@
         "https://www.trentinospettacoli.it/eventi/stefano-massinialfabeto-delle-emozioni/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "3d73305d765a",
+      "title": "Aldo Cazzullo & Angelo Branduardi",
+      "date": "2026-03-31",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "“FRANCESCO” / Aldo Cazzullo & Angelo Branduardi. Nel 2026 l’Italia celebrerà il suo santo patrono, “il più italiano dei santi”: San Francesco, morto 800 anni fa. Aldo Cazzullo e Angelo Branduardi raccontano la storia del santo – anzi, le storie. Il San Francesco della devozione: il lupo, la predica agli uccelli, le stimmate. Il San Francesco della storia: la conversione, la spoliazione, il rapporto con il Papa, la nascita dell’ordine, la crociata, l’incontro con il sultano. Il San Francesco poet",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/aldo-cazzullo-angelo-branduardi.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/aldo-cazzullo-angelo-branduardi.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
