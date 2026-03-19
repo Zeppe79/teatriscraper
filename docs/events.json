@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T05:55:14.057260+00:00",
-  "count": 375,
+  "last_updated": "2026-03-19T17:51:17.529851+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4357,22 +4357,6 @@
       "is_past": false
     },
     {
-      "id": "3ffff3b65a7e",
-      "title": "Don Chisciotte – solo chi combatte può perdere, chi non combatte ha già perso",
-      "date": "2026-03-21",
-      "time": "20:45",
-      "venue": "",
-      "location": "Dimaro Folgarida",
-      "description": "ore 20:45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745993",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745993"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "10130d514059",
       "title": "Ecco la sposa",
       "date": "2026-03-21",
@@ -4384,22 +4368,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/745995",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745995"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "070b9f616cdd",
-      "title": "Se pol far senza",
-      "date": "2026-03-21",
-      "time": "20:45",
-      "venue": "Teatro Monsignor Caproni di Levico",
-      "location": "Levico Terme",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745996",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745996"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4437,6 +4405,38 @@
       "is_past": false
     },
     {
+      "id": "070b9f616cdd",
+      "title": "Se pol far senza",
+      "date": "2026-03-21",
+      "time": "20:45",
+      "venue": "Teatro Monsignor Caproni di Levico",
+      "location": "Levico Terme",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745996",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745996"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3ffff3b65a7e",
+      "title": "Don Chisciotte – solo chi combatte può perdere, chi non combatte ha già perso",
+      "date": "2026-03-21",
+      "time": "20:45",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745993",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745993"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "b5f1c84d1805",
       "title": "Terapia di coppia",
       "date": "2026-03-21",
@@ -4464,6 +4464,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739014",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739014"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8baa8bf3b914",
+      "title": "Sinistra o destra stessa minestra",
+      "date": "2026-03-21",
+      "time": "21:00",
+      "venue": "Auditorium Casa della Gioventù di Predazzo",
+      "location": "Predazzo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746033",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746033"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4544,6 +4560,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/738814",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738814"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "67b6e575eea9",
+      "title": "La not dele streghe",
+      "date": "2026-03-22",
+      "time": "17:00",
+      "venue": "Cinema Teatro Dolomiti di Coredo",
+      "location": "Predaia",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746034",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746034"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a2c4b5953926",
+      "title": "Se pol far senza",
+      "date": "2026-03-22",
+      "time": "17:00",
+      "venue": "Teatro Monsignor Caproni di Levico",
+      "location": "Levico Terme",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746035",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746035"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4870,11 +4918,11 @@
       "is_past": false
     },
     {
-      "id": "589e9abf3194",
+      "id": "e44a9b2e45b6",
       "title": "Sic Transit Gloria Mundi",
       "date": "2026-03-26",
       "time": "21:00",
-      "venue": "Auditorium del Conservatorio",
+      "venue": "Sala della Comunità",
       "location": "Riva del Garda",
       "description": null,
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
@@ -5030,6 +5078,38 @@
       "is_past": false
     },
     {
+      "id": "c345ae936bc1",
+      "title": "Le tre Marie",
+      "date": "2026-03-28",
+      "time": "20:30",
+      "venue": "",
+      "location": "Fiavé",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746042",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746042"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1c92c9c3f531",
+      "title": "Con tut el ben che te vòi",
+      "date": "2026-03-28",
+      "time": "20:30",
+      "venue": "",
+      "location": "Vermiglio",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746043",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746043"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "eb2272055446",
       "title": "CONCERTO CORO SAT – 80 ° FONDAZIONE CORO BRENTA",
       "date": "2026-03-28",
@@ -5059,6 +5139,86 @@
         "https://www.crushsite.it/it/danza-teatro/2026/tango-gala-naturalis-labor.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "cfc60ac54ab8",
+      "title": "Niente panico!",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746044",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746044"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "caa3a3ffb423",
+      "title": "‘Na gabia de mati",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "venue": "Cinema Teatro Dolomiti di Lavarone",
+      "location": "Lavarone",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746045",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746045"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7bb12d1136c6",
+      "title": "Il commissario improvvisato",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Ospedaletto",
+      "location": "Ospedaletto",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746046",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746046"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "beda736e100e",
+      "title": "Musica maestro",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "venue": "",
+      "location": "",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746047",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746047"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "02e8a6bec07b",
+      "title": "Le streghe del Cornon",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746048",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746048"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5908,6 +6068,22 @@
         "https://www.cultura.trentino.it/content/view/full/739294"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "58bd6ad6b481",
+      "title": "GUITARRAS PAL SUR – “Chitarre dal sud: Brasile e Argentina”",
+      "date": "2026-05-09",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
