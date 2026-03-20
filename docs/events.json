@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T17:51:17.529851+00:00",
-  "count": 386,
+  "last_updated": "2026-03-20T05:47:43.265929+00:00",
+  "count": 383,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3861,22 +3861,6 @@
       "is_past": true
     },
     {
-      "id": "614ee56bf547",
-      "title": "Strighe Maledette!",
-      "date": "2026-03-19",
-      "time": "20:30",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-160917/27720722-1-ita-IT/Immagine-2025-10-21-160917_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738817",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738817"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "549565f0c881",
       "title": "L'angelo del focolare",
       "date": "2026-03-19",
@@ -3890,39 +3874,7 @@
         "https://www.cultura.trentino.it/content/view/full/739962"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "88167cad85d3",
-      "title": "L'uomo dei sogni",
-      "date": "2026-03-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736636",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736636"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2eccbd387558",
-      "title": "Eretici maestri | Strani discorsi sulla cultura",
-      "date": "2026-03-19",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3712/27918680-1-ita-IT/sfondo-ocra-371_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745697",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745697"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "44fbb203dac7",
@@ -3938,7 +3890,7 @@
         "https://www.trentinospettacoli.it/eventi/eretici-maestristrani-discorsi-sulla-cultura/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "6f95c863c1e6",
@@ -3954,7 +3906,7 @@
         "https://www.trentinospettacoli.it/eventi/strighe-maledette/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1af79633fe6e",
@@ -3970,7 +3922,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "dcb4878b1821",
@@ -4268,7 +4220,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 20:30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745990",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745990"
@@ -4316,7 +4268,7 @@
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745991",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745991"
@@ -4460,7 +4412,7 @@
       "venue": "Teatro Valle dei Laghi di Vezzano",
       "location": "Vallelaghi",
       "description": "Teatro Valle dei Laghi  | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-155730/27726824-1-ita-IT/Immagine-2025-10-22-155730_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739014",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739014"
@@ -5174,6 +5126,22 @@
       "is_past": false
     },
     {
+      "id": "02e8a6bec07b",
+      "title": "Le streghe del Cornon",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "ore 20:45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746048",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746048"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "7bb12d1136c6",
       "title": "Il commissario improvvisato",
       "date": "2026-03-28",
@@ -5201,22 +5169,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/746047",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746047"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "02e8a6bec07b",
-      "title": "Le streghe del Cornon",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "venue": "Cinema Teatro Comunale di Tesero",
-      "location": "Tesero",
-      "description": "ore 20:45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746048",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746048"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
