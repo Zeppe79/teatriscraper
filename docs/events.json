@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T05:47:43.265929+00:00",
-  "count": 383,
+  "last_updated": "2026-03-20T17:32:25.439338+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4235,7 +4235,7 @@
       "time": "20:30",
       "venue": "Teatro Cuminetti, Via S. Croce, Trento",
       "location": "Trento",
-      "description": "Regia e ideazione di Alessandro Businaro / drammaturgia di Stefano Fortin / assistenza alla regia di Chiara Businaro / con Grazia Capraro e Vassilij Gianmaria Mangheras / suono di Dario Felli / tecnico luci e suono Francesco Manzoni / un progetto di Bus14 con il sostegno produttivo di Tib Teatro / Il progetto si sviluppa a partire da un lavoro drammaturgico / realizzato nel 2016 da Alessandro Businaro e Irene Gandolfi Stagione regionale contemporanea Lui e Lei, una coppia unita (e separata) da u",
+      "description": "Si avvisa il pubblico che durante lo spettacolo sono previste scene di nudo integrale",
       "image_url": "https://www.crushsite.it/upload/images/media/large/064437-9093.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/alessandro-businaro-le-cose-che-restano.html",
       "source_urls": [
@@ -5908,6 +5908,22 @@
         "https://www.cultura.trentino.it/content/view/full/743741"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "26aaaefe099a",
+      "title": "Raccontami una Donna",
+      "date": "2026-04-22",
+      "time": "21:00",
+      "venue": "Sala della Comunità",
+      "location": "Riva del Garda",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/raccontami-una-donna/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/raccontami-una-donna/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
