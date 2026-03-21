@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T17:32:25.439338+00:00",
-  "count": 384,
+  "last_updated": "2026-03-21T05:37:28.763985+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3861,22 +3861,6 @@
       "is_past": true
     },
     {
-      "id": "549565f0c881",
-      "title": "L'angelo del focolare",
-      "date": "2026-03-19",
-      "time": "20:30",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-120637/27755859-1-ita-IT/Screenshot-2025-11-05-120637_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739962",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739962"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "44fbb203dac7",
       "title": "ERETICI MAESTRI",
       "date": "2026-03-19",
@@ -3909,86 +3893,6 @@
       "is_past": true
     },
     {
-      "id": "1af79633fe6e",
-      "title": "Emma Dante - L'angelo del focolare",
-      "date": "2026-03-19",
-      "time": "20:30",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Testo e regia di Emma Dante / con David Leone, Giuditta Perriera, Ivano Picciallo, Leonarda Saffi / elementi scenici e costumi Emma Dante / luci Cristian Zucaro / coordinamento e distribuzione Aldo Miguel Grompone, Roma / organizzazione Daniela Gusmano / coproduzione Piccolo Teatro di Milano – Teatro d’Europa, Teatro di Napoli – Teatro Nazionale, Châteauvallon-Liberté, scène national, Les Célestins, Théâtre de Lyon, La Comédie de Clermont-Ferrand, Scène Nationale d’ALBI-Tarn, Le Cratère, scène n",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064436-993044.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/emma-dante-langelo-del-focolare.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "dcb4878b1821",
-      "title": "Ovo, galina e cul caldo",
-      "date": "2026-03-20",
-      "time": "20:30",
-      "venue": "",
-      "location": "Nogaredo",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-free-sipario/27867779-1-ita-IT/immagine-FREE-sipario_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743947",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743947"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f1ca419ac1c1",
-      "title": "Che pasticcio Mrs. Peach | Il musical",
-      "date": "2026-03-20",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743975",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743975"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ca488bd525fc",
-      "title": "Le tre Marie",
-      "date": "2026-03-20",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745957",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745957"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6e104f534fd2",
-      "title": "En gran rebalton",
-      "date": "2026-03-20",
-      "time": "20:45",
-      "venue": "",
-      "location": "Rumo",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745966",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745966"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "5eb44e77bdad",
       "title": "GHIACCIO",
       "date": "2026-03-20",
@@ -4002,39 +3906,7 @@
         "https://www.trentinospettacoli.it/eventi/ghiacciocristalli-di-memoria-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "d9fca9db91c1",
-      "title": "Iliade",
-      "date": "2026-03-20",
-      "time": "21:00",
-      "venue": "Auditorium del Conservatorio di Riva del Garda",
-      "location": "Riva del Garda",
-      "description": "Teatro di Riva del Garda | Stagione 2025/2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/iliadeu/27719444-1-ita-IT/iliadeu_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738768",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738768"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d78df7f4b9f7",
-      "title": "Lapocalisse",
-      "date": "2026-03-20",
-      "time": "21:00",
-      "venue": "",
-      "location": "Spiazzo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3723/27918792-1-ita-IT/sfondo-ocra-372_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745701",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745701"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "5c69b2ca443f",
@@ -4050,7 +3922,7 @@
         "https://www.trentinospettacoli.it/eventi/lapocalisse-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "855f00edb9a8",
@@ -4066,23 +3938,7 @@
         "https://www.trentinospettacoli.it/eventi/iliadeil-coraggio-dei-codardi/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "acfc9e359755",
-      "title": "The Cream of Clapton Band",
-      "date": "2026-03-20",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Quando a interpretare la musica di Eric Clapton sono i musicisti che hanno condiviso con lui decenni di concerti, incisioni e momenti fondamentali della sua carriera, il risultato va oltre il concetto di tributo. The Cream of Clapton Band nasce proprio da qui: da una band di assoluto livello internazionale composta da Nathan East, Steve Ferrone, Will Johns e Noah East , legati a Clapton da rapporti artistici e personali che ne hanno definito il suono nel tempo. Al centro del progetto c’è Nathan ",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026the-cream-of-clapton-band.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026the-cream-of-clapton-band.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0ea0b733c085",
@@ -4284,7 +4140,7 @@
       "venue": "Teatro Comunale di Aldeno",
       "location": "Aldeno",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745992",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745992"
@@ -4300,7 +4156,7 @@
       "venue": "Teatro Giacomo Sartori",
       "location": "Ala",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745994",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745994"
@@ -4316,7 +4172,7 @@
       "venue": "Cinema teatro oratorio di Dro",
       "location": "Dro",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745995",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745995"
@@ -4332,7 +4188,7 @@
       "venue": "Teatro San Domenico Savio di Olle",
       "location": "Borgo Valsugana",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745997",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745997"
@@ -4348,7 +4204,7 @@
       "venue": "Teatro San Gottardo di Mezzocorona",
       "location": "Mezzocorona",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745998",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745998"
@@ -4364,7 +4220,7 @@
       "venue": "Teatro Monsignor Caproni di Levico",
       "location": "Levico Terme",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745996",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745996"
@@ -4380,7 +4236,7 @@
       "venue": "",
       "location": "Dimaro Folgarida",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745993",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745993"
@@ -4396,7 +4252,7 @@
       "venue": "Auditorium Santa Chiara - Trento",
       "location": "Trento",
       "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3603/27913254-1-ita-IT/sfondo-ocra-360_opengraph.jpg",
+      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra-3603/27913254-1-ita-IT/sfondo-ocra-360_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745522",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745522"
@@ -5238,6 +5094,22 @@
       "is_past": false
     },
     {
+      "id": "52a89375d614",
+      "title": "L'anno nuovo che non arriva",
+      "date": "2026-03-31",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063599-00044.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/lanno-nuovo-che-non-arriva_120670.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/lanno-nuovo-che-non-arriva_120670.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "b0c60bcd8683",
       "title": "Ma che razza di Otello?",
       "date": "2026-03-31",
@@ -5396,6 +5268,22 @@
         "https://www.cultura.trentino.it/content/view/full/730343"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "719195fd2199",
+      "title": "\"Bestiario idrico\" di Marco Paolini",
+      "date": "2026-04-09",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Uno spettacolo di Marco Paolini / scritto con Giulio Boccaletti / collaborazione alla drammaturgia Marta Dalla Via, Diego Dalla Via, Michela Signori / con Marco Paolini e con Patrizia Laquidara / regia Fratelli Dalla Via assistenza alla regia Teresa Vila / elementi scenici Mirko Artuso / direzione tecnica Piero Chinello / disegno luci Michele Mescalchin / luci Nicola Munerati / fonica Vittorio Cerroni / assistenza tecnica Città Invisibile / grafica e foto di scena Gianluca Moretto / prodotto da",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063436-mp.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
