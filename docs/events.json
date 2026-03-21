@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T05:37:28.763985+00:00",
+  "last_updated": "2026-03-21T17:21:51.669271+00:00",
   "count": 377,
   "events": [
     {
@@ -4252,7 +4252,7 @@
       "venue": "Auditorium Santa Chiara - Trento",
       "location": "Trento",
       "description": "ore 21.00",
-      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra-3603/27913254-1-ita-IT/sfondo-ocra-360_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3603/27913254-1-ita-IT/sfondo-ocra-360_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745522",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745522"
@@ -4862,9 +4862,9 @@
       "location": "Trento",
       "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
       "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nomadi-live-tour-20252026.html",
+      "source_url": "https://www.crushsite.it/it/musica/2026nomadi-live-tour-20252026.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nomadi-live-tour-20252026.html"
+        "https://www.crushsite.it/it/musica/2026nomadi-live-tour-20252026.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5206,6 +5206,22 @@
       "is_past": false
     },
     {
+      "id": "88d4c49a4d31",
+      "title": "TeatroE / Alberto Oliva - L'occhio invisibile",
+      "date": "2026-04-01",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Progetto e regia Alberto Oliva / testo Gian Filippo Maria Falsina, Alberto Oliva / con Gea Rambelli, Gian Filippo Maria Falsina / produzione TeatroE Compagnia Teatrale / durata: 60 minutiD Stagione regionale contemporanea Lei è una ragazza che ha appena subito un furto in casa, perché sprovvista di allarme, Lui è l’installatore di Super-Sure, l’Allarme Casa numero 1, scelto già da oltre un miliardo di clienti nel mondo. Super-Sure sta letteralmente conquistando il mondo con offerte incredibili, ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064705-830394.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/teatroe-alberto-oliva-locchio-invisibile.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/teatroe-alberto-oliva-locchio-invisibile.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9a2375f90868",
       "title": "Voci d'autore",
       "date": "2026-04-04",
@@ -5268,22 +5284,6 @@
         "https://www.cultura.trentino.it/content/view/full/730343"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "719195fd2199",
-      "title": "\"Bestiario idrico\" di Marco Paolini",
-      "date": "2026-04-09",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Uno spettacolo di Marco Paolini / scritto con Giulio Boccaletti / collaborazione alla drammaturgia Marta Dalla Via, Diego Dalla Via, Michela Signori / con Marco Paolini e con Patrizia Laquidara / regia Fratelli Dalla Via assistenza alla regia Teresa Vila / elementi scenici Mirko Artuso / direzione tecnica Piero Chinello / disegno luci Michele Mescalchin / luci Nicola Munerati / fonica Vittorio Cerroni / assistenza tecnica Città Invisibile / grafica e foto di scena Gianluca Moretto / prodotto da",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063436-mp.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
