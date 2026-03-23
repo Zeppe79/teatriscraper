@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T17:21:24.726508+00:00",
-  "count": 357,
+  "last_updated": "2026-03-23T06:07:54.344437+00:00",
+  "count": 349,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3941,22 +3941,6 @@
       "is_past": true
     },
     {
-      "id": "e0e4999506fd",
-      "title": "Memorie dal reparto n. 6",
-      "date": "2026-03-21",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "monologo il 21 marzo alle ore 20.45\nlaboratorio il 22 marzo dalle ore 9.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3772/27921254-1-ita-IT/sfondo-ocra-377_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745788",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745788"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "971c33dbbf1d",
       "title": "iliade",
       "date": "2026-03-21",
@@ -3989,70 +3973,6 @@
       "is_past": true
     },
     {
-      "id": "bfe72f1fc0df",
-      "title": "Co le femene le se 'mponta.... el medico el posto el ghe donta",
-      "date": "2026-03-22",
-      "time": "16:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2025/2026 | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/co-le-femene-1/27812229-1-ita-IT/co-le-femene-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/742087",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/742087"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a9b3def3f6c8",
-      "title": "Piratesse",
-      "date": "2026-03-22",
-      "time": "16:30",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-160627/27720666-1-ita-IT/Immagine-2025-10-21-160627_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738814",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738814"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "67b6e575eea9",
-      "title": "La not dele streghe",
-      "date": "2026-03-22",
-      "time": "17:00",
-      "venue": "Cinema Teatro Dolomiti di Coredo",
-      "location": "Predaia",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746034",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746034"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a2c4b5953926",
-      "title": "Se pol far senza",
-      "date": "2026-03-22",
-      "time": "17:00",
-      "venue": "Teatro Monsignor Caproni di Levico",
-      "location": "Levico Terme",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746035",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746035"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "4bcd746af993",
       "title": "Piratesse",
       "date": "2026-03-22",
@@ -4066,39 +3986,7 @@
         "https://www.trentinospettacoli.it/eventi/piratesse/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "8d08c91cb305",
-      "title": "Due di noi",
-      "date": "2026-03-22",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-248/27730317-1-ita-IT/sfondo-ocra-248_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745835",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745835"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "082e84f52af9",
-      "title": "1e95",
-      "date": "2026-03-22",
-      "time": "20:45",
-      "venue": "Cinema Teatro Comunale di Predazzo",
-      "location": "Predazzo",
-      "description": "Val di Fiemme Teatro | Stagione 2025/2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-165812/27756548-1-ita-IT/Screenshot-2025-11-05-165812_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739989",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739989"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "80cfacb6e888",
@@ -4114,39 +4002,7 @@
         "https://www.trentinospettacoli.it/eventi/1e95-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "80f103b1249e",
-      "title": "Ale e Franz - Capitol'ho",
-      "date": "2026-03-22",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745524",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745524"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f24c759f27fc",
-      "title": "Ale e Franz - Capitol'ho",
-      "date": "2026-03-22",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Scritto da Francesco Villa, Alessandro Besentini, Alberto Ferrari e Antonio De Santis / regia di Alberto Ferrari / con Ale&Franz / una produzione Dada e Pierfrancesco Pisani e Isabella Borettini per Infinito / in collaborazione con Argot Produzioni Ale&Franz, il duo comico italiano per eccellenza, torna a teatro con un nuovo originale spettacolo che ne ripercorre la trentennale carriera, affiancando ai loro personaggi più iconici e surreali nuovi ospiti disposti ad entrare nel loro strambo unive",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064450-943.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ale-e-franz-capitolho.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/ale-e-franz-capitolho.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d1e93e5d2975",
@@ -4541,7 +4397,7 @@
       "venue": "",
       "location": "Fiavé",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746042",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746042"
@@ -4557,7 +4413,7 @@
       "venue": "",
       "location": "Vermiglio",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746043",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746043"
@@ -4605,7 +4461,7 @@
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746044",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746044"
@@ -4621,7 +4477,7 @@
       "venue": "Cinema Teatro Dolomiti di Lavarone",
       "location": "Lavarone",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746045",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746045"
@@ -4637,7 +4493,7 @@
       "venue": "Cinema Teatro Comunale di Tesero",
       "location": "Tesero",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746048",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746048"
@@ -4653,7 +4509,7 @@
       "venue": "Teatro Comunale di Ospedaletto",
       "location": "Ospedaletto",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746046",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746046"
@@ -4669,7 +4525,7 @@
       "venue": "",
       "location": "",
       "description": "ore 20:45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746047",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746047"
@@ -4717,7 +4573,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/juliacasado1-cyrano-de-bergerac-8900862/27921600-1-ita-IT/juliacasado1-cyrano-de-bergerac-890086_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737011",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737011"
@@ -4964,6 +4820,22 @@
         "https://www.cultura.trentino.it/content/view/full/730343"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "719195fd2199",
+      "title": "\"Bestiario idrico\" di Marco Paolini",
+      "date": "2026-04-09",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Uno spettacolo di Marco Paolini / scritto con Giulio Boccaletti / collaborazione alla drammaturgia Marta Dalla Via, Diego Dalla Via, Michela Signori / con Marco Paolini e con Patrizia Laquidara / regia Fratelli Dalla Via assistenza alla regia Teresa Vila / elementi scenici Mirko Artuso / direzione tecnica Piero Chinello / disegno luci Michele Mescalchin / luci Nicola Munerati / fonica Vittorio Cerroni / assistenza tecnica Città Invisibile / grafica e foto di scena Gianluca Moretto / prodotto da",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063436-mp.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
