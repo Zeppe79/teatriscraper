@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T05:56:41.585478+00:00",
-  "count": 349,
+  "last_updated": "2026-03-24T17:52:07.303290+00:00",
+  "count": 350,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4085,22 +4085,6 @@
       "is_past": false
     },
     {
-      "id": "b9eb84aea98b",
-      "title": "Storia di un inverno che non voleva finire",
-      "date": "2026-03-25",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736641",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736641"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "871b9a9b0e37",
       "title": "Contrazioni pericolose",
       "date": "2026-03-25",
@@ -4129,6 +4113,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739967",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739967"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b9eb84aea98b",
+      "title": "Storia di un inverno che non voleva finire",
+      "date": "2026-03-25",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736641",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736641"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4544,7 +4544,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/736669",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736669"
+        "https://www.cultura.trentino.it/content/view/full/736669",
+        "https://www.cultura.trentino.it/content/view/full/746106"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4816,8 +4817,7 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/736217",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736217",
-        "https://www.cultura.trentino.it/content/view/full/730343"
+        "https://www.cultura.trentino.it/content/view/full/736217"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5588,6 +5588,22 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1f7fedb094e5",
+      "title": "Dammi rose senza spine",
+      "date": "2026-09-24",
+      "time": "21:00",
+      "venue": "Sala della Comunità",
+      "location": "Riva del Garda",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/dammi-rose-senza-spine/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/dammi-rose-senza-spine/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     }
   ]
