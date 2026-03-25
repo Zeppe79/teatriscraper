@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T05:57:45.458438+00:00",
-  "count": 349,
+  "last_updated": "2026-03-25T17:54:27.423406+00:00",
+  "count": 355,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4118,6 +4118,22 @@
       "is_past": false
     },
     {
+      "id": "88ea3dcbd8ae",
+      "title": "Sic Transit Gloria Mundi E se il prossimo Papa fosse donna?",
+      "date": "2026-03-26",
+      "time": "21:00",
+      "venue": "",
+      "location": "",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4032/27935217-1-ita-IT/sfondo-ocra-403_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746229",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746229"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2e41ca3f54a0",
       "title": "Gli intellettuali |  Ma dove vai, se un profilo non ce l’hai?",
       "date": "2026-03-26",
@@ -4460,12 +4476,27 @@
       "time": "16:00",
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/juliacasado1-cyrano-de-bergerac-890086-1/27921870-1-ita-IT/juliacasado1-cyrano-de-bergerac-890086-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736669",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746106",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736669",
         "https://www.cultura.trentino.it/content/view/full/746106"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "67db6219b2c4",
+      "title": "Antonio e Scipione Salvotti",
+      "date": "2026-03-29",
+      "time": "17:00",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746210",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746210"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4750,7 +4781,7 @@
       "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
       "location": "Trento",
       "description": "Uno spettacolo di Marco Paolini / scritto con Giulio Boccaletti / collaborazione alla drammaturgia Marta Dalla Via, Diego Dalla Via, Michela Signori / con Marco Paolini e con Patrizia Laquidara / regia Fratelli Dalla Via assistenza alla regia Teresa Vila / elementi scenici Mirko Artuso / direzione tecnica Piero Chinello / disegno luci Michele Mescalchin / luci Nicola Munerati / fonica Vittorio Cerroni / assistenza tecnica Città Invisibile / grafica e foto di scena Gianluca Moretto / prodotto da",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063436-mp.jpg",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064777-besid.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
@@ -4807,6 +4838,22 @@
       "is_past": false
     },
     {
+      "id": "7bb1dbeab3a8",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "venue": "Centro culturale di Locca di Concei",
+      "location": "Ledro",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746231",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746231"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "638fe387efa1",
       "title": "Spazio",
       "date": "2026-04-10",
@@ -4855,6 +4902,22 @@
       "is_past": false
     },
     {
+      "id": "d712dafd310b",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-04-11",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Aldeno",
+      "location": "Aldeno",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746232",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746232"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "918591d2016f",
       "title": "Spazio",
       "date": "2026-04-11",
@@ -4868,6 +4931,22 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-4/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "221d0637fbc0",
+      "title": "Rita",
+      "date": "2026-04-11",
+      "time": "21:00",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745689",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745689"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4932,6 +5011,22 @@
         "https://www.trentinospettacoli.it/eventi/una-pedalata-spaziale/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "ffab44a6303d",
+      "title": "La ballata dei tre porcellini",
+      "date": "2026-04-12",
+      "time": "17:00",
+      "venue": "",
+      "location": "Fondo",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746234",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746234"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
