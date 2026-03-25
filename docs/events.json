@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T17:52:07.303290+00:00",
-  "count": 350,
+  "last_updated": "2026-03-25T05:57:45.458438+00:00",
+  "count": 349,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4005,86 +4005,6 @@
       "is_past": true
     },
     {
-      "id": "d1e93e5d2975",
-      "title": "Trento e Lode - Episodio 3",
-      "date": "2026-03-24",
-      "time": "19:30",
-      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero / Ingresso libero / Progetto in collaborazione con ATU Trento e Amor Vacui / Evento organizzato da Centro Santa Chiara e Opera Universitaria Trento",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064351-00333.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-3.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/trento-e-lode-episodio-3.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "3a9267ac580c",
-      "title": "La Mandragola - Facetissima commedia dell’arte",
-      "date": "2026-03-24",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali - Grande Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736637",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736637"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "19374f06307d",
-      "title": "Federica Rosellini - iGirl",
-      "date": "2026-03-24",
-      "time": "20:30",
-      "venue": "Teatro Comunale, Piazza Verdi, Bolzano",
-      "location": "Bolzano",
-      "description": "Di Marina Carr e Federica Rosellini / traduzione Monica Capuani, Valentina Rapetti  / performer e regia Federica Rosellini  / video Rä di Martino  / musica originale Daniela Pes  / sound designer GUP Alcaro  / costumi e tatuaggi Simona D’Amico / scenografia Paola Villani  / light designer Simona Gallo  / dramaturg Monica Capuani  / aiuto regia Elvira Berarducci / produzione TPE - Teatro Piemonte Europa, Teatro Stabile Bolzano, Elsinor - Centro di Produzione Teatrale  / sostegno e debutto nazion",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064469-02912.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/federica-rosellini-igirl.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/federica-rosellini-igirl.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "c85b7b0577c7",
-      "title": "Nino Frassica & Los Plaggers Band - Tour 2000/3000",
-      "date": "2026-03-24",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Spettacolo che recupera la recita annullata lo scorso 4 gennaio '26",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063024-nf.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nino-frassica-los-plaggers-band-tour-20003000.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nino-frassica-los-plaggers-band-tour-20003000.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b212d4f3cfb6",
-      "title": "L’Agente Segreto",
-      "date": "2026-03-24",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064119-89231.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/lagente-segreto.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/lagente-segreto.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "871b9a9b0e37",
       "title": "Contrazioni pericolose",
       "date": "2026-03-25",
@@ -4541,7 +4461,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro comunale Pergine 2025/2026 |  Teatro Ragazzi | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/juliacasado1-cyrano-de-bergerac-890086-1/27921870-1-ita-IT/juliacasado1-cyrano-de-bergerac-890086-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736669",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736669",
@@ -4871,6 +4791,22 @@
       "is_past": false
     },
     {
+      "id": "298bfa0457f0",
+      "title": "Foyer della Prosa / Bestiario idrico",
+      "date": "2026-04-10",
+      "time": "17:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/062146-990909.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-bestiario-idrico.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-bestiario-idrico.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "638fe387efa1",
       "title": "Spazio",
       "date": "2026-04-10",
@@ -4948,6 +4884,22 @@
         "https://www.trentinospettacoli.it/eventi/rita/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "7a1effed6340",
+      "title": "Basement - Shanti Celeste",
+      "date": "2026-04-11",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada 82, Trento",
+      "location": "Trento",
+      "description": "Biglietti: early bird a 10 euro (max 150 biglietti); studenti uniTn solo in biglietteria con tessera a 10 euro (100 biglietti); 15 euro (in prevendita fino alla data dell'evento); 20 euro (door ticket) / Apertura porte alle ore 21",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/064706-9309434-basement.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/basement-shanti-celeste.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/basement-shanti-celeste.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5127,6 +5079,22 @@
       "is_past": false
     },
     {
+      "id": "0fc3935520d8",
+      "title": "People, Places & Things",
+      "date": "2026-04-16",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Di Duncan Macmillan / traduzione Monica Capuani / con Betti Pedrazzi, Thomas Trabacchi, Totò Omnis e con Luca Massaro, Gabriele Badaglialacqua, Sofia Capo, Marta Virginia Morgavi, Giorgio Stefani , Maria Giulia Toscano / scena Luigi Ferrigno / costumi Roberto Chiocchi / regia PIERFRANCESCO FAVINO / produzione Gli Ipocriti Melina Balsamo diretta da Pierfrancesco Favino per gentile concessione dell'Agenzia Danesi Tolnay Stagione del Teatro Sociale Diretta da Pierfrancesco Favino, Anna Ferzetti è l",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063437-90344.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "2c85cd73702d",
       "title": "Il concerto in pantofole di Nico",
       "date": "2026-04-16",
@@ -5172,6 +5140,22 @@
         "https://www.cultura.trentino.it/content/view/full/739822"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0e2eb58f1945",
+      "title": "Foyer della Prosa / People, Places & Things",
+      "date": "2026-04-17",
+      "time": "17:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/062146-990909.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
