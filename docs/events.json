@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T06:10:10.116007+00:00",
-  "count": 353,
+  "last_updated": "2026-03-26T17:58:01.048820+00:00",
+  "count": 356,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4037,8 +4037,8 @@
       "is_past": true
     },
     {
-      "id": "21330625fa71",
-      "title": "Ballo liscio con musica dal vivo",
+      "id": "00ee29374b69",
+      "title": "Serata di ballo liscio con musica dal vivo",
       "date": "2026-03-26",
       "time": "20:30",
       "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
@@ -4050,22 +4050,6 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "88ea3dcbd8ae",
-      "title": "Sic Transit Gloria Mundi E se il prossimo Papa fosse donna?",
-      "date": "2026-03-26",
-      "time": "21:00",
-      "venue": "",
-      "location": "",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4032/27935217-1-ita-IT/sfondo-ocra-403_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746229",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746229"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4524,7 +4508,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-zandonai-rovereto-tdallatina/27929317-1-ita-IT/Teatro-Zandonai-Rovereto-tdallatina_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744416",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744416"
@@ -5605,6 +5589,22 @@
       "is_past": false
     },
     {
+      "id": "65a79b4a997b",
+      "title": "Il mondo secondo Amelie",
+      "date": "2026-05-16",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/amelieritmomisto1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "770f7777f2fe",
       "title": "The Rumpled",
       "date": "2026-05-16",
@@ -5621,6 +5621,22 @@
       "is_past": false
     },
     {
+      "id": "9f1ffa49fdad",
+      "title": "Il mondo secondo Amelie",
+      "date": "2026-05-17",
+      "time": "17:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/amelieritmomisto1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "478e9065df01",
       "title": "I tre giganti",
       "date": "2026-05-30",
@@ -5634,6 +5650,38 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8872fc882742",
+      "title": "Inside (Full) Out",
+      "date": "2026-06-06",
+      "time": "19:30",
+      "venue": "Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/inside-full-out/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/inside-full-out/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "eeb524e4ea02",
+      "title": "Inside (Full) Out",
+      "date": "2026-06-07",
+      "time": "14:00",
+      "venue": "Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/inside-full-out-2/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/inside-full-out-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
