@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T17:58:01.048820+00:00",
-  "count": 356,
+  "last_updated": "2026-03-27T06:10:46.750575+00:00",
+  "count": 354,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4005,22 +4005,6 @@
       "is_past": true
     },
     {
-      "id": "b9eb84aea98b",
-      "title": "Storia di un inverno che non voleva finire",
-      "date": "2026-03-25",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro comunale Pergine 2025/2026 |  Spettacoli Teatrali -  Fuori Stagione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-207/27655726-1-ita-IT/sfondo-ocra-207_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736641",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736641"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "871b9a9b0e37",
       "title": "Contrazioni pericolose",
       "date": "2026-03-25",
@@ -4037,38 +4021,6 @@
       "is_past": true
     },
     {
-      "id": "00ee29374b69",
-      "title": "Serata di ballo liscio con musica dal vivo",
-      "date": "2026-03-26",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Quota di partecipazione: € 8",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064552-balloliscio-vezzano.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "2e41ca3f54a0",
-      "title": "Gli intellettuali |  Ma dove vai, se un profilo non ce l’hai?",
-      "date": "2026-03-26",
-      "time": "21:00",
-      "venue": "Centro culturale di Locca di Concei",
-      "location": "Ledro",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3742/27919051-1-ita-IT/sfondo-ocra-374_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745707",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745707"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "28411f985c51",
       "title": "GLI INTERNETTUALI",
       "date": "2026-03-26",
@@ -4082,7 +4034,7 @@
         "https://www.trentinospettacoli.it/eventi/gli-internettualima-dove-vai-se-un-profilo-non-ce-lhai/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e44a9b2e45b6",
@@ -4098,7 +4050,7 @@
         "https://www.trentinospettacoli.it/eventi/sic-transit-gloria-mundie-se-il-prossimo-papa-fosse-donna/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "124e0ec6170f",
@@ -4572,7 +4524,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Rovereto",
       "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-145315/27756076-1-ita-IT/Screenshot-2025-11-05-145315_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739970",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739970"
@@ -4652,7 +4604,7 @@
       "venue": "Cinema Teatro San Pietro",
       "location": "Mezzolombardo",
       "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-143935/27719878-1-ita-IT/Immagine-2025-10-21-143935_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738781",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738781"
@@ -5650,6 +5602,22 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c246e9345df1",
+      "title": "Einstürzende Neubauten",
+      "date": "2026-06-03",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
