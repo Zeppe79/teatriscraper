@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T17:45:22.385025+00:00",
-  "count": 354,
+  "last_updated": "2026-03-28T05:53:46.176756+00:00",
+  "count": 349,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4053,38 +4053,6 @@
       "is_past": true
     },
     {
-      "id": "124e0ec6170f",
-      "title": "K(-A-)O | Fondazione Sipario Toscana",
-      "date": "2026-03-27",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739283",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739283"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "35d44b733862",
-      "title": "Castagne matte | La Terza Stagione",
-      "date": "2026-03-27",
-      "time": "14:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro di Meano | Stagione 2025/2026 | ore 14.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2122/27667379-1-ita-IT/sfondo-ocra-212_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736989",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736989"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "30ed32083379",
       "title": "L’italiana in Algeri",
       "date": "2026-03-27",
@@ -4098,87 +4066,7 @@
         "https://www.crushsite.it/it/musica/2026/litaliana-in-algeri_120595.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "49cfc4b346dd",
-      "title": "Spazio. Ultima dentiera",
-      "date": "2026-03-27",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/nonna-nunzia2/27670207-1-ita-IT/Nonna-Nunzia_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/737012",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737012"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "3e8bbdb8cc04",
-      "title": "Che disastro di convento",
-      "date": "2026-03-27",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "Sipario d'Oro 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cezary_piwowarski-curtain-2106522_1920/27869893-1-ita-IT/cezary_piwowarski-curtain-2106522_1920_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743976",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743976"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a6d847b13836",
-      "title": "Compartimos. Un sogno chiamato Argentina",
-      "date": "2026-03-27",
-      "time": "20:30",
-      "venue": "",
-      "location": "Palù del Fersina",
-      "description": "Trame di Comunità | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/27-marzo-2026/27867474-1-ita-IT/27-marzo-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743911",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743911"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8c20cf25bad5",
-      "title": "Rental Family - Nelle Vite degli Altri",
-      "date": "2026-03-27",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Intero 7 euro / Ridotto 5 euro (under 14, studenti fino ai 25 anni, over 65). Online su trentinospettacoli.it / La prevendita online è soggetta a diritti a carico dell’utente. In biglietteria del teatro con apertura cassa un’ora prima della proiezione / Informazioni complete sulla proiezione in www.artelaghi.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064203-900344.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/rental-family-nelle-vite-degli-altri_120192_120242_120368.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/rental-family-nelle-vite-degli-altri_120192_120242_120368.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "18f5df5292df",
-      "title": "Nomadi - Live Tour 2025/2026",
-      "date": "2026-03-27",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026nomadi-live-tour-20252026.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026nomadi-live-tour-20252026.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d5c29b23b002",
@@ -4549,6 +4437,22 @@
       "is_past": false
     },
     {
+      "id": "cf7271e64723",
+      "title": "Welcome Show - Torneo della Pace 26",
+      "date": "2026-04-03",
+      "time": "21:00",
+      "venue": "Auditorium Fausto Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026welcome-show-torneo-della-pace-26.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026welcome-show-torneo-della-pace-26.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9a2375f90868",
       "title": "Voci d'autore",
       "date": "2026-04-04",
@@ -4565,6 +4469,38 @@
       "is_past": false
     },
     {
+      "id": "3fc910ee418d",
+      "title": "The Lord of the rings",
+      "date": "2026-04-04",
+      "time": "16:00",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/the-lord-of-the-rings.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/the-lord-of-the-rings.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "7f3f89ba83b2",
+      "title": "The music of Hans Zimmer",
+      "date": "2026-04-04",
+      "time": "19:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026the-music-of-hans-zimmer.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026the-music-of-hans-zimmer.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "bdf3a5d49ff0",
       "title": "The Night of Musicals",
       "date": "2026-04-04",
@@ -4576,6 +4512,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026the-night-of-musicals.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026the-night-of-musicals.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "c54e49ad8229",
+      "title": "Matteo Gracis",
+      "date": "2026-04-04",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026matteo-gracis.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026matteo-gracis.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4636,7 +4588,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Stagione Teatro Sociale 2025/2026 | il 9 e il 10 aprile alle ore 20.30\nl'11 aprile alle ore 18.00\nil 12 aprile alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736217",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736217"
@@ -4684,7 +4636,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foyer.-bestiario/27751757-1-ita-IT/Foyer.-Bestiario_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739820",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739820"
@@ -4709,6 +4661,22 @@
       "is_past": false
     },
     {
+      "id": "4e46d35bddd5",
+      "title": "Festival della Co.Scienza - Constellations",
+      "date": "2026-04-10",
+      "time": "20:30",
+      "venue": "Teatro SanbàPolis, via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026/festival-della-coscienza-constellations.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/festival-della-coscienza-constellations.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "7bb1dbeab3a8",
       "title": "Spazio Ultima dentiera",
       "date": "2026-04-10",
@@ -4716,7 +4684,7 @@
       "venue": "Centro culturale di Locca di Concei",
       "location": "Ledro",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3962/27935273-1-ita-IT/sfondo-ocra-396_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746231",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746231"
@@ -4757,6 +4725,22 @@
       "is_past": false
     },
     {
+      "id": "d2bf6b712b41",
+      "title": "Festival della Canzone Europea dei Bambini",
+      "date": "2026-04-11",
+      "time": "20:30",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Età consigliata: da 0 a 99 anni / Durata: 1 ora e 45",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026festival-della-canzone-europea-dei-bambini.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026festival-della-canzone-europea-dei-bambini.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "14262cea0f84",
       "title": "El filo magico",
       "date": "2026-04-11",
@@ -4764,7 +4748,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/737010",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/737010"
@@ -4780,7 +4764,7 @@
       "venue": "Teatro Comunale di Aldeno",
       "location": "Aldeno",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3962/27935273-1-ita-IT/sfondo-ocra-396_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746232",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746232"
@@ -5109,22 +5093,6 @@
       "is_past": false
     },
     {
-      "id": "0e2eb58f1945",
-      "title": "Foyer della Prosa / People, Places & Things",
-      "date": "2026-04-17",
-      "time": "17:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/062146-990909.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "b660ccd70c65",
       "title": "Bazar Lazar",
       "date": "2026-04-18",
@@ -5429,22 +5397,6 @@
       "is_past": false
     },
     {
-      "id": "2e71d448440b",
-      "title": "Nicolò Govoni in \"L’uomo che costruiva il futuro\"",
-      "date": "2026-05-07",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Di e con Nicolò Govoni / Regia Gioia Battista / Produzione: Corvino Produzioni / Durata: 1 ora e 30 minuti, senza intervallo “L’uomo che costruiva il futuro” racconta una storia straordinaria, quella di Nicolò Govoni, adolescente catalogato “difficile’’ che a vent’anni lascia tutto e decide di dedicarsi al suo sogno: costruire un futuro migliore per le bambine e i bambini di tutto il mondo. Scuole, educazione, indipendenza e libertà. Mattone dopo mattone, Nicolò affronta prima un lungo periodo d",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063835-9943434.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "58bd6ad6b481",
       "title": "GUITARRAS PAL SUR – “Chitarre dal sud: Brasile e Argentina”",
       "date": "2026-05-09",
@@ -5557,22 +5509,6 @@
       "is_past": false
     },
     {
-      "id": "770f7777f2fe",
-      "title": "The Rumpled",
-      "date": "2026-05-16",
-      "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Early Bird – 15€ → in vendita dall’8/12 fino a esaurimento / General Ticket – 18€ / Door Ticket – 20€ → acquistabile in cassa il giorno dell’evento",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063171-89233.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/the-rumpled.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/the-rumpled.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "9f1ffa49fdad",
       "title": "Il mondo secondo Amelie",
       "date": "2026-05-17",
@@ -5602,22 +5538,6 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c246e9345df1",
-      "title": "Einstürzende Neubauten",
-      "date": "2026-06-03",
-      "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
