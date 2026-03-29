@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T17:24:36.080639+00:00",
-  "count": 349,
+  "last_updated": "2026-03-29T06:10:06.076763+00:00",
+  "count": 341,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4069,54 +4069,6 @@
       "is_past": true
     },
     {
-      "id": "d5c29b23b002",
-      "title": "Il segreto del medaglione",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "venue": "",
-      "location": "Fierozzo",
-      "description": "Trame di Comunità | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/28-marzo-2026-1/27867418-1-ita-IT/28-marzo-2026-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743909",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743909"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c345ae936bc1",
-      "title": "Le tre Marie",
-      "date": "2026-03-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Fiavé",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746042",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746042"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1c92c9c3f531",
-      "title": "Con tut el ben che te vòi",
-      "date": "2026-03-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Vermiglio",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746043",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746043"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "eb2272055446",
       "title": "CONCERTO CORO SAT – 80 ° FONDAZIONE CORO BRENTA",
       "date": "2026-03-28",
@@ -4130,103 +4082,7 @@
         "https://www.trentinospettacoli.it/eventi/concerto-dell80-di-fondazione-del-coro-brenta-di-tione/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "5615d9691a37",
-      "title": "Tango Gala - Naturalis Labor",
-      "date": "2026-03-28",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via Santa Croce, Trento",
-      "location": "Trento",
-      "description": "Ideazione, regia, Luciano Padovani / Di e con, Ayelen Sanchez y Walter Suquia, Samuele Fragiacomo y Loredana De Brasi, Roberto Angelica e Lucila Prego / Musica dal vivo trio, Tipico Tango Spleen (Mariano Speranza, pianoforte e voce /  Francesco Bruno, bandoneon / Fatma Mulhim,  violino) / Luci, Thomas Heuger / Una produzione, Compagnia Naturalis Labor / Con il sostegno di Regione Veneto / Comune di Vicenza Tango Gala è la proposta di tango con musica dal vivo firmata da Luciano Padovani per la c",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063488-gala.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/tango-gala-naturalis-labor.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/tango-gala-naturalis-labor.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "cfc60ac54ab8",
-      "title": "Niente panico!",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
-      "location": "Civezzano",
-      "description": "ore 20:45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746044",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746044"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "caa3a3ffb423",
-      "title": "‘Na gabia de mati",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "venue": "Cinema Teatro Dolomiti di Lavarone",
-      "location": "Lavarone",
-      "description": "ore 20:45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746045",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746045"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "02e8a6bec07b",
-      "title": "Le streghe del Cornon",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "venue": "Cinema Teatro Comunale di Tesero",
-      "location": "Tesero",
-      "description": "ore 20:45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746048",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746048"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7bb12d1136c6",
-      "title": "Il commissario improvvisato",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Ospedaletto",
-      "location": "Ospedaletto",
-      "description": "ore 20:45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746046",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746046"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "beda736e100e",
-      "title": "Musica maestro",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "venue": "",
-      "location": "",
-      "description": "ore 20:45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-rossa/27873008-1-ita-IT/tenda-teatro-rossa_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746047",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746047"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c23a15aa65ab",
@@ -4796,7 +4652,7 @@
       "venue": "",
       "location": "Tre Ville",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3702/27918414-1-ita-IT/sfondo-ocra-370_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745689",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745689"
@@ -4844,7 +4700,7 @@
       "venue": "Cinema Teatro di Cembra Lisignago",
       "location": "Cembra Lisignago",
       "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-161151/27720778-1-ita-IT/Immagine-2025-10-21-161151_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738819",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738819"
@@ -4876,7 +4732,7 @@
       "venue": "",
       "location": "Fondo",
       "description": "ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-404/27935427-1-ita-IT/sfondo-ocra-404_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746234",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746234"
@@ -4924,7 +4780,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745904"
@@ -4972,7 +4828,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739286",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739286"
@@ -4988,7 +4844,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739288",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739288"
@@ -5020,7 +4876,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Stagione Teatro Sociale 2025/2026 | il 16 e il 17 aprile alle ore 20.30\nil 18 aprile alle ore 18.00\nil 19 aprile alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/736218",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/736218"
@@ -5084,12 +4940,28 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foyer.-people/27751813-1-ita-IT/Foyer.-People_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739822",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739822"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0e2eb58f1945",
+      "title": "Foyer della Prosa / People, Places & Things",
+      "date": "2026-04-17",
+      "time": "17:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/062146-990909.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
