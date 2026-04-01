@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T06:25:19.638202+00:00",
-  "count": 323,
+  "last_updated": "2026-04-01T17:45:28.865255+00:00",
+  "count": 328,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5152,6 +5152,86 @@
       "source_url": "https://www.trentinospettacoli.it/eventi/inside-full-out-2/",
       "source_urls": [
         "https://www.trentinospettacoli.it/eventi/inside-full-out-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "d00808657d09",
+      "title": "VINCEN GARCIA – GJF 2026",
+      "date": "2026-08-01",
+      "time": "21:00",
+      "venue": "Castello",
+      "location": "Arco",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/vincen-garcia/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/vincen-garcia/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "3e5ec2a1e55e",
+      "title": "JOEY CALDERAZZO TRIO – GJF 2026",
+      "date": "2026-08-02",
+      "time": "21:00",
+      "venue": "Sala Garda – Palazzo dei congressi",
+      "location": "Riva del Garda",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/joey-calderazzo-trio/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/joey-calderazzo-trio/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "9f20c9ce1244",
+      "title": "QUINTAESSENZA – GJF 2026",
+      "date": "2026-08-06",
+      "time": "21:00",
+      "venue": "Casa degli artisti",
+      "location": "Tenno",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/quintaessenza-gjf-2026/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/quintaessenza-gjf-2026/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "d000ab2283f2",
+      "title": "FABRIZIO BOSSO & JULIAN OLIVER MAZZARIELLO – GJF 2026",
+      "date": "2026-08-08",
+      "time": "21:00",
+      "venue": "Sala Garda – Palazzo dei congressi",
+      "location": "Riva del Garda",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/fabrizio-bossojulian-oliver-mazzariello-gjf-2026/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/fabrizio-bossojulian-oliver-mazzariello-gjf-2026/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "9a917c3bd6bf",
+      "title": "EMMA SMITH – GJF 2026",
+      "date": "2026-08-09",
+      "time": "21:00",
+      "venue": "Sala Garda – Palazzo dei congressi",
+      "location": "Riva del Garda",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/emma-smith-gjf-2026/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/emma-smith-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": false
