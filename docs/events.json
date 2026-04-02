@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T17:45:28.865255+00:00",
-  "count": 328,
+  "last_updated": "2026-04-02T06:09:28.376844+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3909,54 +3909,6 @@
       "is_past": true
     },
     {
-      "id": "3d73305d765a",
-      "title": "Aldo Cazzullo & Angelo Branduardi",
-      "date": "2026-03-31",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "“FRANCESCO” / Aldo Cazzullo & Angelo Branduardi. Nel 2026 l’Italia celebrerà il suo santo patrono, “il più italiano dei santi”: San Francesco, morto 800 anni fa. Aldo Cazzullo e Angelo Branduardi raccontano la storia del santo – anzi, le storie. Il San Francesco della devozione: il lupo, la predica agli uccelli, le stimmate. Il San Francesco della storia: la conversione, la spoliazione, il rapporto con il Papa, la nascita dell’ordine, la crociata, l’incontro con il sultano. Il San Francesco poet",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/aldo-cazzullo-angelo-branduardi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/aldo-cazzullo-angelo-branduardi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "878483182048",
-      "title": "L'occhio invisibile",
-      "date": "2026-04-01",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-145315/27756076-1-ita-IT/Screenshot-2025-11-05-145315_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739970",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739970"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "88d4c49a4d31",
-      "title": "TeatroE / Alberto Oliva - L'occhio invisibile",
-      "date": "2026-04-01",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Progetto e regia Alberto Oliva / testo Gian Filippo Maria Falsina, Alberto Oliva / con Gea Rambelli, Gian Filippo Maria Falsina / produzione TeatroE Compagnia Teatrale / durata: 60 minutiD Stagione regionale contemporanea Lei è una ragazza che ha appena subito un furto in casa, perché sprovvista di allarme, Lui è l’installatore di Super-Sure, l’Allarme Casa numero 1, scelto già da oltre un miliardo di clienti nel mondo. Super-Sure sta letteralmente conquistando il mondo con offerte incredibili, ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064705-830394.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/teatroe-alberto-oliva-locchio-invisibile.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/teatroe-alberto-oliva-locchio-invisibile.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "cf7271e64723",
       "title": "Welcome Show - Torneo della Pace 26",
       "date": "2026-04-03",
@@ -4748,7 +4700,7 @@
       "venue": "Cinema Teatro San Pietro",
       "location": "Mezzolombardo",
       "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-144324/27719934-1-ita-IT/Immagine-2025-10-21-144324_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/738783",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/738783"
