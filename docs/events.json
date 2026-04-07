@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T06:16:52.460802+00:00",
-  "count": 295,
+  "last_updated": "2026-04-07T17:54:34.470306+00:00",
+  "count": 327,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3917,9 +3917,9 @@
       "location": "Pergine Valsugana",
       "description": "Altri eventi",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/vocidautore.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2822-voci-d-autore",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2822-voci-d-autore",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2822-voci-d-autore"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2822-voci-d-autore"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -3941,6 +3941,22 @@
       "is_past": false
     },
     {
+      "id": "d1dda166afd7",
+      "title": "Lapocalisse",
+      "date": "2026-04-07",
+      "time": "21:00",
+      "venue": "Cinema Teatro San Pietro",
+      "location": "Mezzolombardo",
+      "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-143935/27719878-1-ita-IT/Immagine-2025-10-21-143935_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738781",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738781"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6b582896b359",
       "title": "Lapocalisse",
       "date": "2026-04-07",
@@ -3954,6 +3970,22 @@
         "https://www.trentinospettacoli.it/eventi/lapocalisse/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "cd1067fb7ed5",
+      "title": "Bestiario idrico di Marco Paolini",
+      "date": "2026-04-09",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Stagione Teatro Sociale 2025/2026 | il 9 e il 10 aprile alle ore 20.30\nl'11 aprile alle ore 18.00\nil 12 aprile alle ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736217",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736217"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3989,6 +4021,22 @@
       "is_past": false
     },
     {
+      "id": "fc9dd66f7044",
+      "title": "Foyer della Prosa - Bestiario idrico",
+      "date": "2026-04-10",
+      "time": "17:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foyer.-bestiario/27751757-1-ita-IT/Foyer.-Bestiario_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739820",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739820"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "298bfa0457f0",
       "title": "Foyer della Prosa / Bestiario idrico",
       "date": "2026-04-10",
@@ -4018,6 +4066,22 @@
         "https://www.crushsite.it/it/incontri/2026/festival-della-coscienza-constellations.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "7bb1dbeab3a8",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "venue": "Centro culturale di Locca di Concei",
+      "location": "Ledro",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3962/27935273-1-ita-IT/sfondo-ocra-396_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746231",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746231"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4069,6 +4133,38 @@
       "is_past": false
     },
     {
+      "id": "14262cea0f84",
+      "title": "El filo magico",
+      "date": "2026-04-11",
+      "time": "20:45",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737010",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737010"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d712dafd310b",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-04-11",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Aldeno",
+      "location": "Aldeno",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3962/27935273-1-ita-IT/sfondo-ocra-396_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746232",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746232"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "918591d2016f",
       "title": "Spazio",
       "date": "2026-04-11",
@@ -4082,6 +4178,22 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-4/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "221d0637fbc0",
+      "title": "Rita",
+      "date": "2026-04-11",
+      "time": "21:00",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3702/27918414-1-ita-IT/sfondo-ocra-370_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745689",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745689"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4117,6 +4229,22 @@
       "is_past": false
     },
     {
+      "id": "318774760136",
+      "title": "Una pedalata spaziale",
+      "date": "2026-04-12",
+      "time": "16:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-161151/27720778-1-ita-IT/Immagine-2025-10-21-161151_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738819",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738819"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "17f342115b79",
       "title": "Una pedalata spaziale",
       "date": "2026-04-12",
@@ -4130,6 +4258,22 @@
         "https://www.trentinospettacoli.it/eventi/una-pedalata-spaziale/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "ffab44a6303d",
+      "title": "La ballata dei tre porcellini",
+      "date": "2026-04-12",
+      "time": "17:00",
+      "venue": "",
+      "location": "Fondo",
+      "description": "ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-404/27935427-1-ita-IT/sfondo-ocra-404_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746234",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746234"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4178,6 +4322,22 @@
         "https://www.teatrodipergine.it/eventi/2824-festival-bellandi-2026-programma"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "c8c3ff63ee23",
+      "title": "The Black’s Tales Tour",
+      "date": "2026-04-14",
+      "time": "19:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745904",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745904"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4245,6 +4405,38 @@
       "is_past": false
     },
     {
+      "id": "fa5f046a1892",
+      "title": "I sette capretti e il lupo | Arteviva",
+      "date": "2026-04-15",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739286",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739286"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1458989e401c",
+      "title": "Racconto alla rovescia | Momom Teatro",
+      "date": "2026-04-15",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739288",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739288"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "743418552a72",
       "title": "Balance in - studio + Rami",
       "date": "2026-04-16",
@@ -4274,6 +4466,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/balance-in-e-rami-festival-bellandi.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "fec662cc0ca3",
+      "title": "People, places and things",
+      "date": "2026-04-16",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Stagione Teatro Sociale 2025/2026 | il 16 e il 17 aprile alle ore 20.30\nil 18 aprile alle ore 18.00\nil 19 aprile alle ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/736218",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/736218"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4325,6 +4533,38 @@
       "is_past": false
     },
     {
+      "id": "9180353b9636",
+      "title": "Cenerentola - La Baracca / Testoni ragazzi",
+      "date": "2026-04-17",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739290",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739290"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2060d6ccad3a",
+      "title": "Foyer della Prosa - People, places and things",
+      "date": "2026-04-17",
+      "time": "17:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "C:SC Foyer del Teatro 2025/2026 | ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foyer.-people/27751813-1-ita-IT/Foyer.-People_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739822",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739822"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0e2eb58f1945",
       "title": "Foyer della Prosa / People, Places & Things",
       "date": "2026-04-17",
@@ -4338,6 +4578,22 @@
         "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-people-places-things.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b660ccd70c65",
+      "title": "Bazar Lazar",
+      "date": "2026-04-18",
+      "time": "18:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 | ore 18.00, 18.30 e 19.00 performance teatrale\nore 20.00 spettacolo",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745906",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745906"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4389,6 +4645,38 @@
       "is_past": false
     },
     {
+      "id": "bb77bf839c85",
+      "title": "Spazio Ultima dentiera",
+      "date": "2026-04-18",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-161422/27720834-1-ita-IT/Immagine-2025-10-21-161422_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738821",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738821"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "35b3000e8b5c",
+      "title": "La vita mi è passata davanti e io… tiè! L’ho doppiata.",
+      "date": "2026-04-18",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/737008",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/737008"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "890cfb04f20b",
       "title": "Spazio",
       "date": "2026-04-18",
@@ -4402,6 +4690,38 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-3/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "0b72633f6d62",
+      "title": "La vita resistente",
+      "date": "2026-04-19",
+      "time": "19:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745907",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745907"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "17e4b3556253",
+      "title": "Strighe Maledette!",
+      "date": "2026-04-21",
+      "time": "21:00",
+      "venue": "Cinema Teatro San Pietro",
+      "location": "Mezzolombardo",
+      "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-144324/27719934-1-ita-IT/Immagine-2025-10-21-144324_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738783",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738783"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4421,6 +4741,38 @@
       "is_past": false
     },
     {
+      "id": "00e32742d0a4",
+      "title": "Alle perle piace l’acqua",
+      "date": "2026-04-22",
+      "time": "19:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745908",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745908"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a8200d11374e",
+      "title": "Bibliotecari per un giorno",
+      "date": "2026-04-22",
+      "time": "20:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Trame di Comunità | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743741",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743741"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "26aaaefe099a",
       "title": "Raccontami una Donna",
       "date": "2026-04-22",
@@ -4434,6 +4786,22 @@
         "https://www.trentinospettacoli.it/eventi/raccontami-una-donna/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "9dbfc346316e",
+      "title": "4:48 Psychosis",
+      "date": "2026-04-23",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Rovereto",
+      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739973",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739973"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4453,6 +4821,22 @@
       "is_past": false
     },
     {
+      "id": "47a128af26d2",
+      "title": "Mycelium – A Nourishing Community",
+      "date": "2026-04-26",
+      "time": "19:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745910",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745910"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "603450e319dd",
       "title": "Ma che razza di Otello?",
       "date": "2026-04-26",
@@ -4466,6 +4850,54 @@
         "https://www.trentinospettacoli.it/eventi/ma-che-razza-di-otello-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "cb02f01920b9",
+      "title": "Cenerentola - La Baracca / Testoni ragazzi",
+      "date": "2026-04-27",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739291",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739291"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bfc554de890a",
+      "title": "Animal or man? | Annalisa Brianzi",
+      "date": "2026-05-05",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739295",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739295"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6cc3a1d57207",
+      "title": "Animal or man? | Annalisa Brianzi",
+      "date": "2026-05-06",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739294"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4517,6 +4949,38 @@
       "is_past": false
     },
     {
+      "id": "e93c92d1bcb5",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739298"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9a81d61b4df2",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-13",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6db16838eb5c",
       "title": "Compartimos: un sogno chiamato Argentina",
       "date": "2026-05-13",
@@ -4530,6 +4994,38 @@
         "https://www.crushsite.it/it/danza-teatro/2026compartimos-un-sogno-chiamato-argentina.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "4da66ee3b80f",
+      "title": "Pimpa. Il musical a pois",
+      "date": "2026-05-14",
+      "time": "17:00",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "Teatro di Tione di Trento | Stagione 2025/2026 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738952",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738952"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "830ef43e0da1",
+      "title": "Piratesse",
+      "date": "2026-05-16",
+      "time": "17:00",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743944"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4578,6 +5074,22 @@
         "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "478e9065df01",
+      "title": "I tre giganti",
+      "date": "2026-05-30",
+      "time": "17:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744214",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744214"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
