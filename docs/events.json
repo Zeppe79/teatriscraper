@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T06:19:14.749974+00:00",
+  "last_updated": "2026-04-08T18:04:03.992301+00:00",
   "count": 325,
   "events": [
     {
@@ -3973,6 +3973,22 @@
       "is_past": false
     },
     {
+      "id": "0c9aaacf4656",
+      "title": "Il Comune di Pergine presenta il progetto del Festival del Libro 2026",
+      "date": "2026-04-10",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Conferenza stampa",
+      "image_url": null,
+      "source_url": "https://www.teatrodipergine.it/eventi/2844-presentazione-progetto-festival-del-libro-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2844-presentazione-progetto-festival-del-libro-2026"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "56ddacb187d0",
       "title": "Braidus in rock",
       "date": "2026-04-10",
@@ -4576,22 +4592,6 @@
       "source_url": "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026",
       "source_urls": [
         "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "14c3767d300b",
-      "title": "Cenerentola",
-      "date": "2026-04-18",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Festival Bellandi 2026 - Forme rituali",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2827-cenerentola-festival-bellandi-2026",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2827-cenerentola-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
