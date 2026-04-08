@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T17:54:34.470306+00:00",
-  "count": 327,
+  "last_updated": "2026-04-08T06:19:14.749974+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3925,38 +3925,6 @@
       "is_past": true
     },
     {
-      "id": "ac50b5f67d5c",
-      "title": "La mia famiglia a Taipei",
-      "date": "2026-04-07",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063475-90023.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/la-mia-famiglia-a-taipei_119392_119779_120066_120868.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/la-mia-famiglia-a-taipei_119392_119779_120066_120868.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "d1dda166afd7",
-      "title": "Lapocalisse",
-      "date": "2026-04-07",
-      "time": "21:00",
-      "venue": "Cinema Teatro San Pietro",
-      "location": "Mezzolombardo",
-      "description": "Teatro di Mezzolombardo | Stagione 2025/2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-143935/27719878-1-ita-IT/Immagine-2025-10-21-143935_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738781",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738781"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "6b582896b359",
       "title": "Lapocalisse",
       "date": "2026-04-07",
@@ -3970,7 +3938,7 @@
         "https://www.trentinospettacoli.it/eventi/lapocalisse/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "cd1067fb7ed5",
@@ -4748,7 +4716,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/745908",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/745908"
