@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T06:19:00.429518+00:00",
-  "count": 325,
+  "last_updated": "2026-04-09T17:56:04.978050+00:00",
+  "count": 326,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4882,6 +4882,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "8478036f9352",
+      "title": "ONE NIGHT ONLY – OLDIES BUT GOLDIES & FRIENDS",
+      "date": "2026-05-09",
+      "time": "20:30",
+      "venue": "Auditorium S. Chiara",
+      "location": "Trento",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/one-night-only-oldies-but-goldies-friends/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/one-night-only-oldies-but-goldies-friends/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
