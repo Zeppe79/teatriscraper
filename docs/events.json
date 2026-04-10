@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T17:56:04.978050+00:00",
+  "last_updated": "2026-04-10T06:30:41.008563+00:00",
   "count": 326,
   "events": [
     {
@@ -3954,7 +3954,7 @@
         "https://www.cultura.trentino.it/content/view/full/736217"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "719195fd2199",
@@ -3970,7 +3970,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0c9aaacf4656",
