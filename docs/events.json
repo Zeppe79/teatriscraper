@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T17:30:15.476561+00:00",
-  "count": 323,
+  "last_updated": "2026-04-13T07:12:40.189498+00:00",
+  "count": 319,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3941,38 +3941,6 @@
       "is_past": true
     },
     {
-      "id": "cd1067fb7ed5",
-      "title": "Bestiario idrico di Marco Paolini",
-      "date": "2026-04-09",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Stagione Teatro Sociale 2025/2026 | il 9 e il 10 aprile alle ore 20.30\nl'11 aprile alle ore 18.00\nil 12 aprile alle ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736217",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736217"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "719195fd2199",
-      "title": "\"Bestiario idrico\" di Marco Paolini",
-      "date": "2026-04-09",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Uno spettacolo di Marco Paolini / scritto con Giulio Boccaletti / collaborazione alla drammaturgia Marta Dalla Via, Diego Dalla Via, Michela Signori / con Marco Paolini e con Patrizia Laquidara / regia Fratelli Dalla Via assistenza alla regia Teresa Vila / elementi scenici Mirko Artuso / direzione tecnica Piero Chinello / disegno luci Michele Mescalchin / luci Nicola Munerati / fonica Vittorio Cerroni / assistenza tecnica Città Invisibile / grafica e foto di scena Gianluca Moretto / prodotto da",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064777-besid.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bestiario-idrico-di-marco-paolini.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "0c9aaacf4656",
       "title": "Il Comune di Pergine presenta il progetto del Festival del Libro 2026",
       "date": "2026-04-10",
@@ -3997,9 +3965,9 @@
       "location": "Pergine Valsugana",
       "description": "Altri eventi",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/braidusinrock1.jpeg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2823-braidus-in-rock",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2823-braidus-in-rock",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2823-braidus-in-rock"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2823-braidus-in-rock"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4029,27 +3997,11 @@
       "location": "Pergine Valsugana",
       "description": "Altri eventi",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dentro1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2840-dentro",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2840-dentro",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2840-dentro"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2840-dentro"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "d2bf6b712b41",
-      "title": "Festival della Canzone Europea dei Bambini",
-      "date": "2026-04-11",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Età consigliata: da 0 a 99 anni / Durata: 1 ora e 45",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026festival-della-canzone-europea-dei-bambini.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026festival-della-canzone-europea-dei-bambini.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": true
     },
     {
@@ -4085,22 +4037,6 @@
       "is_past": true
     },
     {
-      "id": "318774760136",
-      "title": "Una pedalata spaziale",
-      "date": "2026-04-12",
-      "time": "16:30",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-161151/27720778-1-ita-IT/Immagine-2025-10-21-161151_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738819",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738819"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "17f342115b79",
       "title": "Una pedalata spaziale",
       "date": "2026-04-12",
@@ -4114,23 +4050,7 @@
         "https://www.trentinospettacoli.it/eventi/una-pedalata-spaziale/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "ffab44a6303d",
-      "title": "La ballata dei tre porcellini",
-      "date": "2026-04-12",
-      "time": "17:00",
-      "venue": "",
-      "location": "Fondo",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-404/27935427-1-ita-IT/sfondo-ocra-404_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746234",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746234"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e41f5026c74a",
@@ -4146,7 +4066,7 @@
         "https://www.trentinospettacoli.it/eventi/la-ballata-dei-tre-porcellini-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "bc320a7769cd",
@@ -4828,7 +4748,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739294"
@@ -4908,7 +4828,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739298"
@@ -4924,7 +4844,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739297"
@@ -5042,6 +4962,22 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c246e9345df1",
+      "title": "Einstürzende Neubauten",
+      "date": "2026-06-03",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
