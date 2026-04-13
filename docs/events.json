@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T07:12:40.189498+00:00",
-  "count": 319,
+  "last_updated": "2026-04-13T17:56:16.649929+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4661,17 +4661,17 @@
       "is_past": false
     },
     {
-      "id": "b8577050a931",
-      "title": "Le vie dei sogni - Trento Film Festival",
+      "id": "493066419d94",
+      "title": "Voci di speranza",
       "date": "2026-04-25",
-      "time": "21:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026le-vie-dei-sogni-trento-film-festival.html",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Entrata ad offerta libera",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065073-94843.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/voci-di-speranza.html",
       "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026le-vie-dei-sogni-trento-film-festival.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/voci-di-speranza.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4754,22 +4754,6 @@
         "https://www.cultura.trentino.it/content/view/full/739294"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2e71d448440b",
-      "title": "Nicolò Govoni in \"L’uomo che costruiva il futuro\"",
-      "date": "2026-05-07",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Di e con Nicolò Govoni / Regia Gioia Battista / Produzione: Corvino Produzioni / Durata: 1 ora e 30 minuti, senza intervallo “L’uomo che costruiva il futuro” racconta una storia straordinaria, quella di Nicolò Govoni, adolescente catalogato “difficile’’ che a vent’anni lascia tutto e decide di dedicarsi al suo sogno: costruire un futuro migliore per le bambine e i bambini di tutto il mondo. Scuole, educazione, indipendenza e libertà. Mattone dopo mattone, Nicolò affronta prima un lungo periodo d",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063835-9943434.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4917,19 +4901,19 @@
       "is_past": false
     },
     {
-      "id": "770f7777f2fe",
-      "title": "The Rumpled",
+      "id": "e3d732962eae",
+      "title": "Concerto Malika Ayane",
       "date": "2026-05-16",
       "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Early Bird – 15€ → in vendita dall’8/12 fino a esaurimento / General Ticket – 18€ / Door Ticket – 20€ → acquistabile in cassa il giorno dell’evento",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063171-89233.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/the-rumpled.html",
+      "venue": "Giardino di Palazzo Lodron",
+      "location": "Nogaredo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/concerto-malika-ayane/",
       "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/the-rumpled.html"
+        "https://www.trentinospettacoli.it/eventi/concerto-malika-ayane/"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -4949,6 +4933,22 @@
       "is_past": false
     },
     {
+      "id": "f63d531218aa",
+      "title": "Ballo liscio con musica dal vivo",
+      "date": "2026-05-21",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065082-9.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121436.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121436.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "478e9065df01",
       "title": "I tre giganti",
       "date": "2026-05-30",
@@ -4965,17 +4965,17 @@
       "is_past": false
     },
     {
-      "id": "c246e9345df1",
-      "title": "Einstürzende Neubauten",
-      "date": "2026-06-03",
-      "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
+      "id": "df74a3779454",
+      "title": "Serata di ballo liscio con musica dal vivo",
+      "date": "2026-06-04",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065081-987987112.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121375.html",
       "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
+        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121375.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5010,6 +5010,22 @@
         "https://www.trentinospettacoli.it/eventi/inside-full-out-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "94b92b873a5e",
+      "title": "Serata di ballo liscio con musica dal vivo",
+      "date": "2026-07-02",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065081-987987112.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5090,6 +5106,22 @@
         "https://www.trentinospettacoli.it/eventi/emma-smith-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "bb568855d7e1",
+      "title": "Serata di ballo liscio con musica dal vivo",
+      "date": "2026-09-17",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065081-987987112.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
