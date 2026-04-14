@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T06:29:30.458573+00:00",
-  "count": 321,
+  "last_updated": "2026-04-14T18:00:37.484199+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4341,6 +4341,22 @@
       "is_past": false
     },
     {
+      "id": "3b9a605a3e3a",
+      "title": "Le parole che non ho detto. Io, nonno Dino e l'Alzheimer",
+      "date": "2026-04-17",
+      "time": "21:00",
+      "venue": "Teatro Sanbàpolis",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746611",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746611"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "b660ccd70c65",
       "title": "Bazar Lazar",
       "date": "2026-04-18",
@@ -4421,6 +4437,22 @@
       "is_past": false
     },
     {
+      "id": "a128c0b59617",
+      "title": "Se.No",
+      "date": "2026-04-18",
+      "time": "20:30",
+      "venue": "Auditorium del Conservatorio di Riva del Garda",
+      "location": "Riva del Garda",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746612",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746612"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "890cfb04f20b",
       "title": "Spazio",
       "date": "2026-04-18",
@@ -4482,6 +4514,22 @@
         "https://www.crushsite.it/it/musica/2026/giovanni-allevi.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "7107e9bf3c56",
+      "title": "Se.No - Arditodesio",
+      "date": "2026-04-20",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746613",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746613"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4661,6 +4709,22 @@
       "is_past": false
     },
     {
+      "id": "f9f035f16fbc",
+      "title": "Pota Boyz comedy show",
+      "date": "2026-04-24",
+      "time": "21:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3932/27921484-1-ita-IT/sfondo-ocra-393_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746602",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746602"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "493066419d94",
       "title": "Voci di speranza",
       "date": "2026-04-25",
@@ -4732,7 +4796,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/739295",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739295"
@@ -4748,7 +4812,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739294"
@@ -4812,7 +4876,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739298"
@@ -4828,7 +4892,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739297"
