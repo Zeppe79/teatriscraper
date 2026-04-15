@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T18:00:37.484199+00:00",
-  "count": 325,
+  "last_updated": "2026-04-15T06:31:01.702449+00:00",
+  "count": 324,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4082,23 +4082,7 @@
         "https://www.teatrodipergine.it/eventi/2824-festival-bellandi-2026-programma"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "c8c3ff63ee23",
-      "title": "The Black’s Tales Tour",
-      "date": "2026-04-14",
-      "time": "19:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745904",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745904"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9c3632e5a268",
@@ -4114,39 +4098,7 @@
         "https://www.teatrodipergine.it/teatro/2825-the-blacks-tales-tour-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "4f2fa85be73d",
-      "title": "Ateneo dei Racconti - Prima serata",
-      "date": "2026-04-14",
-      "time": "20:30",
-      "venue": "Teatro SanbàPolis, via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete, biglietti: http://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026/ateneo-dei-racconti-prima-serata.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/ateneo-dei-racconti-prima-serata.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5bd8f9fea037",
-      "title": "Goodbye Julia",
-      "date": "2026-04-14",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064951-gg.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/goodbye-julia.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/goodbye-julia.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fb4a7c2a30f8",
@@ -4162,7 +4114,7 @@
         "https://www.teatrodipergine.it/musica/2832-carlotta-sillano-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fa5f046a1892",
@@ -4741,6 +4693,22 @@
       "is_past": false
     },
     {
+      "id": "b8577050a931",
+      "title": "Le vie dei sogni - Trento Film Festival",
+      "date": "2026-04-25",
+      "time": "21:00",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026le-vie-dei-sogni-trento-film-festival.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026le-vie-dei-sogni-trento-film-festival.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "47a128af26d2",
       "title": "Mycelium – A Nourishing Community",
       "date": "2026-04-26",
@@ -4796,7 +4764,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739295",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739295"
@@ -4818,6 +4786,22 @@
         "https://www.cultura.trentino.it/content/view/full/739294"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2e71d448440b",
+      "title": "Nicolò Govoni in \"L’uomo che costruiva il futuro\"",
+      "date": "2026-05-07",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Di e con Nicolò Govoni / Regia Gioia Battista / Produzione: Corvino Produzioni / Durata: 1 ora e 30 minuti, senza intervallo “L’uomo che costruiva il futuro” racconta una storia straordinaria, quella di Nicolò Govoni, adolescente catalogato “difficile’’ che a vent’anni lascia tutto e decide di dedicarsi al suo sogno: costruire un futuro migliore per le bambine e i bambini di tutto il mondo. Scuole, educazione, indipendenza e libertà. Mattone dopo mattone, Nicolò affronta prima un lungo periodo d",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063835-9943434.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
