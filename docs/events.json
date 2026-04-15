@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T06:31:01.702449+00:00",
-  "count": 324,
+  "last_updated": "2026-04-15T18:02:49.670524+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4077,9 +4077,9 @@
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 - Teatro Comunale di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi2.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2824-festival-bellandi-2026-programma",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2824-festival-bellandi-2026-programma",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2824-festival-bellandi-2026-programma"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2824-festival-bellandi-2026-programma"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4093,9 +4093,9 @@
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 - Forme rituali",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2825-the-blacks-tales-tour-festival-bellandi-2026",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2825-the-blacks-tales-tour-festival-bellandi-2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2825-the-blacks-tales-tour-festival-bellandi-2026"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2825-the-blacks-tales-tour-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4109,9 +4109,9 @@
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 - Forme rituali",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2832-carlotta-sillano-festival-bellandi-2026",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2832-carlotta-sillano-festival-bellandi-2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/2832-carlotta-sillano-festival-bellandi-2026"
+        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2832-carlotta-sillano-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4880,6 +4880,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ff52af0dcec1",
+      "title": "Compartimos: un sogno chiamato Argentina",
+      "date": "2026-05-13",
+      "time": "21:00",
+      "venue": "",
+      "location": "Madruzzo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746633",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746633"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
