@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T18:02:49.670524+00:00",
-  "count": 325,
+  "last_updated": "2026-04-16T06:55:26.279715+00:00",
+  "count": 323,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4117,38 +4117,6 @@
       "is_past": true
     },
     {
-      "id": "fa5f046a1892",
-      "title": "I sette capretti e il lupo | Arteviva",
-      "date": "2026-04-15",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "C:SC Circuito Danza 2025/2026 | Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739286",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739286"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1458989e401c",
-      "title": "Racconto alla rovescia | Momom Teatro",
-      "date": "2026-04-15",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739288",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739288"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "743418552a72",
       "title": "Balance in - studio + Rami",
       "date": "2026-04-16",
@@ -4780,7 +4748,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739294"
@@ -4860,7 +4828,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739298"
