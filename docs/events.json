@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T18:05:34.818125+00:00",
+  "last_updated": "2026-04-17T06:56:27.143653+00:00",
   "count": 323,
   "events": [
     {
@@ -4125,28 +4125,12 @@
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 - Forme rituali",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi2.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2826-balance-in-rami-festival-bellandi-2026",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2826-balance-in-rami-festival-bellandi-2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2826-balance-in-rami-festival-bellandi-2026"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2826-balance-in-rami-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "f47ff80c066d",
-      "title": "Balance in e Rami / Festival Bellandi",
-      "date": "2026-04-16",
-      "time": "20:00",
-      "venue": "Teatro Comunale, Piazza Garibaldi 5/g, Pergine Valsugana (Tn)",
-      "location": "Pergine Valsugana",
-      "description": "BALANCE IN – Studio Progetto vincitore del Bando Non Addomesticabili 2026 promosso da Centro Servizi Culturali S. Chiara, Ariateatro ETS e Pergine Festival / di e con Linus Jansner & Emily Heather Manica / coreografie Linus Jansner / musiche originali dal vivo Emily Heather Manica / assistente tecnico e alla creazione Marco Bissoli / prodotto da Compagnia Abbondanza/Bertoni. Un intimo e suggestivo incontro in cui la danza contemporanea e il suono di una chitarra classica dal vivo respirano, si s",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/balance-in-e-rami-festival-bellandi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/balance-in-e-rami-festival-bellandi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fec662cc0ca3",
@@ -4162,7 +4146,7 @@
         "https://www.cultura.trentino.it/content/view/full/736218"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0fc3935520d8",
@@ -4178,23 +4162,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "c844f5070189",
-      "title": "Kamikaze di Eleazaro Rossi",
-      "date": "2026-04-16",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Per raggiungere il mindset necessario a scrivere KAMIKAZE Eleazaro è andato in treno fino a Cividale del Friuli (in Friuli) dove ha soggiornato alcune settimane (presso l’Albergo Cividale, 3 stelle, con trattamento di mezza pensione). Complesso sintetizzare il quarto spettacolo di quello che viene considerato, prima di tutto dai suoi “colleghi”, il migliore stand-up comedian italiano: un'opera articolata e tortuosa che non si presta ad essere distillata in poche parole, dunque ne useremo molte. ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064946-03943.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/kamikaze-di-eleazaro-rossi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/kamikaze-di-eleazaro-rossi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2c85cd73702d",
@@ -4205,12 +4173,12 @@
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 - Forme rituali",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2838-nico-tomasi-festival-bellandi-2026",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2838-nico-tomasi-festival-bellandi-2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/2838-nico-tomasi-festival-bellandi-2026"
+        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2838-nico-tomasi-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9180353b9636",
@@ -4949,6 +4917,22 @@
       "is_past": false
     },
     {
+      "id": "770f7777f2fe",
+      "title": "The Rumpled",
+      "date": "2026-05-16",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Early Bird – 15€ → in vendita dall’8/12 fino a esaurimento / General Ticket – 18€ / Door Ticket – 20€ → acquistabile in cassa il giorno dell’evento",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063171-89233.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/the-rumpled.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/the-rumpled.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9f1ffa49fdad",
       "title": "Il mondo secondo Amelie",
       "date": "2026-05-17",
@@ -4994,6 +4978,22 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c246e9345df1",
+      "title": "Einstürzende Neubauten",
+      "date": "2026-06-03",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
