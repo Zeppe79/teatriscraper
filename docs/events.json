@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T06:56:27.143653+00:00",
+  "last_updated": "2026-04-17T17:44:18.471602+00:00",
   "count": 323,
   "events": [
     {
@@ -496,22 +496,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/asino-a-chi-4/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/asino-a-chi-4/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "233d198df74e",
-      "title": "La vita mi è passata davanti e io… tiè! L’ho doppiata.",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Alfredo Colina. Attore. Uomo. Racconta. Quella volta che si sentiva Bukowski e, prima di entrare in scena, ha bevuto perfino le pozzanghere. Quella volta che ha dimenticato una pistola di scena nel trolley, e il metal detector dell’aeroporto non l’ha...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Colina2-870x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -4179,6 +4163,22 @@
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
+    },
+    {
+      "id": "8389d4963250",
+      "title": "Una donna impenetrabile",
+      "date": "2026-04-17",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "L’attesa è il filo conduttore che unisce tre figure femminili profondamente diverse tra loro, accomunate da un tempo sospeso fatto di desideri, aspettative e contraddizioni. C’è Ada, timida e romantica, che aspetta il suo fidanzato e si racconta attraverso parole...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-11.43.19-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/una-donna-impenetrabile-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/una-donna-impenetrabile-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
     },
     {
       "id": "9180353b9636",
