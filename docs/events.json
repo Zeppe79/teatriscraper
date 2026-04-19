@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T17:32:28.252546+00:00",
-  "count": 320,
+  "last_updated": "2026-04-19T06:27:42.984534+00:00",
+  "count": 316,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4181,22 +4181,6 @@
       "is_past": true
     },
     {
-      "id": "b660ccd70c65",
-      "title": "Bazar Lazar",
-      "date": "2026-04-18",
-      "time": "18:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Bellandi 2026 | ore 18.00, 18.30 e 19.00 performance teatrale\nore 20.00 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745906",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745906"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "f91e21624711",
       "title": "Bazar lazar",
       "date": "2026-04-18",
@@ -4210,71 +4194,7 @@
         "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "fb5ef06f0898",
-      "title": "Cenerentola",
-      "date": "2026-04-18",
-      "time": "20:00",
-      "venue": "Teatro Comunale, Piazza Garibaldi 5/g, Pergine Valsugana (Tn)",
-      "location": "Pergine Valsugana",
-      "description": "Con Gianluca Gabriele, Amalia, Ruocco, Enrica Zampetti / regia, drammaturgia, coreografia Luana Gramegna / scene, luci, costumi e pupazzi Francesco Givone / produzione Zaches Teatro 2021 / PREMIO HYSTRIO 2023 Un grande focolare pieno di fumo e fuliggine abitato da presenze magiche: le Cenerine, che narrano la storia di Cenerentola. Una fiaba iniziatica in cui la difficile strada per la maturità passa attraverso il distacco dal passato. Utilizzando il teatro d’oggetto, la danza, il movimento espr",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cenerentola_121299.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cenerentola_121299.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "bb77bf839c85",
-      "title": "Spazio Ultima dentiera",
-      "date": "2026-04-18",
-      "time": "20:30",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "Teatro Cembra Lisignago | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-21-161422/27720834-1-ita-IT/Immagine-2025-10-21-161422_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738821",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738821"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "35b3000e8b5c",
-      "title": "La vita mi è passata davanti e io… tiè! L’ho doppiata.",
-      "date": "2026-04-18",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano | Stagione 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2132/27668772-1-ita-IT/sfondo-ocra-213_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/737008",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/737008"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a128c0b59617",
-      "title": "Se.No",
-      "date": "2026-04-18",
-      "time": "20:30",
-      "venue": "Auditorium del Conservatorio di Riva del Garda",
-      "location": "Riva del Garda",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746612",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746612"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "890cfb04f20b",
@@ -4290,23 +4210,7 @@
         "https://www.trentinospettacoli.it/eventi/spazioultima-dentiera-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "e5d02b319e37",
-      "title": "Davide Van De Sfroos & Folkestra 2026",
-      "date": "2026-04-18",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Dopo il successo del tour estivo e dei grandi eventi all’aperto, Davide Van De Sfroos torna nei teatri con un nuovo e ambizioso progetto: “Davide Van De Sfroos & Folkestra 2026”, il suo primo tour con una piccola Orchestra che affiancherà alcuni dei suoi storici musicisti per dare nuova veste alle ballate, ai racconti e alle emozioni del suo repertorio. Il tour “Davide Van De Sfroos & Folkestra 2026” sarà un viaggio musicale che attraverserà i teatri più belli del Nord Italia (e non solo), in un",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065054-4343.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/davide-van-de-sfroos-folkestra-2026.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/davide-van-de-sfroos-folkestra-2026.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0b72633f6d62",
@@ -4693,6 +4597,22 @@
       "is_past": false
     },
     {
+      "id": "67b20f70a4f0",
+      "title": "Di padre in figlia - Trento Film Festival",
+      "date": "2026-05-01",
+      "time": "21:00",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete: https://www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065204-39483.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/di-padre-in-figlia-trento-film-festival.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/di-padre-in-figlia-trento-film-festival.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "bfc554de890a",
       "title": "Animal or man? | Annalisa Brianzi",
       "date": "2026-05-05",
@@ -4722,6 +4642,22 @@
         "https://www.cultura.trentino.it/content/view/full/739294"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2e71d448440b",
+      "title": "Nicolò Govoni in \"L’uomo che costruiva il futuro\"",
+      "date": "2026-05-07",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Di e con Nicolò Govoni / Regia Gioia Battista / Produzione: Corvino Produzioni / Durata: 1 ora e 30 minuti, senza intervallo “L’uomo che costruiva il futuro” racconta una storia straordinaria, quella di Nicolò Govoni, adolescente catalogato “difficile’’ che a vent’anni lascia tutto e decide di dedicarsi al suo sogno: costruire un futuro migliore per le bambine e i bambini di tutto il mondo. Scuole, educazione, indipendenza e libertà. Mattone dopo mattone, Nicolò affronta prima un lungo periodo d",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063835-9943434.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4860,7 +4796,7 @@
       "venue": "",
       "location": "Frassilongo",
       "description": "Trame di Comunità | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/16-maggio-piratesse-1/27868605-1-ita-IT/16-maggio-PIRATESSE-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743944"
@@ -4940,7 +4876,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Trame di Comunità | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/30-maggio-2026/27877931-1-ita-IT/30-maggio-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/744214",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/744214"
