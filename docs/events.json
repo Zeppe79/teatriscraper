@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T17:31:17.570648+00:00",
-  "count": 316,
+  "last_updated": "2026-04-20T07:14:14.107138+00:00",
+  "count": 314,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4117,38 +4117,6 @@
       "is_past": true
     },
     {
-      "id": "fec662cc0ca3",
-      "title": "People, places and things",
-      "date": "2026-04-16",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Stagione Teatro Sociale 2025/2026 | il 16 e il 17 aprile alle ore 20.30\nil 18 aprile alle ore 18.00\nil 19 aprile alle ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-ingresso-cbasso2/27644843-1-ita-IT/Teatro-Sociale-di-Trento-ingresso-cbasso_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/736218",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/736218"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "0fc3935520d8",
-      "title": "People, Places & Things",
-      "date": "2026-04-16",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Di Duncan Macmillan / traduzione Monica Capuani / con Betti Pedrazzi, Thomas Trabacchi, Totò Omnis e con Luca Massaro, Gabriele Badaglialacqua, Sofia Capo, Marta Virginia Morgavi, Giorgio Stefani , Maria Giulia Toscano / scena Luigi Ferrigno / costumi Roberto Chiocchi / regia PIERFRANCESCO FAVINO / produzione Gli Ipocriti Melina Balsamo diretta da Pierfrancesco Favino per gentile concessione dell'Agenzia Danesi Tolnay Stagione del Teatro Sociale Diretta da Pierfrancesco Favino, Anna Ferzetti è l",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064945-9483.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/people-places-things.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "2c85cd73702d",
       "title": "Il concerto in pantofole di Nico",
       "date": "2026-04-16",
@@ -4189,9 +4157,9 @@
       "location": "Pergine Valsugana",
       "description": "Festival Bellandi 2026 - Forme rituali",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/bellandi2.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2836-bazar-lazar-festival-bellandi-2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2836-bazar-lazar-festival-bellandi-2026"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2836-bazar-lazar-festival-bellandi-2026"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4211,38 +4179,6 @@
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
-    },
-    {
-      "id": "0b72633f6d62",
-      "title": "La vita resistente",
-      "date": "2026-04-19",
-      "time": "19:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745907",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745907"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2729979f21ce",
-      "title": "Giovanni Allevi",
-      "date": "2026-04-19",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Il Maestro Giovanni Allevi torna a calcare i palcoscenici d’Europa con il suo compagno più fedele: il pianoforte a partire dal dicembre 2025 con un tour che porta il suo nome, trasformando ogni concerto in un incontro sospeso tra emozione e riflessione. La sua musica, delicatamente tesa tra classico e contemporaneo, conduce l’ascoltatore in un itinerario interiore dove anche il silenzio tra due note ha il peso di una parola e di una nota. Il pianoforte del Maestro Giovanni Allevi, con il suo lin",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065055-90923.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/giovanni-allevi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/giovanni-allevi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "7107e9bf3c56",
@@ -4837,6 +4773,22 @@
       "is_past": false
     },
     {
+      "id": "770f7777f2fe",
+      "title": "The Rumpled",
+      "date": "2026-05-16",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Early Bird – 15€ → in vendita dall’8/12 fino a esaurimento / General Ticket – 18€ / Door Ticket – 20€ → acquistabile in cassa il giorno dell’evento",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063171-89233.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/the-rumpled.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/the-rumpled.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9f1ffa49fdad",
       "title": "Il mondo secondo Amelie",
       "date": "2026-05-17",
@@ -4882,6 +4834,22 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c246e9345df1",
+      "title": "Einstürzende Neubauten",
+      "date": "2026-06-03",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
