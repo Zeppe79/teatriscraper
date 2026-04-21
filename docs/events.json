@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T06:56:34.729610+00:00",
-  "count": 312,
+  "last_updated": "2026-04-21T17:56:42.901331+00:00",
+  "count": 314,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4298,7 +4298,7 @@
       "date": "2026-04-23",
       "time": "20:30",
       "venue": "Teatro Cuminetti",
-      "location": "Rovereto",
+      "location": "Trento",
       "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-145850/27756144-1-ita-IT/Screenshot-2025-11-05-145850_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739973",
@@ -4442,7 +4442,7 @@
       "date": "2026-04-27",
       "time": "10:00",
       "venue": "Auditorium Fausto Melotti",
-      "location": "Trento",
+      "location": "Rovereto",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739291",
@@ -4538,12 +4538,28 @@
       "date": "2026-05-06",
       "time": "10:00",
       "venue": "Auditorium Fausto Melotti",
-      "location": "Trento",
+      "location": "Rovereto",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739294"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6506895bfed9",
+      "title": "L'uomo che costruiva il futuro",
+      "date": "2026-05-07",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/govoni/27948942-1-ita-IT/Govoni_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746777",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746777"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4634,7 +4650,7 @@
       "date": "2026-05-13",
       "time": "10:00",
       "venue": "Auditorium Fausto Melotti",
-      "location": "Trento",
+      "location": "Rovereto",
       "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
@@ -4786,6 +4802,22 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121436.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "1599de0ff0a4",
+      "title": "VIAGGIO IN ITALIA CON NICCOLÒ PAGANINI – DISEGNI IN MUSICA",
+      "date": "2026-05-22",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
