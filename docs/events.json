@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T17:53:35.624626+00:00",
-  "count": 314,
+  "last_updated": "2026-04-21T06:56:34.729610+00:00",
+  "count": 312,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4179,38 +4179,6 @@
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
-    },
-    {
-      "id": "7107e9bf3c56",
-      "title": "Se.No - Arditodesio",
-      "date": "2026-04-20",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746613",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746613"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5595e4052570",
-      "title": "Francesco Cicchella in \"Tante Belle Cose”",
-      "date": "2026-04-20",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "In un salotto televisivo, Francesco Cicchella, ormai sessantenne, sconvolge il pubblico dichiarando il suo ritiro dalle scene, esibendosi dunque per l’ultima volta. In questo momento di commiato, l'artista napoletano fa un bilancio della sua lunga e brillante carriera. Tra i ricordi che affiorano, uno in particolare si distingue: una serata a teatro, un punto di svolta che ha segnato indelebilmente la sua vita. Lo spettacolo “Tante belle cose” diventa così un viaggio nel tempo, un flashback che ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065057-93832.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026francesco-cicchella-in-tante-belle-cose.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026francesco-cicchella-in-tante-belle-cose.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "3b05a9d253c3",
