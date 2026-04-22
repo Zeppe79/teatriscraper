@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T06:55:26.792280+00:00",
-  "count": 311,
+  "last_updated": "2026-04-22T17:57:03.946718+00:00",
+  "count": 315,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4261,6 +4261,22 @@
       "is_past": false
     },
     {
+      "id": "7cb5f3849ef0",
+      "title": "“La Venere sull’Alpe” al 74° Trento Film Festival 2026",
+      "date": "2026-04-24",
+      "time": "19:00",
+      "venue": "",
+      "location": "",
+      "description": "ore 19.00 spettacolo presso lo Spazio archeologico S.A.S.\nore 21.00 concerto presso la Sala Filarmonica di Trento",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4033/27952242-1-ita-IT/sfondo-ocra-403_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746866",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746866"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5bf71c494a5f",
       "title": "La luna sui nossi monti / Stefania Menestrina",
       "date": "2026-04-24",
@@ -4533,6 +4549,38 @@
       "is_past": false
     },
     {
+      "id": "965288306764",
+      "title": "Civili selvaggi",
+      "date": "2026-05-08",
+      "time": "19:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Saggio di fine anno corso annuale Ariateatro 11-17 anni",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/saggipergine-100.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2586-civili-selvaggi-saggio-11-17-anni",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2586-civili-selvaggi-saggio-11-17-anni"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "7833c91a9faf",
+      "title": "Il bosco incantato",
+      "date": "2026-05-09",
+      "time": "17:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Saggio di fine anno corso annuale Ariateatro 7-10 anni del giovedì",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/ilboscoincantato.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2845-il-bosco-incantato-saggio-7-10-anni-giovedi",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2845-il-bosco-incantato-saggio-7-10-anni-giovedi"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "8478036f9352",
       "title": "ONE NIGHT ONLY – OLDIES BUT GOLDIES & FRIENDS",
       "date": "2026-05-09",
@@ -4578,6 +4626,22 @@
         "https://www.crushsite.it/it/musica/2026guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "cf35168806fd",
+      "title": "I ladri del tempo",
+      "date": "2026-05-10",
+      "time": "19:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Saggio di fine anno corso annuale Ariateatro 7-10 anni del mercoledì",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/saggipergine-100.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
