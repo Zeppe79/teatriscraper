@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T17:57:03.946718+00:00",
-  "count": 315,
+  "last_updated": "2026-04-23T06:59:30.646765+00:00",
+  "count": 313,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4197,38 +4197,6 @@
       "is_past": true
     },
     {
-      "id": "00e32742d0a4",
-      "title": "Alle perle piace l’acqua",
-      "date": "2026-04-22",
-      "time": "19:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Bellandi 2026 | ore 19.00 aperitivo al Cafè Teatro – Eno&Gastro Lab\nore 20.00 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745908",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745908"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a8200d11374e",
-      "title": "Bibliotecari per un giorno",
-      "date": "2026-04-22",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Trame di Comunità | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/bibliotecari-per-un-giorno-2/27861532-1-ita-IT/bibliotecari-per-un-giorno-2_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/743741",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/743741"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "26aaaefe099a",
       "title": "Raccontami una Donna",
       "date": "2026-04-22",
@@ -4242,7 +4210,7 @@
         "https://www.trentinospettacoli.it/eventi/raccontami-una-donna/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9dbfc346316e",
