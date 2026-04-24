@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T18:04:17.339493+00:00",
-  "count": 314,
+  "last_updated": "2026-04-24T07:03:19.581385+00:00",
+  "count": 313,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4211,22 +4211,6 @@
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
-    },
-    {
-      "id": "9dbfc346316e",
-      "title": "4:48 Psychosis",
-      "date": "2026-04-23",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "C:SC Stagione Regionale Contemporanea 2025/2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2025-11-05-145850/27756144-1-ita-IT/Screenshot-2025-11-05-145850_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739973",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739973"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
     },
     {
       "id": "7cb5f3849ef0",
