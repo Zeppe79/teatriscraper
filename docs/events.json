@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T06:18:51.665227+00:00",
-  "count": 303,
+  "last_updated": "2026-04-25T17:34:22.931908+00:00",
+  "count": 317,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4237,9 +4237,9 @@
       "location": "Vezzano - Vallelaghi",
       "description": "Entrata ad offerta libera",
       "image_url": "https://www.crushsite.it/upload/images/media/large/065073-94843.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/voci-di-speranza.html",
+      "source_url": "https://www.crushsite.it/it/musica/2026voci-di-speranza.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/voci-di-speranza.html"
+        "https://www.crushsite.it/it/musica/2026voci-di-speranza.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4261,6 +4261,22 @@
       "is_past": false
     },
     {
+      "id": "47a128af26d2",
+      "title": "Mycelium – A Nourishing Community",
+      "date": "2026-04-26",
+      "time": "20:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Bellandi 2026 | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/745910",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/745910"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6a7c5d0cf051",
       "title": "Premiazione ITAS - Trento Film Festival",
       "date": "2026-04-26",
@@ -4274,6 +4290,22 @@
         "https://www.crushsite.it/it/incontri/2026/premiazione-itas-trento-film-festival.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "cb02f01920b9",
+      "title": "Cenerentola - La Baracca / Testoni ragazzi",
+      "date": "2026-04-27",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739291",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739291"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4325,6 +4357,22 @@
       "is_past": false
     },
     {
+      "id": "304e76f0fe3c",
+      "title": "Suoni Universitari",
+      "date": "2026-04-30",
+      "time": "20:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "ingresso libero",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026suoni-universitari.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026suoni-universitari.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "67b20f70a4f0",
       "title": "Di padre in figlia - Trento Film Festival",
       "date": "2026-05-01",
@@ -4338,6 +4386,86 @@
         "https://www.crushsite.it/it/incontri/2026/di-padre-in-figlia-trento-film-festival.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "bfc554de890a",
+      "title": "Animal or man? | Annalisa Brianzi",
+      "date": "2026-05-05",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739295",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739295"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6cc3a1d57207",
+      "title": "Animal or man? | Annalisa Brianzi",
+      "date": "2026-05-06",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739294"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a58cf1a378c2",
+      "title": "Vernia o non Vernia",
+      "date": "2026-05-06",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746903",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746903"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0789f4522ae1",
+      "title": "Giovanni Vernia in “Vernia o non Vernia”",
+      "date": "2026-05-06",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "GIOVANNI VERNIA in “Vernia o non Vernia” / Scritto da Giovanni Vernia e Paolo Uzzi / Collaborazione ai testi Paola Galassi, Giampiero Solari, Pablo Solari / Con Giovanni Vernia e il Maestro Marco Sabiu / Musiche del Maestro Marco Sabiu Giovanni sin da piccolo è stato esuberante ed estroverso, come quando imitò la voce dello zio di Catania per tre giorni dopo le vacanze in Sicilia. Oltre al ragazzo normale e brillante laureato in ingegneria, possiede un talento artistico sorprendente nel canto e ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065331-33.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026giovanni-vernia-in-vernia-o-non-vernia.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026giovanni-vernia-in-vernia-o-non-vernia.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "6506895bfed9",
+      "title": "L'uomo che costruiva il futuro",
+      "date": "2026-05-07",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/govoni/27948942-1-ita-IT/Govoni_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746777",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746777"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4469,6 +4597,54 @@
       "is_past": false
     },
     {
+      "id": "e93c92d1bcb5",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739298"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9a81d61b4df2",
+      "title": "The curse of Hotel Morgue | The Play Group",
+      "date": "2026-05-13",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/739297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ff52af0dcec1",
+      "title": "Compartimos: un sogno chiamato Argentina",
+      "date": "2026-05-13",
+      "time": "21:00",
+      "venue": "",
+      "location": "Madruzzo",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/compartimos-immagine-banner_1-artelaghi/27945323-1-ita-IT/Compartimos-immagine-banner_1-ArteLaghi_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/746633",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/746633"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6db16838eb5c",
       "title": "Compartimos: un sogno chiamato Argentina",
       "date": "2026-05-13",
@@ -4482,6 +4658,38 @@
         "https://www.crushsite.it/it/danza-teatro/2026compartimos-un-sogno-chiamato-argentina.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "4da66ee3b80f",
+      "title": "Pimpa. Il musical a pois",
+      "date": "2026-05-14",
+      "time": "17:00",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "Teatro di Tione di Trento | Stagione 2025/2026 | ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-140839/27724864-1-ita-IT/Immagine-2025-10-22-140839_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/738952",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/738952"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "830ef43e0da1",
+      "title": "Piratesse",
+      "date": "2026-05-16",
+      "time": "17:00",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/16-maggio-piratesse-1/27868605-1-ita-IT/16-maggio-PIRATESSE-1_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/743944"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4610,6 +4818,22 @@
         "https://www.teatrodipergine.it/eventi/2848-sospeso-30-maggio"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "478e9065df01",
+      "title": "I tre giganti",
+      "date": "2026-05-30",
+      "time": "17:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Trame di Comunità | ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/30-maggio-2026/27877931-1-ita-IT/30-maggio-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/744214",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/744214"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
