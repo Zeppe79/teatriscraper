@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T17:34:22.931908+00:00",
-  "count": 317,
+  "last_updated": "2026-04-26T06:57:36.464311+00:00",
+  "count": 315,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4227,38 +4227,6 @@
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
-    },
-    {
-      "id": "493066419d94",
-      "title": "Voci di speranza",
-      "date": "2026-04-25",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Entrata ad offerta libera",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065073-94843.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026voci-di-speranza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026voci-di-speranza.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b8577050a931",
-      "title": "Le vie dei sogni - Trento Film Festival",
-      "date": "2026-04-25",
-      "time": "21:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026le-vie-dei-sogni-trento-film-festival.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026le-vie-dei-sogni-trento-film-festival.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "47a128af26d2",
