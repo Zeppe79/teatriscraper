@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-26T17:34:42.036495+00:00",
-  "count": 315,
+  "last_updated": "2026-04-27T07:32:01.328427+00:00",
+  "count": 313,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4227,38 +4227,6 @@
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
-    },
-    {
-      "id": "47a128af26d2",
-      "title": "Mycelium – A Nourishing Community",
-      "date": "2026-04-26",
-      "time": "20:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Bellandi 2026 | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-comunale-di-pergine-tdallatina-3/27925057-1-ita-IT/Teatro-comunale-di-Pergine-tdallatina-3_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/745910",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/745910"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6a7c5d0cf051",
-      "title": "Premiazione ITAS - Trento Film Festival",
-      "date": "2026-04-26",
-      "time": "20:20",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026/premiazione-itas-trento-film-festival.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/premiazione-itas-trento-film-festival.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "cb02f01920b9",
