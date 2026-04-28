@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T18:03:05.792912+00:00",
-  "count": 316,
+  "last_updated": "2026-04-28T07:29:11.060880+00:00",
+  "count": 314,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4227,38 +4227,6 @@
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
-    },
-    {
-      "id": "cb02f01920b9",
-      "title": "Cenerentola - La Baracca / Testoni ragazzi",
-      "date": "2026-04-27",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739291",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739291"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b8c0ca7f1ad3",
-      "title": "La leggendaria Charlie Gaul - Trento Film Festival",
-      "date": "2026-04-27",
-      "time": "21:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065202-21.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/la-leggendaria-charlie-gaul-trento-film-festival.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/la-leggendaria-charlie-gaul-trento-film-festival.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "d59056c2498d",
