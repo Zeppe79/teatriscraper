@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T07:19:31.695732+00:00",
-  "count": 314,
+  "last_updated": "2026-04-29T18:09:13.652592+00:00",
+  "count": 316,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4561,6 +4561,38 @@
         "https://www.cultura.trentino.it/content/view/full/739298"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d1614464b6f2",
+      "title": "Il confine tra relazione e manipolazione",
+      "date": "2026-05-12",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Anteprima del Trentino Book Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/piedimonte1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2850-il-confine-tra-relazione-e-manipolazione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2850-il-confine-tra-relazione-e-manipolazione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1346a0e2a27a",
+      "title": "Sammy. Una vita da abbracciare (S. Paolo)",
+      "date": "2026-05-12",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Anteprima del Trentino Book Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/sammy1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2851-sammy-una-vita-da-abbracciare",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2851-sammy-una-vita-da-abbracciare"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
