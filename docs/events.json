@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T18:14:42.982006+00:00",
-  "count": 315,
+  "last_updated": "2026-04-29T07:19:31.695732+00:00",
+  "count": 314,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4065,7 +4065,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-show-puttana/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e36775375104",
@@ -4081,7 +4081,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-performance-dovevo-andare-al-mare/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "537fd35f98e2",
@@ -4097,7 +4097,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-performance-per-piacere/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ff5499a921d5",
@@ -4113,7 +4113,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-performance-che-fine-ha-fatto-carrascosa/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "451d6a35c98f",
@@ -4129,7 +4129,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-performance-instanze/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e5ecc2b56264",
@@ -4145,7 +4145,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-music-fuggiti-vi/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "360444fc5d05",
@@ -4161,7 +4161,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-show-disconfession/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0be9b8a39983",
@@ -4177,7 +4177,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-filmtalk-la-parte-maledetta/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "8b6c00ef0abb",
@@ -4193,7 +4193,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-music-luciano-forlese/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c63b810cbfc2",
@@ -4209,7 +4209,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-music-all-at-once/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ead11f0cbec5",
@@ -4225,7 +4225,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-show-notte-tempo/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "579b53479d76",
@@ -4241,23 +4241,7 @@
         "https://www.teatrodivillazzano.it/event/tabu-2026-talk-al-supermercato-della-storia/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
-    },
-    {
-      "id": "d59056c2498d",
-      "title": "Miroirs No. 3 - Il mistero di Laura",
-      "date": "2026-04-28",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065203-9883723.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/miroirs-no-3-il-mistero-di-laura.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/miroirs-no-3-il-mistero-di-laura.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "5e222edd3c73",
