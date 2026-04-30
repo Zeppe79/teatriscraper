@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T18:09:13.652592+00:00",
+  "last_updated": "2026-04-30T07:26:22.066776+00:00",
   "count": 316,
   "events": [
     {
@@ -4244,22 +4244,6 @@
       "is_past": true
     },
     {
-      "id": "5e222edd3c73",
-      "title": "Nuove generazioni, nuovi approcci - Trento Film Festival",
-      "date": "2026-04-29",
-      "time": "21:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026/nuove-generazioni-nuovi-approcci-trento-film-festival.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/nuove-generazioni-nuovi-approcci-trento-film-festival.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "304e76f0fe3c",
       "title": "Suoni Universitari",
       "date": "2026-04-30",
@@ -4289,6 +4273,22 @@
         "https://www.crushsite.it/it/incontri/2026/di-padre-in-figlia-trento-film-festival.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "4494170438b8",
+      "title": "Figli d’Anima",
+      "date": "2026-05-04",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-408/27955652-1-ita-IT/sfondo-ocra-408_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747026",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747026"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
