@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T07:26:22.066776+00:00",
-  "count": 316,
+  "last_updated": "2026-04-30T18:07:27.579091+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4276,6 +4276,22 @@
       "is_past": false
     },
     {
+      "id": "890a3fb06349",
+      "title": "[Inserire titolo] | Il crogiuolo",
+      "date": "2026-05-04",
+      "time": "20:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La Scuola a Teatro | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747037",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747037"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "4494170438b8",
       "title": "Figli d’Anima",
       "date": "2026-05-04",
@@ -4308,6 +4324,22 @@
       "is_past": false
     },
     {
+      "id": "8d9f9b6bf5c6",
+      "title": "Juste … une femme | People have the power",
+      "date": "2026-05-05",
+      "time": "20:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La Scuola a Teatro | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747038",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747038"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6cc3a1d57207",
       "title": "Animal or man? | Annalisa Brianzi",
       "date": "2026-05-06",
@@ -4319,6 +4351,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/739294"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8bb2e5400e60",
+      "title": "You don't own me! | Totally over you",
+      "date": "2026-05-06",
+      "time": "20:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La Scuola a Teatro | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747039",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747039"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4372,6 +4420,22 @@
       "is_past": false
     },
     {
+      "id": "f63cd362355a",
+      "title": "Il coraggio di esistere |  Cercando di stare in equilibrio",
+      "date": "2026-05-07",
+      "time": "20:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La Scuola a Teatro | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747041",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747041"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6506895bfed9",
       "title": "L'uomo che costruiva il futuro",
       "date": "2026-05-07",
@@ -4417,6 +4481,22 @@
         "https://www.teatrodipergine.it/eventi/2586-civili-selvaggi-saggio-11-17-anni"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "e9880b2feda5",
+      "title": "Pazzie?",
+      "date": "2026-05-08",
+      "time": "20:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La Scuola a Teatro | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747042",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747042"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
