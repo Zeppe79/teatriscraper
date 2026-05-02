@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T17:54:25.585635+00:00",
-  "count": 301,
+  "last_updated": "2026-05-02T07:00:07.227186+00:00",
+  "count": 300,
   "events": [
     {
       "id": "4424b801663c",
@@ -3922,22 +3922,6 @@
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
-    },
-    {
-      "id": "67b20f70a4f0",
-      "title": "Di padre in figlia - Trento Film Festival",
-      "date": "2026-05-01",
-      "time": "21:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065204-39483.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/di-padre-in-figlia-trento-film-festival.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/di-padre-in-figlia-trento-film-festival.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "890a3fb06349",
