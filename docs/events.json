@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T07:45:19.300952+00:00",
-  "count": 300,
+  "last_updated": "2026-05-04T18:11:41.481953+00:00",
+  "count": 301,
   "events": [
     {
       "id": "4424b801663c",
@@ -4433,6 +4433,22 @@
         "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "3851340a862c",
+      "title": "Benedetta Pigoni - 30 milligrammi di Ulipristal",
+      "date": "2026-05-16",
+      "time": "20:30",
+      "venue": "Teatro Comunale, Teatro Studio, Piazza Verdi, Bolzano",
+      "location": "Bolzano",
+      "description": "Stagione Regionale Contemporanea / informazioni complete su biglietti e programma in teatro-bolzano.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065524-062153-885486.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/benedetta-pigoni-30-milligrammi-di-ulipristal.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/benedetta-pigoni-30-milligrammi-di-ulipristal.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
