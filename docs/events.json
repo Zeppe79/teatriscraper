@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T07:14:21.817248+00:00",
-  "count": 302,
+  "last_updated": "2026-05-05T18:07:41.192894+00:00",
+  "count": 307,
   "events": [
     {
       "id": "4424b801663c",
@@ -4218,13 +4218,29 @@
       "time": "21:00",
       "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
       "location": "Vezzano - Vallelaghi",
-      "description": "info e biglietti: 370 124 5353 / intero € 15,00",
+      "description": "Intero € 15 / Info e biglietti n. 370.1245353",
       "image_url": "https://www.crushsite.it/upload/images/media/large/064553-guitarras.jpg",
       "source_url": "https://www.crushsite.it/it/musica/2026guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "1c59711d8c92",
+      "title": "Antonio e Scipione Salvotti",
+      "date": "2026-05-10",
+      "time": null,
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "ore 17,00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747198",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747198"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4378,7 +4394,7 @@
       "time": "21:00",
       "venue": "Teatro, Calavino (Tn)",
       "location": "Calavino",
-      "description": "info e biglietti: 370 124 5353, intero € 5,00",
+      "description": "Intero € 5 / Info e biglietti n. 370.1245353",
       "image_url": "https://www.crushsite.it/upload/images/media/large/064963-compartimos.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026compartimos-un-sogno-chiamato-argentina.html",
       "source_urls": [
@@ -4415,6 +4431,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743944"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8cca019c791d",
+      "title": "Il gatto dagli stivali e altri canti... per sognare insieme!",
+      "date": "2026-05-16",
+      "time": "18:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/il-gatto-dagli-stivali/27959070-1-ita-IT/Il-gatto-dagli-stivali_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747140",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747140"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4516,6 +4548,22 @@
       "is_past": false
     },
     {
+      "id": "67ca0888c77d",
+      "title": "Disney In Movi-mente",
+      "date": "2026-05-22",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/movimente26_1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2854-disney-in-movi-mente-saggio",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2854-disney-in-movi-mente-saggio"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "1599de0ff0a4",
       "title": "VIAGGIO IN ITALIA CON NICCOLÒ PAGANINI – DISEGNI IN MUSICA",
       "date": "2026-05-22",
@@ -4529,6 +4577,38 @@
         "https://www.trentinospettacoli.it/eventi/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "9fd98896c609",
+      "title": "Viaggio in Italia con Niccolò Paganini - Disegni in musica",
+      "date": "2026-05-22",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 10 / Info e biglietti n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065571-78.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "a6907c15f07e",
+      "title": "Disney In Movi-mente",
+      "date": "2026-05-23",
+      "time": "01:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/movimente26_1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2854-disney-in-movi-mente-saggio",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2854-disney-in-movi-mente-saggio"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
