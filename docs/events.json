@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-05-06T07:32:48.634875+00:00",
-  "count": 306,
+  "last_updated": "2026-05-06T18:12:33.415950+00:00",
+  "count": 327,
   "events": [
+    {
+      "id": "06d96a048e56",
+      "title": "segnaposto calendario - agosto 2013",
+      "date": "2013-08-01",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Continua",
+      "image_url": null,
+      "source_url": "https://www.teatrodipergine.it/component/content/article/19-istituzionali/34-segnaposto-calendario-luglio-2013",
+      "source_urls": [
+        "https://www.teatrodipergine.it/component/content/article/19-istituzionali/34-segnaposto-calendario-luglio-2013"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "3c4de5b16bc0",
+      "title": "Narrenschiff",
+      "date": "2013-09-17",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Martedì 17 settembre - ore 20:45",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/prosa2013-2014/Narrenschiff_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/22-prosa-archivio-2013-2014/70-narrenschiff",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/22-prosa-archivio-2013-2014/70-narrenschiff"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "585afd5b4bbe",
+      "title": "LEZIONE APERTA DI TANGO ARGENTINO",
+      "date": "2013-09-21",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Sabato 21 settembre - ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/27-altri-eventi-archivio-2013-2014/37-lezione-aperta-di-tango-argentino",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/27-altri-eventi-archivio-2013-2014/37-lezione-aperta-di-tango-argentino"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "491d422ce0d9",
+      "title": "TANGO x 3",
+      "date": "2013-09-21",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Sabato 21 settembre - ore 20.30",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/musica2013-2014/TANGO-x-3_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/25-musica-archivio-2013-2014/36-tango-x-3",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/25-musica-archivio-2013-2014/36-tango-x-3"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "2c3e44b53aa4",
+      "title": "La biblioteca del diavolo",
+      "date": "2013-09-26",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "26 settembre 2013 - ore 20.45",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/musica2013-2014/la-biblioteca-del-diavolo_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/25-musica-archivio-2013-2014/55-la-biblioteca-del-diavolo",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/25-musica-archivio-2013-2014/55-la-biblioteca-del-diavolo"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "be6fc62be8b4",
+      "title": "Kebab",
+      "date": "2013-10-03",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Giovedì 3 ottobre 2013 - ore 20.45",
+      "image_url": "https://www.teatrodipergine.it/images/logo/prosaLOGO_fuoriabbonamento.png",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/22-prosa-archivio-2013-2014/41-kebab",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/22-prosa-archivio-2013-2014/41-kebab"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "c843cc772859",
+      "title": "Domestic",
+      "date": "2013-10-08",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Martedì 8 ottobre 2013 - ore 20.45",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/cinema2013-2014/Domestic_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/44-domestic",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/44-domestic"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "5009b565f3b9",
+      "title": "doloMitiche",
+      "date": "2013-10-11",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Venerdì 11 ottobre 2013 - ore 20.30",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/eventi2013-2014/dolomitiche_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/27-altri-eventi-archivio-2013-2014/110-dolomitiche",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/27-altri-eventi-archivio-2013-2014/110-dolomitiche"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "6f3028de16d5",
+      "title": "FaRe Jazz Big Band",
+      "date": "2013-10-12",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "special guest Davide Ghidoni",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/musica2013-2014/FaRe-Jazz-Big-Band_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/25-musica-archivio-2013-2014/53-fare-jazz-big-band",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/25-musica-archivio-2013-2014/53-fare-jazz-big-band"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "7d47e4084383",
+      "title": "Il caso Kerenes",
+      "date": "2013-10-15",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Martedì 15 ottobre 2013 - ore 20.45",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2013-2014/cinema2013-2014/Il-caso-Kerenes_LOC.jpg",
+      "source_url": "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/45-il-caso-kerenes",
+      "source_urls": [
+        "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/45-il-caso-kerenes"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
     {
       "id": "4424b801663c",
       "title": "Un amore di peso",
@@ -3940,6 +4100,22 @@
       "is_past": false
     },
     {
+      "id": "b17abe90f56e",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-05-06",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747293",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747293"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8bb2e5400e60",
       "title": "You don't own me! | Totally over you",
       "date": "2026-05-06",
@@ -4215,7 +4391,7 @@
       "id": "dc55bff4edd1",
       "title": "Antonio e Scipione Salvotti",
       "date": "2026-05-10",
-      "time": "17:30",
+      "time": null,
       "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
       "location": "Trento",
       "description": "Organizzato da Co.F.As. / Ingresso Gratuito / prenotazione facoltativa",
@@ -4388,6 +4564,22 @@
       "is_past": false
     },
     {
+      "id": "ec103085f315",
+      "title": "Note al museo... con furto",
+      "date": "2026-05-14",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Saggio Scuola Musicale Camillo Moser",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/notealmuseo.PNG",
+      "source_url": "https://www.teatrodipergine.it/eventi/2858-note-al-museo-con-furto-scuola-musicale",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2858-note-al-museo-con-furto-scuola-musicale"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "830ef43e0da1",
       "title": "Piratesse",
       "date": "2026-05-16",
@@ -4500,6 +4692,22 @@
       "is_past": false
     },
     {
+      "id": "74bcd47c0d54",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-05-21",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747294",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747294"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f63d531218aa",
       "title": "Ballo liscio con musica dal vivo",
       "date": "2026-05-21",
@@ -4596,6 +4804,22 @@
       "is_past": false
     },
     {
+      "id": "e4abbef3b6b9",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-05-27",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747295",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747295"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ada86a097291",
       "title": "Sospeso - Festival di circo, teatro e musica | 29 maggio 2026",
       "date": "2026-05-29",
@@ -4628,22 +4852,6 @@
       "is_past": false
     },
     {
-      "id": "12754e08d980",
-      "title": "Sospeso - Festival di circo, teatro e musica | 31 maggio 2026",
-      "date": "2026-05-31",
-      "time": null,
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Sospeso - Festival di circo, teatro e musica | Giorno 3",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/sospeso1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2849-sospeso-31-maggio",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2849-sospeso-31-maggio"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "40f7d9a53fcc",
       "title": "Mythos",
       "date": "2026-06-02",
@@ -4657,6 +4865,22 @@
         "https://www.teatrodipergine.it/eventi/2853-mythos-blooms"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "f4c5eb66c758",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-06-03",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747296",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747296"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4692,6 +4916,22 @@
       "is_past": false
     },
     {
+      "id": "785314e79695",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-06-04",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747297",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "df74a3779454",
       "title": "Serata di ballo liscio con musica dal vivo",
       "date": "2026-06-04",
@@ -4705,6 +4945,22 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121375.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "89fd1fa980ac",
+      "title": "L'anello magico",
+      "date": "2026-06-05",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo al Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -4724,6 +4980,22 @@
       "is_past": false
     },
     {
+      "id": "ada2142bb616",
+      "title": "L'anello magico",
+      "date": "2026-06-06",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo al Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "eeb524e4ea02",
       "title": "Inside (Full) Out",
       "date": "2026-06-07",
@@ -4737,6 +5009,70 @@
         "https://www.trentinospettacoli.it/eventi/inside-full-out-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "cd0db1a4157c",
+      "title": "L'anello magico",
+      "date": "2026-06-07",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo al Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a54a31238985",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-06-10",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747298"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5c4a46a3d077",
+      "title": "L'anello magico",
+      "date": "2026-06-12",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo al Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "2b1d9d5d4d27",
+      "title": "L'anello magico",
+      "date": "2026-06-13",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo al Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
