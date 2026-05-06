@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T18:07:41.192894+00:00",
-  "count": 307,
+  "last_updated": "2026-05-06T07:32:48.634875+00:00",
+  "count": 306,
   "events": [
     {
       "id": "4424b801663c",
@@ -3924,38 +3924,6 @@
       "is_past": true
     },
     {
-      "id": "bfc554de890a",
-      "title": "Animal or man? | Annalisa Brianzi",
-      "date": "2026-05-05",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739295",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739295"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8d9f9b6bf5c6",
-      "title": "Juste … une femme | People have the power",
-      "date": "2026-05-05",
-      "time": "20:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La Scuola a Teatro | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747038",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747038"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "6cc3a1d57207",
       "title": "Animal or man? | Annalisa Brianzi",
       "date": "2026-05-06",
@@ -4705,6 +4673,22 @@
         "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "489d2a09c6ca",
+      "title": "Il fiore che sboccia nelle avversità",
+      "date": "2026-06-04",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/moveart1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2855-il-fiore-che-sboccia-nelle-avversita-moveart",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2855-il-fiore-che-sboccia-nelle-avversita-moveart"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
