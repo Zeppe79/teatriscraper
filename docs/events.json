@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T18:12:33.415950+00:00",
-  "count": 327,
+  "last_updated": "2026-05-07T07:40:20.023974+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4084,22 +4084,6 @@
       "is_past": true
     },
     {
-      "id": "6cc3a1d57207",
-      "title": "Animal or man? | Annalisa Brianzi",
-      "date": "2026-05-06",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739294",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739294"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "b17abe90f56e",
       "title": "Maggio dei Libri & 25° compleanno biblioteca",
       "date": "2026-05-06",
@@ -4113,39 +4097,7 @@
         "https://www.cultura.trentino.it/content/view/full/747293"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8bb2e5400e60",
-      "title": "You don't own me! | Totally over you",
-      "date": "2026-05-06",
-      "time": "20:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La Scuola a Teatro | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747039",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747039"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a58cf1a378c2",
-      "title": "Vernia o non Vernia",
-      "date": "2026-05-06",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746903",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746903"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "38bde5ba5b30",
@@ -4161,23 +4113,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/fuoco.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "0789f4522ae1",
-      "title": "Giovanni Vernia in “Vernia o non Vernia”",
-      "date": "2026-05-06",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "GIOVANNI VERNIA in “Vernia o non Vernia” / Scritto da Giovanni Vernia e Paolo Uzzi / Collaborazione ai testi Paola Galassi, Giampiero Solari, Pablo Solari / Con Giovanni Vernia e il Maestro Marco Sabiu / Musiche del Maestro Marco Sabiu Giovanni sin da piccolo è stato esuberante ed estroverso, come quando imitò la voce dello zio di Catania per tre giorni dopo le vacanze in Sicilia. Oltre al ragazzo normale e brillante laureato in ingegneria, possiede un talento artistico sorprendente nel canto e ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065331-33.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026giovanni-vernia-in-vernia-o-non-vernia.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026giovanni-vernia-in-vernia-o-non-vernia.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "f63cd362355a",
@@ -4516,6 +4452,22 @@
       "is_past": false
     },
     {
+      "id": "dc068b5100e0",
+      "title": "Aulularia",
+      "date": "2026-05-13",
+      "time": "20:00",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3983/27964641-1-ita-IT/sfondo-ocra-398_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747306",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747306"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ff52af0dcec1",
       "title": "Compartimos: un sogno chiamato Argentina",
       "date": "2026-05-13",
@@ -4587,7 +4539,7 @@
       "venue": "",
       "location": "Frassilongo",
       "description": "Trame di Comunità | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/16-maggio-piratesse-1/27868605-1-ita-IT/16-maggio-PIRATESSE-1_opengraph.png",
+      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/16-maggio-piratesse-1/27868605-1-ita-IT/16-maggio-PIRATESSE-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/743944",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/743944"
@@ -4923,10 +4875,26 @@
       "venue": "",
       "location": "Vallelaghi",
       "description": "ore 18.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747297",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "59e45a607de4",
+      "title": "Aulularia",
+      "date": "2026-06-04",
+      "time": "20:00",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3983/27964641-1-ita-IT/sfondo-ocra-398_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747307",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747307"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
