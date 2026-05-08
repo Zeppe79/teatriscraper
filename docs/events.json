@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T06:29:42.537709+00:00",
-  "count": 322,
+  "last_updated": "2026-05-08T18:06:49.731554+00:00",
+  "count": 323,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5151,6 +5151,22 @@
       "source_url": "https://www.trentinospettacoli.it/eventi/dammi-rose-senza-spine/",
       "source_urls": [
         "https://www.trentinospettacoli.it/eventi/dammi-rose-senza-spine/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "c4b9dd373a22",
+      "title": "JUDITH HILL",
+      "date": "2026-10-15",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/judith-hill/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/judith-hill/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": false
