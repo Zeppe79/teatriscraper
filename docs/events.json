@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T18:20:19.941993+00:00",
-  "count": 325,
+  "last_updated": "2026-05-08T06:29:42.537709+00:00",
+  "count": 322,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4116,54 +4116,6 @@
       "is_past": true
     },
     {
-      "id": "f63cd362355a",
-      "title": "Il coraggio di esistere |  Cercando di stare in equilibrio",
-      "date": "2026-05-07",
-      "time": "20:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La Scuola a Teatro | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747041",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747041"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6506895bfed9",
-      "title": "L'uomo che costruiva il futuro",
-      "date": "2026-05-07",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/govoni/27948942-1-ita-IT/Govoni_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746777",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746777"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2e71d448440b",
-      "title": "Nicolò Govoni in \"L’uomo che costruiva il futuro\"",
-      "date": "2026-05-07",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Di e con Nicolò Govoni / Regia Gioia Battista / Produzione: Corvino Produzioni / Durata: 1 ora e 30 minuti, senza intervallo “L’uomo che costruiva il futuro” racconta una storia straordinaria, quella di Nicolò Govoni, adolescente catalogato “difficile’’ che a vent’anni lascia tutto e decide di dedicarsi al suo sogno: costruire un futuro migliore per le bambine e i bambini di tutto il mondo. Scuole, educazione, indipendenza e libertà. Mattone dopo mattone, Nicolò affronta prima un lungo periodo d",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065341-938444.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/nicolo-govoni-in-luomo-che-costruiva-il-futuro.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "965288306764",
       "title": "Civili selvaggi",
       "date": "2026-05-08",
@@ -5003,7 +4955,7 @@
       "venue": "",
       "location": "Vallelaghi",
       "description": "ore 18.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747298",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747298"
