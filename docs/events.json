@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T07:05:04.454486+00:00",
-  "count": 322,
+  "last_updated": "2026-05-09T17:44:14.026074+00:00",
+  "count": 324,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4468,6 +4468,22 @@
       "is_past": false
     },
     {
+      "id": "c85a7e6af3f1",
+      "title": "Concerto della Corale Universitaria",
+      "date": "2026-05-14",
+      "time": "20:30",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026concerto-della-corale-universitaria.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026concerto-della-corale-universitaria.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "830ef43e0da1",
       "title": "Piratesse",
       "date": "2026-05-16",
@@ -4689,6 +4705,22 @@
         "https://www.cultura.trentino.it/content/view/full/744214"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "740695a29781",
+      "title": "Musica Madre",
+      "date": "2026-05-23",
+      "time": "20:30",
+      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Informazioni complete: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/musica-madre.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/musica-madre.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
