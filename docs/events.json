@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T18:06:49.731554+00:00",
-  "count": 323,
+  "last_updated": "2026-05-09T07:05:04.454486+00:00",
+  "count": 322,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4129,23 +4129,7 @@
         "https://www.teatrodipergine.it/eventi/2586-civili-selvaggi-saggio-11-17-anni"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "e9880b2feda5",
-      "title": "Pazzie?",
-      "date": "2026-05-08",
-      "time": "20:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La Scuola a Teatro | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3893/27956023-1-ita-IT/sfondo-ocra-389_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747042",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747042"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d2615c890192",
