@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T17:44:14.026074+00:00",
-  "count": 324,
+  "last_updated": "2026-05-10T07:24:11.062146+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4100,22 +4100,6 @@
       "is_past": true
     },
     {
-      "id": "38bde5ba5b30",
-      "title": "Fuoco",
-      "date": "2026-05-06",
-      "time": "21:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "L'Associazione Teatrale Universitaria presenta FUOCO / Regia di Andrea Bonfanti. Drammaturgia di Maura Pettorruso. Una produzione ATU – Associazione Teatrale Universitaria, con il contributo di Fondazione Caritro, Opera Universitaria, Università di Trento e il supporto di Centro Servizi Culturali Santa Chiara e associazione EmitFlesti «Lunedì bruci Kerouac, mercoledì Maupassant, venerdì Verne: bruciali tutti e poi brucia le ceneri». I pompieri di Guy Montag lo ripetono ogni mattina, prima di inf",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065349-9485454.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fuoco.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/fuoco.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "965288306764",
       "title": "Civili selvaggi",
       "date": "2026-05-08",
@@ -4132,22 +4116,6 @@
       "is_past": true
     },
     {
-      "id": "d2615c890192",
-      "title": "Il bosco incantato",
-      "date": "2026-05-09",
-      "time": "17:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4132/27957892-1-ita-IT/sfondo-ocra-413_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747101",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747101"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7833c91a9faf",
       "title": "Il bosco incantato",
       "date": "2026-05-09",
@@ -4161,7 +4129,7 @@
         "https://www.teatrodipergine.it/eventi/2845-il-bosco-incantato-saggio-7-10-anni-giovedi"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "8478036f9352",
@@ -4177,23 +4145,7 @@
         "https://www.trentinospettacoli.it/eventi/one-night-only-oldies-but-goldies-friends/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "d585ca746b4f",
-      "title": "One Night Only - Oldies But Goldies & Friends",
-      "date": "2026-05-09",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026one-night-only-oldies-but-goldies-friends.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026one-night-only-oldies-but-goldies-friends.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "39e16a6dbba7",
@@ -4209,7 +4161,7 @@
         "https://www.trentinospettacoli.it/eventi/ma-che-razza-di-otello-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "58bd6ad6b481",
@@ -4225,23 +4177,7 @@
         "https://www.trentinospettacoli.it/eventi/guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "74020a4565fc",
-      "title": "Guitarras Pal Sur – “Chitarre dal sud: Brasile e Argentina”",
-      "date": "2026-05-09",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Intero € 15 / Info e biglietti n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064553-guitarras.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026guitarras-pal-sur-chitarre-dal-sud-brasile-e-argentina.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1c59711d8c92",
@@ -5009,6 +4945,22 @@
         "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "71005707ffc6",
+      "title": "Bunker",
+      "date": "2026-06-23",
+      "time": "20:30",
+      "venue": "Cineteatro, Via Noval 5, Tesero (Tn)",
+      "location": "Tesero",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/056966-bunker.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_121946.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bunker_121946.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
