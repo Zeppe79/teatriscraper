@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T17:45:23.827723+00:00",
-  "count": 321,
+  "last_updated": "2026-05-11T08:22:27.787301+00:00",
+  "count": 319,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4108,9 +4108,9 @@
       "location": "Pergine Valsugana",
       "description": "Saggio di fine anno corso annuale Ariateatro 11-17 anni",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/saggipergine-100.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2586-civili-selvaggi-saggio-11-17-anni",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2586-civili-selvaggi-saggio-11-17-anni",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2586-civili-selvaggi-saggio-11-17-anni"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2586-civili-selvaggi-saggio-11-17-anni"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4124,9 +4124,9 @@
       "location": "Pergine Valsugana",
       "description": "Saggio di fine anno corso annuale Ariateatro 7-10 anni del giovedì",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/ilboscoincantato.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2845-il-bosco-incantato-saggio-7-10-anni-giovedi",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2845-il-bosco-incantato-saggio-7-10-anni-giovedi",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2845-il-bosco-incantato-saggio-7-10-anni-giovedi"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2845-il-bosco-incantato-saggio-7-10-anni-giovedi"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4180,54 +4180,6 @@
       "is_past": true
     },
     {
-      "id": "1c59711d8c92",
-      "title": "Antonio e Scipione Salvotti",
-      "date": "2026-05-10",
-      "time": null,
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "ore 17,00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747198",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747198"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "dc55bff4edd1",
-      "title": "Antonio e Scipione Salvotti",
-      "date": "2026-05-10",
-      "time": null,
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Organizzato da Co.F.As. / Ingresso Gratuito / prenotazione facoltativa",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/antonio-e-scipione-salvotti_121936.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/antonio-e-scipione-salvotti_121936.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "691fcda66f80",
-      "title": "I ladri del tempo",
-      "date": "2026-05-10",
-      "time": "19:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4132/27957892-1-ita-IT/sfondo-ocra-413_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747102",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747102"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "cf35168806fd",
       "title": "I ladri del tempo",
       "date": "2026-05-10",
@@ -4236,28 +4188,12 @@
       "location": "Pergine Valsugana",
       "description": "Saggio di fine anno corso annuale Ariateatro 7-10 anni del mercoledì",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/saggipergine-100.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "88c617eaf3bb",
-      "title": "Forza Venite Gente - Il Musical - 45 Years Anniversary",
-      "date": "2026-05-10",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Quarantacinque anni fa, al Teatro Unione di Viterbo, debuttò una Commedia Musicale che nel giro di pochi anni sarebbe diventata un vero e proprio spettacolo-culto dell’intero panorama nazionale, arrivando a varcarne gli stessi confini geografici, per essere tradotta in otto lingue e rappresentata in paesi come Brasile, Messico, Polonia, Ucraina, Albania e Bielorussia. Stiamo parlando proprio dell’italianissimo FORZA VENITE GENTE. Oltre 3.500 repliche e 2 milioni e 500 mila spettatori...Si, deci",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065357-9383.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026forza-venite-gente-il-musical-45-years-anniversary.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026forza-venite-gente-il-musical-45-years-anniversary.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e93c92d1bcb5",
@@ -4975,6 +4911,38 @@
       "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "c87f0e2cc431",
+      "title": "Cura il Futuro 2026 Romeno: L’Isola del Tesoro",
+      "date": "2026-07-09",
+      "time": "20:30",
+      "venue": "Parco giochi, Via di S. Cristoforo 30, Fraz. Salter - Romeno (Tn)",
+      "location": "Fraz. Salter - Romeno",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com / In caso di maltempo lo spettacolo si terrà presso la Scuola Elementare di Romeno",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065352-987987.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-lisola-del-tesoro.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-lisola-del-tesoro.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "42ce353f1179",
+      "title": "Cura il Futuro 2026 Romeno: La Ciambella Addormentata nel Forno",
+      "date": "2026-07-16",
+      "time": "20:30",
+      "venue": "Parco giochi, Piazza Lampi, Romeno (Tn)",
+      "location": "Romeno",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com / In caso di maltempo lo spettacolo si terrà presso la Scuola Elementare di Romeno",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065353-9996.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-la-ciambella-addormentata-nel-forno.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-la-ciambella-addormentata-nel-forno.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
