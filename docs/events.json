@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T08:22:27.787301+00:00",
-  "count": 319,
+  "last_updated": "2026-05-11T18:53:49.087909+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -575,38 +575,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "6f4fa793ea32",
-      "title": "Un mare di avventure",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Un mare di avventure è un musical per famiglie che affronta con delicatezza e ironia i temi della disabilità e dell’inclusione sociale. Ispirato alla storia di Marlin e del piccolo Nemo, accompagna grandi e piccoli in un viaggio nell’oceano dove...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/9f960235-d237-4270-8fbe-cb1c15651571-794x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/un-mare-di-avventure/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/un-mare-di-avventure/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "007d98eca4a0",
-      "title": "La commedia di Cyrano",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Un classico senza tempo raccontato con il linguaggio giocoso e diretto della Commedia dell’Arte. La commedia di Cyrano mette in scena un’esilarante prova generale prima dello spettacolo: l’attore che deve interpretare Cirano entra in crisi, troppo segnato dalle proprie ferite...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/cirano-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-commedia-di-cyrano/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-commedia-di-cyrano/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -4196,6 +4164,38 @@
       "is_past": true
     },
     {
+      "id": "378949ff0dac",
+      "title": "Artedacqua",
+      "date": "2026-05-11",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "L’acqua è una metafora potentissima e poliedrica che simboleggia vita, morte, amore, tempo, purificazione, memoria, flusso e cambiamento. Artedanza porta in scena lo spettacolo di fine anno. “Artedacqua” un bene prezioso da custodire….",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/IMG-20260511-WA0002-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/artedacqua/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/artedacqua/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
+    },
+    {
+      "id": "990e9e1a330a",
+      "title": "Il libro delle fate",
+      "date": "2026-05-11",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "ENCICLOPEDIA DEL MERAVIGLIOSO Questa notte, qualcosa nell’aria porta sussurri di risvegli. I fiori riaprono i loro petali. Occhi che dormivano da tempo si dischiudono, portando l’incanto di un passato colmo di racconti. Strane creature tornano a palpitare nel buio tra...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/sito-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-libro-delle-fate/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-libro-delle-fate/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
+    },
+    {
       "id": "e93c92d1bcb5",
       "title": "The curse of Hotel Morgue | The Play Group",
       "date": "2026-05-12",
@@ -4463,6 +4463,22 @@
       "source_url": "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "05874d58b941",
+      "title": "Glamorous",
+      "date": "2026-05-20",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4820,6 +4836,22 @@
       "is_past": false
     },
     {
+      "id": "ffcb9b7305e8",
+      "title": "Glamorous",
+      "date": "2026-06-07",
+      "time": "15:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "cd0db1a4157c",
       "title": "L'anello magico",
       "date": "2026-06-07",
@@ -4884,17 +4916,33 @@
       "is_past": false
     },
     {
-      "id": "71005707ffc6",
-      "title": "Bunker",
-      "date": "2026-06-23",
-      "time": "20:30",
-      "venue": "Cineteatro, Via Noval 5, Tesero (Tn)",
-      "location": "Tesero",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/056966-bunker.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_121946.html",
+      "id": "24bcead24727",
+      "title": "Paesaggi Sonori Summer - Eugenio Palumbo e Lorenzo Bernardi",
+      "date": "2026-06-19",
+      "time": "21:00",
+      "venue": "Piazzetta delle Regole, Calavino (Tn)",
+      "location": "Calavino",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065686-312.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-eugenio-palumbo-e-lorenzo-bernardi.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bunker_121946.html"
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-eugenio-palumbo-e-lorenzo-bernardi.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "01d119af44ce",
+      "title": "Paesaggi Sonori Summer - Thu Le",
+      "date": "2026-06-28",
+      "time": "21:00",
+      "venue": "Parco Due Laghi, Padergnone (Tn)",
+      "location": "Padergnone",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065687-333.jpeg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-thu-le.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-thu-le.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4916,33 +4964,49 @@
       "is_past": false
     },
     {
-      "id": "c87f0e2cc431",
-      "title": "Cura il Futuro 2026 Romeno: L’Isola del Tesoro",
-      "date": "2026-07-09",
-      "time": "20:30",
-      "venue": "Parco giochi, Via di S. Cristoforo 30, Fraz. Salter - Romeno (Tn)",
-      "location": "Fraz. Salter - Romeno",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com / In caso di maltempo lo spettacolo si terrà presso la Scuola Elementare di Romeno",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065352-987987.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-lisola-del-tesoro.html",
+      "id": "cae5ad0d96c8",
+      "title": "Paesaggi Sonori Summer - Hiram Salsano e Marcello De Carolis",
+      "date": "2026-07-17",
+      "time": "21:00",
+      "venue": "Piazza San Valentino, Vezzano (Tn)",
+      "location": "Vezzano",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065688-111.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-lisola-del-tesoro.html"
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
     },
     {
-      "id": "42ce353f1179",
-      "title": "Cura il Futuro 2026 Romeno: La Ciambella Addormentata nel Forno",
-      "date": "2026-07-16",
-      "time": "20:30",
-      "venue": "Parco giochi, Piazza Lampi, Romeno (Tn)",
-      "location": "Romeno",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com / In caso di maltempo lo spettacolo si terrà presso la Scuola Elementare di Romeno",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065353-9996.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-la-ciambella-addormentata-nel-forno.html",
+      "id": "1815f5b71284",
+      "title": "Paesaggi Sonori Summer - Nando Brusco",
+      "date": "2026-07-21",
+      "time": "21:00",
+      "venue": "Piazza di Torchio, Terlago (Tn)",
+      "location": "Terlago",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065689-3225.jpeg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-romeno-la-ciambella-addormentata-nel-forno.html"
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "e9dd38f7227c",
+      "title": "Paesaggi Sonori Summer - Abies Alba",
+      "date": "2026-07-24",
+      "time": "21:00",
+      "venue": "Parco delle feste, Stravino (Tn)",
+      "location": "Stravino",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065690-1223.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abies-alba.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abies-alba.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4977,6 +5041,22 @@
         "https://www.trentinospettacoli.it/eventi/joey-calderazzo-trio/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "02430ac6a40e",
+      "title": "Paesaggi Sonori Summer - Ellen MacDonald & Daimh",
+      "date": "2026-08-02",
+      "time": "21:00",
+      "venue": "Piazza San Valentino, Vezzano (Tn)",
+      "location": "Vezzano",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5025,6 +5105,22 @@
         "https://www.trentinospettacoli.it/eventi/emma-smith-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "01714f29de01",
+      "title": "Paesaggi Sonori Summer - Abdo Buda Marconi Trio",
+      "date": "2026-08-09",
+      "time": "21:00",
+      "venue": "Parco casa sociale, Lago di Cavedine (Tn)",
+      "location": "Lago di Cavedine",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abdo-buda-marconi-trio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abdo-buda-marconi-trio.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
