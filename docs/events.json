@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T18:53:49.087909+00:00",
+  "last_updated": "2026-05-12T07:40:32.153458+00:00",
   "count": 325,
   "events": [
     {
@@ -4177,7 +4177,7 @@
         "https://www.teatrodivillazzano.it/event/artedacqua/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "990e9e1a330a",
@@ -4193,7 +4193,7 @@
         "https://www.teatrodivillazzano.it/event/il-libro-delle-fate/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e93c92d1bcb5",
@@ -4468,19 +4468,19 @@
       "is_past": false
     },
     {
-      "id": "05874d58b941",
-      "title": "Glamorous",
-      "date": "2026-05-20",
-      "time": null,
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
+      "id": "fa08ffb20cfa",
+      "title": "Niente paura, si ride",
+      "date": "2026-05-17",
+      "time": "20:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/spettacolo-bussola-cimaverde-hospice/27966101-1-ita-IT/spettacolo-Bussola-CimaVerde-Hospice_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747361",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
+        "https://www.cultura.trentino.it/content/view/full/747361"
       ],
-      "source_name": "teatrodipergine.it",
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
