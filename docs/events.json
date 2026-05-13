@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T18:53:53.313856+00:00",
-  "count": 326,
+  "last_updated": "2026-05-13T07:46:36.959110+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4196,22 +4196,6 @@
       "is_past": true
     },
     {
-      "id": "e93c92d1bcb5",
-      "title": "The curse of Hotel Morgue | The Play Group",
-      "date": "2026-05-12",
-      "time": "10:00",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739298",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739298"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "d1614464b6f2",
       "title": "Il confine tra relazione e manipolazione",
       "date": "2026-05-12",
@@ -4220,12 +4204,12 @@
       "location": "Pergine Valsugana",
       "description": "Anteprima del Trentino Book Festival",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/piedimonte1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2850-il-confine-tra-relazione-e-manipolazione",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2850-il-confine-tra-relazione-e-manipolazione",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2850-il-confine-tra-relazione-e-manipolazione"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2850-il-confine-tra-relazione-e-manipolazione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1346a0e2a27a",
@@ -4236,12 +4220,12 @@
       "location": "Pergine Valsugana",
       "description": "Anteprima del Trentino Book Festival",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/sammy1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2851-sammy-una-vita-da-abbracciare",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2851-sammy-una-vita-da-abbracciare",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2851-sammy-una-vita-da-abbracciare"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2851-sammy-una-vita-da-abbracciare"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9a81d61b4df2",
@@ -4283,7 +4267,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/compartimos-immagine-banner_1-artelaghi/27945323-1-ita-IT/Compartimos-immagine-banner_1-ArteLaghi_opengraph.jpg",
+      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/compartimos-immagine-banner_1-artelaghi/27945323-1-ita-IT/Compartimos-immagine-banner_1-ArteLaghi_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746633",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746633"
@@ -4583,7 +4567,7 @@
       "id": "a6907c15f07e",
       "title": "Disney In Movi-mente",
       "date": "2026-05-23",
-      "time": "01:30",
+      "time": "10:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
