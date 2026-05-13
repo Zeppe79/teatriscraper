@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T07:46:36.959110+00:00",
-  "count": 325,
+  "last_updated": "2026-05-13T18:54:35.082482+00:00",
+  "count": 324,
   "events": [
     {
       "id": "06d96a048e56",
@@ -543,38 +543,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/il-canto-di-natale/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/il-canto-di-natale/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "6c1be52e242b",
-      "title": "Cenerentola. È il tuo tempo!",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Cenerentola. È il tuo tempo! parte dalla fiaba classica per riflettere, con delicatezza e immaginazione, sul significato profondo del tempo. La storia prende vita attraverso la figura di un’orologiaia che accompagna lo spettatore in un mondo fatto di meccanismi, figure...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/CENERENTOLA-3-Arterie-Teatro-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/cenerentola-e-il-tuo-tempo/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/cenerentola-e-il-tuo-tempo/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "032814c2636e",
-      "title": "Il Signor Aquilone e i dispetti della nuvola Olga",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Nel mondo sospeso delle nuvole vivono il Signor Aquilone e la nuvola Olga. La loro quotidianità è tranquilla, forse un po’ solitaria, finché un incontro inatteso con una famiglia di uccellini non porta una ventata di gioia e cambiamento. L’uccellino...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/WhatsApp-Image-2023-02-09-at-14.06.36-2-Teatro-Ridotto-870x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/il-signor-aquilone-e-i-dispetti-della-nuvola-olga/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -4170,7 +4138,7 @@
       "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": "L’acqua è una metafora potentissima e poliedrica che simboleggia vita, morte, amore, tempo, purificazione, memoria, flusso e cambiamento. Artedanza porta in scena lo spettacolo di fine anno. “Artedacqua” un bene prezioso da custodire….",
+      "description": "L’acqua è una metafora potentissima e poliedrica che simboleggia vita, morte, amore, tempo, purificazione, memoria, flusso e cambiamento. Artedanza porta in scena lo spettacolo di fine anno. “Artedacqua” un bene prezioso da custodire…. Due repliche: ore 17.00 e ore 20.00",
       "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/IMG-20260511-WA0002-870x550.jpg",
       "source_url": "https://www.teatrodivillazzano.it/event/artedacqua/",
       "source_urls": [
@@ -4228,6 +4196,23 @@
       "is_past": true
     },
     {
+      "id": "48b9598bf7e0",
+      "title": "Puttana (ENG)",
+      "date": "2026-05-13",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è un’opera di narrazione musicale sperimentale che mette al banco dei testimoni non i suoi protagonisti, ma la...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/DSC03508-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/puttana-eng-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/puttana-eng-2/",
+        "https://www.teatrodivillazzano.it/event/puttana-eng/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
+    },
+    {
       "id": "9a81d61b4df2",
       "title": "The curse of Hotel Morgue | The Play Group",
       "date": "2026-05-13",
@@ -4267,7 +4252,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/compartimos-immagine-banner_1-artelaghi/27945323-1-ita-IT/Compartimos-immagine-banner_1-ArteLaghi_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/compartimos-immagine-banner_1-artelaghi/27945323-1-ita-IT/Compartimos-immagine-banner_1-ArteLaghi_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/746633",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/746633"
