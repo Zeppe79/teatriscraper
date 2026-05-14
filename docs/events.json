@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T18:54:35.082482+00:00",
-  "count": 324,
+  "last_updated": "2026-05-14T07:39:55.627680+00:00",
+  "count": 319,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4020,22 +4020,6 @@
       "is_past": true
     },
     {
-      "id": "b17abe90f56e",
-      "title": "Maggio dei Libri & 25° compleanno biblioteca",
-      "date": "2026-05-06",
-      "time": "18:30",
-      "venue": "",
-      "location": "Vallelaghi",
-      "description": "ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747293",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747293"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "965288306764",
       "title": "Civili selvaggi",
       "date": "2026-05-08",
@@ -4210,71 +4194,7 @@
         "https://www.teatrodivillazzano.it/event/puttana-eng/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
-    },
-    {
-      "id": "9a81d61b4df2",
-      "title": "The curse of Hotel Morgue | The Play Group",
-      "date": "2026-05-13",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "Scappo a Teatro 2025/2026 | SCUOLE | Scappo a Teatro 2025/2026 | ore 10.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scappo-a-teatro-scuole-2025-2026/27731941-1-ita-IT/Scappo-a-teatro-Scuole-2025-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/739297",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/739297"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "dc068b5100e0",
-      "title": "Aulularia",
-      "date": "2026-05-13",
-      "time": "20:00",
-      "venue": "",
-      "location": "Ville d'Anaunia",
-      "description": "ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3983/27964641-1-ita-IT/sfondo-ocra-398_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747306",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747306"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ff52af0dcec1",
-      "title": "Compartimos: un sogno chiamato Argentina",
-      "date": "2026-05-13",
-      "time": "21:00",
-      "venue": "",
-      "location": "Madruzzo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/compartimos-immagine-banner_1-artelaghi/27945323-1-ita-IT/Compartimos-immagine-banner_1-ArteLaghi_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/746633",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/746633"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6db16838eb5c",
-      "title": "Compartimos: un sogno chiamato Argentina",
-      "date": "2026-05-13",
-      "time": "21:00",
-      "venue": "Teatro, Calavino (Tn)",
-      "location": "Calavino",
-      "description": "Intero € 5 / Info e biglietti n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/064963-compartimos.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026compartimos-un-sogno-chiamato-argentina.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026compartimos-un-sogno-chiamato-argentina.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "4da66ee3b80f",
