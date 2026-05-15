@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T18:50:18.512039+00:00",
-  "count": 319,
+  "last_updated": "2026-05-15T18:18:55.793239+00:00",
+  "count": 317,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4197,22 +4197,6 @@
       "is_past": true
     },
     {
-      "id": "4da66ee3b80f",
-      "title": "Pimpa. Il musical a pois",
-      "date": "2026-05-14",
-      "time": "17:00",
-      "venue": "Cinema Teatro Comunale di Tione",
-      "location": "Tione di Trento",
-      "description": "Teatro di Tione di Trento | Stagione 2025/2026 | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2025-10-22-140839/27724864-1-ita-IT/Immagine-2025-10-22-140839_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/738952",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/738952"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "3b90ee9e9ba0",
       "title": "Piccole paure",
       "date": "2026-05-14",
@@ -4226,7 +4210,7 @@
         "https://www.cultura.trentino.it/content/view/full/747391"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ec103085f315",
@@ -4237,28 +4221,12 @@
       "location": "Pergine Valsugana",
       "description": "Saggio Scuola Musicale Camillo Moser",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/notealmuseo.PNG",
-      "source_url": "https://www.teatrodipergine.it/eventi/2858-note-al-museo-con-furto-scuola-musicale",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2858-note-al-museo-con-furto-scuola-musicale",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2858-note-al-museo-con-furto-scuola-musicale"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2858-note-al-museo-con-furto-scuola-musicale"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "c85a7e6af3f1",
-      "title": "Concerto della Corale Universitaria",
-      "date": "2026-05-14",
-      "time": "20:30",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026concerto-della-corale-universitaria.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026concerto-della-corale-universitaria.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "830ef43e0da1",
@@ -4549,17 +4517,17 @@
       "is_past": false
     },
     {
-      "id": "a6a2ee813004",
-      "title": "Sospeso - Festival di circo, teatro e musica | 30 maggio 2026",
-      "date": "2026-05-30",
-      "time": null,
+      "id": "4cea49e40a65",
+      "title": "La ragazza del lago",
+      "date": "2026-05-29",
+      "time": "20:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "Sospeso - Festival di circo, teatro e musica | Giorno 2",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/sospeso1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2848-sospeso-30-maggio",
+      "description": "Spettacolo di danza di fine anno degli allievi dell'Associazione Danzamania Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/laragazzadellago_danzamania.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2861-la-ragazza-del-lago-danzamania",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2848-sospeso-30-maggio"
+        "https://www.teatrodipergine.it/eventi/2861-la-ragazza-del-lago-danzamania"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4661,8 +4629,8 @@
       "is_past": false
     },
     {
-      "id": "df74a3779454",
-      "title": "Serata di ballo liscio con musica dal vivo",
+      "id": "0c5cf3878e80",
+      "title": "Ballo liscio con musica dal vivo",
       "date": "2026-06-04",
       "time": "20:30",
       "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
@@ -4853,8 +4821,8 @@
       "is_past": false
     },
     {
-      "id": "94b92b873a5e",
-      "title": "Serata di ballo liscio con musica dal vivo",
+      "id": "fbe5d8ea7e5f",
+      "title": "Ballo liscio con musica dal vivo",
       "date": "2026-07-02",
       "time": "20:30",
       "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
