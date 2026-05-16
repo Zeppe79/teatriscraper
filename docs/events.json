@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-16T07:11:18.083305+00:00",
-  "count": 316,
+  "last_updated": "2026-05-16T17:52:26.090939+00:00",
+  "count": 318,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,6 +4469,22 @@
       "is_past": false
     },
     {
+      "id": "aed4f5fed9e5",
+      "title": "Concerto per i 100 anni della SOSAT e della SAT",
+      "date": "2026-05-25",
+      "time": "20:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/concerto-per-i-100-anni-della-sosat-e-della-sat.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/concerto-per-i-100-anni-della-sosat-e-della-sat.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "e4abbef3b6b9",
       "title": "Maggio dei Libri & 25° compleanno biblioteca",
       "date": "2026-05-27",
@@ -4514,6 +4530,22 @@
         "https://www.teatrodipergine.it/eventi/2861-la-ragazza-del-lago-danzamania"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a846899ebe93",
+      "title": "XX Secolo Dance Show",
+      "date": "2026-05-31",
+      "time": "20:30",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026xx-secolo-dance-show.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026xx-secolo-dance-show.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
