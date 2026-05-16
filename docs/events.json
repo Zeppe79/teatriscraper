@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T18:18:55.793239+00:00",
-  "count": 317,
+  "last_updated": "2026-05-16T07:11:18.083305+00:00",
+  "count": 316,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4194,22 +4194,6 @@
         "https://www.teatrodivillazzano.it/event/puttana-eng/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "3b90ee9e9ba0",
-      "title": "Piccole paure",
-      "date": "2026-05-14",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-418/27966822-1-ita-IT/sfondo-ocra-418_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747391",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747391"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": true
     },
     {
