@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T08:42:20.504454+00:00",
-  "count": 314,
+  "last_updated": "2026-05-18T18:28:16.016780+00:00",
+  "count": 317,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4004,14 +4004,14 @@
       "is_past": true
     },
     {
-      "id": "fadd9d2fe02e",
-      "title": "Harry Potter – Saggio di danza",
+      "id": "49462ab61f51",
+      "title": "Un viaggio nel castello più magico di sempre",
       "date": "2026-04-30",
       "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "La magia prende vita sul palco del Teatro di Villazzano con uno spettacolo che trasporta il pubblico nel mondo incantato di Harry Potter. La Dance Team School presenta una produzione coreografica coinvolgente, dove danza, musica e scenografia si intrecciano per...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/IMG-20260429-WA0000-e1777584283487-870x550.jpg",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/WhatsApp-Image-2026-05-18-at-12.01.14-1-870x530.jpeg",
       "source_url": "https://www.teatrodivillazzano.it/event/harry-potter/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/harry-potter/"
@@ -4670,8 +4670,7 @@
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
       "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
-        "https://www.teatrodipergine.it/eventi/2862-glamorous-dontstopmoving-2"
+        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4688,6 +4687,22 @@
       "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
       "source_urls": [
         "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "6c511d46fd91",
+      "title": "L'evoluzione della musica",
+      "date": "2026-06-09",
+      "time": "17:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza aerea di fine anno degli allievi di Artinaria",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/artinaria1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2862-l-evoluzione-della-musica-artinaria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2862-l-evoluzione-della-musica-artinaria"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4784,6 +4799,38 @@
       "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "2b4a7f6cd86d",
+      "title": "CCN Aterballetto / Il Combattimento di Tancredi e Clorinda + Microdanze",
+      "date": "2026-07-16",
+      "time": "17:30",
+      "venue": "Castel Mareccio, Via Claudia de Medici 12, Bolzano",
+      "location": "Bolzano",
+      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065878-bolzanodanza26.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ccn-aterballetto-il-combattimento-di-tancredi-e-clorinda-microdanze.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ccn-aterballetto-il-combattimento-di-tancredi-e-clorinda-microdanze.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "0a9082680ce2",
+      "title": "Louise Lecavalier / Danses Vagabondes",
+      "date": "2026-07-16",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065880-039444-bolzanodanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/louise-lecavalier-danses-vagabondes.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/louise-lecavalier-danses-vagabondes.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
