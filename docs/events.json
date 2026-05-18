@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T17:53:43.903837+00:00",
-  "count": 316,
+  "last_updated": "2026-05-18T08:42:20.504454+00:00",
+  "count": 314,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4236,27 +4236,11 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/amelieritmomisto1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "3851340a862c",
-      "title": "Benedetta Pigoni - 30 milligrammi di Ulipristal",
-      "date": "2026-05-16",
-      "time": "20:30",
-      "venue": "Teatro Comunale, Teatro Studio, Piazza Verdi, Bolzano",
-      "location": "Bolzano",
-      "description": "Stagione Regionale Contemporanea / informazioni complete su biglietti e programma in teatro-bolzano.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065524-062153-885486.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/benedetta-pigoni-30-milligrammi-di-ulipristal.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/benedetta-pigoni-30-milligrammi-di-ulipristal.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": true
     },
     {
@@ -4284,28 +4268,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/amelieritmomisto1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2842-il-mondo-secondo-amelie-rimomisto"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "fa08ffb20cfa",
-      "title": "Niente paura, si ride",
-      "date": "2026-05-17",
-      "time": "20:30",
-      "venue": "",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/spettacolo-bussola-cimaverde-hospice/27966101-1-ita-IT/spettacolo-Bussola-CimaVerde-Hospice_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747361",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747361"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "74bcd47c0d54",
@@ -4702,7 +4670,8 @@
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
       "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
+        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
+        "https://www.teatrodipergine.it/eventi/2862-glamorous-dontstopmoving-2"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
