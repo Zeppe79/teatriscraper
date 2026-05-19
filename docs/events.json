@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T18:28:16.016780+00:00",
-  "count": 317,
+  "last_updated": "2026-05-19T08:22:02.509547+00:00",
+  "count": 316,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4836,6 +4836,22 @@
       "is_past": false
     },
     {
+      "id": "11e168064c9c",
+      "title": "Peeping Tom / Diptych",
+      "date": "2026-07-17",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065900-985554.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "cae5ad0d96c8",
       "title": "Paesaggi Sonori Summer - Hiram Salsano e Marcello De Carolis",
       "date": "2026-07-17",
@@ -4996,22 +5012,6 @@
       "is_past": false
     },
     {
-      "id": "8029faac6e78",
-      "title": "Frankie hi-nrg mc in “Voce e batteria\"",
-      "date": "2026-08-29",
-      "time": "21:00",
-      "venue": "Teatro Capovolto, Piazza Battisti, Trento",
-      "location": "Trento",
-      "description": "Frankie hi-nrg mc torna con “VOCE E BATTERIA”, disponibile dal 24 aprile su tutte le piattaforme. Un progetto essenziale e radicale che riporta al centro voce, ritmo e parola, rileggendo alcuni dei brani più iconici del suo repertorio attraverso arrangiamenti ridotti alla sola batteria, suonata da Donato Stolfi, con Dj Stile agli scratch. L’album vede la partecipazione di importanti artisti della scena italiana, tra cui Jovanotti, Fabri Fibra, Tiziano Ferro, Elisa, Emma, Diodato, Raiz e Lina Sim",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065299-3984.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/frankie-hi-nrg-mc-in-voce-e-batteria.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/frankie-hi-nrg-mc-in-voce-e-batteria.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "bb568855d7e1",
       "title": "Serata di ballo liscio con musica dal vivo",
       "date": "2026-09-17",
@@ -5023,22 +5023,6 @@
       "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "8a5f81ceb6ea",
-      "title": "Diamanda Galás",
-      "date": "2026-09-23",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Diamanda Galás torna in Italia con tre concerti speciali e apre il tour il 23 settembre 2026 a Trento, all’Auditorium Santa Chiara. Cantante d’avanguardia, compositrice e pianista, Diamanda Galás è una delle figure più radicali e visionarie della musica contemporanea. Il suo lavoro attraversa generi e linguaggi, fondendo tradizione classica, jazz sperimentale, influenze gospel e una ricerca vocale estrema che l’ha resa unica nel panorama internazionale. Artista precoce, si esibisce già a quattor",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065298-dmd.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/diamanda-galas.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/diamanda-galas.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
