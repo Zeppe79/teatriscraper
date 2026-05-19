@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T08:22:02.509547+00:00",
-  "count": 316,
+  "last_updated": "2026-05-19T18:57:18.983035+00:00",
+  "count": 318,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4436,6 +4436,22 @@
       "is_past": false
     },
     {
+      "id": "d7a5322c0a18",
+      "title": "Vel te dir Vèlch",
+      "date": "2026-05-28",
+      "time": "20:30",
+      "venue": "",
+      "location": "Canazei",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-64/27971848-1-ita-IT/unnamed-6_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747628",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747628"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ada86a097291",
       "title": "Sospeso - Festival di circo, teatro e musica | 29 maggio 2026",
       "date": "2026-05-29",
@@ -4831,6 +4847,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/louise-lecavalier-danses-vagabondes.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/louise-lecavalier-danses-vagabondes.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "035cae9e7d4c",
+      "title": "Anna Basti / Le Classique c'est chic!",
+      "date": "2026-07-17",
+      "time": "10:00",
+      "venue": "Bolzano",
+      "location": "",
+      "description": "evento gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065901-anna-bzdanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
