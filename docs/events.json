@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T18:57:18.983035+00:00",
-  "count": 318,
+  "last_updated": "2026-05-20T08:22:33.340172+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4324,6 +4324,22 @@
       "is_past": false
     },
     {
+      "id": "6fcf61c1f4b8",
+      "title": "Viaggio in Italia con Niccolò Paganini | Disegni in musica",
+      "date": "2026-05-22",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747658",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747658"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "1599de0ff0a4",
       "title": "VIAGGIO IN ITALIA CON NICCOLÒ PAGANINI – DISEGNI IN MUSICA",
       "date": "2026-05-22",
@@ -4628,6 +4644,22 @@
       "is_past": false
     },
     {
+      "id": "b0b52c8387b5",
+      "title": "Inside (Full) Out",
+      "date": "2026-06-06",
+      "time": "19:30",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 19.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747659",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747659"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8872fc882742",
       "title": "Inside (Full) Out",
       "date": "2026-06-06",
@@ -4657,6 +4689,22 @@
         "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "157f65eb6602",
+      "title": "Inside (Full) Out",
+      "date": "2026-06-07",
+      "time": "14:00",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 14.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747660",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747660"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
