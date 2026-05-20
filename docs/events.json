@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T08:22:33.340172+00:00",
+  "last_updated": "2026-05-20T19:18:16.728382+00:00",
   "count": 321,
   "events": [
     {
@@ -4500,22 +4500,6 @@
       "is_past": false
     },
     {
-      "id": "a846899ebe93",
-      "title": "XX Secolo Dance Show",
-      "date": "2026-05-31",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026xx-secolo-dance-show.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026xx-secolo-dance-show.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "40f7d9a53fcc",
       "title": "Mythos",
       "date": "2026-06-02",
@@ -4545,22 +4529,6 @@
         "https://www.cultura.trentino.it/content/view/full/747296"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c246e9345df1",
-      "title": "Einstürzende Neubauten",
-      "date": "2026-06-03",
-      "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Il primo album degli Einstürzende Neubauten, dal tedesco “nuovi edifici che crollano”, è Kollaps (1981), che si presenta come un attacco frontale alle aspettative e ai modi di ascolto mainstream. Gli strumenti musicali sono creati con oggetti come lamiere, trapani o martelli che prendono il sopravvento su testi sconclusionati. Tutto questo rappresenta il fondamento non solo della band, ma anche di una nuova comprensione musicale da loro inaugurata. Il secondo album Halber Mensch (1985) si caratt",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/063657-8834433.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/einsturzende-neubauten.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4943,6 +4911,38 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "321439ed4fcc",
+      "title": "Extradanza",
+      "date": "2026-07-18",
+      "time": "17:00",
+      "venue": "Prati del Talvera, Bolzano",
+      "location": "Bolzano",
+      "description": "evento gratuito",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "5bedbd8bb7d0",
+      "title": "Chiara Bersani / Michel – The Animals I am",
+      "date": "2026-07-19",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065925-bersani-bolzanodanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
