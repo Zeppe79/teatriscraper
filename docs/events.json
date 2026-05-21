@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T19:18:16.728382+00:00",
-  "count": 321,
+  "last_updated": "2026-05-21T08:29:34.765584+00:00",
+  "count": 320,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4689,22 +4689,6 @@
         "https://www.trentinospettacoli.it/eventi/inside-full-out-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "ffcb9b7305e8",
-      "title": "Glamorous",
-      "date": "2026-06-07",
-      "time": "15:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
