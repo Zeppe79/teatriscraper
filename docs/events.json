@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T18:56:32.050815+00:00",
-  "count": 321,
+  "last_updated": "2026-05-22T08:19:24.316334+00:00",
+  "count": 322,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4289,23 +4289,7 @@
         "https://www.cultura.trentino.it/content/view/full/747294"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f63d531218aa",
-      "title": "Ballo liscio con musica dal vivo",
-      "date": "2026-05-21",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065082-9.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121436.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121436.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "67ca0888c77d",
@@ -4404,6 +4388,22 @@
       "is_past": false
     },
     {
+      "id": "711cd46f8ed9",
+      "title": "I sogni son desideri",
+      "date": "2026-05-26",
+      "time": "18:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/inpuntadipiedi.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2864-i-sogni-son-desideri",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2864-i-sogni-son-desideri"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "e4abbef3b6b9",
       "title": "Maggio dei Libri & 25° compleanno biblioteca",
       "date": "2026-05-27",
@@ -4447,22 +4447,6 @@
       "source_url": "https://www.teatrodipergine.it/eventi/2847-sospeso-29-maggio",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2847-sospeso-29-maggio"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "4cea49e40a65",
-      "title": "La ragazza del lago",
-      "date": "2026-05-29",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno degli allievi dell'Associazione Danzamania Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/laragazzadellago_danzamania.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2861-la-ragazza-del-lago-danzamania",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2861-la-ragazza-del-lago-danzamania"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4772,6 +4756,22 @@
       "is_past": false
     },
     {
+      "id": "b0070857906a",
+      "title": "Dare forma ai territori di confine",
+      "date": "2026-06-24",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Trentino 2060 - Confini: disegnare il futuro",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/trentino2060.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2863-dare-forma-ai-territori-di-confine",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2863-dare-forma-ai-territori-di-confine"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "01d119af44ce",
       "title": "Paesaggi Sonori Summer - Thu Le",
       "date": "2026-06-28",
@@ -4943,6 +4943,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "3d2903c1471b",
+      "title": "Margherita Landi / Landi's Cube: inside the code",
+      "date": "2026-07-21",
+      "time": "17:30",
+      "venue": "NOI Techparkm Via Alessandro Volta 13/A, Bolzano",
+      "location": "Bolzano",
+      "description": "evento gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065941-landi-bolzanodanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/margherita-landi-landis-cube-inside-the-code.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/margherita-landi-landis-cube-inside-the-code.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
