@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T18:50:35.403727+00:00",
-  "count": 322,
+  "last_updated": "2026-05-23T07:27:23.040373+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4305,23 +4305,7 @@
         "https://www.teatrodipergine.it/eventi/2854-disney-in-movi-mente-saggio"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "6fcf61c1f4b8",
-      "title": "Viaggio in Italia con Niccolò Paganini | Disegni in musica",
-      "date": "2026-05-22",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747658",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747658"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1599de0ff0a4",
@@ -4337,23 +4321,7 @@
         "https://www.trentinospettacoli.it/eventi/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "9fd98896c609",
-      "title": "Viaggio in Italia con Niccolò Paganini - Disegni in musica",
-      "date": "2026-05-22",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Intero € 10 / Info e biglietti n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065571-78.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "a6907c15f07e",
@@ -4975,6 +4943,22 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "8304e01df675",
+      "title": "Rosas / Anne Teresa De Keersmaeker / Rosas danst Rosas",
+      "date": "2026-07-22",
+      "time": "20:30",
+      "venue": "Casa della Cultura (Waltherhaus), Via Sciliar 1, Bolzano",
+      "location": "Bolzano",
+      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065940-rosas-bolzanodanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/rosas-anne-teresa-de-keersmaeker-rosas-danst-rosas.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/rosas-anne-teresa-de-keersmaeker-rosas-danst-rosas.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
