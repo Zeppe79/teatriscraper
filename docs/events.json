@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-23T17:57:21.075408+00:00",
-  "count": 321,
+  "last_updated": "2026-05-24T07:47:40.735669+00:00",
+  "count": 319,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4276,22 +4276,6 @@
       "is_past": true
     },
     {
-      "id": "74bcd47c0d54",
-      "title": "Maggio dei Libri & 25° compleanno biblioteca",
-      "date": "2026-05-21",
-      "time": "18:30",
-      "venue": "",
-      "location": "Vallelaghi",
-      "description": "ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747294",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747294"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "67ca0888c77d",
       "title": "Disney In Movi-mente",
       "date": "2026-05-22",
@@ -4337,23 +4321,7 @@
         "https://www.teatrodipergine.it/eventi/2854-disney-in-movi-mente-saggio"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "08fca0853abd",
-      "title": "I tre giganti",
-      "date": "2026-05-23",
-      "time": "17:00",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Trame di Comunità | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/23-maggio-2026/27957724-1-ita-IT/23-maggio-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/744214",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/744214"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "711cd46f8ed9",
