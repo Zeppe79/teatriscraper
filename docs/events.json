@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T08:52:56.163070+00:00",
+  "last_updated": "2026-05-25T18:23:22.239156+00:00",
   "count": 319,
   "events": [
     {
@@ -4484,6 +4484,22 @@
       "is_past": false
     },
     {
+      "id": "ac227d20aafc",
+      "title": "Ritorno a casa",
+      "date": "2026-06-05",
+      "time": "19:30",
+      "venue": "Loc. Plaze, Lago di Santa Giustina (Tn)",
+      "location": "Lago di Santa Giustina",
+      "description": "Info arteviva.teatrodanza@gmail.com",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ritorno-a-casa-122670.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ritorno-a-casa-122670.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "89fd1fa980ac",
       "title": "L'anello magico",
       "date": "2026-06-05",
@@ -4676,6 +4692,38 @@
       "is_past": false
     },
     {
+      "id": "0202327edb80",
+      "title": "Patatrac",
+      "date": "2026-06-14",
+      "time": "10:15",
+      "venue": "Parco Doss di Pez, Cles (Tn)",
+      "location": "Cles",
+      "description": "Info arteviva.teatrodanza@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066051-pa.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/patatrac.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/patatrac.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "419319cf192c",
+      "title": "Che cos’è il rifiuto?",
+      "date": "2026-06-19",
+      "time": "20:00",
+      "venue": "Sede della Sat di Trento, Via Manci 57, Trento",
+      "location": "Trento",
+      "description": "Info arteviva.teatrodanza@gmail.com",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026/che-cose-il-rifiuto.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/che-cose-il-rifiuto.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "24bcead24727",
       "title": "Paesaggi Sonori Summer - Eugenio Palumbo e Lorenzo Bernardi",
       "date": "2026-06-19",
@@ -4687,6 +4735,22 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-eugenio-palumbo-e-lorenzo-bernardi.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-eugenio-palumbo-e-lorenzo-bernardi.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "1e5a43d74c98",
+      "title": "Una festa per la terra",
+      "date": "2026-06-20",
+      "time": null,
+      "venue": "S. Anna di Sopramonte (Tn)",
+      "location": "",
+      "description": "Prenotazioni: conferma la tua partecipazione inviando una mail a escursionismo@sat.tn.it e indica in quanti siete / Info arteviva.teatrodanza@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066052-9878.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/una-festa-per-la-terra.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/una-festa-per-la-terra.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4705,6 +4769,22 @@
         "https://www.teatrodipergine.it/eventi/2863-dare-forma-ai-territori-di-confine"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "127a9f690ecc",
+      "title": "Performance di teatro danza",
+      "date": "2026-06-27",
+      "time": "17:00",
+      "venue": "Antica Segheria Veneziana, Terragnolo (Tn)",
+      "location": "Terragnolo",
+      "description": "Info arteviva.teatrodanza@gmail.com",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/performance-di-teatro-danza.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/performance-di-teatro-danza.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4836,70 +4916,6 @@
       "is_past": false
     },
     {
-      "id": "5bedbd8bb7d0",
-      "title": "Chiara Bersani / Michel – The Animals I am",
-      "date": "2026-07-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065925-bersani-bolzanodanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "2a077d2c6edc",
-      "title": "Simon Le Borgne / Ad Libitum",
-      "date": "2026-07-20",
-      "time": "19:00",
-      "venue": "Chiostro dei Domenicani, Piazza Domenicani 16, Bolzano",
-      "location": "Bolzano",
-      "description": "12€/10€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065943-84874.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "097d1cffc845",
-      "title": "Compagnie Leïla Ka / Maldonne",
-      "date": "2026-07-20",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065942-bzdamza-20luglio.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "3d2903c1471b",
-      "title": "Margherita Landi / Landi's Cube: inside the code",
-      "date": "2026-07-21",
-      "time": "17:30",
-      "venue": "NOI Techparkm Via Alessandro Volta 13/A, Bolzano",
-      "location": "Bolzano",
-      "description": "evento gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065941-landi-bolzanodanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/margherita-landi-landis-cube-inside-the-code.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/margherita-landi-landis-cube-inside-the-code.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "1815f5b71284",
       "title": "Paesaggi Sonori Summer - Nando Brusco",
       "date": "2026-07-21",
@@ -4911,22 +4927,6 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "8304e01df675",
-      "title": "Rosas / Anne Teresa De Keersmaeker / Rosas danst Rosas",
-      "date": "2026-07-22",
-      "time": "20:30",
-      "venue": "Casa della Cultura (Waltherhaus), Via Sciliar 1, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065940-rosas-bolzanodanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/rosas-anne-teresa-de-keersmaeker-rosas-danst-rosas.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/rosas-anne-teresa-de-keersmaeker-rosas-danst-rosas.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
