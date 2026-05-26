@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T18:23:22.239156+00:00",
-  "count": 319,
+  "last_updated": "2026-05-26T08:28:05.244550+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4785,6 +4785,38 @@
         "https://www.crushsite.it/it/danza-teatro/2026/performance-di-teatro-danza.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "55494e64181e",
+      "title": "Je vous aime",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747874",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747874"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a7ee9a351d4b",
+      "title": "Paradisi perduti",
+      "date": "2026-06-27",
+      "time": "21:15",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 21.15",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747875",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747875"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
