@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T08:28:05.244550+00:00",
-  "count": 321,
+  "last_updated": "2026-05-26T19:14:08.724903+00:00",
+  "count": 337,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4836,6 +4836,54 @@
       "is_past": false
     },
     {
+      "id": "4895d653e0c0",
+      "title": "Madri",
+      "date": "2026-07-01",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747884",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747884"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3c6e00c46ef4",
+      "title": "Liberidì Liberidà",
+      "date": "2026-07-01",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747885",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747885"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5dba8b3539b4",
+      "title": "Paladini di Francia",
+      "date": "2026-07-02",
+      "time": "18:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747887",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747887"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "fbe5d8ea7e5f",
       "title": "Ballo liscio con musica dal vivo",
       "date": "2026-07-02",
@@ -4849,6 +4897,198 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "e7c4c32c889b",
+      "title": "La futura classe dirigente",
+      "date": "2026-07-02",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747889",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747889"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "556f8369307e",
+      "title": "Atti degli apostoli",
+      "date": "2026-07-04",
+      "time": "20:45",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747895",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747895"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0cefdff4427e",
+      "title": "Nervo vago",
+      "date": "2026-07-05",
+      "time": "20:45",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747899",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747899"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b30ea6105fc4",
+      "title": "Dejà vu | Pergine",
+      "date": "2026-07-07",
+      "time": "19:00",
+      "venue": "Palazzo Hippoliti",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747901",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747901"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7d0bd57b5b33",
+      "title": "Esagerate!",
+      "date": "2026-07-08",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747904",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37b9eb7bc4bb",
+      "title": "Due",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747912"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ab4338dc5eae",
+      "title": "Veglia",
+      "date": "2026-07-09",
+      "time": "20:00",
+      "venue": "",
+      "location": "Levico Terme",
+      "description": "Pergine Festival 2026   | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747914"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b2c88a8d81d6",
+      "title": "DK Radio funeral party",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747916"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2687d3235d27",
+      "title": "Tacet",
+      "date": "2026-07-10",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747917"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ec7df53026cc",
+      "title": "Momo",
+      "date": "2026-07-11",
+      "time": "10:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747919",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747919"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "35603d5193f5",
+      "title": "My age",
+      "date": "2026-07-11",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747920"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4c1dc4029278",
+      "title": "Teatro per bambini | Il Professor Corazon",
+      "date": "2026-07-14",
+      "time": "18:00",
+      "venue": "Parco delle Terme di Levico",
+      "location": "Levico Terme",
+      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747965",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747965"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5025,6 +5265,22 @@
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "009906ff1ab8",
+      "title": "Teatro per bambini | Sconcerto a 4 mani",
+      "date": "2026-08-06",
+      "time": "18:00",
+      "venue": "Parco delle Terme di Levico",
+      "location": "Levico Terme",
+      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747969",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747969"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
