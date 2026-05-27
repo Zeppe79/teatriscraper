@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T08:36:40.078590+00:00",
-  "count": 337,
+  "last_updated": "2026-05-27T19:17:39.397451+00:00",
+  "count": 338,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4404,6 +4404,22 @@
       "is_past": false
     },
     {
+      "id": "8bc4babf2e6f",
+      "title": "Portland Play Off 2026",
+      "date": "2026-06-03",
+      "time": null,
+      "venue": "Teatro Gigi Cona di Gardolo",
+      "location": "Trento",
+      "description": "Anche quest'anno è il momento di andare in scena per i giovani allievi/attori della scuola di Teatro Portland. Dopo la chiusura della sede di Piedicastello il Portland ha trovato una nuova sede per far esibire i bambini e i ragazzi guidati da Paolo Vicentini. PROGRAMMA ore 17.00: Il litigio (Teatro bambini 7-10 anni) Storia di un gruppo di amici in cui ad un certo punto scoppia una litigata. ore 19.00: Snowglobe (teatro ragazzi 11-14 anni) Storia che racconta la vita di un Mondo sommerso dalla n",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748064",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748064"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f4c5eb66c758",
       "title": "Maggio dei Libri & 25° compleanno biblioteca",
       "date": "2026-06-03",
@@ -4490,8 +4506,8 @@
       "time": "19:30",
       "venue": "Loc. Plaze, Lago di Santa Giustina (Tn)",
       "location": "Lago di Santa Giustina",
-      "description": "Info arteviva.teatrodanza@gmail.com",
-      "image_url": null,
+      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066108-312.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ritorno-a-casa-122670.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/ritorno-a-casa-122670.html"
@@ -4668,9 +4684,9 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo al Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27",
+      "source_url": "https://www.teatrodipergine.it/teatro/2857-anello-magico-12-13-giugno",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27"
+        "https://www.teatrodipergine.it/teatro/2857-anello-magico-12-13-giugno"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4684,9 +4700,9 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo al Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27",
+      "source_url": "https://www.teatrodipergine.it/teatro/2857-anello-magico-12-13-giugno",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2857-anello-magico-5-6-7-giugno-27"
+        "https://www.teatrodipergine.it/teatro/2857-anello-magico-12-13-giugno"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4698,7 +4714,7 @@
       "time": "10:15",
       "venue": "Parco Doss di Pez, Cles (Tn)",
       "location": "Cles",
-      "description": "Info arteviva.teatrodanza@gmail.com",
+      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
       "image_url": "https://www.crushsite.it/upload/images/media/large/066051-pa.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/patatrac.html",
       "source_urls": [
@@ -4708,14 +4724,14 @@
       "is_past": false
     },
     {
-      "id": "419319cf192c",
+      "id": "718acfbd928e",
       "title": "Che cos’è il rifiuto?",
       "date": "2026-06-19",
       "time": "20:00",
-      "venue": "Sede della Sat di Trento, Via Manci 57, Trento",
+      "venue": "Sala Pedrotti, Sede della Sat di Trento, Via Manci 57, Trento",
       "location": "Trento",
-      "description": "Info arteviva.teatrodanza@gmail.com",
-      "image_url": null,
+      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066106-546.jpg",
       "source_url": "https://www.crushsite.it/it/incontri/2026/che-cose-il-rifiuto.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/che-cose-il-rifiuto.html"
@@ -4746,7 +4762,7 @@
       "time": null,
       "venue": "S. Anna di Sopramonte (Tn)",
       "location": "",
-      "description": "Prenotazioni: conferma la tua partecipazione inviando una mail a escursionismo@sat.tn.it e indica in quanti siete / Info arteviva.teatrodanza@gmail.com",
+      "description": "Evento gratuito / Prenotazioni: conferma la tua partecipazione inviando una mail a escursionismo@sat.tn.it e indica in quanti siete / Info arteviva.teatrodanza@gmail.com / Durante lo spettacolo verranno effettuate riprese video a fini promozionali per la circuitazione dello spettacolo all’interno di festival di teatro ragazzi. Sarà richiesta la firma di apposita liberatoria",
       "image_url": "https://www.crushsite.it/upload/images/media/large/066052-9878.jpg",
       "source_url": "https://www.crushsite.it/it/incontri/2026/una-festa-per-la-terra.html",
       "source_urls": [
@@ -4772,17 +4788,17 @@
       "is_past": false
     },
     {
-      "id": "127a9f690ecc",
-      "title": "Performance di teatro danza",
+      "id": "c7729e9ecdaa",
+      "title": "Esseri, Umani",
       "date": "2026-06-27",
       "time": "17:00",
       "venue": "Antica Segheria Veneziana, Terragnolo (Tn)",
       "location": "Terragnolo",
-      "description": "Info arteviva.teatrodanza@gmail.com",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/performance-di-teatro-danza.html",
+      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066109-654456456.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/esseri-umani.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/performance-di-teatro-danza.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/esseri-umani.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -4987,7 +5003,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
