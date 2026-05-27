@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T19:14:08.724903+00:00",
+  "last_updated": "2026-05-27T08:36:40.078590+00:00",
   "count": 337,
   "events": [
     {
@@ -4332,12 +4332,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/inpuntadipiedi.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2864-i-sogni-son-desideri",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2864-i-sogni-son-desideri",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2864-i-sogni-son-desideri"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2864-i-sogni-son-desideri"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e4abbef3b6b9",
