@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T19:17:39.397451+00:00",
-  "count": 338,
+  "last_updated": "2026-05-28T08:40:15.725458+00:00",
+  "count": 337,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4340,22 +4340,6 @@
       "is_past": true
     },
     {
-      "id": "e4abbef3b6b9",
-      "title": "Maggio dei Libri & 25° compleanno biblioteca",
-      "date": "2026-05-27",
-      "time": "18:30",
-      "venue": "",
-      "location": "Vallelaghi",
-      "description": "ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747295",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747295"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "d7a5322c0a18",
       "title": "Vel te dir Vèlch",
       "date": "2026-05-28",
@@ -5003,7 +4987,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
