@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T08:40:15.725458+00:00",
-  "count": 337,
+  "last_updated": "2026-05-28T19:34:21.622167+00:00",
+  "count": 338,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4705,6 +4705,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/patatrac.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "3fcf98f2e096",
+      "title": "La superficie cromata dell’universo",
+      "date": "2026-06-18",
+      "time": "19:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Trentino Book Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
