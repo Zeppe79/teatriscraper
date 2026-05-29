@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T19:34:21.622167+00:00",
-  "count": 338,
+  "last_updated": "2026-05-29T08:39:35.538295+00:00",
+  "count": 337,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4340,22 +4340,6 @@
       "is_past": true
     },
     {
-      "id": "d7a5322c0a18",
-      "title": "Vel te dir Vèlch",
-      "date": "2026-05-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Canazei",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-64/27971848-1-ita-IT/unnamed-6_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747628",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747628"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "ada86a097291",
       "title": "Sospeso - Festival di circo, teatro e musica | 29 maggio 2026",
       "date": "2026-05-29",
@@ -4695,7 +4679,7 @@
       "id": "0202327edb80",
       "title": "Patatrac",
       "date": "2026-06-14",
-      "time": "10:15",
+      "time": "15:00",
       "venue": "Parco Doss di Pez, Cles (Tn)",
       "location": "Cles",
       "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
@@ -5051,7 +5035,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
