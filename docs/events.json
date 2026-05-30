@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T19:30:24.673745+00:00",
+  "last_updated": "2026-05-30T07:37:10.290913+00:00",
   "count": 337,
   "events": [
     {
@@ -4353,7 +4353,7 @@
         "https://www.teatrodipergine.it/eventi/2847-sospeso-29-maggio"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "40f7d9a53fcc",
