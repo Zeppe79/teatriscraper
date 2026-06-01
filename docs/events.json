@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T17:56:28.312538+00:00",
-  "count": 337,
+  "last_updated": "2026-06-01T10:14:11.798777+00:00",
+  "count": 328,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4020,38 +4020,6 @@
       "is_past": true
     },
     {
-      "id": "965288306764",
-      "title": "Civili selvaggi",
-      "date": "2026-05-08",
-      "time": "19:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Saggio di fine anno corso annuale Ariateatro 11-17 anni",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/saggipergine-100.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2586-civili-selvaggi-saggio-11-17-anni",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2586-civili-selvaggi-saggio-11-17-anni"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "7833c91a9faf",
-      "title": "Il bosco incantato",
-      "date": "2026-05-09",
-      "time": "17:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Saggio di fine anno corso annuale Ariateatro 7-10 anni del giovedì",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/ilboscoincantato.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2845-il-bosco-incantato-saggio-7-10-anni-giovedi",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2845-il-bosco-incantato-saggio-7-10-anni-giovedi"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "8478036f9352",
       "title": "ONE NIGHT ONLY – OLDIES BUT GOLDIES & FRIENDS",
       "date": "2026-05-09",
@@ -4100,22 +4068,6 @@
       "is_past": true
     },
     {
-      "id": "cf35168806fd",
-      "title": "I ladri del tempo",
-      "date": "2026-05-10",
-      "time": "19:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Saggio di fine anno corso annuale Ariateatro 7-10 anni del mercoledì",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/saggipergine-100.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2846-i-ladri-del-tempo-saggio-7-10-anni-mercoledi"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "378949ff0dac",
       "title": "Artedacqua",
       "date": "2026-05-11",
@@ -4145,38 +4097,6 @@
         "https://www.teatrodivillazzano.it/event/il-libro-delle-fate/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "d1614464b6f2",
-      "title": "Il confine tra relazione e manipolazione",
-      "date": "2026-05-12",
-      "time": "18:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Anteprima del Trentino Book Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/piedimonte1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2850-il-confine-tra-relazione-e-manipolazione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2850-il-confine-tra-relazione-e-manipolazione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1346a0e2a27a",
-      "title": "Sammy. Una vita da abbracciare (S. Paolo)",
-      "date": "2026-05-12",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Anteprima del Trentino Book Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/sammy1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2851-sammy-una-vita-da-abbracciare",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2851-sammy-una-vita-da-abbracciare"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4212,38 +4132,6 @@
       "is_past": true
     },
     {
-      "id": "ec103085f315",
-      "title": "Note al museo... con furto",
-      "date": "2026-05-14",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Saggio Scuola Musicale Camillo Moser",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/notealmuseo.PNG",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2858-note-al-museo-con-furto-scuola-musicale",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2858-note-al-museo-con-furto-scuola-musicale"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "65a79b4a997b",
-      "title": "Il mondo secondo Amelie",
-      "date": "2026-05-16",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/amelieritmomisto1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "e3d732962eae",
       "title": "Concerto Malika Ayane",
       "date": "2026-05-16",
@@ -4260,38 +4148,6 @@
       "is_past": true
     },
     {
-      "id": "9f1ffa49fdad",
-      "title": "Il mondo secondo Amelie",
-      "date": "2026-05-17",
-      "time": "17:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/amelieritmomisto1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2842-il-mondo-secondo-amelie-rimomisto"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "67ca0888c77d",
-      "title": "Disney In Movi-mente",
-      "date": "2026-05-22",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/movimente26_1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2854-disney-in-movi-mente-saggio",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2854-disney-in-movi-mente-saggio"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "1599de0ff0a4",
       "title": "VIAGGIO IN ITALIA CON NICCOLÒ PAGANINI – DISEGNI IN MUSICA",
       "date": "2026-05-22",
@@ -4305,54 +4161,6 @@
         "https://www.trentinospettacoli.it/eventi/viaggio-in-italia-con-niccolo-paganini-disegni-in-musica/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "a6907c15f07e",
-      "title": "Disney In Movi-mente",
-      "date": "2026-05-23",
-      "time": "10:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/movimente26_1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2854-disney-in-movi-mente-saggio",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2854-disney-in-movi-mente-saggio"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "711cd46f8ed9",
-      "title": "I sogni son desideri",
-      "date": "2026-05-26",
-      "time": "18:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo di danza di fine anno",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/inpuntadipiedi.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2864-i-sogni-son-desideri",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2864-i-sogni-son-desideri"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "ada86a097291",
-      "title": "Sospeso - Festival di circo, teatro e musica | 29 maggio 2026",
-      "date": "2026-05-29",
-      "time": null,
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Sospeso - Festival di circo, teatro e musica | Giorno 1",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/sospeso1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2847-sospeso-29-maggio",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2847-sospeso-29-maggio"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4698,11 +4506,59 @@
       "time": "19:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "Trentino Book Festival",
+      "description": "Trentino Book Festival - Foyer del Teatro",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
       "source_url": "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "2c23d7ae428a",
+      "title": "Confini in fiamme: Israele e le divisioni del presente",
+      "date": "2026-06-18",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Trentino Book Festival - Sala del Teatro",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2866-trentino-book-festival-gad-lerner",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2866-trentino-book-festival-gad-lerner"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "266fd2cad982",
+      "title": "Nel tempo dei temporali",
+      "date": "2026-06-19",
+      "time": "17:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Trentino Book Festival - Foyer del Teatro",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2867-trentino-book-festival-davide-morosinotto",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2867-trentino-book-festival-davide-morosinotto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "cfcc5f67f69d",
+      "title": "Dove comincia un'altra vita",
+      "date": "2026-06-19",
+      "time": "19:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Trentino Book Festival - Foyer del Teatro",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2868-trentino-book-festival-erica-cassano",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2868-trentino-book-festival-erica-cassano"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4753,22 +4609,6 @@
         "https://www.crushsite.it/it/incontri/2026/una-festa-per-la-terra.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b0070857906a",
-      "title": "Dare forma ai territori di confine",
-      "date": "2026-06-24",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Trentino 2060 - Confini: disegnare il futuro",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/trentino2060.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2863-dare-forma-ai-territori-di-confine",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2863-dare-forma-ai-territori-di-confine"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5345,6 +5185,22 @@
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abdo-buda-marconi-trio.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "fa513b978846",
+      "title": "Max Angioni",
+      "date": "2026-08-30",
+      "time": "21:00",
+      "venue": "",
+      "location": "Nago-Torbole",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747924"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
