@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T20:02:14.898418+00:00",
-  "count": 302,
+  "last_updated": "2026-06-03T09:22:38.411292+00:00",
+  "count": 328,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4172,11 +4172,43 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/mythosblooms2.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2853-mythos-blooms",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2853-mythos-blooms",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2853-mythos-blooms"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2853-mythos-blooms"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "8bc4babf2e6f",
+      "title": "Portland Play Off 2026",
+      "date": "2026-06-03",
+      "time": null,
+      "venue": "Teatro Gigi Cona di Gardolo",
+      "location": "Trento",
+      "description": "Anche quest'anno è il momento di andare in scena per i giovani allievi/attori della scuola di Teatro Portland. Dopo la chiusura della sede di Piedicastello il Portland ha trovato una nuova sede per far esibire i bambini e i ragazzi guidati da Paolo Vicentini. PROGRAMMA ore 17.00: Il litigio (Teatro bambini 7-10 anni) Storia di un gruppo di amici in cui ad un certo punto scoppia una litigata. ore 19.00: Snowglobe (teatro ragazzi 11-14 anni) Storia che racconta la vita di un Mondo sommerso dalla n",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra6/27534295-1-ita-IT/sfondo-ocra_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748064",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748064"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f4c5eb66c758",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-06-03",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747296",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747296"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4193,6 +4225,38 @@
         "https://www.teatrodipergine.it/eventi/2855-il-fiore-che-sboccia-nelle-avversita-moveart"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "785314e79695",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-06-04",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747297",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747297"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "59e45a607de4",
+      "title": "Aulularia",
+      "date": "2026-06-04",
+      "time": "20:00",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3983/27964641-1-ita-IT/sfondo-ocra-398_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747307",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747307"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4244,6 +4308,22 @@
       "is_past": false
     },
     {
+      "id": "b0b52c8387b5",
+      "title": "Inside (Full) Out",
+      "date": "2026-06-06",
+      "time": "19:30",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 19.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747659",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747659"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8872fc882742",
       "title": "Inside (Full) Out",
       "date": "2026-06-06",
@@ -4273,6 +4353,22 @@
         "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "157f65eb6602",
+      "title": "Inside (Full) Out",
+      "date": "2026-06-07",
+      "time": "14:00",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 14.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747660",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747660"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4337,6 +4433,22 @@
         "https://www.teatrodipergine.it/eventi/2862-l-evoluzione-della-musica-artinaria"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a54a31238985",
+      "title": "Maggio dei Libri & 25° compleanno biblioteca",
+      "date": "2026-06-10",
+      "time": "18:30",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747298"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4516,6 +4628,38 @@
       "is_past": false
     },
     {
+      "id": "55494e64181e",
+      "title": "Je vous aime",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747874",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747874"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a7ee9a351d4b",
+      "title": "Paradisi perduti",
+      "date": "2026-06-27",
+      "time": "21:15",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 21.15",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747875",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747875"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "01d119af44ce",
       "title": "Paesaggi Sonori Summer - Thu Le",
       "date": "2026-06-28",
@@ -4532,6 +4676,54 @@
       "is_past": false
     },
     {
+      "id": "4895d653e0c0",
+      "title": "Madri",
+      "date": "2026-07-01",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747884",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747884"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3c6e00c46ef4",
+      "title": "Liberidì Liberidà",
+      "date": "2026-07-01",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747885",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747885"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5dba8b3539b4",
+      "title": "Paladini di Francia",
+      "date": "2026-07-02",
+      "time": "18:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747887",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747887"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "fbe5d8ea7e5f",
       "title": "Ballo liscio con musica dal vivo",
       "date": "2026-07-02",
@@ -4545,6 +4737,198 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121377.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "e7c4c32c889b",
+      "title": "La futura classe dirigente",
+      "date": "2026-07-02",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747889",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747889"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "556f8369307e",
+      "title": "Atti degli apostoli",
+      "date": "2026-07-04",
+      "time": "20:45",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747895",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747895"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0cefdff4427e",
+      "title": "Nervo vago",
+      "date": "2026-07-05",
+      "time": "20:45",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747899",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747899"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b30ea6105fc4",
+      "title": "Dejà vu | Pergine",
+      "date": "2026-07-07",
+      "time": "19:00",
+      "venue": "Palazzo Hippoliti",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747901",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747901"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7d0bd57b5b33",
+      "title": "Esagerate!",
+      "date": "2026-07-08",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747904",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37b9eb7bc4bb",
+      "title": "Due",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747912"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ab4338dc5eae",
+      "title": "Veglia",
+      "date": "2026-07-09",
+      "time": "20:00",
+      "venue": "",
+      "location": "Levico Terme",
+      "description": "Pergine Festival 2026   | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747914"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b2c88a8d81d6",
+      "title": "DK Radio funeral party",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747916"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2687d3235d27",
+      "title": "Tacet",
+      "date": "2026-07-10",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747917"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ec7df53026cc",
+      "title": "Momo",
+      "date": "2026-07-11",
+      "time": "10:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747919",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747919"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "35603d5193f5",
+      "title": "My age",
+      "date": "2026-07-11",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747920"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4c1dc4029278",
+      "title": "Teatro per bambini | Il Professor Corazon",
+      "date": "2026-07-14",
+      "time": "18:00",
+      "venue": "Parco delle Terme di Levico",
+      "location": "Levico Terme",
+      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747965",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747965"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4724,6 +5108,22 @@
       "is_past": false
     },
     {
+      "id": "009906ff1ab8",
+      "title": "Teatro per bambini | Sconcerto a 4 mani",
+      "date": "2026-08-06",
+      "time": "18:00",
+      "venue": "Parco delle Terme di Levico",
+      "location": "Levico Terme",
+      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747969",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747969"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9f20c9ce1244",
       "title": "QUINTAESSENZA – GJF 2026",
       "date": "2026-08-06",
@@ -4785,6 +5185,22 @@
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abdo-buda-marconi-trio.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "fa513b978846",
+      "title": "Max Angioni",
+      "date": "2026-08-30",
+      "time": "21:00",
+      "venue": "",
+      "location": "Nago-Torbole",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747924"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
