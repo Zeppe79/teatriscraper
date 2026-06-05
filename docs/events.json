@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T08:41:07.207537+00:00",
+  "last_updated": "2026-06-05T18:57:04.778067+00:00",
   "count": 339,
   "events": [
     {
@@ -4420,6 +4420,22 @@
       "is_past": false
     },
     {
+      "id": "685aedd2f891",
+      "title": "Oltre la stanza - Anime in movimento",
+      "date": "2026-06-11",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo di danza di fine anno",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/nod.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2882-oltre-la-stanza-not-ordinary-dance",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2882-oltre-la-stanza-not-ordinary-dance"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "5c4a46a3d077",
       "title": "L'anello magico",
       "date": "2026-06-12",
@@ -4511,22 +4527,6 @@
       "source_url": "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "2c23d7ae428a",
-      "title": "Confini in fiamme: Israele e le divisioni del presente",
-      "date": "2026-06-18",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Trentino Book Festival - Sala del Teatro",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2866-trentino-book-festival-gad-lerner",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2866-trentino-book-festival-gad-lerner"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
