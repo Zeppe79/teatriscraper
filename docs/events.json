@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T19:19:20.394196+00:00",
-  "count": 342,
+  "last_updated": "2026-06-05T08:41:07.207537+00:00",
+  "count": 339,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4188,76 +4188,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/moveart1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2855-il-fiore-che-sboccia-nelle-avversita-moveart",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2855-il-fiore-che-sboccia-nelle-avversita-moveart",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2855-il-fiore-che-sboccia-nelle-avversita-moveart"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2855-il-fiore-che-sboccia-nelle-avversita-moveart"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "785314e79695",
-      "title": "Maggio dei Libri & 25° compleanno biblioteca",
-      "date": "2026-06-04",
-      "time": "18:30",
-      "venue": "",
-      "location": "Vallelaghi",
-      "description": "ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747297",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747297"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "59e45a607de4",
-      "title": "Aulularia",
-      "date": "2026-06-04",
-      "time": "20:00",
-      "venue": "",
-      "location": "Dimaro Folgarida",
-      "description": "ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-3983/27964641-1-ita-IT/sfondo-ocra-398_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747307",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747307"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d2c98dc49ecd",
-      "title": "Il potere delle matite",
-      "date": "2026-06-04",
-      "time": "20:30",
-      "venue": "",
-      "location": "Predaia",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748286",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748286"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0c5cf3878e80",
-      "title": "Ballo liscio con musica dal vivo",
-      "date": "2026-06-04",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065081-987987112.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121375.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121375.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ac227d20aafc",
@@ -4875,7 +4811,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748465",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748465"
@@ -4891,7 +4827,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747904"
@@ -4923,7 +4859,7 @@
       "venue": "",
       "location": "Levico Terme",
       "description": "Pergine Festival 2026   | ore 20.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747914"
@@ -5119,6 +5055,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "5bedbd8bb7d0",
+      "title": "Chiara Bersani / Michel – The Animals I am",
+      "date": "2026-07-19",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065925-bersani-bolzanodanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
