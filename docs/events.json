@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T18:57:04.778067+00:00",
+  "last_updated": "2026-06-06T07:44:07.501330+00:00",
   "count": 339,
   "events": [
     {
@@ -4196,22 +4196,6 @@
       "is_past": true
     },
     {
-      "id": "ac227d20aafc",
-      "title": "Ritorno a casa",
-      "date": "2026-06-05",
-      "time": "19:30",
-      "venue": "Loc. Plaze, Lago di Santa Giustina (Tn)",
-      "location": "Lago di Santa Giustina",
-      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066108-312.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ritorno-a-casa-122670.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/ritorno-a-casa-122670.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "d64029f06310",
       "title": "L'anello magico",
       "date": "2026-06-05",
@@ -4225,7 +4209,7 @@
         "https://www.cultura.trentino.it/content/view/full/748309"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "89fd1fa980ac",
@@ -4241,7 +4225,7 @@
         "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "8c67bc1219d6",
@@ -5071,6 +5055,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "2a077d2c6edc",
+      "title": "Simon Le Borgne / Ad Libitum",
+      "date": "2026-07-20",
+      "time": "19:00",
+      "venue": "Chiostro dei Domenicani, Piazza Domenicani 16, Bolzano",
+      "location": "Bolzano",
+      "description": "12€/10€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065943-84874.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
