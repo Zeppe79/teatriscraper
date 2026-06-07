@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T18:02:46.327502+00:00",
-  "count": 339,
+  "last_updated": "2026-06-07T08:21:21.864285+00:00",
+  "count": 337,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4228,38 +4228,6 @@
       "is_past": true
     },
     {
-      "id": "8c67bc1219d6",
-      "title": "Nel bosco, nel corpo – bagno di foresta",
-      "date": "2026-06-06",
-      "time": "10:00",
-      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 10.00-12.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cielo-con-alberi-tdallatina2/27995555-1-ita-IT/cielo-con-alberi-tdallatina_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748334",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748334"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b0b52c8387b5",
-      "title": "Inside (Full) Out",
-      "date": "2026-06-06",
-      "time": "19:30",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 19.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747659",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747659"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "8872fc882742",
       "title": "Inside (Full) Out",
       "date": "2026-06-06",
@@ -4273,7 +4241,7 @@
         "https://www.trentinospettacoli.it/eventi/inside-full-out/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ada2142bb616",
@@ -4289,7 +4257,7 @@
         "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "157f65eb6602",
@@ -4731,7 +4699,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747889",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747889"
@@ -4827,7 +4795,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
@@ -4875,7 +4843,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
