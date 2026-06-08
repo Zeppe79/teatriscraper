@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07T18:01:06.010485+00:00",
-  "count": 337,
+  "last_updated": "2026-06-08T09:20:40.410750+00:00",
+  "count": 335,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4196,22 +4196,6 @@
       "is_past": true
     },
     {
-      "id": "d64029f06310",
-      "title": "L'anello magico",
-      "date": "2026-06-05",
-      "time": "21:00",
-      "venue": "Castel Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castello-di-pergine-tdallatina-4/27601699-1-ita-IT/Castello-di-Pergine-tdallatina-4_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748309",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748309"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "89fd1fa980ac",
       "title": "L'anello magico",
       "date": "2026-06-05",
@@ -4220,9 +4204,9 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo al Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2856-anello-magico-5-6-7-giugno-26",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4252,28 +4236,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo al Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2856-anello-magico-5-6-7-giugno-26",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
-    },
-    {
-      "id": "157f65eb6602",
-      "title": "Inside (Full) Out",
-      "date": "2026-06-07",
-      "time": "14:00",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 14.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4242/27972594-1-ita-IT/sfondo-ocra-424_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747660",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747660"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
     },
     {
       "id": "eeb524e4ea02",
@@ -4289,7 +4257,7 @@
         "https://www.trentinospettacoli.it/eventi/inside-full-out-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ffcb9b7305e8",
@@ -4300,12 +4268,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/dsmoving1.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2860-glamorous-dontstopmoving",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2860-glamorous-dontstopmoving"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2860-glamorous-dontstopmoving"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "cd0db1a4157c",
@@ -4316,12 +4284,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo al Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Teatro/anellomagico1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2856-anello-magico-5-6-7-giugno-26",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2856-anello-magico-5-6-7-giugno-26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2856-anello-magico-5-6-7-giugno-26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "6c511d46fd91",
@@ -4383,6 +4351,22 @@
       "source_url": "https://www.teatrodipergine.it/eventi/2882-oltre-la-stanza-not-ordinary-dance",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2882-oltre-la-stanza-not-ordinary-dance"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "9930bc8063f7",
+      "title": "Le alpi e oltre: per una nuova geografia dell'Europa",
+      "date": "2026-06-12",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Anteprima del Trentino Book Festival - Foyer del Teatro",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2883-trentino-book-festival-daniele-lazzeri",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2883-trentino-book-festival-daniele-lazzeri"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4463,22 +4447,6 @@
       "source_url": "https://www.teatrodipergine.it/teatro/2874-i-numeri-di-gioele-apertis-hortis",
       "source_urls": [
         "https://www.teatrodipergine.it/teatro/2874-i-numeri-di-gioele-apertis-hortis"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "3fcf98f2e096",
-      "title": "La superficie cromata dell’universo",
-      "date": "2026-06-18",
-      "time": "19:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Trentino Book Festival - Foyer del Teatro",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/tbf1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2865-trentino-book-festival-sara-fruner"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4827,7 +4795,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747916"
@@ -4875,7 +4843,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747920"
