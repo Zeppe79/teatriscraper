@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T09:20:40.410750+00:00",
-  "count": 335,
+  "last_updated": "2026-06-08T19:17:46.354235+00:00",
+  "count": 336,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4561,6 +4561,22 @@
         "https://www.cultura.trentino.it/content/view/full/747875"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ab0d35ac0ae9",
+      "title": "SOTTOMONDO",
+      "date": "2026-06-28",
+      "time": "17:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/sottomondospettacolo-di-teatro-e-danza-con-musica-dal-vivo/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/sottomondospettacolo-di-teatro-e-danza-con-musica-dal-vivo/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
