@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T08:28:39.669756+00:00",
-  "count": 336,
+  "last_updated": "2026-06-09T19:11:08.545441+00:00",
+  "count": 337,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4372,6 +4372,22 @@
       "is_past": false
     },
     {
+      "id": "cf20a4e87b2b",
+      "title": "L'anello magico",
+      "date": "2026-06-12",
+      "time": "21:00",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castello-di-pergine-tdallatina-4/27601699-1-ita-IT/Castello-di-Pergine-tdallatina-4_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748621",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748621"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5c4a46a3d077",
       "title": "L'anello magico",
       "date": "2026-06-12",
@@ -4859,7 +4875,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747920"
