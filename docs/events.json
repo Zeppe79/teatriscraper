@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T08:45:14.281192+00:00",
-  "count": 337,
+  "last_updated": "2026-06-10T19:31:08.812595+00:00",
+  "count": 361,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4436,6 +4436,22 @@
       "is_past": false
     },
     {
+      "id": "30bff7a04c65",
+      "title": "Pentolina pentoletta pentolaccia",
+      "date": "2026-06-14",
+      "time": "15:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 15.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/14-giugno-2026/28008550-1-ita-IT/14-giugno-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748727",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748727"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0202327edb80",
       "title": "Patatrac",
       "date": "2026-06-14",
@@ -4527,6 +4543,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748335",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748335"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8b51793f75ed",
+      "title": "La ballata dei tre porcellini",
+      "date": "2026-06-24",
+      "time": "20:15",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.15",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/24-giugno-2026-giugno-2026/28008606-1-ita-IT/24-giugno-2026-giugno-2026_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748729",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748729"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4827,7 +4859,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747916"
@@ -4843,7 +4875,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
@@ -4932,6 +4964,22 @@
       "is_past": false
     },
     {
+      "id": "c72358fd4c9d",
+      "title": "Pollo libero | Scirocco",
+      "date": "2026-07-16",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "SCIROCCO - XXI edizione | Giardino interno del Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/pollolibero1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2886-pollo-libero-scirocco",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2886-pollo-libero-scirocco"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "0a9082680ce2",
       "title": "Louise Lecavalier / Danses Vagabondes",
       "date": "2026-07-16",
@@ -4996,6 +5044,22 @@
       "is_past": false
     },
     {
+      "id": "f5273d5447ae",
+      "title": "The Cameraman | Scirocco",
+      "date": "2026-07-17",
+      "time": "21:15",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/isincopatici1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2887-the-cameraman-scirocco",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2887-the-cameraman-scirocco"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "321439ed4fcc",
       "title": "Extradanza",
       "date": "2026-07-18",
@@ -5009,6 +5073,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "86731161cf24",
+      "title": "Liberty e Wrong Again | Scirocco",
+      "date": "2026-07-18",
+      "time": "21:15",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/isincopatici1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2888-liberty-wrong-again-scirocco",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2888-liberty-wrong-again-scirocco"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5028,6 +5108,22 @@
       "is_past": false
     },
     {
+      "id": "72370a5f6b29",
+      "title": "Scirocco e il regno dei venti | Scirocco",
+      "date": "2026-07-19",
+      "time": "21:15",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/scirocco1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2889-scirocco-e-il-regno-dei-venti-scirocco",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2889-scirocco-e-il-regno-dei-venti-scirocco"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "2a077d2c6edc",
       "title": "Simon Le Borgne / Ad Libitum",
       "date": "2026-07-20",
@@ -5041,6 +5137,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "2024b1b5d88a",
+      "title": "Un mondo a parte",
+      "date": "2026-07-21",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/unmondoaparte1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2890-un-mondo-a-parte-cinema-estate",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2890-un-mondo-a-parte-cinema-estate"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5076,6 +5188,22 @@
       "is_past": false
     },
     {
+      "id": "edf3ad86b64e",
+      "title": "Parlare tra maschi | Fili d'aria",
+      "date": "2026-07-23",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/parlaretramaschi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2876-parlare-tra-maschi-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2876-parlare-tra-maschi-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "e9dd38f7227c",
       "title": "Paesaggi Sonori Summer - Abies Alba",
       "date": "2026-07-24",
@@ -5108,6 +5236,38 @@
       "is_past": false
     },
     {
+      "id": "92d7ea820cf2",
+      "title": "La teoria del colore | Fili d'aria",
+      "date": "2026-07-26",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/lateoriadelcolore1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2877-la-teoria-del-colore-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2877-la-teoria-del-colore-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "0528595f0c94",
+      "title": "Le cose non dette",
+      "date": "2026-07-28",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lecosenondette1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2891-le-cose-non-dette-cinema-estate",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2891-le-cose-non-dette-cinema-estate"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "f71f474bdae1",
       "title": "ll teatro delle stelle",
       "date": "2026-07-29",
@@ -5121,6 +5281,22 @@
         "https://www.cultura.trentino.it/content/view/full/748468"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9f104febaac6",
+      "title": "All’italiana, virtuosismi lungo il bel paese | Castello",
+      "date": "2026-07-29",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "CASTELLO DI PERGINE",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/duopalumbobernardi.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2895-all-italiana-castello",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2895-all-italiana-castello"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5140,6 +5316,22 @@
       "is_past": false
     },
     {
+      "id": "26ad8b0cf3ed",
+      "title": "Io sono Jago | Fili d'aria",
+      "date": "2026-07-30",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/iosonojago.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2878-io-sono-jago-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2878-io-sono-jago-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "d00808657d09",
       "title": "VINCEN GARCIA – GJF 2026",
       "date": "2026-08-01",
@@ -5153,6 +5345,22 @@
         "https://www.trentinospettacoli.it/eventi/vincen-garcia/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "3b0131022b1a",
+      "title": "Le opere di Shakespeare in 90 minuti | Fili d'aria",
+      "date": "2026-08-02",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/leoperecomplete1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5188,6 +5396,22 @@
       "is_past": false
     },
     {
+      "id": "85ca36f1c7bc",
+      "title": "Testa o croce?",
+      "date": "2026-08-04",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/testaocroce1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2892-testa-o-croce-cinema-estate",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2892-testa-o-croce-cinema-estate"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "bf26134e133d",
       "title": "ll teatro delle stelle",
       "date": "2026-08-05",
@@ -5217,6 +5441,22 @@
         "https://www.cultura.trentino.it/content/view/full/747969"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0457feff8282",
+      "title": "How does it feel? | Fili d'aria",
+      "date": "2026-08-06",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/howdoesitfeel1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2880-how-does-it-feel-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2880-how-does-it-feel-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5284,6 +5524,22 @@
       "is_past": false
     },
     {
+      "id": "eec9d3d7ba9d",
+      "title": "Orchestra Haydn di Bolzano e Trento",
+      "date": "2026-08-11",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica | Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/orchestrahaydn1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "e9120f59401f",
       "title": "ll teatro delle stelle",
       "date": "2026-08-19",
@@ -5316,6 +5572,54 @@
       "is_past": false
     },
     {
+      "id": "a4bffbd48293",
+      "title": "Vengo anch'io | Fili d'aria",
+      "date": "2026-08-20",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/vengoanchio1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2881-vengo-anch-io-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2881-vengo-anch-io-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a53e45513146",
+      "title": "Tra statue e corpi | Castello",
+      "date": "2026-08-23",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "CASTELLO DI PERGINE",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/trastatueecorpi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2899-tra-statue-e-corpi-castello",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2899-tra-statue-e-corpi-castello"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "ab1c1d3e4d90",
+      "title": "La valle dei sorrisi",
+      "date": "2026-08-25",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lavalledeisorrisi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2893-la-valle-dei-sorrisi-cinema-estate",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2893-la-valle-dei-sorrisi-cinema-estate"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "9ad59146d096",
       "title": "ll teatro delle stelle",
       "date": "2026-08-26",
@@ -5332,6 +5636,54 @@
       "is_past": false
     },
     {
+      "id": "b3dbde5ffbac",
+      "title": "Far Distant Lands | Castello",
+      "date": "2026-08-26",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "CASTELLO DI PERGINE",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/fardistantland.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2896-far-distant-lands-castello",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2896-far-distant-lands-castello"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "e4400eac0cc4",
+      "title": "I pitochi | Fili d'aria",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/ipitocchi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2884-i-pitochi-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2884-i-pitochi-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "652bb62b7036",
+      "title": "Qualcosa di invisibile | Fili d'aria",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/qualcosadiinvisibile1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2885-qualcosa-di-invisibile-fili-d-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2885-qualcosa-di-invisibile-fili-d-aria"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "fa513b978846",
       "title": "Max Angioni",
       "date": "2026-08-30",
@@ -5345,6 +5697,38 @@
         "https://www.cultura.trentino.it/content/view/full/747924"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7f429cb66bfd",
+      "title": "Le città di pianura",
+      "date": "2026-09-01",
+      "time": "21:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lecittadipianura1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2894-le-citta-di-pianura-cinema-estate",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2894-le-citta-di-pianura-cinema-estate"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1ba45c029637",
+      "title": "transformingNATURE | Castello",
+      "date": "2026-09-02",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "CASTELLO DI PERGINE",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/transformingnature.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2897-transformingnature-castello",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2897-transformingnature-castello"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
