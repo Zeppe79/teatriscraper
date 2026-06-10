@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T19:11:08.545441+00:00",
+  "last_updated": "2026-06-10T08:45:14.281192+00:00",
   "count": 337,
   "events": [
     {
@@ -4300,12 +4300,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza aerea di fine anno degli allievi di Artinaria",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/artinaria1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2862-l-evoluzione-della-musica-artinaria",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2862-l-evoluzione-della-musica-artinaria",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2862-l-evoluzione-della-musica-artinaria"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2862-l-evoluzione-della-musica-artinaria"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "1e40d348de58",
