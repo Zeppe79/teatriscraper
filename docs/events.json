@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T19:31:08.812595+00:00",
-  "count": 361,
+  "last_updated": "2026-06-11T09:09:57.644098+00:00",
+  "count": 369,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4316,28 +4316,12 @@
       "location": "Pergine Valsugana",
       "description": "Foyer del Teatro Comunale di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/estatespettacolare26_1.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2873-conferenza-stampa-estate-spettacolare-2026",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2873-conferenza-stampa-estate-spettacolare-2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2873-conferenza-stampa-estate-spettacolare-2026"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2873-conferenza-stampa-estate-spettacolare-2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "a54a31238985",
-      "title": "Maggio dei Libri & 25° compleanno biblioteca",
-      "date": "2026-06-10",
-      "time": "18:30",
-      "venue": "",
-      "location": "Vallelaghi",
-      "description": "ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-06-163559/27964130-1-ita-IT/Screenshot-2026-05-06-163559_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747298",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747298"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "685aedd2f891",
@@ -4660,6 +4644,22 @@
       "is_past": false
     },
     {
+      "id": "31496c4c489a",
+      "title": "L’oro del Diavolo",
+      "date": "2026-07-01",
+      "time": "17:30",
+      "venue": "",
+      "location": "Palù del Fersina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/1-luglio-palu/28008711-1-ita-IT/1-luglio-Palu_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748732",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748732"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "4895d653e0c0",
       "title": "Madri",
       "date": "2026-07-01",
@@ -4737,6 +4737,22 @@
         "https://www.cultura.trentino.it/content/view/full/747889"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "93a3677e8c35",
+      "title": "Buffalo Kids",
+      "date": "2026-07-03",
+      "time": "21:00",
+      "venue": "Giardino del Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/buffalo-kids/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/buffalo-kids/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -4868,6 +4884,23 @@
       "is_past": false
     },
     {
+      "id": "59c973feacaa",
+      "title": "Arcipelago",
+      "date": "2026-07-10",
+      "time": "19:45",
+      "venue": "Giardino del Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi/",
+        "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "2687d3235d27",
       "title": "Tacet",
       "date": "2026-07-10",
@@ -4897,6 +4930,22 @@
         "https://www.cultura.trentino.it/content/view/full/747919"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "87d4d1cd2f49",
+      "title": "Arcipelago",
+      "date": "2026-07-11",
+      "time": "10:30",
+      "venue": "Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi-3/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi-3/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5188,6 +5237,22 @@
       "is_past": false
     },
     {
+      "id": "8809f0d4f93c",
+      "title": "Le Dita di Fuoco",
+      "date": "2026-07-22",
+      "time": "15:00",
+      "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748734"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "edf3ad86b64e",
       "title": "Parlare tra maschi | Fili d'aria",
       "date": "2026-07-23",
@@ -5201,6 +5266,22 @@
         "https://www.teatrodipergine.it/teatro/2876-parlare-tra-maschi-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "85ffd8987f1a",
+      "title": "IF – Gli Amici Immaginari",
+      "date": "2026-07-24",
+      "time": "21:00",
+      "venue": "Giardino del Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/if-gli-amici-immaginari/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/if-gli-amici-immaginari/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5329,6 +5410,22 @@
         "https://www.teatrodipergine.it/teatro/2878-io-sono-jago-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a045571f9b68",
+      "title": "Da cosa nasce cosa",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "Parcheggio del Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/da-cosa-nasce-cosaone-woman-show/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/da-cosa-nasce-cosaone-woman-show/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5476,6 +5573,22 @@
       "is_past": false
     },
     {
+      "id": "6c5beb0bc74e",
+      "title": "A Bug’s Life – Megaminimondo",
+      "date": "2026-08-07",
+      "time": "21:00",
+      "venue": "Giardino del Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/a-bugs-life-megaminimondo/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/a-bugs-life-megaminimondo/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "d000ab2283f2",
       "title": "FABRIZIO BOSSO & JULIAN OLIVER MAZZARIELLO – GJF 2026",
       "date": "2026-08-08",
@@ -5585,6 +5698,22 @@
         "https://www.teatrodipergine.it/teatro/2881-vengo-anch-io-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "43b982823219",
+      "title": "Le nuove avventure dei Musicanti di Brema",
+      "date": "2026-08-21",
+      "time": "20:30",
+      "venue": "Giardino del Teatro Valle dei Laghi",
+      "location": "Vallelaghi",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/le-nuove-avventure-dei-musicanti-di-brema-2/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/le-nuove-avventure-dei-musicanti-di-brema-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
