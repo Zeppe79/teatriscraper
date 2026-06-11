@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T09:09:57.644098+00:00",
-  "count": 369,
+  "last_updated": "2026-06-11T19:30:51.037616+00:00",
+  "count": 379,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4452,19 +4452,35 @@
       "is_past": false
     },
     {
-      "id": "ca6f117cbc57",
-      "title": "I numeri di Gioele | Apertis Hortis",
-      "date": "2026-06-16",
-      "time": "21:00",
+      "id": "5d69173d4b2f",
+      "title": "Primo concerto estivo della Banda Sociale di Pergine",
+      "date": "2026-06-14",
+      "time": "20:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "APERTIS HORTIS | Orto Mariotti (Via Rizzi) - in caso di pioggia Foyer del Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/apertishortis1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2874-i-numeri-di-gioele-apertis-hortis",
+      "description": "Castello di Pergine - in caso di pioggia evento annullato",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Musica/bandasocialepergine125.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2617-primo-concerto-estivo-banda-pergine-26",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2874-i-numeri-di-gioele-apertis-hortis"
+        "https://www.teatrodipergine.it/musica/2617-primo-concerto-estivo-banda-pergine-26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "9129ca57dc9f",
+      "title": "I numeri di Gioele",
+      "date": "2026-06-16",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/apertis-hortis-i-numeri-di-gioele/28009230-1-ita-IT/Apertis-Hortis-I-numeri-di-Gioele_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748752",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748752"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4740,22 +4756,6 @@
       "is_past": false
     },
     {
-      "id": "93a3677e8c35",
-      "title": "Buffalo Kids",
-      "date": "2026-07-03",
-      "time": "21:00",
-      "venue": "Giardino del Teatro Valle dei Laghi",
-      "location": "Vallelaghi",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/buffalo-kids/",
-      "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/buffalo-kids/"
-      ],
-      "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
       "id": "556f8369307e",
       "title": "Atti degli apostoli",
       "date": "2026-07-04",
@@ -4843,7 +4843,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
@@ -4965,6 +4965,22 @@
       "is_past": false
     },
     {
+      "id": "56d9ac3be54c",
+      "title": "Secondo concerto estivo della Banda Sociale di Pergine",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Corte Ex-Filanda - in caso di pioggia evento annullato",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Musica/bandasocialepergine125.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2900-secondo-concerto-estivo-banda-pergine-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2900-secondo-concerto-estivo-banda-pergine-26"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "4c1dc4029278",
       "title": "Teatro per bambini | Il Professor Corazon",
       "date": "2026-07-14",
@@ -5010,6 +5026,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/ccn-aterballetto-il-combattimento-di-tancredi-e-clorinda-microdanze.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "a7e21d85f357",
+      "title": "Pollo libero",
+      "date": "2026-07-16",
+      "time": "20:00",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748756",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748756"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5093,6 +5125,22 @@
       "is_past": false
     },
     {
+      "id": "3f08e58bcc50",
+      "title": "The cameraman | di Buster Keaton",
+      "date": "2026-07-17",
+      "time": "21:15",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748758",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748758"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f5273d5447ae",
       "title": "The Cameraman | Scirocco",
       "date": "2026-07-17",
@@ -5138,6 +5186,22 @@
         "https://www.teatrodipergine.it/teatro/2888-liberty-wrong-again-scirocco"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "0b718f2dce90",
+      "title": "La Guerra di Tina",
+      "date": "2026-07-19",
+      "time": "20:30",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748742",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748742"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5253,6 +5317,38 @@
       "is_past": false
     },
     {
+      "id": "e7812a73ad64",
+      "title": "La vera storia dei musicanti di Brema",
+      "date": "2026-07-23",
+      "time": "17:00",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748744",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748744"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e3154496f91d",
+      "title": "Parlare tra maschi",
+      "date": "2026-07-23",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748763"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "edf3ad86b64e",
       "title": "Parlare tra maschi | Fili d'aria",
       "date": "2026-07-23",
@@ -5266,22 +5362,6 @@
         "https://www.teatrodipergine.it/teatro/2876-parlare-tra-maschi-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "85ffd8987f1a",
-      "title": "IF – Gli Amici Immaginari",
-      "date": "2026-07-24",
-      "time": "21:00",
-      "venue": "Giardino del Teatro Valle dei Laghi",
-      "location": "Vallelaghi",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/if-gli-amici-immaginari/",
-      "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/if-gli-amici-immaginari/"
-      ],
-      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5312,6 +5392,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748336",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748336"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "33b718eeec86",
+      "title": "La teoria del colore",
+      "date": "2026-07-26",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748765"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5381,6 +5477,22 @@
       "is_past": false
     },
     {
+      "id": "71c84ecd3f04",
+      "title": "Io sono Jago",
+      "date": "2026-07-30",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748767",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748767"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "7014f335f485",
       "title": "Le cose schifose",
       "date": "2026-07-30",
@@ -5394,22 +5506,6 @@
         "https://www.cultura.trentino.it/content/view/full/748360"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "26ad8b0cf3ed",
-      "title": "Io sono Jago | Fili d'aria",
-      "date": "2026-07-30",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/iosonojago.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2878-io-sono-jago-fili-d-aria",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2878-io-sono-jago-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5442,6 +5538,22 @@
         "https://www.trentinospettacoli.it/eventi/vincen-garcia/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "abd57e2085f6",
+      "title": "Le opere complete di Shakespeare in 90 minuti",
+      "date": "2026-08-02",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748769"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5525,6 +5637,22 @@
       "is_past": false
     },
     {
+      "id": "35e6e942725c",
+      "title": "How does it feel? Something about Bob Dylan",
+      "date": "2026-08-06",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748771"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "009906ff1ab8",
       "title": "Teatro per bambini | Sconcerto a 4 mani",
       "date": "2026-08-06",
@@ -5573,22 +5701,6 @@
       "is_past": false
     },
     {
-      "id": "6c5beb0bc74e",
-      "title": "A Bug’s Life – Megaminimondo",
-      "date": "2026-08-07",
-      "time": "21:00",
-      "venue": "Giardino del Teatro Valle dei Laghi",
-      "location": "Vallelaghi",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/a-bugs-life-megaminimondo/",
-      "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/a-bugs-life-megaminimondo/"
-      ],
-      "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
       "id": "d000ab2283f2",
       "title": "FABRIZIO BOSSO & JULIAN OLIVER MAZZARIELLO – GJF 2026",
       "date": "2026-08-08",
@@ -5602,6 +5714,22 @@
         "https://www.trentinospettacoli.it/eventi/fabrizio-bossojulian-oliver-mazzariello-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "f280912d967a",
+      "title": "Terzo concerto estivo della Banda Sociale di Pergine",
+      "date": "2026-08-09",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Piazza Municipio - in caso di pioggia evento annullato",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Musica/bandasocialepergine125.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2901-terzo-concerto-estivo-banda-pergine-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2901-terzo-concerto-estivo-banda-pergine-26"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5664,6 +5792,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748470",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748470"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "11d734371788",
+      "title": "Vengo anch’io",
+      "date": "2026-08-20",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748773",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748773"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5781,6 +5925,22 @@
       "is_past": false
     },
     {
+      "id": "478bd004279d",
+      "title": "I pitochi",
+      "date": "2026-08-27",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748775",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748775"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e4400eac0cc4",
       "title": "I pitochi | Fili d'aria",
       "date": "2026-08-27",
@@ -5797,19 +5957,19 @@
       "is_past": false
     },
     {
-      "id": "652bb62b7036",
-      "title": "Qualcosa di invisibile | Fili d'aria",
+      "id": "65b5dc8dad5c",
+      "title": "Qualcosa di invisibile",
       "date": "2026-08-29",
-      "time": "21:00",
-      "venue": "Teatro Lux",
+      "time": null,
+      "venue": "",
       "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/qualcosadiinvisibile1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2885-qualcosa-di-invisibile-fili-d-aria",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748777",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2885-qualcosa-di-invisibile-fili-d-aria"
+        "https://www.cultura.trentino.it/content/view/full/748777"
       ],
-      "source_name": "teatrodipergine.it",
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
