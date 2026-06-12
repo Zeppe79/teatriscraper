@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T08:55:25.102540+00:00",
-  "count": 379,
+  "last_updated": "2026-06-12T19:00:55.148983+00:00",
+  "count": 382,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4644,6 +4644,22 @@
       "is_past": false
     },
     {
+      "id": "0a33ce9f9e10",
+      "title": "God is not Your Babysitter",
+      "date": "2026-06-29",
+      "time": "21:00",
+      "venue": "Castello",
+      "location": "Arco",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/god-is-not-your-babysittergoran-bregovic-con-wedding-and-funeral-band/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/god-is-not-your-babysittergoran-bregovic-con-wedding-and-funeral-band/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "0500c0ab4927",
       "title": "ll teatro delle stelle",
       "date": "2026-07-01",
@@ -4756,6 +4772,22 @@
       "is_past": false
     },
     {
+      "id": "f536b5f1b5dc",
+      "title": "LADANIVA in concerto",
+      "date": "2026-07-03",
+      "time": "21:00",
+      "venue": "Castello",
+      "location": "Arco",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/ladaniva-in-concerto/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/ladaniva-in-concerto/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "556f8369307e",
       "title": "Atti degli apostoli",
       "date": "2026-07-04",
@@ -4865,6 +4897,22 @@
         "https://www.cultura.trentino.it/content/view/full/747914"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "97c4f73a98cb",
+      "title": "TRIO MANDILI in concerto",
+      "date": "2026-07-09",
+      "time": "21:00",
+      "venue": "Castello",
+      "location": "Arco",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/trio-mandili-in-concerto/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/trio-mandili-in-concerto/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
