@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T19:30:51.037616+00:00",
+  "last_updated": "2026-06-12T08:55:25.102540+00:00",
   "count": 379,
   "events": [
     {
@@ -4332,12 +4332,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo di danza di fine anno",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/nod.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2882-oltre-la-stanza-not-ordinary-dance",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2882-oltre-la-stanza-not-ordinary-dance",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2882-oltre-la-stanza-not-ordinary-dance"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2882-oltre-la-stanza-not-ordinary-dance"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9930bc8063f7",
