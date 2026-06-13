@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T19:00:55.148983+00:00",
-  "count": 382,
+  "last_updated": "2026-06-13T08:18:45.778786+00:00",
+  "count": 381,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4353,7 +4353,7 @@
         "https://www.teatrodipergine.it/eventi/2883-trentino-book-festival-daniele-lazzeri"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "cf20a4e87b2b",
@@ -4369,7 +4369,7 @@
         "https://www.cultura.trentino.it/content/view/full/748621"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "5c4a46a3d077",
@@ -4385,23 +4385,7 @@
         "https://www.teatrodipergine.it/teatro/2857-anello-magico-12-13-giugno"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "d03bde7170a3",
-      "title": "Il METS torna ad ospitare uno spettacolo di Solstizio d'estate Festival",
-      "date": "2026-06-12",
-      "time": "21:30",
-      "venue": "METS - Museo etnografico trentino di San Michele",
-      "location": "San Michele all'Adige",
-      "description": "ore 21.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-05-27-144653/28001564-1-ita-IT/Screenshot-2026-05-27-144653_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748484",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748484"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2b1d9d5d4d27",
@@ -4875,7 +4859,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
