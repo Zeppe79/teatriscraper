@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T10:03:52.389770+00:00",
-  "count": 379,
+  "last_updated": "2026-06-16T20:11:40.737957+00:00",
+  "count": 383,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4997,6 +4997,22 @@
       "is_past": false
     },
     {
+      "id": "af1da474c7b4",
+      "title": "Il gatto con gli stivali",
+      "date": "2026-07-16",
+      "time": "17:30",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748897",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748897"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2b4a7f6cd86d",
       "title": "CCN Aterballetto / Il Combattimento di Tancredi e Clorinda + Microdanze",
       "date": "2026-07-16",
@@ -5461,6 +5477,22 @@
       "is_past": false
     },
     {
+      "id": "3c493e31bcdc",
+      "title": "La storia di Pinocchio",
+      "date": "2026-07-29",
+      "time": "17:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9f104febaac6",
       "title": "All’italiana, virtuosismi lungo il bel paese | Castello",
       "date": "2026-07-29",
@@ -5504,6 +5536,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748360",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748360"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37e580cfcdc2",
+      "title": "Storie dal mondo tra sabbia e fantasia",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748901"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5778,6 +5826,22 @@
         "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "00cad2df6a22",
+      "title": "Fantasia di Marionette",
+      "date": "2026-08-12",
+      "time": "17:30",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748917",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748917"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
