@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T09:27:15.442139+00:00",
-  "count": 382,
+  "last_updated": "2026-06-17T19:21:45.800904+00:00",
+  "count": 383,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4507,7 +4507,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/jevousaime-una-performance-per-gli-udenti-melitisara-dscf2100/28014389-1-ita-IT/JeVousAime-una-performance-per-gli-udenti-MelitiSara-DSCF2100_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747874",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747874"
@@ -4523,7 +4523,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/paradisi-perduti-marco-sgrosso/28014473-1-ita-IT/Paradisi-Perduti-Marco-Sgrosso_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747875",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747875"
@@ -4619,7 +4619,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/ph.-capitani_2/28014781-1-ita-IT/Ph.-Capitani_2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747884",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747884"
@@ -4635,12 +4635,28 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/1_promo_liberidi-liberida/28014648-1-ita-IT/1_PROMO_Liberidi-Liberida_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747885",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747885"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a1a61984332b",
+      "title": "Liberidì liberidà | Pergine Festival 2026",
+      "date": "2026-07-01",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Comunale di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2903-liberidi-liberida-pergine-festival",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2903-liberidi-liberida-pergine-festival"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -4651,7 +4667,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/paladini-di-francia_01/28014795-1-ita-IT/Paladini-di-Francia_01_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747887",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747887"
@@ -4683,12 +4699,28 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/la_futura_classe_dirigente_teatro_quarticciolo_186/28014718-1-ita-IT/LA_FUTURA_CLASSE_DIRIGENTE_Teatro_Quarticciolo_186_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747889",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747889"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1e1f067eed54",
+      "title": "La futura classe dirigente | Pergine Festival 2026",
+      "date": "2026-07-02",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Comunale di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2904-la-futura-classe-dirigente-pergine-festival",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2904-la-futura-classe-dirigente-pergine-festival"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -4715,7 +4747,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foto_atti-degli-apostoli-1/28014816-1-ita-IT/FOTO_ATTI-DEGLI-APOSTOLI-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747895",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747895"
@@ -4731,7 +4763,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/flora2-r.frongia/28014844-1-ita-IT/FLORA2-R.FRONGIA_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747899",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747899"
@@ -4747,7 +4779,7 @@
       "venue": "Palazzo Hippoliti",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/deja-vu-grigno-39/28014662-1-ita-IT/Deja-Vu-Grigno-39_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747901",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747901"
@@ -4779,7 +4811,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/esagerate-scena_cinzia-spano-c-laila-pozzo03/28014676-1-ita-IT/Esagerate-scena_Cinzia-Spano-C-Laila-Pozzo03_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747904"
@@ -4795,7 +4827,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/promo_rodisio_pergine-festival/28014879-1-ita-IT/PROMO_Rodisio_Pergine-Festival_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
@@ -4811,7 +4843,7 @@
       "venue": "",
       "location": "Levico Terme",
       "description": "Pergine Festival 2026   | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/veglia_foto_enricomariabertani_02-scaled/28014886-1-ita-IT/VEGLIA_foto_EnricoMariaBertani_02-scaled_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747914"
@@ -4843,7 +4875,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tony-clifton-circus-dk-radio-funeral-party/28014725-1-ita-IT/Tony-Clifton-Circus-DK-RADIO-FUNERAL-PARTY_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747916"
@@ -4876,12 +4908,28 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/daniele-zoico_camera-anecoica/28014907-1-ita-IT/Daniele-Zoico_Camera-anecoica_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c8acb2a860b8",
+      "title": "Tacet | Pergine Festival 2026",
+      "date": "2026-07-10",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Comunale di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2905-tacet-pergine-festival",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2905-tacet-pergine-festival"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -4924,12 +4972,28 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/img_2753-1/28014914-1-ita-IT/IMG_2753-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747920"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d073e81945a7",
+      "title": "Le dolenti note | Pergine Festival 2026",
+      "date": "2026-07-11",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Comunale di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2906-le-dolenti-note-pergine-festival",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2906-le-dolenti-note-pergine-festival"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5349,22 +5413,6 @@
       "is_past": false
     },
     {
-      "id": "edf3ad86b64e",
-      "title": "Parlare tra maschi | Fili d'aria",
-      "date": "2026-07-23",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/parlaretramaschi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2876-parlare-tra-maschi-fili-d-aria",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2876-parlare-tra-maschi-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "e9dd38f7227c",
       "title": "Paesaggi Sonori Summer - Abies Alba",
       "date": "2026-07-24",
@@ -5413,38 +5461,6 @@
       "is_past": false
     },
     {
-      "id": "92d7ea820cf2",
-      "title": "La teoria del colore | Fili d'aria",
-      "date": "2026-07-26",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/lateoriadelcolore1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2877-la-teoria-del-colore-fili-d-aria",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2877-la-teoria-del-colore-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "0528595f0c94",
-      "title": "Le cose non dette",
-      "date": "2026-07-28",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lecosenondette1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2891-le-cose-non-dette-cinema-estate",
-      "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2891-le-cose-non-dette-cinema-estate"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "f71f474bdae1",
       "title": "ll teatro delle stelle",
       "date": "2026-07-29",
@@ -5474,22 +5490,6 @@
         "https://www.cultura.trentino.it/content/view/full/748904"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "9f104febaac6",
-      "title": "All’italiana, virtuosismi lungo il bel paese | Castello",
-      "date": "2026-07-29",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "CASTELLO DI PERGINE",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/duopalumbobernardi.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2895-all-italiana-castello",
-      "source_urls": [
-        "https://www.teatrodipergine.it/musica/2895-all-italiana-castello"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5680,6 +5680,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748771"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6b22c065f22c",
+      "title": "Come fu che la iena",
+      "date": "2026-08-06",
+      "time": "17:30",
+      "venue": "",
+      "location": "Palù del Fersina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749036",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749036"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
