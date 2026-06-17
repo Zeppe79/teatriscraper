@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T20:11:40.737957+00:00",
-  "count": 383,
+  "last_updated": "2026-06-17T09:27:15.442139+00:00",
+  "count": 382,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4404,22 +4404,6 @@
       "is_past": true
     },
     {
-      "id": "9129ca57dc9f",
-      "title": "I numeri di Gioele",
-      "date": "2026-06-16",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/apertis-hortis-i-numeri-di-gioele/28009230-1-ita-IT/Apertis-Hortis-I-numeri-di-Gioele_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748752",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748752"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "718acfbd928e",
       "title": "Che cos’è il rifiuto?",
       "date": "2026-06-19",
@@ -4940,7 +4924,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4143/27979895-1-ita-IT/sfondo-ocra-414_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747920"
