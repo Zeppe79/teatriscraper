@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T19:23:31.448676+00:00",
+  "last_updated": "2026-06-19T09:26:30.766968+00:00",
   "count": 383,
   "events": [
     {
@@ -4901,6 +4901,22 @@
       "is_past": false
     },
     {
+      "id": "37b6a7f07e72",
+      "title": "Arcipelago - Installazione teatrale per bambini e ragazzi",
+      "date": "2026-07-10",
+      "time": "19:45",
+      "venue": "Giardino del Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Ingresso unico 3 € - Ingresso gratuito per accompagnatore (uno per ogni bambino) /  I posti disponibili sono limitati – 20 bambini per ogni replica / Acquista il tuo biglietto in prevendita online su trentinospettacoli.it: 10 luglio ore 19.45 , ore 21.00 - 11 luglio ore 10.30 / Info n. 370.1245353 / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / In caso di pioggia l'installazione verrà allestita all'interno del Teatro Valle dei Laghi",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066663-9a99.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/arcipelago-installazione-teatrale-per-bambini-e-ragazzi.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/arcipelago-installazione-teatrale-per-bambini-e-ragazzi.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "2687d3235d27",
       "title": "Tacet",
       "date": "2026-07-10",
@@ -5205,22 +5221,6 @@
       "is_past": false
     },
     {
-      "id": "321439ed4fcc",
-      "title": "Extradanza",
-      "date": "2026-07-18",
-      "time": "17:00",
-      "venue": "Prati del Talvera, Bolzano",
-      "location": "Bolzano",
-      "description": "evento gratuito",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "86731161cf24",
       "title": "Liberty e Wrong Again | Scirocco",
       "date": "2026-07-18",
@@ -5253,22 +5253,6 @@
       "is_past": false
     },
     {
-      "id": "5bedbd8bb7d0",
-      "title": "Chiara Bersani / Michel – The Animals I am",
-      "date": "2026-07-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065925-bersani-bolzanodanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "72370a5f6b29",
       "title": "Scirocco e il regno dei venti | Scirocco",
       "date": "2026-07-19",
@@ -5282,38 +5266,6 @@
         "https://www.teatrodipergine.it/cinema/2889-scirocco-e-il-regno-dei-venti-scirocco"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "2a077d2c6edc",
-      "title": "Simon Le Borgne / Ad Libitum",
-      "date": "2026-07-20",
-      "time": "19:00",
-      "venue": "Chiostro dei Domenicani, Piazza Domenicani 16, Bolzano",
-      "location": "Bolzano",
-      "description": "12€/10€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065943-84874.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "097d1cffc845",
-      "title": "Compagnie Leïla Ka / Maldonne",
-      "date": "2026-07-20",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065942-bzdamza-20luglio.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5557,6 +5509,22 @@
       "is_past": false
     },
     {
+      "id": "b57a9e2e4435",
+      "title": "Da cosa nasce cosa - One Woman Show",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "Parcheggio del Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Ingresso gratuiro / Biglietti online su trentinospettacoli.it /Info n. 370.1245353 / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / In caso di pioggia lo spettacolo sarà rinviato",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066662-qppp2.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/da-cosa-nasce-cosa-one-woman-show.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/da-cosa-nasce-cosa-one-woman-show.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "d00808657d09",
       "title": "VINCEN GARCIA – GJF 2026",
       "date": "2026-08-01",
@@ -5628,7 +5596,7 @@
       "venue": "Piazza San Valentino, Vezzano (Tn)",
       "location": "Vezzano",
       "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": null,
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066659-1211.jpg",
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html"
@@ -5925,6 +5893,22 @@
       "is_past": false
     },
     {
+      "id": "ba3ade8b701f",
+      "title": "Le nuove avventure dei Musicanti di Brema",
+      "date": "2026-08-21",
+      "time": "20:30",
+      "venue": "Giatdino del Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Ingresso gratuiro / Biglietti online su trentinospettacoli.it /Info n. 370.1245353 / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / In caso di pioggia lo spettacolo si terrà all'interno del teatro",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066661-9228e.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/le-nuove-avventure-dei-musicanti-di-brema.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/le-nuove-avventure-dei-musicanti-di-brema.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "a53e45513146",
       "title": "Tra statue e corpi | Castello",
       "date": "2026-08-23",
@@ -6130,6 +6114,22 @@
         "https://www.trentinospettacoli.it/eventi/judith-hill/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "63853b2a973e",
+      "title": "Paesaggi Sonori - Judith Hill",
+      "date": "2026-10-15",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it /Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066660-9s9999d.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     }
   ]
