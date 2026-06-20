@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T18:51:23.719396+00:00",
-  "count": 383,
+  "last_updated": "2026-06-20T08:19:41.383241+00:00",
+  "count": 381,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4404,38 +4404,6 @@
       "is_past": true
     },
     {
-      "id": "718acfbd928e",
-      "title": "Che cos’è il rifiuto?",
-      "date": "2026-06-19",
-      "time": "20:00",
-      "venue": "Sala Pedrotti, Sede della Sat di Trento, Via Manci 57, Trento",
-      "location": "Trento",
-      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066106-546.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/che-cose-il-rifiuto.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/che-cose-il-rifiuto.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "24bcead24727",
-      "title": "Paesaggi Sonori Summer - Eugenio Palumbo e Lorenzo Bernardi",
-      "date": "2026-06-19",
-      "time": "21:00",
-      "venue": "Piazzetta delle Regole, Calavino (Tn)",
-      "location": "Calavino",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065686-312.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-eugenio-palumbo-e-lorenzo-bernardi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-eugenio-palumbo-e-lorenzo-bernardi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "1e5a43d74c98",
       "title": "Una festa per la terra",
       "date": "2026-06-20",
@@ -4737,6 +4705,22 @@
         "https://www.trentinospettacoli.it/eventi/ladaniva-in-concerto/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "e3f0b363773a",
+      "title": "Buffalo Kids",
+      "date": "2026-07-03",
+      "time": "21:00",
+      "venue": "Giardino del Teatro Valle dei Laghi, Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "ingresso gratuito / informazioni sulla proiezione e biglietti in www.trentinospettacoli.it e www.artelaghi.it / in caso di pioggia la proiezione si terrà all'interno del teatro",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/054677-0293.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/buffalo-kids.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/buffalo-kids.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5152,22 +5136,6 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "11e168064c9c",
-      "title": "Peeping Tom / Diptych",
-      "date": "2026-07-17",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065900-985554.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
