@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T18:07:21.112856+00:00",
-  "count": 381,
+  "last_updated": "2026-06-21T08:55:48.914772+00:00",
+  "count": 380,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4404,38 +4404,6 @@
       "is_past": true
     },
     {
-      "id": "1e5a43d74c98",
-      "title": "Una festa per la terra",
-      "date": "2026-06-20",
-      "time": null,
-      "venue": "S. Anna di Sopramonte (Tn)",
-      "location": "",
-      "description": "Evento gratuito / Prenotazioni: conferma la tua partecipazione inviando una mail a escursionismo@sat.tn.it e indica in quanti siete / Info arteviva.teatrodanza@gmail.com / Durante lo spettacolo verranno effettuate riprese video a fini promozionali per la circuitazione dello spettacolo all’interno di festival di teatro ragazzi. Sarà richiesta la firma di apposita liberatoria",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066052-9878.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/una-festa-per-la-terra.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/una-festa-per-la-terra.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "af75a595a049",
-      "title": "Nel bosco, nel corpo – bagno di foresta",
-      "date": "2026-06-20",
-      "time": "10:00",
-      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 10.00-12.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cielo-con-alberi-tdallatina2/27995555-1-ita-IT/cielo-con-alberi-tdallatina_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748335",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748335"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "8b51793f75ed",
       "title": "La ballata dei tre porcellini",
       "date": "2026-06-24",
@@ -4940,7 +4908,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/palude-e-la-salsiccia-1/28014921-1-ita-IT/Palude-e-la-Salsiccia-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747919",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747919"
@@ -5136,6 +5104,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "11e168064c9c",
+      "title": "Peeping Tom / Diptych",
+      "date": "2026-07-17",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065900-985554.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
