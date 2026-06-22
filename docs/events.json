@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T10:34:40.209836+00:00",
-  "count": 381,
+  "last_updated": "2026-06-22T20:00:47.757912+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4420,6 +4420,22 @@
       "is_past": false
     },
     {
+      "id": "be9436bb4c24",
+      "title": "Il professor Corazon",
+      "date": "2026-06-26",
+      "time": "18:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749132",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749132"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "c7729e9ecdaa",
       "title": "Esseri, Umani",
       "date": "2026-06-27",
@@ -4724,6 +4740,22 @@
       "is_past": false
     },
     {
+      "id": "150fa923c37b",
+      "title": "Quattro bombe in tasca",
+      "date": "2026-07-04",
+      "time": "21:00",
+      "venue": "Villa Salvadori-Zanatta",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749127",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749127"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0cefdff4427e",
       "title": "Nervo vago",
       "date": "2026-07-05",
@@ -4843,7 +4875,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tony-clifton-circus-dk-radio-funeral-party/28014725-1-ita-IT/Tony-Clifton-Circus-DK-RADIO-FUNERAL-PARTY_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747916"
@@ -4956,7 +4988,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/img_2753-1/28014914-1-ita-IT/IMG_2753-1_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747920"
@@ -4978,6 +5010,22 @@
         "https://www.teatrodipergine.it/musica/2906-le-dolenti-note-pergine-festival"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "885fa04fba6a",
+      "title": "Dr Jazz",
+      "date": "2026-07-11",
+      "time": "21:00",
+      "venue": "",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749129",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749129"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5365,6 +5413,22 @@
       "is_past": false
     },
     {
+      "id": "dbf8946557ed",
+      "title": "Anni in spalla",
+      "date": "2026-07-25",
+      "time": "21:00",
+      "venue": "Villa Salvadori-Zanatta",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749128",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749128"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "33b718eeec86",
       "title": "La teoria del colore",
       "date": "2026-07-26",
@@ -5490,6 +5554,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/da-cosa-nasce-cosa-one-woman-show.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "db07d0950701",
+      "title": "La teoria del colore",
+      "date": "2026-08-01",
+      "time": "21:00",
+      "venue": "",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749130",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749130"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
