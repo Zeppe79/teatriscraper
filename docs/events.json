@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:00:47.757912+00:00",
+  "last_updated": "2026-06-23T08:26:24.028730+00:00",
   "count": 386,
   "events": [
     {
@@ -4501,18 +4501,19 @@
     },
     {
       "id": "ab0d35ac0ae9",
-      "title": "SOTTOMONDO",
+      "title": "Sottomondo",
       "date": "2026-06-28",
       "time": "17:30",
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/sottomondospettacolo-di-teatro-e-danza-con-musica-dal-vivo/",
+      "description": "ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foto-1-12/28018092-1-ita-IT/Foto-1-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749144",
       "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749144",
         "https://www.trentinospettacoli.it/eventi/sottomondospettacolo-di-teatro-e-danza-con-musica-dal-vivo/"
       ],
-      "source_name": "trentinospettacoli.it",
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4924,7 +4925,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/daniele-zoico_camera-anecoica/28014907-1-ita-IT/Daniele-Zoico_Camera-anecoica_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
