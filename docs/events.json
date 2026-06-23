@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T08:26:24.028730+00:00",
-  "count": 386,
+  "last_updated": "2026-06-23T19:07:12.716760+00:00",
+  "count": 388,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4693,6 +4693,22 @@
       "is_past": false
     },
     {
+      "id": "92249acb7a71",
+      "title": "Théâtre Circulaire",
+      "date": "2026-07-03",
+      "time": "17:00",
+      "venue": "",
+      "location": "",
+      "description": "Alpitudini | ore 17.00 e 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-114727/28018290-1-ita-IT/Screenshot-2026-06-23-114727_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749154",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749154"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f536b5f1b5dc",
       "title": "LADANIVA in concerto",
       "date": "2026-07-03",
@@ -4752,6 +4768,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749127",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749127"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fe4cdbab0016",
+      "title": "Théâtre Circulaire",
+      "date": "2026-07-05",
+      "time": "17:00",
+      "venue": "",
+      "location": "",
+      "description": "Alpitudini | ore 17.00, 19.00 e 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-114727/28018290-1-ita-IT/Screenshot-2026-06-23-114727_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749155",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749155"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4828,7 +4860,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/promo_rodisio_pergine-festival/28014879-1-ita-IT/PROMO_Rodisio_Pergine-Festival_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
@@ -4844,7 +4876,7 @@
       "venue": "",
       "location": "Levico Terme",
       "description": "Pergine Festival 2026   | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-17-151718/28014935-1-ita-IT/Screenshot-2026-06-17-151718_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747914"
