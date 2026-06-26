@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T19:04:15.358504+00:00",
-  "count": 406,
+  "last_updated": "2026-06-26T08:27:29.245800+00:00",
+  "count": 407,
   "events": [
     {
       "id": "06d96a048e56",
@@ -6451,6 +6451,22 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "c7674a6ab0f3",
+      "title": "Dammi rose senza spine",
+      "date": "2026-09-24",
+      "time": "21:00",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747682"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
