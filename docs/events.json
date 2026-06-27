@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T18:26:40.239517+00:00",
-  "count": 407,
+  "last_updated": "2026-06-27T07:45:38.533480+00:00",
+  "count": 406,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4404,22 +4404,6 @@
       "is_past": true
     },
     {
-      "id": "be9436bb4c24",
-      "title": "Il professor Corazon",
-      "date": "2026-06-26",
-      "time": "18:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/ilprofessorcorazon1/28031395-1-ita-IT/ilprofessorcorazon1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749132",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749132"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c7729e9ecdaa",
       "title": "Esseri, Umani",
       "date": "2026-06-27",
@@ -4860,7 +4844,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/promo_rodisio_pergine-festival/28014879-1-ita-IT/PROMO_Rodisio_Pergine-Festival_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747912"
