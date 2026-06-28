@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T17:57:35.513262+00:00",
-  "count": 406,
+  "last_updated": "2026-06-28T08:18:01.796557+00:00",
+  "count": 403,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4404,70 +4404,6 @@
       "is_past": true
     },
     {
-      "id": "c7729e9ecdaa",
-      "title": "Esseri, Umani",
-      "date": "2026-06-27",
-      "time": "17:00",
-      "venue": "Antica Segheria Veneziana, Terragnolo (Tn)",
-      "location": "Terragnolo",
-      "description": "Evento gratuito / Info arteviva.teatrodanza@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066109-654456456.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/esseri-umani.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/esseri-umani.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "55494e64181e",
-      "title": "Je vous aime",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/jevousaime-una-performance-per-gli-udenti-melitisara-dscf2100/28014389-1-ita-IT/JeVousAime-una-performance-per-gli-udenti-MelitiSara-DSCF2100_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747874",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747874"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "602725d64503",
-      "title": "M.Other",
-      "date": "2026-06-27",
-      "time": "21:00",
-      "venue": "Villa Salvadori-Zanatta",
-      "location": "Trento",
-      "description": "Estate a Meano 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749120",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749120"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a7ee9a351d4b",
-      "title": "Paradisi perduti",
-      "date": "2026-06-27",
-      "time": "21:15",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-17-151718/28014935-1-ita-IT/Screenshot-2026-06-17-151718_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747875",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747875"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "ab0d35ac0ae9",
       "title": "Sottomondo",
       "date": "2026-06-28",
@@ -4892,7 +4828,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tony-clifton-circus-dk-radio-funeral-party/28014725-1-ita-IT/Tony-Clifton-Circus-DK-RADIO-FUNERAL-PARTY_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747916"
@@ -4941,7 +4877,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/daniele-zoico_camera-anecoica/28014907-1-ita-IT/Daniele-Zoico_Camera-anecoica_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
@@ -4973,7 +4909,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749259",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749259"
@@ -5315,6 +5251,22 @@
         "https://www.teatrodipergine.it/teatro/2887-the-cameraman-scirocco"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "321439ed4fcc",
+      "title": "Extradanza",
+      "date": "2026-07-18",
+      "time": "17:00",
+      "venue": "Prati del Talvera, Bolzano",
+      "location": "Bolzano",
+      "description": "evento gratuito",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
