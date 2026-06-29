@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T18:01:08.604892+00:00",
+  "last_updated": "2026-06-29T09:24:21.528140+00:00",
   "count": 403,
   "events": [
     {
@@ -4405,36 +4405,19 @@
     },
     {
       "id": "ab0d35ac0ae9",
-      "title": "Sottomondo",
+      "title": "SOTTOMONDO",
       "date": "2026-06-28",
       "time": "17:30",
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
-      "description": "ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foto-1-12/28018092-1-ita-IT/Foto-1-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749144",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/sottomondospettacolo-di-teatro-e-danza-con-musica-dal-vivo/",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749144",
         "https://www.trentinospettacoli.it/eventi/sottomondospettacolo-di-teatro-e-danza-con-musica-dal-vivo/"
       ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "01d119af44ce",
-      "title": "Paesaggi Sonori Summer - Thu Le",
-      "date": "2026-06-28",
-      "time": "21:00",
-      "venue": "Parco Due Laghi, Padergnone (Tn)",
-      "location": "Padergnone",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065687-333.jpeg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-thu-le.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-thu-le.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "source_name": "trentinospettacoli.it",
+      "is_past": true
     },
     {
       "id": "0a33ce9f9e10",
@@ -4572,7 +4555,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/la_futura_classe_dirigente_teatro_quarticciolo_186/28014718-1-ita-IT/LA_FUTURA_CLASSE_DIRIGENTE_Teatro_Quarticciolo_186_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747889",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747889"
@@ -4700,7 +4683,7 @@
       "venue": "",
       "location": "",
       "description": "Alpitudini | ore 17.00, 19.00 e 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-114727/28018290-1-ita-IT/Screenshot-2026-06-23-114727_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749155",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749155"
@@ -4732,7 +4715,7 @@
       "venue": "Palazzo Hippoliti",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/deja-vu-grigno-39/28014662-1-ita-IT/Deja-Vu-Grigno-39_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747901",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747901"
@@ -4796,7 +4779,7 @@
       "venue": "",
       "location": "Levico Terme",
       "description": "Pergine Festival 2026   | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-17-151718/28014935-1-ita-IT/Screenshot-2026-06-17-151718_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747914"
@@ -4877,7 +4860,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/daniele-zoico_camera-anecoica/28014907-1-ita-IT/Daniele-Zoico_Camera-anecoica_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747917"
@@ -5005,7 +4988,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749260",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749260"
@@ -5315,6 +5298,22 @@
         "https://www.cultura.trentino.it/content/view/full/748742"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5bedbd8bb7d0",
+      "title": "Chiara Bersani / Michel – The Animals I am",
+      "date": "2026-07-19",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065925-bersani-bolzanodanza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
