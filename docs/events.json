@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T19:01:13.661532+00:00",
+  "last_updated": "2026-06-30T08:26:04.998827+00:00",
   "count": 403,
   "events": [
     {
@@ -4433,7 +4433,7 @@
         "https://www.trentinospettacoli.it/eventi/god-is-not-your-babysittergoran-bregovic-con-wedding-and-funeral-band/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0500c0ab4927",
