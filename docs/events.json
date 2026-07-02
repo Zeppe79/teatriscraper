@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T08:09:57.594615+00:00",
-  "count": 390,
+  "last_updated": "2026-07-02T18:24:29.670007+00:00",
+  "count": 395,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4725,6 +4725,22 @@
       "is_past": false
     },
     {
+      "id": "1e2c843e5ca0",
+      "title": "La voce della Cattedrale",
+      "date": "2026-07-11",
+      "time": "21:00",
+      "venue": "Cinema Teatro PalaDolomiti",
+      "location": "Pinzolo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/__trashed-4/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/__trashed-4/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "b2738f3f1a2b",
       "title": "Massimo Zamboni - P.P.P. – Profezia è Predire il Presente",
       "date": "2026-07-11",
@@ -4994,6 +5010,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "ce61c54909cf",
+      "title": "Armonie in Presanella",
+      "date": "2026-07-18",
+      "time": "21:00",
+      "venue": "Cinema Teatro PalaDolomiti",
+      "location": "Pinzolo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/armonie-in-presanella/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/armonie-in-presanella/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5813,6 +5845,22 @@
       "is_past": false
     },
     {
+      "id": "6ee345528491",
+      "title": "Band & Dance Show",
+      "date": "2026-08-13",
+      "time": "21:00",
+      "venue": "Cinema Teatro PalaDolomiti",
+      "location": "Pinzolo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/band-dance-show/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/band-dance-show/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "7e434fbf02e7",
       "title": "Fiabe e leggende delle Dolomiti",
       "date": "2026-08-14",
@@ -5973,6 +6021,22 @@
       "is_past": false
     },
     {
+      "id": "cfd2077bfd02",
+      "title": "Parigi, amore e can-can",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "venue": "Cinema Teatro PalaDolomiti",
+      "location": "Pinzolo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can-2/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "e2f7134b05c9",
       "title": "Lucio Gardin in Amore e altri disastri",
       "date": "2026-08-22",
@@ -5986,6 +6050,22 @@
         "https://www.cultura.trentino.it/content/view/full/749304"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "21edd6be20c1",
+      "title": "Parigi, amore e can-can",
+      "date": "2026-08-23",
+      "time": "21:00",
+      "venue": "Cinema Teatro PalaDolomiti",
+      "location": "Pinzolo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
