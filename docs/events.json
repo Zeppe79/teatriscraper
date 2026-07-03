@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T07:57:43.151118+00:00",
-  "count": 323,
+  "last_updated": "2026-07-03T18:09:43.787855+00:00",
+  "count": 393,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4260,6 +4260,22 @@
       "is_past": true
     },
     {
+      "id": "92249acb7a71",
+      "title": "Théâtre Circulaire",
+      "date": "2026-07-03",
+      "time": "17:00",
+      "venue": "",
+      "location": "",
+      "description": "Alpitudini | ore 17.00 e 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-114727/28018290-1-ita-IT/Screenshot-2026-06-23-114727_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749154",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749154"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f536b5f1b5dc",
       "title": "LADANIVA in concerto",
       "date": "2026-07-03",
@@ -4292,6 +4308,54 @@
       "is_past": false
     },
     {
+      "id": "556f8369307e",
+      "title": "Atti degli apostoli",
+      "date": "2026-07-04",
+      "time": "20:45",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foto_atti-degli-apostoli-1/28014816-1-ita-IT/FOTO_ATTI-DEGLI-APOSTOLI-1_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747895",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747895"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "150fa923c37b",
+      "title": "Quattro bombe in tasca",
+      "date": "2026-07-04",
+      "time": "21:00",
+      "venue": "Villa Salvadori-Zanatta",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749127",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749127"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6e025f4b88f5",
+      "title": "L’oro del diavolo | Estateatro",
+      "date": "2026-07-04",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749662",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749662"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e098a41c8d11",
       "title": "L’oro del diavolo | Estateatro",
       "date": "2026-07-04",
@@ -4308,6 +4372,118 @@
       "is_past": false
     },
     {
+      "id": "fe4cdbab0016",
+      "title": "Théâtre Circulaire",
+      "date": "2026-07-05",
+      "time": "17:00",
+      "venue": "",
+      "location": "",
+      "description": "Alpitudini | ore 17.00, 19.00 e 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-114727/28018290-1-ita-IT/Screenshot-2026-06-23-114727_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749155",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749155"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0cefdff4427e",
+      "title": "Nervo vago",
+      "date": "2026-07-05",
+      "time": "20:45",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/flora2-r.frongia/28014844-1-ita-IT/FLORA2-R.FRONGIA_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747899",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747899"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b30ea6105fc4",
+      "title": "Dejà vu | Pergine",
+      "date": "2026-07-07",
+      "time": "19:00",
+      "venue": "Palazzo Hippoliti",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/deja-vu-grigno-25/28047414-1-ita-IT/Deja-Vu-Grigno-25_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747901",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747901"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0e9d9f74b0aa",
+      "title": "ll teatro delle stelle",
+      "date": "2026-07-08",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748465",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748465"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7d0bd57b5b33",
+      "title": "Esagerate!",
+      "date": "2026-07-08",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pf2026_post_1080-1350_1_save-the-date-1-23/28050039-1-ita-IT/PF2026_Post_1080-1350_1_Save-the-date-1-2_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747904",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37b9eb7bc4bb",
+      "title": "Due",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 18.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/promo_rodisio_pergine-festival/28014879-1-ita-IT/PROMO_Rodisio_Pergine-Festival_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747912"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ab4338dc5eae",
+      "title": "Veglia",
+      "date": "2026-07-09",
+      "time": "20:00",
+      "venue": "",
+      "location": "Levico Terme",
+      "description": "Pergine Festival 2026   | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-17-151718/28014935-1-ita-IT/Screenshot-2026-06-17-151718_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747914"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "97c4f73a98cb",
       "title": "TRIO MANDILI in concerto",
       "date": "2026-07-09",
@@ -4321,6 +4497,22 @@
         "https://www.trentinospettacoli.it/eventi/trio-mandili-in-concerto/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "b2c88a8d81d6",
+      "title": "DK Radio funeral party",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dk-radio-funeral-party/28047470-1-ita-IT/DK-RADIO-FUNERAL-PARTY_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747916"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4357,6 +4549,22 @@
       "is_past": false
     },
     {
+      "id": "2687d3235d27",
+      "title": "Tacet",
+      "date": "2026-07-10",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tacet_foto-luca-del-pia_pergine-festival-1/28048702-1-ita-IT/Tacet_Foto-Luca-Del-Pia_Pergine-Festival-1_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747917"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "c8acb2a860b8",
       "title": "Tacet | Pergine Festival 2026",
       "date": "2026-07-10",
@@ -4370,6 +4578,38 @@
         "https://www.teatrodipergine.it/teatro/2905-tacet-pergine-festival"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "5f9611f82ba5",
+      "title": "Perestrojka e pancake",
+      "date": "2026-07-10",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749259",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749259"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ec7df53026cc",
+      "title": "Momo",
+      "date": "2026-07-11",
+      "time": "10:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 10.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/palude-e-la-salsiccia-1/28014921-1-ita-IT/Palude-e-la-Salsiccia-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747919",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747919"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4389,6 +4629,22 @@
       "is_past": false
     },
     {
+      "id": "35603d5193f5",
+      "title": "My age",
+      "date": "2026-07-11",
+      "time": "19:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Pergine Festival 2026   | ore 19.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/img_2753-1/28014914-1-ita-IT/IMG_2753-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747920",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747920"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d073e81945a7",
       "title": "Le dolenti note | Pergine Festival 2026",
       "date": "2026-07-11",
@@ -4402,6 +4658,22 @@
         "https://www.teatrodipergine.it/musica/2906-le-dolenti-note-pergine-festival"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "885fa04fba6a",
+      "title": "Dr Jazz",
+      "date": "2026-07-11",
+      "time": "21:00",
+      "venue": "",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749129",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749129"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4421,6 +4693,22 @@
       "is_past": false
     },
     {
+      "id": "b2738f3f1a2b",
+      "title": "Massimo Zamboni - P.P.P. – Profezia è Predire il Presente",
+      "date": "2026-07-11",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749260",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749260"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "56d9ac3be54c",
       "title": "Secondo concerto estivo della Banda Sociale di Pergine",
       "date": "2026-07-12",
@@ -4437,6 +4725,54 @@
       "is_past": false
     },
     {
+      "id": "4c1dc4029278",
+      "title": "Teatro per bambini | Il Professor Corazon",
+      "date": "2026-07-14",
+      "time": "18:00",
+      "venue": "Parco delle Terme di Levico",
+      "location": "Levico Terme",
+      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/14.07-professor-corazon/27983499-1-ita-IT/14.07-Professor-CORAZON_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747965",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747965"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "065c0423f7fa",
+      "title": "ll teatro delle stelle",
+      "date": "2026-07-15",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748466",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748466"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "af1da474c7b4",
+      "title": "Il gatto con gli stivali",
+      "date": "2026-07-16",
+      "time": "17:30",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748897",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748897"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2b4a7f6cd86d",
       "title": "CCN Aterballetto / Il Combattimento di Tancredi e Clorinda + Microdanze",
       "date": "2026-07-16",
@@ -4450,6 +4786,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/ccn-aterballetto-il-combattimento-di-tancredi-e-clorinda-microdanze.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "a7e21d85f357",
+      "title": "Pollo libero",
+      "date": "2026-07-16",
+      "time": "20:00",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748756",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748756"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4501,6 +4853,22 @@
       "is_past": false
     },
     {
+      "id": "e679f4eb8df5",
+      "title": "Il tesoro dei nani",
+      "date": "2026-07-17",
+      "time": "16:30",
+      "venue": "Acqua Fredda - Passo del Redebus",
+      "location": "Bedollo",
+      "description": "Archeologia estate 2026 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749345",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749345"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "11e168064c9c",
       "title": "Peeping Tom / Diptych",
       "date": "2026-07-17",
@@ -4530,6 +4898,38 @@
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b9608865fbc0",
+      "title": "Fulminata |  di Annagaia Marchioro",
+      "date": "2026-07-17",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749267",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749267"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3f08e58bcc50",
+      "title": "The cameraman | di Buster Keaton",
+      "date": "2026-07-17",
+      "time": "21:15",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748758",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748758"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4581,6 +4981,22 @@
       "is_past": false
     },
     {
+      "id": "94ade7402024",
+      "title": "Concerto per uno sconosciuto | di Dimore Creative",
+      "date": "2026-07-18",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749268",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749268"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "86731161cf24",
       "title": "Liberty e Wrong Again | Scirocco",
       "date": "2026-07-18",
@@ -4594,6 +5010,22 @@
         "https://www.teatrodipergine.it/teatro/2888-liberty-wrong-again-scirocco"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "0b718f2dce90",
+      "title": "La Guerra di Tina",
+      "date": "2026-07-19",
+      "time": "20:30",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748742",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748742"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4661,6 +5093,86 @@
       "is_past": false
     },
     {
+      "id": "6ef085bce7d8",
+      "title": "ll teatro delle stelle",
+      "date": "2026-07-22",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748467",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748467"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8809f0d4f93c",
+      "title": "Le Dita di Fuoco",
+      "date": "2026-07-22",
+      "time": "15:00",
+      "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748734"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e7812a73ad64",
+      "title": "La vera storia dei musicanti di Brema",
+      "date": "2026-07-23",
+      "time": "17:00",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748744",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748744"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e3154496f91d",
+      "title": "Parlare tra maschi",
+      "date": "2026-07-23",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748763"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9739bc5b06f4",
+      "title": "Jack La Quaglia e il mistero dei Reti",
+      "date": "2026-07-24",
+      "time": "16:30",
+      "venue": "Museo Retico",
+      "location": "Sanzeno",
+      "description": "Archeologia estate 2026 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749364",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749364"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e9dd38f7227c",
       "title": "Paesaggi Sonori Summer - Abies Alba",
       "date": "2026-07-24",
@@ -4674,6 +5186,166 @@
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abies-alba.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "1805f38f601b",
+      "title": "Natalino Balasso in Appunti per un discorso pubblico",
+      "date": "2026-07-24",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749275",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749275"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3d1899f65b90",
+      "title": "Nel bosco, nel corpo – bagno di foresta",
+      "date": "2026-07-25",
+      "time": "10:00",
+      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 10.00-12.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748336",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748336"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "dbf8946557ed",
+      "title": "Anni in spalla",
+      "date": "2026-07-25",
+      "time": "21:00",
+      "venue": "Villa Salvadori-Zanatta",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749128",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749128"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "33b718eeec86",
+      "title": "La teoria del colore",
+      "date": "2026-07-26",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748765"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2cbedfcfd754",
+      "title": "L'amore delle tre melarance",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "venue": "Castel Thun",
+      "location": "Ton",
+      "description": "diCASTELinCASTELLO | Castel Thun | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750046",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750046"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f71f474bdae1",
+      "title": "ll teatro delle stelle",
+      "date": "2026-07-29",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748468",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748468"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3c493e31bcdc",
+      "title": "La storia di Pinocchio",
+      "date": "2026-07-29",
+      "time": "17:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "71c84ecd3f04",
+      "title": "Io sono Jago",
+      "date": "2026-07-30",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748767",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748767"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7014f335f485",
+      "title": "Le cose schifose",
+      "date": "2026-07-30",
+      "time": "15:00",
+      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748360",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748360"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37e580cfcdc2",
+      "title": "Storie dal mondo tra sabbia e fantasia",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748901"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4709,6 +5381,22 @@
       "is_past": false
     },
     {
+      "id": "41e6aa84d26c",
+      "title": "Tre sedie | di Alessandro Fullin",
+      "date": "2026-07-31",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749281",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749281"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "141114168f38",
       "title": "Le fiabe di Giovanna Borzaga | Estateatro",
       "date": "2026-08-01",
@@ -4725,6 +5413,22 @@
       "is_past": false
     },
     {
+      "id": "db07d0950701",
+      "title": "La teoria del colore",
+      "date": "2026-08-01",
+      "time": "21:00",
+      "venue": "",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749130",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749130"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d00808657d09",
       "title": "VINCEN GARCIA – GJF 2026",
       "date": "2026-08-01",
@@ -4738,6 +5442,22 @@
         "https://www.trentinospettacoli.it/eventi/vincen-garcia/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "abd57e2085f6",
+      "title": "Le opere complete di Shakespeare in 90 minuti",
+      "date": "2026-08-02",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748769"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4821,6 +5541,86 @@
       "is_past": false
     },
     {
+      "id": "bf26134e133d",
+      "title": "ll teatro delle stelle",
+      "date": "2026-08-05",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748469",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748469"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "959bf6fc2e60",
+      "title": "Blue Nik – Dopo il rumore",
+      "date": "2026-08-05",
+      "time": "21:00",
+      "venue": "",
+      "location": "",
+      "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749981",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749981"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "35e6e942725c",
+      "title": "How does it feel? Something about Bob Dylan",
+      "date": "2026-08-06",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748771"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6b22c065f22c",
+      "title": "Come fu che la iena",
+      "date": "2026-08-06",
+      "time": "17:30",
+      "venue": "",
+      "location": "Palù del Fersina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749036",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749036"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "009906ff1ab8",
+      "title": "Teatro per bambini | Sconcerto a 4 mani",
+      "date": "2026-08-06",
+      "time": "18:00",
+      "venue": "Parco delle Terme di Levico",
+      "location": "Levico Terme",
+      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747969",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747969"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0457feff8282",
       "title": "How does it feel? | Fili d'aria",
       "date": "2026-08-06",
@@ -4850,6 +5650,22 @@
         "https://www.trentinospettacoli.it/eventi/quintaessenza-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "8a0d8a8ccb03",
+      "title": "Fricassea di Alessandro Ciacci",
+      "date": "2026-08-07",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749287",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749287"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4949,6 +5765,22 @@
       "is_past": false
     },
     {
+      "id": "38347065a8d9",
+      "title": "Larry la Talpa e il mistero del villaggio sull’acqua",
+      "date": "2026-08-11",
+      "time": "17:30",
+      "venue": "Parco Archeo Natura di Fiavé",
+      "location": "Fiavé",
+      "description": "Archeologia estate 2026 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749394",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749394"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "eec9d3d7ba9d",
       "title": "Orchestra Haydn di Bolzano e Trento",
       "date": "2026-08-11",
@@ -4962,6 +5794,22 @@
         "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "00cad2df6a22",
+      "title": "Fantasia di Marionette",
+      "date": "2026-08-12",
+      "time": "17:30",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748917",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748917"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4981,6 +5829,102 @@
       "is_past": false
     },
     {
+      "id": "7e434fbf02e7",
+      "title": "Fiabe e leggende delle Dolomiti",
+      "date": "2026-08-14",
+      "time": "16:30",
+      "venue": "Museo Retico",
+      "location": "Sanzeno",
+      "description": "Archeologia estate 2026 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749403",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749403"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e9120f59401f",
+      "title": "ll teatro delle stelle",
+      "date": "2026-08-19",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748470",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748470"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0e6cd780f616",
+      "title": "Archeologi per un giorno",
+      "date": "2026-08-19",
+      "time": "15:00",
+      "venue": "Museo Retico",
+      "location": "Sanzeno",
+      "description": "Archeologia estate 2026 | ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749407",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749407"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "11d734371788",
+      "title": "Vengo anch’io",
+      "date": "2026-08-20",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748773",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748773"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a4bafc1de1ae",
+      "title": "Le cose schifose",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748361",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748361"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "111a56e35237",
+      "title": "“Dal legno al suono” Manuale minimo di liuteria di e con Nicola Segatta",
+      "date": "2026-08-20",
+      "time": "21:00",
+      "venue": "",
+      "location": "",
+      "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749987",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749987"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "a4bffbd48293",
       "title": "Vengo anch'io | Fili d'aria",
       "date": "2026-08-20",
@@ -4994,6 +5938,22 @@
         "https://www.teatrodipergine.it/teatro/2881-vengo-anch-io-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "275d2d605db8",
+      "title": "Frammenti d’acqua",
+      "date": "2026-08-21",
+      "time": "17:00",
+      "venue": "Parco Archeo Natura di Fiavé",
+      "location": "Fiavé",
+      "description": "Archeologia estate 2026 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749418",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749418"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5045,6 +6005,22 @@
       "is_past": false
     },
     {
+      "id": "e2f7134b05c9",
+      "title": "Lucio Gardin in Amore e altri disastri",
+      "date": "2026-08-22",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749304",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749304"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "21edd6be20c1",
       "title": "Parigi, amore e can-can",
       "date": "2026-08-23",
@@ -5058,6 +6034,118 @@
         "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "9ad59146d096",
+      "title": "ll teatro delle stelle",
+      "date": "2026-08-26",
+      "time": null,
+      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
+      "location": "Trento",
+      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748471",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748471"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "478bd004279d",
+      "title": "I pitochi",
+      "date": "2026-08-27",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748775",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748775"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f5e33de07c7c",
+      "title": "Crescere, la guerra - Francesa Mannocchi e Rodrigo D'Erasmo",
+      "date": "2026-08-27",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749307",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749307"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7711173db241",
+      "title": "Prometeo Capovolto \"Pensieri solo pensieri\"",
+      "date": "2026-08-28",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749308",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749308"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "65b5dc8dad5c",
+      "title": "Qualcosa di invisibile",
+      "date": "2026-08-29",
+      "time": null,
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748777",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748777"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "508577d34bbd",
+      "title": "Frankie hi-nrg mc in “Voce e batteria”",
+      "date": "2026-08-29",
+      "time": "21:15",
+      "venue": "",
+      "location": "Trento",
+      "description": "Teatro Capovolto 2026 | ore 21.15",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749309",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749309"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fa513b978846",
+      "title": "Max Angioni",
+      "date": "2026-08-30",
+      "time": "21:00",
+      "venue": "",
+      "location": "Nago-Torbole",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747924"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5109,6 +6197,22 @@
       "is_past": false
     },
     {
+      "id": "21990a7ca9f8",
+      "title": "A (S)Ragionar di Guerra",
+      "date": "2026-09-12",
+      "time": "17:00",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749456"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "bb568855d7e1",
       "title": "Serata di ballo liscio con musica dal vivo",
       "date": "2026-09-17",
@@ -5122,6 +6226,22 @@
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "c7674a6ab0f3",
+      "title": "Dammi rose senza spine",
+      "date": "2026-09-24",
+      "time": "21:00",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747682"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
