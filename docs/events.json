@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T18:09:43.787855+00:00",
+  "last_updated": "2026-07-04T07:40:54.007475+00:00",
   "count": 393,
   "events": [
     {
@@ -4273,7 +4273,7 @@
         "https://www.cultura.trentino.it/content/view/full/749154"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "f536b5f1b5dc",
@@ -4289,23 +4289,7 @@
         "https://www.trentinospettacoli.it/eventi/ladaniva-in-concerto/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "e3f0b363773a",
-      "title": "Buffalo Kids",
-      "date": "2026-07-03",
-      "time": "21:00",
-      "venue": "Giardino del Teatro Valle dei Laghi, Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "ingresso gratuito / informazioni sulla proiezione e biglietti in www.trentinospettacoli.it e www.artelaghi.it / in caso di pioggia la proiezione si terrà all'interno del teatro",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/054677-0293.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/buffalo-kids.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/buffalo-kids.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "556f8369307e",
@@ -5072,6 +5056,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "097d1cffc845",
+      "title": "Compagnie Leïla Ka / Maldonne",
+      "date": "2026-07-20",
+      "time": "20:30",
+      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
+      "location": "Bolzano",
+      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065942-bzdamza-20luglio.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
