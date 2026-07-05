@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T17:59:55.427783+00:00",
-  "count": 393,
+  "last_updated": "2026-07-05T07:53:51.299510+00:00",
+  "count": 389,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4260,22 +4260,6 @@
       "is_past": true
     },
     {
-      "id": "92249acb7a71",
-      "title": "Théâtre Circulaire",
-      "date": "2026-07-03",
-      "time": "17:00",
-      "venue": "",
-      "location": "",
-      "description": "Alpitudini | ore 17.00 e 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-114727/28018290-1-ita-IT/Screenshot-2026-06-23-114727_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749154",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749154"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "f536b5f1b5dc",
       "title": "LADANIVA in concerto",
       "date": "2026-07-03",
@@ -4292,54 +4276,6 @@
       "is_past": true
     },
     {
-      "id": "556f8369307e",
-      "title": "Atti degli apostoli",
-      "date": "2026-07-04",
-      "time": "20:45",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foto_atti-degli-apostoli-1/28014816-1-ita-IT/FOTO_ATTI-DEGLI-APOSTOLI-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747895",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747895"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "150fa923c37b",
-      "title": "Quattro bombe in tasca",
-      "date": "2026-07-04",
-      "time": "21:00",
-      "venue": "Villa Salvadori-Zanatta",
-      "location": "Trento",
-      "description": "Estate a Meano 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749127",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749127"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6e025f4b88f5",
-      "title": "L’oro del diavolo | Estateatro",
-      "date": "2026-07-04",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749662",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749662"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e098a41c8d11",
       "title": "L’oro del diavolo | Estateatro",
       "date": "2026-07-04",
@@ -4353,7 +4289,7 @@
         "https://www.teatrodipergine.it/ragazzi/2910-l-oro-del-diavolo-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fe4cdbab0016",
@@ -4748,7 +4684,7 @@
       "venue": "",
       "location": "Frassilongo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/locandina-gatto-16-lug_web-1/28012288-1-ita-IT/locandina-Gatto-16-lug_WEB-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748897",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748897"
@@ -4780,7 +4716,7 @@
       "venue": "Castel Pergine",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 20.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scirocco-pollo-libero_ph.-elisa-vettori/28009342-1-ita-IT/Scirocco-Pollo-Libero_ph.-Elisa-Vettori_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748756",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748756"
@@ -4892,7 +4828,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749267",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749267"
@@ -4908,7 +4844,7 @@
       "venue": "Castel Pergine",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scirocco-i-sincopatici_-francesca-badalini/28009398-1-ita-IT/Scirocco-I-sincopatici_-Francesca-Badalini_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748758",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748758"
