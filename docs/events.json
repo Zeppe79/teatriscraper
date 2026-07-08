@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T18:57:23.946818+00:00",
-  "count": 387,
+  "last_updated": "2026-07-08T07:25:32.746820+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4292,22 +4292,6 @@
       "is_past": true
     },
     {
-      "id": "b30ea6105fc4",
-      "title": "Dejà vu | Pergine",
-      "date": "2026-07-07",
-      "time": "19:00",
-      "venue": "Palazzo Hippoliti",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/deja-vu-grigno-25/28047414-1-ita-IT/Deja-Vu-Grigno-25_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747901",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747901"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "0e9d9f74b0aa",
       "title": "ll teatro delle stelle",
       "date": "2026-07-08",
@@ -4908,7 +4892,7 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/19-luglio-tina-1/28008991-1-ita-IT/19-luglio-TINA-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748742",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748742"
