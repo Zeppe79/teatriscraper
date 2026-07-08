@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T07:25:32.746820+00:00",
-  "count": 386,
+  "last_updated": "2026-07-08T18:14:45.661966+00:00",
+  "count": 393,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4388,6 +4388,22 @@
       "is_past": false
     },
     {
+      "id": "b55af4bb0826",
+      "title": "Arcipelago |  Installazione teatrale per bambini e ragazzi",
+      "date": "2026-07-10",
+      "time": "19:45",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 19.45e 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4263/28062151-1-ita-IT/sfondo-ocra-426_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750546",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750546"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "59c973feacaa",
       "title": "Arcipelago",
       "date": "2026-07-10",
@@ -4480,6 +4496,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747919",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747919"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ff70e72e4c85",
+      "title": "Arcipelago |  Installazione teatrale per bambini e ragazzi",
+      "date": "2026-07-11",
+      "time": "10:30",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 10.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4263/28062151-1-ita-IT/sfondo-ocra-426_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750547",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750547"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4860,7 +4892,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749268",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749268"
@@ -4892,7 +4924,7 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/19-luglio-tina-1/28008991-1-ita-IT/19-luglio-TINA-1_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748742",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748742"
@@ -4933,35 +4965,19 @@
       "is_past": false
     },
     {
-      "id": "2a077d2c6edc",
-      "title": "Simon Le Borgne / Ad Libitum",
-      "date": "2026-07-20",
-      "time": "19:00",
-      "venue": "Chiostro dei Domenicani, Piazza Domenicani 16, Bolzano",
-      "location": "Bolzano",
-      "description": "12€/10€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065943-84874.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/simon-le-borgne-ad-libitum.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "097d1cffc845",
-      "title": "Compagnie Leïla Ka / Maldonne",
-      "date": "2026-07-20",
+      "id": "2443f4068908",
+      "title": "Le nuove avventure dei Musicanti di Brema",
+      "date": "2026-07-21",
       "time": "20:30",
-      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065942-bzdamza-20luglio.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750555",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/compagnie-leila-ka-maldonne.html"
+        "https://www.cultura.trentino.it/content/view/full/750555"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5232,6 +5248,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748901"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f7daa7dff5e0",
+      "title": "Da cosa nasce cosa One Woman Show",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750551",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750551"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5701,6 +5733,22 @@
       "is_past": false
     },
     {
+      "id": "3c5b248b2cb9",
+      "title": "Band & Dance Show",
+      "date": "2026-08-13",
+      "time": "21:00",
+      "venue": "PalaDolomiti - Pinzolo",
+      "location": "Pinzolo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750553",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750553"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6ee345528491",
       "title": "Band & Dance Show",
       "date": "2026-08-13",
@@ -5877,6 +5925,22 @@
       "is_past": false
     },
     {
+      "id": "0d65f01f7e47",
+      "title": "Parigi, amore e can-can",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "venue": "PalaDolomiti - Pinzolo",
+      "location": "Pinzolo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750557",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750557"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "cfd2077bfd02",
       "title": "Parigi, amore e can-can",
       "date": "2026-08-22",
@@ -5904,6 +5968,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749304",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749304"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c7dd13ba7925",
+      "title": "Parigi, amore e can-can",
+      "date": "2026-08-23",
+      "time": "21:00",
+      "venue": "PalaDolomiti - Pinzolo",
+      "location": "Pinzolo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750558",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750558"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -6053,6 +6133,22 @@
       "is_past": false
     },
     {
+      "id": "325d650faafb",
+      "title": "Closing performance - Totentanz",
+      "date": "2026-09-02",
+      "time": "19:00",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ingresso libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067133-orienteoccidenteanteprima.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/closing-performance-totentanz.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/closing-performance-totentanz.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "1ba45c029637",
       "title": "transformingNATURE | Castello",
       "date": "2026-09-02",
@@ -6066,6 +6162,22 @@
         "https://www.teatrodipergine.it/musica/2897-transformingnature-castello"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1093e429c5cf",
+      "title": "Chi prende posizione - David Mambouch",
+      "date": "2026-09-03",
+      "time": "18:00",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ingresso libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067134-0494343b.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-prende-posizione-david-mambouch.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-prende-posizione-david-mambouch.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6127,7 +6239,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747682"
+        "https://www.cultura.trentino.it/content/view/full/747682",
+        "https://www.cultura.trentino.it/content/view/full/750560"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
