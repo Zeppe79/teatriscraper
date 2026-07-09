@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T18:14:45.661966+00:00",
-  "count": 393,
+  "last_updated": "2026-07-09T18:47:32.204030+00:00",
+  "count": 391,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4292,38 +4292,6 @@
       "is_past": true
     },
     {
-      "id": "0e9d9f74b0aa",
-      "title": "ll teatro delle stelle",
-      "date": "2026-07-08",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748465",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748465"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7d0bd57b5b33",
-      "title": "Esagerate!",
-      "date": "2026-07-08",
-      "time": "19:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pf2026_post_1080-1350_1_save-the-date-1-23/28050039-1-ita-IT/PF2026_Post_1080-1350_1_Save-the-date-1-2_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747904",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747904"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "37b9eb7bc4bb",
       "title": "Due",
       "date": "2026-07-09",
@@ -4892,7 +4860,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749268",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749268"
@@ -4924,28 +4892,12 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/19-luglio-tina-1/28008991-1-ita-IT/19-luglio-TINA-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748742",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748742"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5bedbd8bb7d0",
-      "title": "Chiara Bersani / Michel – The Animals I am",
-      "date": "2026-07-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065925-bersani-bolzanodanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/chiara-bersani-michel-the-animals-i-am.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5074,6 +5026,22 @@
         "https://www.cultura.trentino.it/content/view/full/749364"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a26cf44af610",
+      "title": "IF - Gli amici immaginari",
+      "date": "2026-07-24",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Nel giardino del Teatro. In caso di pioggia la proiezione si terrà all'interno del teatro / Ingresso gratuito / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / Informazioni complete sulla proiezione in www.artelaghi.it e www.trentinospettacoli.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/050940-05443.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/if-gli-amici-immaginari.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/if-gli-amici-immaginari.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
