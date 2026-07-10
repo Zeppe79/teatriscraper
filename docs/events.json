@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T18:47:32.204030+00:00",
-  "count": 391,
+  "last_updated": "2026-07-10T08:17:38.108105+00:00",
+  "count": 389,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4292,38 +4292,6 @@
       "is_past": true
     },
     {
-      "id": "37b9eb7bc4bb",
-      "title": "Due",
-      "date": "2026-07-09",
-      "time": "18:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/promo_rodisio_pergine-festival/28014879-1-ita-IT/PROMO_Rodisio_Pergine-Festival_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747912",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747912"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ab4338dc5eae",
-      "title": "Veglia",
-      "date": "2026-07-09",
-      "time": "20:00",
-      "venue": "",
-      "location": "Levico Terme",
-      "description": "Pergine Festival 2026   | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-17-151718/28014935-1-ita-IT/Screenshot-2026-06-17-151718_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747914",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747914"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "97c4f73a98cb",
       "title": "TRIO MANDILI in concerto",
       "date": "2026-07-09",
@@ -4337,7 +4305,7 @@
         "https://www.trentinospettacoli.it/eventi/trio-mandili-in-concerto/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "b2c88a8d81d6",
@@ -4924,7 +4892,7 @@
       "venue": "Teatro Valle dei Laghi di Vezzano",
       "location": "",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4273/28062466-1-ita-IT/sfondo-ocra-427_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750555",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750555"
@@ -4972,7 +4940,7 @@
       "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/22-agosto-burattini-sant-orsola-terme/28008767-1-ita-IT/22-agosto-Burattini-Sant-Orsola-Terme_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748734"
