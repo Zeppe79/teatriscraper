@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T08:17:38.108105+00:00",
+  "last_updated": "2026-07-10T18:19:46.976896+00:00",
   "count": 389,
   "events": [
     {
@@ -4677,22 +4677,6 @@
       "is_past": false
     },
     {
-      "id": "035cae9e7d4c",
-      "title": "Anna Basti / Le Classique c'est chic!",
-      "date": "2026-07-17",
-      "time": "10:00",
-      "venue": "Bolzano",
-      "location": "",
-      "description": "evento gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065901-anna-bzdanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "e679f4eb8df5",
       "title": "Il tesoro dei nani",
       "date": "2026-07-17",
@@ -4706,22 +4690,6 @@
         "https://www.cultura.trentino.it/content/view/full/749345"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "11e168064c9c",
-      "title": "Peeping Tom / Diptych",
-      "date": "2026-07-17",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Sala Grande, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065900-985554.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/peeping-tom-diptych.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4786,22 +4754,6 @@
         "https://www.teatrodipergine.it/teatro/2887-the-cameraman-scirocco"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "321439ed4fcc",
-      "title": "Extradanza",
-      "date": "2026-07-18",
-      "time": "17:00",
-      "venue": "Prati del Talvera, Bolzano",
-      "location": "Bolzano",
-      "description": "evento gratuito",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/extradanza.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6117,6 +6069,22 @@
       "is_past": false
     },
     {
+      "id": "c0624c4aa20d",
+      "title": "Prélude Out + Esperanza",
+      "date": "2026-09-03",
+      "time": "20:30",
+      "venue": "Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Spettacolo adatto alle famiglie. Ingresso libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067226-0293123.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/prelude-out-esperanza.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/prelude-out-esperanza.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "85d876beec22",
       "title": "Patatrac | Estateatro",
       "date": "2026-09-03",
@@ -6130,6 +6098,38 @@
         "https://www.teatrodipergine.it/ragazzi/2920-patatrac-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "fcb4260ef0f5",
+      "title": "Chi occipa spazi - CHEAP",
+      "date": "2026-09-04",
+      "time": "18:00",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi Un intervento per raccontare l’arte nello spazio pubblico come atto visibile e condiviso. L’affissione diventa presa di parola, gesto politico e poetico insieme. Occuparlo significa trasformarlo: renderlo campo di confronto, di dissenso, di possibilità. CHEAP in dialogo con Sara Zanatta. CHEAP è un progetto artistico nato a Bologna nel 2013 dalla determinazione di sei donne che lavora nello spazio pubblico attraverso l’uso del poster. Intervenendo sui muri della città, sviluppa linguag",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067230-cheap.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-occipa-spazi-cheap.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-occipa-spazi-cheap.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "bda053a895ed",
+      "title": "May B",
+      "date": "2026-09-04",
+      "time": "20:30",
+      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Coreografia Maguy Marin. Interpreti Kostia Chaix, Kaïs Chouibi, Brune De Maurin, Liah Frank, Lazare Huet, Louise Mariotte, Lisa Martinez, Isabelle Missal, Rolando Rocha, Ennio Sammarco. Light designer Alexandre Beneteaud, Albin Chavignon Costumi Louise Marin. Musiche originali Franz Schubert, Gilles de Binche, Gavin Bryars. Direttore prove Ulises Alvarez. Durata 90’ . COPRODUTTORI Compagnie Maguy Marin / Maison des Arts et de la Culture de Créteil / La Compagnie Maguy Marin è sussidiata dal Mini",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067231-019282.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/may-b.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/may-b.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
