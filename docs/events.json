@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T18:19:46.976896+00:00",
-  "count": 389,
+  "last_updated": "2026-07-11T07:08:27.141718+00:00",
+  "count": 385,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4308,38 +4308,6 @@
       "is_past": true
     },
     {
-      "id": "b2c88a8d81d6",
-      "title": "DK Radio funeral party",
-      "date": "2026-07-10",
-      "time": "19:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dk-radio-funeral-party/28047470-1-ita-IT/DK-RADIO-FUNERAL-PARTY_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747916",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747916"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b55af4bb0826",
-      "title": "Arcipelago |  Installazione teatrale per bambini e ragazzi",
-      "date": "2026-07-10",
-      "time": "19:45",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 19.45e 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4263/28062151-1-ita-IT/sfondo-ocra-426_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750546",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750546"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "59c973feacaa",
       "title": "Arcipelago",
       "date": "2026-07-10",
@@ -4354,7 +4322,7 @@
         "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "37b6a7f07e72",
@@ -4370,23 +4338,7 @@
         "https://www.crushsite.it/it/incontri/2026/arcipelago-installazione-teatrale-per-bambini-e-ragazzi.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "2687d3235d27",
-      "title": "Tacet",
-      "date": "2026-07-10",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Pergine Festival 2026   | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tacet_foto-luca-del-pia_pergine-festival-1/28048702-1-ita-IT/Tacet_Foto-Luca-Del-Pia_Pergine-Festival-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747917",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747917"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c8acb2a860b8",
@@ -4402,23 +4354,7 @@
         "https://www.teatrodipergine.it/teatro/2905-tacet-pergine-festival"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "5f9611f82ba5",
-      "title": "Perestrojka e pancake",
-      "date": "2026-07-10",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749259",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749259"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ec7df53026cc",
@@ -4876,7 +4812,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748467",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748467"
@@ -4908,7 +4844,7 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/23-luglio-2026-brema/28009047-1-ita-IT/23-luglio-2026-brema_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748744",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748744"
@@ -4924,7 +4860,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748763"
@@ -4988,7 +4924,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749275",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749275"
