@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T08:12:53.444013+00:00",
-  "count": 380,
+  "last_updated": "2026-07-13T18:28:56.024514+00:00",
+  "count": 385,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1871,22 +1871,6 @@
       "source_url": "https://www.trentinospettacoli.it/eventi/album-di-vaniglia-ovvero-la-vera-storia-della-befana/",
       "source_urls": [
         "https://www.trentinospettacoli.it/eventi/album-di-vaniglia-ovvero-la-vera-storia-della-befana/"
-      ],
-      "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "de7c370efc7e",
-      "title": "Concerto di fine anno – Orchestra Haydn di Bolzano e Trento",
-      "date": "2025-12-29",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": null,
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/concerto-di-fine-anno-orchestra-haydn-di-bolzano-e-trento/",
-      "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/concerto-di-fine-anno-orchestra-haydn-di-bolzano-e-trento/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": true
@@ -4479,7 +4463,8 @@
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scirocco-pollo-libero_ph.-elisa-vettori/28009342-1-ita-IT/Scirocco-Pollo-Libero_ph.-Elisa-Vettori_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748756",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748756"
+        "https://www.cultura.trentino.it/content/view/full/748756",
+        "https://www.cultura.trentino.it/content/view/full/750652"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4597,6 +4582,22 @@
       "is_past": false
     },
     {
+      "id": "70f8f8b986a5",
+      "title": "The Cameraman",
+      "date": "2026-07-17",
+      "time": "21:15",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Scirocco 2026 | ore 21.15 Ca' Stalla",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750653",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750653"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f5273d5447ae",
       "title": "The Cameraman | Scirocco",
       "date": "2026-07-17",
@@ -4610,6 +4611,22 @@
         "https://www.teatrodipergine.it/teatro/2887-the-cameraman-scirocco"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "cb865a8e1a64",
+      "title": "Professor Insalatoni",
+      "date": "2026-07-18",
+      "time": "17:30",
+      "venue": "Villa Salvadori-Zanatta",
+      "location": "Trento",
+      "description": "Estate a Meano 2026 | ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750636",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750636"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4640,6 +4657,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749268",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749268"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e4156af84a04",
+      "title": "Liberty  e  Wrong Again",
+      "date": "2026-07-18",
+      "time": "21:15",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Scirocco 2026 | ore 21.15 Ca' Stalla",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750654",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750654"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4677,6 +4710,22 @@
       "is_past": false
     },
     {
+      "id": "c3951648682d",
+      "title": "Asino a chi? | Estateatro",
+      "date": "2026-07-19",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750656",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750656"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "1a747e933895",
       "title": "Asino a chi? | Estateatro",
       "date": "2026-07-19",
@@ -4690,6 +4739,22 @@
         "https://www.teatrodipergine.it/ragazzi/2911-asino-a-chi-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "d83cbbbbcc36",
+      "title": "Scirocco e il Regno dei venti",
+      "date": "2026-07-19",
+      "time": "21:15",
+      "venue": "Castel Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Festival Scirocco 2026 | ore 21.15 Ca' Stalla",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750655",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750655"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4796,7 +4861,7 @@
       "venue": "Museo Retico",
       "location": "Sanzeno",
       "description": "Archeologia estate 2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico-sanzeno1-tdallatina-1/28029389-1-ita-IT/Museo-Retico-Sanzeno1-tdallatina-1_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749364",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749364"
@@ -4844,7 +4909,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749275",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749275"
@@ -4860,7 +4925,7 @@
       "venue": "Giardino botanico alpino - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 10.00-12.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cielo-con-alberi-tdallatina2/27995555-1-ita-IT/cielo-con-alberi-tdallatina_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748336",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748336"
@@ -4876,7 +4941,7 @@
       "venue": "Villa Salvadori-Zanatta",
       "location": "Trento",
       "description": "Estate a Meano 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749128",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749128"
@@ -4892,7 +4957,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-la-teoria-del-colore_ariateatro-ets/28009615-1-ita-IT/Fili-d-aria-La-teoria-del-colore_Ariateatro-ETS_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748765"
@@ -4908,7 +4973,7 @@
       "venue": "Castel Thun",
       "location": "Ton",
       "description": "diCASTELinCASTELLO | Castel Thun | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castel-thun-_tdallatina-7/28046861-1-ita-IT/castel-Thun-_tdallatina-7_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/750046",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750046"
@@ -5474,6 +5539,22 @@
         "https://www.cultura.trentino.it/content/view/full/748917"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7ad4de0a8813",
+      "title": "Panorama for strings – Orchestra Haydn di Bolzano e Trento",
+      "date": "2026-08-12",
+      "time": "21:00",
+      "venue": "Giardino dei Ciucioi",
+      "location": "Lavis",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/concerto-di-fine-anno-orchestra-haydn-di-bolzano-e-trento/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/concerto-di-fine-anno-orchestra-haydn-di-bolzano-e-trento/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
