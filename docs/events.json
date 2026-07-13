@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T17:55:44.188842+00:00",
+  "last_updated": "2026-07-13T08:12:53.444013+00:00",
   "count": 380,
   "events": [
     {
@@ -4333,9 +4333,9 @@
       "location": "Pergine Valsugana",
       "description": "Teatro Comunale di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2905-tacet-pergine-festival",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2905-tacet-pergine-festival",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2905-tacet-pergine-festival"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2905-tacet-pergine-festival"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4365,9 +4365,9 @@
       "location": "Pergine Valsugana",
       "description": "Teatro Comunale di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2906-le-dolenti-note-pergine-festival",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2906-le-dolenti-note-pergine-festival",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/2906-le-dolenti-note-pergine-festival"
+        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2906-le-dolenti-note-pergine-festival"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4397,12 +4397,12 @@
       "location": "Pergine Valsugana",
       "description": "Corte Ex-Filanda - in caso di pioggia evento annullato",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Musica/bandasocialepergine125.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2900-secondo-concerto-estivo-banda-pergine-26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2900-secondo-concerto-estivo-banda-pergine-26",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/2900-secondo-concerto-estivo-banda-pergine-26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2900-secondo-concerto-estivo-banda-pergine-26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "4c1dc4029278",
