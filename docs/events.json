@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T07:10:36.312644+00:00",
-  "count": 384,
+  "last_updated": "2026-07-15T18:02:14.588961+00:00",
+  "count": 382,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4443,12 +4443,11 @@
       "time": "20:00",
       "venue": "Castel Pergine",
       "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 20.00",
+      "description": "Festival Scirocco 2026 | Un’estate spettacolare 2026 | ore 20.00",
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scirocco-pollo-libero_ph.-elisa-vettori/28009342-1-ita-IT/Scirocco-Pollo-Libero_ph.-Elisa-Vettori_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748756",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748756",
-        "https://www.cultura.trentino.it/content/view/full/750652"
+        "https://www.cultura.trentino.it/content/view/full/748756"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4566,22 +4565,6 @@
       "is_past": false
     },
     {
-      "id": "70f8f8b986a5",
-      "title": "The Cameraman",
-      "date": "2026-07-17",
-      "time": "21:15",
-      "venue": "Castel Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Scirocco 2026 | ore 21.15 Ca' Stalla",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750653",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750653"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "f5273d5447ae",
       "title": "The Cameraman | Scirocco",
       "date": "2026-07-17",
@@ -4641,22 +4624,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749268",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749268"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e4156af84a04",
-      "title": "Liberty  e  Wrong Again",
-      "date": "2026-07-18",
-      "time": "21:15",
-      "venue": "Castel Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Scirocco 2026 | ore 21.15 Ca' Stalla",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750654",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750654"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4723,22 +4690,6 @@
         "https://www.teatrodipergine.it/ragazzi/2911-asino-a-chi-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "d83cbbbbcc36",
-      "title": "Scirocco e il Regno dei venti",
-      "date": "2026-07-19",
-      "time": "21:15",
-      "venue": "Castel Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Scirocco 2026 | ore 21.15 Ca' Stalla",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750655",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750655"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4829,7 +4780,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748763"
@@ -4845,7 +4796,7 @@
       "venue": "Museo Retico",
       "location": "Sanzeno",
       "description": "Archeologia estate 2026 | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico-sanzeno1-tdallatina-1/28029389-1-ita-IT/Museo-Retico-Sanzeno1-tdallatina-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749364",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749364"
@@ -4909,7 +4860,7 @@
       "venue": "Giardino botanico alpino - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 10.00-12.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cielo-con-alberi-tdallatina2/27995555-1-ita-IT/cielo-con-alberi-tdallatina_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748336",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748336"
@@ -4925,7 +4876,7 @@
       "venue": "Villa Salvadori-Zanatta",
       "location": "Trento",
       "description": "Estate a Meano 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749128",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749128"
@@ -4941,7 +4892,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-la-teoria-del-colore_ariateatro-ets/28009615-1-ita-IT/Fili-d-aria-La-teoria-del-colore_Ariateatro-ETS_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748765"
@@ -5619,6 +5570,22 @@
         "https://www.cultura.trentino.it/content/view/full/749407"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7cbfcec5ec8d",
+      "title": "Compartimos: un sogno chiamato Argentina",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "venue": "Cortile del cineteatro del Centro scolastico",
+      "location": "Borgo Valsugana",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/compartimos-un-sogno-chiamato-argentina/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/compartimos-un-sogno-chiamato-argentina/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
