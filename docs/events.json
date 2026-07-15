@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T17:58:23.553529+00:00",
-  "count": 385,
+  "last_updated": "2026-07-15T07:10:36.312644+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4389,22 +4389,6 @@
       "is_past": true
     },
     {
-      "id": "4c1dc4029278",
-      "title": "Teatro per bambini | Il Professor Corazon",
-      "date": "2026-07-14",
-      "time": "18:00",
-      "venue": "Parco delle Terme di Levico",
-      "location": "Levico Terme",
-      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/14.07-professor-corazon/27983499-1-ita-IT/14.07-Professor-CORAZON_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747965",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747965"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "065c0423f7fa",
       "title": "ll teatro delle stelle",
       "date": "2026-07-15",
@@ -4845,7 +4829,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
+      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748763"
@@ -4909,7 +4893,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749275",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749275"
