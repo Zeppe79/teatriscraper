@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T07:20:16.919448+00:00",
-  "count": 382,
+  "last_updated": "2026-07-16T18:00:45.873420+00:00",
+  "count": 383,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4405,22 +4405,6 @@
       "is_past": false
     },
     {
-      "id": "2b4a7f6cd86d",
-      "title": "CCN Aterballetto / Il Combattimento di Tancredi e Clorinda + Microdanze",
-      "date": "2026-07-16",
-      "time": "17:30",
-      "venue": "Castel Mareccio, Via Claudia de Medici 12, Bolzano",
-      "location": "Bolzano",
-      "description": "18€/12€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065878-bolzanodanza26.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ccn-aterballetto-il-combattimento-di-tancredi-e-clorinda-microdanze.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/ccn-aterballetto-il-combattimento-di-tancredi-e-clorinda-microdanze.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "a7e21d85f357",
       "title": "Pollo libero",
       "date": "2026-07-16",
@@ -4450,38 +4434,6 @@
         "https://www.teatrodipergine.it/teatro/2886-pollo-libero-scirocco"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "0a9082680ce2",
-      "title": "Louise Lecavalier / Danses Vagabondes",
-      "date": "2026-07-16",
-      "time": "20:30",
-      "venue": "Teatro Comunale - Studio, Piazza Verdi 40, Bolzano",
-      "location": "Bolzano",
-      "description": "25€/15€/10€/5€ (Potete acquistare i biglietti online o alla biglietteria del Teatro Comunale di Bolzano dal 13 Maggio. +39 0471 053800 / info@ticket.bz.it )",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065880-039444-bolzanodanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/louise-lecavalier-danses-vagabondes.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/louise-lecavalier-danses-vagabondes.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "035cae9e7d4c",
-      "title": "Anna Basti / Le Classique c'est chic!",
-      "date": "2026-07-17",
-      "time": "10:00",
-      "venue": "Bolzano",
-      "location": "",
-      "description": "evento gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065901-anna-bzdanza.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/anna-basti-le-classique-cest-chic.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4757,6 +4709,22 @@
       "is_past": false
     },
     {
+      "id": "bd6d8ec39123",
+      "title": "Come fu che la iena",
+      "date": "2026-07-23",
+      "time": "21:00",
+      "venue": "",
+      "location": "",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/come-fu-che-la-iena/28070194-1-ita-IT/come-fu-che-la-iena_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750775",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750775"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9739bc5b06f4",
       "title": "Jack La Quaglia e il mistero dei Reti",
       "date": "2026-07-24",
@@ -4908,7 +4876,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/29-luglio-2026/28012505-1-ita-IT/29-luglio-2026_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748904"
@@ -4949,22 +4917,6 @@
       "is_past": false
     },
     {
-      "id": "37e580cfcdc2",
-      "title": "Storie dal mondo tra sabbia e fantasia",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748901"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "f7daa7dff5e0",
       "title": "Da cosa nasce cosa One Woman Show",
       "date": "2026-07-31",
@@ -4976,6 +4928,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750551",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750551"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "37e580cfcdc2",
+      "title": "Storie dal mondo tra sabbia e fantasia",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748901"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5989,17 +5957,33 @@
       "is_past": false
     },
     {
-      "id": "fcb4260ef0f5",
-      "title": "Chi occipa spazi - CHEAP",
+      "id": "6d9ccabd392a",
+      "title": "La bellezza dell'imperfezione - installazione coreografica",
+      "date": "2026-09-04",
+      "time": "17:00",
+      "venue": "Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "L'ingresso è libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067378-91822.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026la-bellezza-dellimperfezione-installazione-coreografica.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026la-bellezza-dellimperfezione-installazione-coreografica.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "88a4ccaa1202",
+      "title": "Chi occupa spazi - CHEAP",
       "date": "2026-09-04",
       "time": "18:00",
       "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
       "location": "Rovereto",
       "description": "Linguaggi Un intervento per raccontare l’arte nello spazio pubblico come atto visibile e condiviso. L’affissione diventa presa di parola, gesto politico e poetico insieme. Occuparlo significa trasformarlo: renderlo campo di confronto, di dissenso, di possibilità. CHEAP in dialogo con Sara Zanatta. CHEAP è un progetto artistico nato a Bologna nel 2013 dalla determinazione di sei donne che lavora nello spazio pubblico attraverso l’uso del poster. Intervenendo sui muri della città, sviluppa linguag",
       "image_url": "https://www.crushsite.it/upload/images/media/large/067230-cheap.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-occipa-spazi-cheap.html",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-occupa-spazi-cheap.html",
       "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-occipa-spazi-cheap.html"
+        "https://www.crushsite.it/it/incontri/2026/chi-occupa-spazi-cheap.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -6016,6 +6000,54 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/may-b.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/may-b.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "ccb28760fc8a",
+      "title": "Chi interroga il diritto - Micaela Frulli",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi Guerre, crisi umanitarie e alleanze geopolitiche: il diritto internazionale sembra oggi impotente di fronte all'arbitrio dei più forti. Ma quando gli Stati ignorano le regole, la giustizia diventa davvero un'illusione? Un viaggio dietro le quinte delle leggi globali e dei tribunali per capire quali garanzie legali ci restano per difendere i diritti umani e chiedere conto al potere. Micaela Frulli in dialogo con Luisa Chiodi. Micaela Frulli è docente di diritto internazionale all’Univer",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067373-linguaggi26.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-interroga-il-diritto-micaela-frulli.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-interroga-il-diritto-micaela-frulli.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "2580a6660099",
+      "title": "Bamboo",
+      "date": "2026-09-05",
+      "time": "11:30",
+      "venue": "Piazza Caduti sul Lavoro, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ingresso libero e gratuito / Spettacolo adatto alle famiglie",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067375-bamboo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bamboo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bamboo.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "11ed93c2e0e3",
+      "title": "F*cking Future",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "venue": "Progetto Manifattura, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Direzione artistica e coreografia Marco da Silva Ferreira / Assistenza artistica e drammaturgica Catarina Miranda & Cristina Planas Leitão / Interpreti Catarina Casqueiro, Eríc Amorim dos Santos, Fábio Krayze, Doisy Bryan, Marco da Silva Ferreira, Matias Rocha Moura, Max Makowski, Nala Revlon/José Santos (apprendista), Mélanie Ferreira (residenza) / Musica Rui Lima & Sérgio Martins / Luci Teresa Antunes & Rui Monteiro, Marco da Silva Ferreira / Direzione di produzione Mafalda Bastos / Assistenza",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067377-manif.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fcking-future.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/fcking-future.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -6061,10 +6093,10 @@
       "location": "Riva del Garda",
       "description": "ore 21.00",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750560",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747682",
-        "https://www.cultura.trentino.it/content/view/full/750560"
+        "https://www.cultura.trentino.it/content/view/full/750560",
+        "https://www.cultura.trentino.it/content/view/full/747682"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -6099,22 +6131,6 @@
         "https://www.trentinospettacoli.it/eventi/judith-hill/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "63853b2a973e",
-      "title": "Paesaggi Sonori - Judith Hill",
-      "date": "2026-10-15",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it /Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066660-9s9999d.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     }
   ]
