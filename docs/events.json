@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T18:02:14.588961+00:00",
+  "last_updated": "2026-07-16T07:20:16.919448+00:00",
   "count": 382,
   "events": [
     {
@@ -4389,22 +4389,6 @@
       "is_past": true
     },
     {
-      "id": "065c0423f7fa",
-      "title": "ll teatro delle stelle",
-      "date": "2026-07-15",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748466",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748466"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "af1da474c7b4",
       "title": "Il gatto con gli stivali",
       "date": "2026-07-16",
@@ -4741,22 +4725,6 @@
       "is_past": false
     },
     {
-      "id": "8809f0d4f93c",
-      "title": "Le Dita di Fuoco",
-      "date": "2026-07-22",
-      "time": "15:00",
-      "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/22-agosto-burattini-sant-orsola-terme/28008767-1-ita-IT/22-agosto-Burattini-Sant-Orsola-Terme_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748734"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e7812a73ad64",
       "title": "La vera storia dei musicanti di Brema",
       "date": "2026-07-23",
@@ -4908,7 +4876,7 @@
       "venue": "Castel Thun",
       "location": "Ton",
       "description": "diCASTELinCASTELLO | Castel Thun | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castel-thun-_tdallatina-7/28046861-1-ita-IT/castel-Thun-_tdallatina-7_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750046",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750046"
@@ -4940,7 +4908,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/29-luglio-2026/28012505-1-ita-IT/29-luglio-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748904"
@@ -5701,6 +5669,22 @@
       "is_past": false
     },
     {
+      "id": "7bccc91354e0",
+      "title": "Le Dita di Fuoco",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748734"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0d65f01f7e47",
       "title": "Parigi, amore e can-can",
       "date": "2026-08-22",
@@ -5824,6 +5808,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749307",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749307"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "094640bd0311",
+      "title": "Dino Tebaldi, tra Ferrara e la Valle dei Mòcheni",
+      "date": "2026-08-28",
+      "time": "20:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750767",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750767"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
