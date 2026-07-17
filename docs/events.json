@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T18:00:45.873420+00:00",
-  "count": 383,
+  "last_updated": "2026-07-17T07:13:32.948297+00:00",
+  "count": 381,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4389,38 +4389,6 @@
       "is_past": true
     },
     {
-      "id": "af1da474c7b4",
-      "title": "Il gatto con gli stivali",
-      "date": "2026-07-16",
-      "time": "17:30",
-      "venue": "",
-      "location": "Frassilongo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/locandina-gatto-16-lug_web-1/28012288-1-ita-IT/locandina-Gatto-16-lug_WEB-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748897",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748897"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a7e21d85f357",
-      "title": "Pollo libero",
-      "date": "2026-07-16",
-      "time": "20:00",
-      "venue": "Castel Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Festival Scirocco 2026 | Un’estate spettacolare 2026 | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scirocco-pollo-libero_ph.-elisa-vettori/28009342-1-ita-IT/Scirocco-Pollo-Libero_ph.-Elisa-Vettori_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748756",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748756"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c72358fd4c9d",
       "title": "Pollo libero | Scirocco",
       "date": "2026-07-16",
@@ -4429,12 +4397,12 @@
       "location": "Pergine Valsugana",
       "description": "SCIROCCO - XXI edizione | Giardino interno del Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/pollolibero1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2886-pollo-libero-scirocco",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2886-pollo-libero-scirocco",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2886-pollo-libero-scirocco"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2886-pollo-libero-scirocco"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e679f4eb8df5",
@@ -4860,7 +4828,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748468",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748468"
@@ -4876,7 +4844,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/29-luglio-2026/28012505-1-ita-IT/29-luglio-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748904"
