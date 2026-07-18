@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T18:00:01.364957+00:00",
+  "last_updated": "2026-07-18T06:56:54.803577+00:00",
   "count": 324,
   "events": [
     {
@@ -4405,22 +4405,6 @@
       "is_past": true
     },
     {
-      "id": "cae5ad0d96c8",
-      "title": "Paesaggi Sonori Summer - Hiram Salsano e Marcello De Carolis",
-      "date": "2026-07-17",
-      "time": "21:00",
-      "venue": "Piazza San Valentino, Vezzano (Tn)",
-      "location": "Vezzano",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065688-111.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-hiram-salsano-e-marcello-de-carolis.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "f5273d5447ae",
       "title": "The Cameraman | Scirocco",
       "date": "2026-07-17",
@@ -4434,7 +4418,7 @@
         "https://www.teatrodipergine.it/eventi/2887-the-cameraman-scirocco"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ce61c54909cf",
@@ -5186,6 +5170,22 @@
         "https://www.trentinospettacoli.it/eventi/judith-hill/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "63853b2a973e",
+      "title": "Paesaggi Sonori - Judith Hill",
+      "date": "2026-10-15",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it /Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/066660-9s9999d.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     }
   ]
