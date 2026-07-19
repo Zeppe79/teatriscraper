@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T17:52:17.619202+00:00",
-  "count": 378,
+  "last_updated": "2026-07-19T07:24:45.169498+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4421,22 +4421,6 @@
       "is_past": true
     },
     {
-      "id": "cb865a8e1a64",
-      "title": "Professor Insalatoni",
-      "date": "2026-07-18",
-      "time": "17:30",
-      "venue": "Villa Salvadori-Zanatta",
-      "location": "Trento",
-      "description": "Estate a Meano 2026 | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750636",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750636"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "ce61c54909cf",
       "title": "Armonie in Presanella",
       "date": "2026-07-18",
@@ -4450,23 +4434,7 @@
         "https://www.trentinospettacoli.it/eventi/armonie-in-presanella/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "94ade7402024",
-      "title": "Concerto per uno sconosciuto | di Dimore Creative",
-      "date": "2026-07-18",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749268",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749268"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "86731161cf24",
@@ -4482,7 +4450,7 @@
         "https://www.teatrodipergine.it/eventi/2888-liberty-wrong-again-scirocco"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "0b718f2dce90",
@@ -4844,7 +4812,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/31-luglio-sand-art/28012400-1-ita-IT/31-luglio-Sand-art_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748901"
@@ -4892,7 +4860,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749281",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749281"
@@ -6051,6 +6019,22 @@
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "4d4b2f818e39",
+      "title": "Hansel e Gretel",
+      "date": "2026-10-17",
+      "time": "17:30",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748736",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748736"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     }
   ]
