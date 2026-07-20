@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T17:54:05.944134+00:00",
-  "count": 377,
+  "last_updated": "2026-07-20T07:54:17.441282+00:00",
+  "count": 376,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4413,9 +4413,9 @@
       "location": "Pergine Valsugana",
       "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/isincopatici1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2887-the-cameraman-scirocco",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2887-the-cameraman-scirocco",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2887-the-cameraman-scirocco"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2887-the-cameraman-scirocco"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4445,44 +4445,12 @@
       "location": "Pergine Valsugana",
       "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/isincopatici1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2888-liberty-wrong-again-scirocco",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2888-liberty-wrong-again-scirocco",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2888-liberty-wrong-again-scirocco"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2888-liberty-wrong-again-scirocco"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
-    },
-    {
-      "id": "0b718f2dce90",
-      "title": "La Guerra di Tina",
-      "date": "2026-07-19",
-      "time": "20:30",
-      "venue": "",
-      "location": "Fierozzo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/19-luglio-tina-1/28008991-1-ita-IT/19-luglio-TINA-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748742",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748742"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c3951648682d",
-      "title": "Asino a chi? | Estateatro",
-      "date": "2026-07-19",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750656",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750656"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
     },
     {
       "id": "1a747e933895",
@@ -4493,12 +4461,12 @@
       "location": "Pergine Valsugana",
       "description": "ESTATEATRO - Parco di Canzolino (in caso di pioggia Sala frazionale di Madrano)",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2911-asino-a-chi-estateatro26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2911-asino-a-chi-estateatro26",
       "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2911-asino-a-chi-estateatro26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2911-asino-a-chi-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2443f4068908",
@@ -4892,7 +4860,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Estate a Meano 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749130",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749130"
@@ -4924,7 +4892,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leoperecomplete2/28031346-1-ita-IT/leoperecomplete2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748769"
@@ -6033,6 +6001,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748736",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748736"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "76cf13002103",
+      "title": "Turbopaolo - Il Poliziotto del Formaggio",
+      "date": "2026-10-18",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750473",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750473"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
