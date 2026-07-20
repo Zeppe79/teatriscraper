@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T07:54:17.441282+00:00",
-  "count": 376,
+  "last_updated": "2026-07-20T18:50:07.452178+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4690,6 +4690,22 @@
         "https://www.cultura.trentino.it/content/view/full/750046"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ce2d28b59458",
+      "title": "Fuoco e Fantasia – ORCHESTRA HAYDN",
+      "date": "2026-07-28",
+      "time": "21:00",
+      "venue": "Cinema Teatro PalaDolomiti",
+      "location": "Pinzolo",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/fuoco-e-fantasia/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/fuoco-e-fantasia/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
