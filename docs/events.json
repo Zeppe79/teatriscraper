@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T18:50:07.452178+00:00",
+  "last_updated": "2026-07-21T07:29:44.322383+00:00",
   "count": 377,
   "events": [
     {
@@ -5205,22 +5205,6 @@
       "is_past": false
     },
     {
-      "id": "01714f29de01",
-      "title": "Paesaggi Sonori Summer - Abdo Buda Marconi Trio",
-      "date": "2026-08-09",
-      "time": "21:00",
-      "venue": "Parco casa sociale, Lago di Cavedine (Tn)",
-      "location": "Lago di Cavedine",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065717-132123.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abdo-buda-marconi-trio.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abdo-buda-marconi-trio.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "38347065a8d9",
       "title": "Larry la Talpa e il mistero del villaggio sull’acqua",
       "date": "2026-08-11",
@@ -5474,22 +5458,6 @@
         "https://www.trentinospettacoli.it/eventi/le-nuove-avventure-dei-musicanti-di-brema-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "ba3ade8b701f",
-      "title": "Le nuove avventure dei Musicanti di Brema",
-      "date": "2026-08-21",
-      "time": "20:30",
-      "venue": "Giatdino del Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Ingresso gratuiro / Biglietti online su trentinospettacoli.it /Info n. 370.1245353 / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / In caso di pioggia lo spettacolo si terrà all'interno del teatro",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066661-9228e.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/le-nuove-avventure-dei-musicanti-di-brema.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/le-nuove-avventure-dei-musicanti-di-brema.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5861,6 +5829,22 @@
       "is_past": false
     },
     {
+      "id": "115c400e209f",
+      "title": "La bellezza dell'imperfezione",
+      "date": "2026-09-04",
+      "time": "22:00",
+      "venue": "Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ideazione e progetto Claudia Catarzi / Coreografia Claudia Catarzi / Interpreti Claudia Catarzi / Creazioni in ceramica e installazione Claudia Catarzi / Video Giulia Lenzi, Claudia Catarzi / Musiche Giacomo Ferrigato, Enrico Malatesta / Coproduzione Oriente Occidente, Mart / Durata 45' Prima assoluta | D.Arte | Coproduzione Oriente Occidente La danza si espone, senza difese. Un corpo attraversa il tempo tra un gesto e l’altro, tra forme che nascono e subito si trasformano. Nato con l’intento di",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067506-labellezza.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/la-bellezza-dellimperfezione.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/la-bellezza-dellimperfezione.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "ccb28760fc8a",
       "title": "Chi interroga il diritto - Micaela Frulli",
       "date": "2026-09-05",
@@ -5909,6 +5893,54 @@
       "is_past": false
     },
     {
+      "id": "302780b1be9d",
+      "title": "Chi restituisce identità - Valentina Cicogna e Mattia Colombo",
+      "date": "2026-09-06",
+      "time": "17:00",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi / Sconosciuti puri | Italia, 2023, 93’ Corpi senza nome arrivano ogni giorno nella sala autopsie di Cristina Cattaneo. Li chiama Sconosciuti Puri. Sono senzatetto, prostitute, adolescenti in fuga, migranti di cui si è persa ogni traccia. Ma quando l’identità scompare, cosa resta? Nessuno sembra preoccuparsene. Nessuno tranne Cristina Cattaneo, che prova a restituire nomi, storie, dignità. Cristina Cattaneo Cristina Cattaneo è antropologa e medica italiana. Insegna medicina legale all’U",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067508-linguaggi-orienteoccidente.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-restituisce-identita-valentina-cicogna-e-mattia-colombo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-restituisce-identita-valentina-cicogna-e-mattia-colombo.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "57b84c5a08e8",
+      "title": "NO",
+      "date": "2026-09-06",
+      "time": "20:30",
+      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Una poltrona per due . Incontro introduttivo allo spettacolo con lo staff di Oriente Occidente: domenica 6 settembre , ore 19, Teatro Zandonai",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067507-nola.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/no.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/no.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "ccb37fc9ff94",
+      "title": "Symphony #2 ''true and eternal bliss!'' + Dies Irae",
+      "date": "2026-09-07",
+      "time": "20:30",
+      "venue": "Progetto Manifattura, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Regia e coreografia Gloria Dorliguzzo / Interpreti Erica Bruschetti, Paola Contardi, Olga Esposito, Carla Fedrizzi, Michela Pante, Sara Piazza, Carolina Terazzi, Antonella Zambelli / Voce protagonista Monica Barone / Musica Galina Ustvolskaja / Maestro Gianluca Feccia / Esecuzione musiche Ensemble dell'Orchestra / Filarmonica Settenovecento / Consulente drammaturgico e visivo Renzo Francabandera / Vocal coach Francesca della Monica / Maestra di uncinetto Cristina Mazzurana / Realizzazione copert",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067509-02394.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "21990a7ca9f8",
       "title": "A (S)Ragionar di Guerra",
       "date": "2026-09-12",
@@ -5922,22 +5954,6 @@
         "https://www.cultura.trentino.it/content/view/full/749456"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "bb568855d7e1",
-      "title": "Serata di ballo liscio con musica dal vivo",
-      "date": "2026-09-17",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065081-987987112.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5987,22 +6003,6 @@
         "https://www.trentinospettacoli.it/eventi/judith-hill/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "63853b2a973e",
-      "title": "Paesaggi Sonori - Judith Hill",
-      "date": "2026-10-15",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it /Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066660-9s9999d.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
