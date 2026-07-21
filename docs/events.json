@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T07:29:44.322383+00:00",
-  "count": 377,
+  "last_updated": "2026-07-21T18:13:44.579870+00:00",
+  "count": 376,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4485,22 +4485,6 @@
       "is_past": false
     },
     {
-      "id": "1815f5b71284",
-      "title": "Paesaggi Sonori Summer - Nando Brusco",
-      "date": "2026-07-21",
-      "time": "21:00",
-      "venue": "Piazza di Torchio, Terlago (Tn)",
-      "location": "Terlago",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065689-3225.jpeg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-nando-brusco.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "6ef085bce7d8",
       "title": "ll teatro delle stelle",
       "date": "2026-07-22",
@@ -4533,22 +4517,6 @@
       "is_past": false
     },
     {
-      "id": "e3154496f91d",
-      "title": "Parlare tra maschi",
-      "date": "2026-07-23",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748763"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "bd6d8ec39123",
       "title": "Come fu che la iena",
       "date": "2026-07-23",
@@ -4560,6 +4528,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750775",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750775"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e3154496f91d",
+      "title": "Parlare tra maschi",
+      "date": "2026-07-23",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748763"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4578,38 +4562,6 @@
         "https://www.cultura.trentino.it/content/view/full/749364"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a26cf44af610",
-      "title": "IF - Gli amici immaginari",
-      "date": "2026-07-24",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Nel giardino del Teatro. In caso di pioggia la proiezione si terrà all'interno del teatro / Ingresso gratuito / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / Informazioni complete sulla proiezione in www.artelaghi.it e www.trentinospettacoli.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/050940-05443.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/if-gli-amici-immaginari.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/if-gli-amici-immaginari.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "e9dd38f7227c",
-      "title": "Paesaggi Sonori Summer - Abies Alba",
-      "date": "2026-07-24",
-      "time": "21:00",
-      "venue": "Parco delle feste, Stravino (Tn)",
-      "location": "Stravino",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065690-1223.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abies-alba.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-abies-alba.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -4821,22 +4773,6 @@
       "is_past": false
     },
     {
-      "id": "b57a9e2e4435",
-      "title": "Da cosa nasce cosa - One Woman Show",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "venue": "Parcheggio del Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Ingresso gratuiro / Biglietti online su trentinospettacoli.it /Info n. 370.1245353 / Si consiglia di portare una coperta o un plaid per godersi al meglio gli eventi all’aperto / In caso di pioggia lo spettacolo sarà rinviato",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066662-qppp2.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/da-cosa-nasce-cosa-one-woman-show.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/da-cosa-nasce-cosa-one-woman-show.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "41e6aa84d26c",
       "title": "Tre sedie | di Alessandro Fullin",
       "date": "2026-07-31",
@@ -4962,22 +4898,6 @@
         "https://www.trentinospettacoli.it/eventi/joey-calderazzo-trio/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "02430ac6a40e",
-      "title": "Paesaggi Sonori Summer - Ellen MacDonald & Daimh",
-      "date": "2026-08-02",
-      "time": "21:00",
-      "venue": "Piazza San Valentino, Vezzano (Tn)",
-      "location": "Vezzano",
-      "description": "Ingresso libero / Info n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/066659-1211.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-summer-ellen-macdonald-daimh.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5925,6 +5845,22 @@
       "is_past": false
     },
     {
+      "id": "ce2b619e952f",
+      "title": "Studi per M",
+      "date": "2026-09-07",
+      "time": "18:00",
+      "venue": "Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Progetto, coreografia Stefania Tansini / Interpreti Alice Raffaelli, Stefania Tansini / Drammaturgia sonora Enrico Malatesta / Luci Elena Gui / Costumi Chiara Venturini, Stefania Tansini / Organizzazione e promozione Federica Parisi / Consulenza alla produzione Chiara Boscariol / Coprodotto da Nanou Associazione Culturale, Orbita | Spellbound Centro Nazionale di Produzione della Danza / Con il supporto di Étape Danse | network di Festival Interplay/Mosaico Danza (IT), Fabrik Potsdam (DE), Bureau",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067510-5995.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/studi-per-m.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/studi-per-m.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "ccb37fc9ff94",
       "title": "Symphony #2 ''true and eternal bliss!'' + Dies Irae",
       "date": "2026-09-07",
@@ -5933,9 +5869,58 @@
       "location": "Rovereto",
       "description": "Regia e coreografia Gloria Dorliguzzo / Interpreti Erica Bruschetti, Paola Contardi, Olga Esposito, Carla Fedrizzi, Michela Pante, Sara Piazza, Carolina Terazzi, Antonella Zambelli / Voce protagonista Monica Barone / Musica Galina Ustvolskaja / Maestro Gianluca Feccia / Esecuzione musiche Ensemble dell'Orchestra / Filarmonica Settenovecento / Consulente drammaturgico e visivo Renzo Francabandera / Vocal coach Francesca della Monica / Maestra di uncinetto Cristina Mazzurana / Realizzazione copert",
       "image_url": "https://www.crushsite.it/upload/images/media/large/067509-02394.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae.html",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae_125071.html",
       "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae_125071.html",
         "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "1f573e6c2c49",
+      "title": "Chi restituisce memoria - Nicoletta Verna",
+      "date": "2026-09-08",
+      "time": "18:00",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi / Quando scegliere il presente significò costruire il futuro Quanto è durata la guerra di liberazione? Quale ponte la collega a ciò che venne dopo? Il passaggio tra Resistenza e nascita della Repubblica spesso scompare. Attraverso i libri di Nicoletta Verna, uno sguardo su come, nel pieno degli eventi, si scelga da che parte stare: tra urgenza, dubbi e responsabilità. In quel presente prese forma un nuovo spazio comune: il futuro, la Repubblica. Nicoletta Verna in dialogo con Giuseppe ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067512-93838.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-restituisce-memoria-nicoletta-verna.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-restituisce-memoria-nicoletta-verna.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "a27d9f1c1fc8",
+      "title": "Replica",
+      "date": "2026-09-08",
+      "time": "20:30",
+      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Regia, coreografia Ginevra Panzetti, Enrico Ticconi / Interpreti Michele Abbondanza, Antonella Bertoni / Musiche originali Hrvoje Niksic / Disegno luci, ingegneria di scena Michele Piazzi / Video Valerio Figuccio / Direzione tecnica Claudio Modugno / Costumi Ginevra Panzetti, Enrico Ticconi / Sartoria Manuela Gober / Progettazione Poliedri Studio Doppio - Alessandro Panzetti / Organizzazione, strategia e sviluppo Dalia Macii / Amministrazione e produzione esecutiva Francesca Leonelli / Comunicaz",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067511-replica.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/replica.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/replica.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b778272151dd",
+      "title": "Chi cerca la verità - Simone Manetti",
+      "date": "2026-09-09",
+      "time": "20:30",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi / Giulio Regeni. Tutto il male del mondo | Italia, 2026, 105’ / Simone Manetti Il documentario che ricostruisce la verità giudiziaria sul sequestro, le torture, l’omicidio di Giulio Regeni, raccontate per la prima volta dai suoi genitori Claudio Regeni e Paola Deffendi e dall’avvocata Alessandra Ballerini. Una ricerca che attraversa anni di silenzi e ostacoli, ma anche di grande coraggio, in cui cercare la verità è diventato un atto di presenza continua. Paola Deffendi e Claudio Regeni",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067559-chicerca.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
