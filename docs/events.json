@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T18:13:44.579870+00:00",
-  "count": 376,
+  "last_updated": "2026-07-22T07:31:41.957944+00:00",
+  "count": 378,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,22 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "2443f4068908",
-      "title": "Le nuove avventure dei Musicanti di Brema",
-      "date": "2026-07-21",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4273/28062466-1-ita-IT/sfondo-ocra-427_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750555",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750555"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "6ef085bce7d8",
       "title": "ll teatro delle stelle",
       "date": "2026-07-22",
@@ -4940,7 +4924,7 @@
       "venue": "",
       "location": "",
       "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749981",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749981"
@@ -5869,9 +5853,8 @@
       "location": "Rovereto",
       "description": "Regia e coreografia Gloria Dorliguzzo / Interpreti Erica Bruschetti, Paola Contardi, Olga Esposito, Carla Fedrizzi, Michela Pante, Sara Piazza, Carolina Terazzi, Antonella Zambelli / Voce protagonista Monica Barone / Musica Galina Ustvolskaja / Maestro Gianluca Feccia / Esecuzione musiche Ensemble dell'Orchestra / Filarmonica Settenovecento / Consulente drammaturgico e visivo Renzo Francabandera / Vocal coach Francesca della Monica / Maestra di uncinetto Cristina Mazzurana / Realizzazione copert",
       "image_url": "https://www.crushsite.it/upload/images/media/large/067509-02394.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae_125071.html",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae_125071.html",
         "https://www.crushsite.it/it/danza-teatro/2026/symphony-2-true-and-eternal-bliss-dies-irae.html"
       ],
       "source_name": "crushsite.it",
@@ -5905,6 +5888,54 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/replica.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/replica.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "0ad15de8d4a0",
+      "title": "The Choreography of Water",
+      "date": "2026-09-09",
+      "time": "06:00",
+      "venue": "MUSE, Corso del lavoro e della scienza, Trento",
+      "location": "Trento",
+      "description": "Coreografia e drammaturgia Simona Deaconescu / Oggetti sonori fluidi Ioana Vreme Moser / Musica originale e sound design Simina Oprescu / Interpreti Laura Murariu, Silvia Brazzale, Andra Muntenasu / Assistente Georgia Elza Măciuceanu / Lavorazione del vetro Adrian Sistem / Electronic sound object design Dorian Largen / Direzione tecnica Hermina Stanciulescu Prodotto da Tangaj Collective / Coprodotto da The National Center for Dance in Bucharest Prima nazionale / Cofinanziato da Administration of",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067560-muse-orienteoccidente.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/the-choreography-of-water.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/the-choreography-of-water.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "83b1aed4db48",
+      "title": "Laboratorio di danze tradizionali del Centro Sud Italia. Teatro del Mediterraneo",
+      "date": "2026-09-09",
+      "time": "16:00",
+      "venue": "Urban Center, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Sperimentare le diverse forme espressive delle danze tradizionali del Centro e Sud Italia, per individuare elementi comuni legati al patrimonio della tarantella. Dalle danze del Gargano fino ai salterelli del Centro Italia, dai suoni per il ballo nella Calabria meridionale alle danze sul tamburo in Campania, il laboratorio mette in relazione le diverse tradizioni fino a far emergere un punto di incontro. L'evento è parte di Urban Regeneration un progetto triennale realizzato nell’ambito del band",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067562-tarantella.jpg",
+      "source_url": "https://www.crushsite.it/it/didattica/2026/laboratorio-di-danze-tradizionali-del-centro-sud-italia-teatro-del-mediterraneo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/didattica/2026/laboratorio-di-danze-tradizionali-del-centro-sud-italia-teatro-del-mediterraneo.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "4a97313a2529",
+      "title": "Ronda",
+      "date": "2026-09-09",
+      "time": "18:00",
+      "venue": "Piazza Urban City, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Spettacolo adatto alle famiglie. Ingresso libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067561-ronda.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ronda.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ronda.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
