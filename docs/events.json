@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T07:31:41.957944+00:00",
+  "last_updated": "2026-07-22T18:05:41.996583+00:00",
   "count": 378,
   "events": [
     {
@@ -4597,22 +4597,6 @@
       "is_past": false
     },
     {
-      "id": "33b718eeec86",
-      "title": "La teoria del colore",
-      "date": "2026-07-26",
-      "time": null,
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-la-teoria-del-colore_ariateatro-ets/28009615-1-ita-IT/Fili-d-aria-La-teoria-del-colore_Ariateatro-ETS_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748765"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "2cbedfcfd754",
       "title": "L'amore delle tre melarance",
       "date": "2026-07-26",
@@ -4624,6 +4608,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750046",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750046"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "33b718eeec86",
+      "title": "La teoria del colore",
+      "date": "2026-07-26",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-la-teoria-del-colore_ariateatro-ets/28009615-1-ita-IT/Fili-d-aria-La-teoria-del-colore_Ariateatro-ETS_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748765"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4709,22 +4709,6 @@
       "is_past": false
     },
     {
-      "id": "f7daa7dff5e0",
-      "title": "Da cosa nasce cosa One Woman Show",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750551",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750551"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "37e580cfcdc2",
       "title": "Storie dal mondo tra sabbia e fantasia",
       "date": "2026-07-31",
@@ -4736,6 +4720,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748901"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f7daa7dff5e0",
+      "title": "Da cosa nasce cosa One Woman Show",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi di Vezzano",
+      "location": "",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4433/28074965-1-ita-IT/sfondo-ocra-443_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750551",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750551"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
