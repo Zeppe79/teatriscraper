@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T07:29:01.847323+00:00",
-  "count": 380,
+  "last_updated": "2026-07-23T18:09:14.072231+00:00",
+  "count": 390,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4613,6 +4613,38 @@
       "is_past": false
     },
     {
+      "id": "8acf3ef5ed64",
+      "title": "Il sogno",
+      "date": "2026-07-27",
+      "time": null,
+      "venue": "",
+      "location": "Arco",
+      "description": "L’òra dei burattini 2026",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750982",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750982"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bf63ac5f3c0b",
+      "title": "Fantasia di marionette",
+      "date": "2026-07-28",
+      "time": "18:30",
+      "venue": "",
+      "location": "Riva del Garda",
+      "description": "L’òra dei burattini 2026 | ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750983",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750983"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ce2d28b59458",
       "title": "Fuoco e Fantasia – ORCHESTRA HAYDN",
       "date": "2026-07-28",
@@ -4656,6 +4688,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d2d314394375",
+      "title": "I capelli dell'orco",
+      "date": "2026-07-29",
+      "time": "18:30",
+      "venue": "",
+      "location": "Arco",
+      "description": "L’òra dei burattini 2026 | ore 18.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750984",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750984"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4812,7 +4860,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leoperecomplete2/28031346-1-ita-IT/leoperecomplete2_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748769"
@@ -4869,6 +4917,38 @@
       "is_past": false
     },
     {
+      "id": "61e4ae429615",
+      "title": "Il cane infernale",
+      "date": "2026-08-03",
+      "time": "21:00",
+      "venue": "",
+      "location": "Arco",
+      "description": "L’òra dei burattini 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750985",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750985"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3970c703b163",
+      "title": "Katastrofa  Show",
+      "date": "2026-08-04",
+      "time": "11:00",
+      "venue": "",
+      "location": "Riva del Garda",
+      "description": "L’òra dei burattini 2026 | ore 11.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750986",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750986"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "85ca36f1c7bc",
       "title": "Testa o croce?",
       "date": "2026-08-04",
@@ -4892,10 +4972,26 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748469",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748469"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "229728ba16b8",
+      "title": "Lo strano pranzo di Hänsel e Gretel",
+      "date": "2026-08-05",
+      "time": "16:30",
+      "venue": "",
+      "location": "Arco",
+      "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750988",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750988"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4908,7 +5004,7 @@
       "venue": "",
       "location": "",
       "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749981",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749981"
@@ -4928,6 +5024,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748771"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c7561aa488aa",
+      "title": "La casa degli gnomi",
+      "date": "2026-08-06",
+      "time": "16:30",
+      "venue": "",
+      "location": "Riva del Garda",
+      "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750989",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750989"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5093,6 +5205,22 @@
       "is_past": false
     },
     {
+      "id": "2c6c809250eb",
+      "title": "Somari",
+      "date": "2026-08-10",
+      "time": "21:00",
+      "venue": "",
+      "location": "Riva del Garda",
+      "description": "L’òra dei burattini 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750991",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750991"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "38347065a8d9",
       "title": "Larry la Talpa e il mistero del villaggio sull’acqua",
       "date": "2026-08-11",
@@ -5104,6 +5232,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749394",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749394"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "526572e374e0",
+      "title": "Meneghino e Brighella consiglieri d'amore",
+      "date": "2026-08-11",
+      "time": "21:00",
+      "venue": "",
+      "location": "Arco",
+      "description": "L’òra dei burattini 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750990",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750990"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5136,6 +5280,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748917"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "34a6dacee603",
+      "title": "L' amore delle tre melarance",
+      "date": "2026-08-12",
+      "time": "21:00",
+      "venue": "",
+      "location": "Riva del Garda",
+      "description": "L’òra dei burattini 2026 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750992",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750992"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5643,7 +5803,7 @@
       "time": "20:30",
       "venue": "Corso Bettini, Rovereto (Tn)",
       "location": "Rovereto",
-      "description": "Spettacolo adatto alle famiglie. Ingresso libero e gratuito",
+      "description": "Spettacolo adatto alle famiglie / Ingresso libero e gratuito",
       "image_url": "https://www.crushsite.it/upload/images/media/large/067226-0293123.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/prelude-out-esperanza.html",
       "source_urls": [
@@ -5677,9 +5837,9 @@
       "location": "Rovereto",
       "description": "L'ingresso è libero e gratuito",
       "image_url": "https://www.crushsite.it/upload/images/media/large/067378-91822.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026la-bellezza-dellimperfezione-installazione-coreografica.html",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/la-bellezza-dellimperfezione-installazione-coreografica.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026la-bellezza-dellimperfezione-installazione-coreografica.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/la-bellezza-dellimperfezione-installazione-coreografica.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5707,7 +5867,7 @@
       "time": "20:30",
       "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
       "location": "Rovereto",
-      "description": "Coreografia Maguy Marin. Interpreti Kostia Chaix, Kaïs Chouibi, Brune De Maurin, Liah Frank, Lazare Huet, Louise Mariotte, Lisa Martinez, Isabelle Missal, Rolando Rocha, Ennio Sammarco. Light designer Alexandre Beneteaud, Albin Chavignon Costumi Louise Marin. Musiche originali Franz Schubert, Gilles de Binche, Gavin Bryars. Direttore prove Ulises Alvarez. Durata 90’ . COPRODUTTORI Compagnie Maguy Marin / Maison des Arts et de la Culture de Créteil / La Compagnie Maguy Marin è sussidiata dal Mini",
+      "description": "Coreografia Maguy Marin / Interpreti Kostia Chaix, Kaïs Chouibi, Brune De Maurin, Liah Frank, Lazare Huet, Louise Mariotte, Lisa Martinez, Isabelle Missal, Rolando Rocha, Ennio Sammarco / Light designer Alexandre Beneteaud, Albin Chavigno / Costumi Louise Marin / Musiche originali Franz Schubert, Gilles de Binche, Gavin Bryars / Direttore prove Ulises Alvarez / Durata 90’ COPRODUTTORI Compagnie Maguy Marin / Maison des Arts et de la Culture de Créteil / La Compagnie Maguy Marin è sussidiata dal ",
       "image_url": "https://www.crushsite.it/upload/images/media/large/067231-019282.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/may-b.html",
       "source_urls": [
@@ -5792,6 +5952,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fcking-future.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/fcking-future.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "9c43a019c1ae",
+      "title": "Summer Lab Opening Studio",
+      "date": "2026-09-06",
+      "time": "15:00",
+      "venue": "Rovereto (Tn)",
+      "location": "",
+      "description": "Ingresso libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067590-summerlab.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/summer-lab-opening-studio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/summer-lab-opening-studio.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5888,22 +6064,6 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/replica.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/replica.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "0ad15de8d4a0",
-      "title": "The Choreography of Water",
-      "date": "2026-09-09",
-      "time": "06:00",
-      "venue": "MUSE, Corso del lavoro e della scienza, Trento",
-      "location": "Trento",
-      "description": "Coreografia e drammaturgia Simona Deaconescu / Oggetti sonori fluidi Ioana Vreme Moser / Musica originale e sound design Simina Oprescu / Interpreti Laura Murariu, Silvia Brazzale, Andra Muntenasu / Assistente Georgia Elza Măciuceanu / Lavorazione del vetro Adrian Sistem / Electronic sound object design Dorian Largen / Direzione tecnica Hermina Stanciulescu Prodotto da Tangaj Collective / Coprodotto da The National Center for Dance in Bucharest Prima nazionale / Cofinanziato da Administration of",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067560-muse-orienteoccidente.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/the-choreography-of-water.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/the-choreography-of-water.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
