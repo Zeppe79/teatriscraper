@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T18:05:41.996583+00:00",
-  "count": 378,
+  "last_updated": "2026-07-23T07:29:01.847323+00:00",
+  "count": 380,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,22 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "6ef085bce7d8",
-      "title": "ll teatro delle stelle",
-      "date": "2026-07-22",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748467",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748467"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e7812a73ad64",
       "title": "La vera storia dei musicanti di Brema",
       "date": "2026-07-23",
@@ -4908,7 +4892,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748469",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748469"
@@ -5781,6 +5765,22 @@
       "is_past": false
     },
     {
+      "id": "c06af3b2a89e",
+      "title": "Visita guidata a Progetto Manifattura",
+      "date": "2026-09-05",
+      "time": "18:00",
+      "venue": "Progetto Manifattura, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ritrovo nel piazzale interno di Progetto Manifattura (Piazza della Manifattura 1, Rovereto)",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067585-manifatturatabacchi.jpg",
+      "source_url": "https://www.crushsite.it/it/didattica/2026visita-guidata-a-progetto-manifattura.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/didattica/2026visita-guidata-a-progetto-manifattura.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "11ed93c2e0e3",
       "title": "F*cking Future",
       "date": "2026-09-05",
@@ -5941,19 +5941,19 @@
       "is_past": false
     },
     {
-      "id": "b778272151dd",
-      "title": "Chi cerca la verità - Simone Manetti",
-      "date": "2026-09-09",
-      "time": "20:30",
-      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi / Giulio Regeni. Tutto il male del mondo | Italia, 2026, 105’ / Simone Manetti Il documentario che ricostruisce la verità giudiziaria sul sequestro, le torture, l’omicidio di Giulio Regeni, raccontate per la prima volta dai suoi genitori Claudio Regeni e Paola Deffendi e dall’avvocata Alessandra Ballerini. Una ricerca che attraversa anni di silenzi e ostacoli, ma anche di grande coraggio, in cui cercare la verità è diventato un atto di presenza continua. Paola Deffendi e Claudio Regeni",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067559-chicerca.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html",
+      "id": "ddc1e58dfcc1",
+      "title": "BRECHT WEILL Opera da tre soldi",
+      "date": "2026-09-11",
+      "time": "21:00",
+      "venue": "Casinò Municipale",
+      "location": "Arco",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi/",
       "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html"
+        "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi/"
       ],
-      "source_name": "crushsite.it",
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5970,6 +5970,22 @@
         "https://www.cultura.trentino.it/content/view/full/749456"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2dbda11745a6",
+      "title": "BRECHT WEILL Opera da tre soldi",
+      "date": "2026-09-13",
+      "time": "19:00",
+      "venue": "Sala della Comunità",
+      "location": "Riva del Garda",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi-2/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -6049,6 +6065,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750473",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750473"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5b470d7cb78c",
+      "title": "Ozpetek",
+      "date": "2026-10-21",
+      "time": "19:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 21 ottobre alle ore 19.30\nil 22 e il 23 ottobre alle ore 20.30\nil 24 ottobre alle ore 18.00\nil 25 ottobre alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747762",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747762"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
