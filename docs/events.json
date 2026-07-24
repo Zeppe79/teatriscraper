@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T18:09:14.072231+00:00",
-  "count": 390,
+  "last_updated": "2026-07-24T07:28:16.032913+00:00",
+  "count": 388,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,54 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "e7812a73ad64",
-      "title": "La vera storia dei musicanti di Brema",
-      "date": "2026-07-23",
-      "time": "17:00",
-      "venue": "",
-      "location": "Fierozzo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/23-luglio-2026-brema/28009047-1-ita-IT/23-luglio-2026-brema_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748744",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748744"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "bd6d8ec39123",
-      "title": "Come fu che la iena",
-      "date": "2026-07-23",
-      "time": "21:00",
-      "venue": "",
-      "location": "",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/come-fu-che-la-iena/28070194-1-ita-IT/come-fu-che-la-iena_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750775",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750775"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e3154496f91d",
-      "title": "Parlare tra maschi",
-      "date": "2026-07-23",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-parlare-tra-maschi_-evoe!teatro-ets/28009559-1-ita-IT/Fili-d-aria-Parlare-tra-maschi_-Evoe!Teatro-ETS_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748763",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748763"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "9739bc5b06f4",
       "title": "Jack La Quaglia e il mistero dei Reti",
       "date": "2026-07-24",
@@ -4860,7 +4812,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leoperecomplete2/28031346-1-ita-IT/leoperecomplete2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748769"
@@ -4924,7 +4876,7 @@
       "venue": "",
       "location": "Arco",
       "description": "L’òra dei burattini 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750985",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750985"
@@ -4940,7 +4892,7 @@
       "venue": "",
       "location": "Riva del Garda",
       "description": "L’òra dei burattini 2026 | ore 11.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750986",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750986"
@@ -6241,6 +6193,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747762",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747762"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "27511182f3a7",
+      "title": "Ubaldo Pantani - Inimitabile",
+      "date": "2026-10-22",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750474",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750474"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
