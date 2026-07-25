@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T18:14:32.273183+00:00",
-  "count": 388,
+  "last_updated": "2026-07-25T07:12:10.001880+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,38 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "9739bc5b06f4",
-      "title": "Jack La Quaglia e il mistero dei Reti",
-      "date": "2026-07-24",
-      "time": "16:30",
-      "venue": "Museo Retico",
-      "location": "Sanzeno",
-      "description": "Archeologia estate 2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico-sanzeno1-tdallatina-1/28029389-1-ita-IT/Museo-Retico-Sanzeno1-tdallatina-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749364",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749364"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1805f38f601b",
-      "title": "Natalino Balasso in Appunti per un discorso pubblico",
-      "date": "2026-07-24",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749275",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749275"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "3d1899f65b90",
       "title": "Nel bosco, nel corpo – bagno di foresta",
       "date": "2026-07-25",
@@ -4540,7 +4508,7 @@
       "venue": "Castel Thun",
       "location": "Ton",
       "description": "diCASTELinCASTELLO | Castel Thun | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castel-thun-_tdallatina-7/28046861-1-ita-IT/castel-Thun-_tdallatina-7_opengraph.jpg",
+      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/castel-thun-_tdallatina-7/28046861-1-ita-IT/castel-Thun-_tdallatina-7_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750046",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750046"
@@ -4924,7 +4892,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748469",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748469"
@@ -4956,7 +4924,7 @@
       "venue": "",
       "location": "",
       "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749981",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749981"
