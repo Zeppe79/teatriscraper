@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T17:54:15.868544+00:00",
-  "count": 386,
+  "last_updated": "2026-07-26T07:33:11.398271+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,38 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "3d1899f65b90",
-      "title": "Nel bosco, nel corpo – bagno di foresta",
-      "date": "2026-07-25",
-      "time": "10:00",
-      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 10.00-12.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cielo-con-alberi-tdallatina2/27995555-1-ita-IT/cielo-con-alberi-tdallatina_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748336",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748336"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "dbf8946557ed",
-      "title": "Anni in spalla",
-      "date": "2026-07-25",
-      "time": "21:00",
-      "venue": "Villa Salvadori-Zanatta",
-      "location": "Trento",
-      "description": "Estate a Meano 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stocksnap-auditorium-2584269-12/28017735-1-ita-IT/stocksnap-auditorium-2584269-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749128",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749128"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "2cbedfcfd754",
       "title": "L'amore delle tre melarance",
       "date": "2026-07-26",
@@ -4908,7 +4876,7 @@
       "venue": "",
       "location": "Arco",
       "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750988",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750988"
@@ -4972,7 +4940,7 @@
       "venue": "",
       "location": "Palù del Fersina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/iena/28056113-1-ita-IT/iena_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749036",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749036"
