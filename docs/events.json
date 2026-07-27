@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T08:25:14.701731+00:00",
+  "last_updated": "2026-07-27T18:20:50.153652+00:00",
   "count": 386,
   "events": [
     {
@@ -4725,8 +4725,24 @@
       "is_past": false
     },
     {
-      "id": "3b0131022b1a",
-      "title": "Le opere di Shakespeare in 90 minuti | Fili d'aria",
+      "id": "995f58fcc039",
+      "title": "Fiabe e leggende delle Dolomiti | Estateatro",
+      "date": "2026-08-02",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "ESTATEATRO - Parco giochi di Nogarè (in caso di pioggia Casa sociale di Nogarè)",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "fa1e0c27fc73",
+      "title": "Le opere complete di Shakespeare in 90 minuti | Fili d'aria",
       "date": "2026-08-02",
       "time": "21:00",
       "venue": "Teatro Lux",
@@ -4736,22 +4752,6 @@
       "source_url": "https://www.teatrodipergine.it/teatro/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria",
       "source_urls": [
         "https://www.teatrodipergine.it/teatro/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "995f58fcc039",
-      "title": "Fiabe e leggende delle Dolomiti | Estateatro",
-      "date": "2026-08-02",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Parco giochi di Nogarè (in caso di pioggia Casa sociale di Nogarè)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -6022,7 +6022,7 @@
     },
     {
       "id": "3944df2456d4",
-      "title": "BRECHT WEILL L’ Opera da tre soldi",
+      "title": "BRECHT WEILL L’ opera da tre soldi",
       "date": "2026-09-11",
       "time": "21:00",
       "venue": "Casinò Municipale",
@@ -6054,7 +6054,7 @@
     },
     {
       "id": "c4a8dae3e656",
-      "title": "BRECHT WEILL L’ Opera da tre soldi",
+      "title": "BRECHT WEILL L’ opera da tre soldi",
       "date": "2026-09-13",
       "time": "19:00",
       "venue": "Sala della Comunità",
