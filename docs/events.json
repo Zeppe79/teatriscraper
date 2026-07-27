@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T17:57:35.226786+00:00",
-  "count": 384,
+  "last_updated": "2026-07-27T08:25:14.701731+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,38 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "2cbedfcfd754",
-      "title": "L'amore delle tre melarance",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "venue": "Castel Thun",
-      "location": "Ton",
-      "description": "diCASTELinCASTELLO | Castel Thun | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castel-thun-_tdallatina-7/28046861-1-ita-IT/castel-Thun-_tdallatina-7_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750046",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750046"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "33b718eeec86",
-      "title": "La teoria del colore",
-      "date": "2026-07-26",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-la-teoria-del-colore_ariateatro-ets/28009615-1-ita-IT/Fili-d-aria-La-teoria-del-colore_Ariateatro-ETS_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748765",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748765"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "8acf3ef5ed64",
       "title": "Il sogno",
       "date": "2026-07-27",
@@ -4853,6 +4821,22 @@
       "is_past": false
     },
     {
+      "id": "ba6ffed9dbbf",
+      "title": "Kawai – Recital pianistico OLAF JOHN LANERI",
+      "date": "2026-08-04",
+      "time": "21:00",
+      "venue": "Centro Culturale Locca di Concei",
+      "location": "Ledro",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/kawai-recital-pianistico-olaf-john-laneri/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/kawai-recital-pianistico-olaf-john-laneri/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "bf26134e133d",
       "title": "ll teatro delle stelle",
       "date": "2026-08-05",
@@ -4908,7 +4892,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-how-does-it-feel_-rossella-cavagliato/28009783-1-ita-IT/Fili-d-aria-How-does-it-feel_-Rossella-Cavagliato_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748771"
@@ -4956,7 +4940,7 @@
       "venue": "Parco delle Terme di Levico",
       "location": "Levico Terme",
       "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/06.08-sconcerto-4-manikb_ns_000pink/27983611-1-ita-IT/06.08-SCONCERTO-4-MANIKB_NS_000pink_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747969",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747969"
@@ -4992,6 +4976,22 @@
       "source_url": "https://www.trentinospettacoli.it/eventi/quintaessenza-gjf-2026/",
       "source_urls": [
         "https://www.trentinospettacoli.it/eventi/quintaessenza-gjf-2026/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "ec63e0bb24cc",
+      "title": "Kawai – ENSEMBLE  La Scala di seta – Una notte all’opera",
+      "date": "2026-08-07",
+      "time": "21:00",
+      "venue": "Centro Culturale Locca di Concei",
+      "location": "Ledro",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/kawai-ensemble-la-scala-di-seta-una-notte-allopera/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/kawai-ensemble-la-scala-di-seta-una-notte-allopera/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": false
@@ -5154,6 +5154,22 @@
         "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "f062e2873bd2",
+      "title": "Kawai – Recital pianistico ALON GOLDSTEIN",
+      "date": "2026-08-11",
+      "time": "21:00",
+      "venue": "Centro Culturale Locca di Concei",
+      "location": "Ledro",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/kawai-recital-pianistico-alon-goldstein/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/kawai-recital-pianistico-alon-goldstein/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
@@ -5392,6 +5408,22 @@
       "source_url": "https://www.trentinospettacoli.it/eventi/le-nuove-avventure-dei-musicanti-di-brema-2/",
       "source_urls": [
         "https://www.trentinospettacoli.it/eventi/le-nuove-avventure-dei-musicanti-di-brema-2/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "3561936d6282",
+      "title": "Kawai – Recital per soprano e pianoforte",
+      "date": "2026-08-21",
+      "time": "21:00",
+      "venue": "Centro Culturale Locca di Concei",
+      "location": "Ledro",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/kawai-recital-per-soprano-e-pianoforteyana-klein-soprano-tatiana-larionova-pianoforte/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/kawai-recital-per-soprano-e-pianoforteyana-klein-soprano-tatiana-larionova-pianoforte/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": false
@@ -5989,8 +6021,8 @@
       "is_past": false
     },
     {
-      "id": "ddc1e58dfcc1",
-      "title": "BRECHT WEILL Opera da tre soldi",
+      "id": "3944df2456d4",
+      "title": "BRECHT WEILL L’ Opera da tre soldi",
       "date": "2026-09-11",
       "time": "21:00",
       "venue": "Casinò Municipale",
@@ -6021,8 +6053,8 @@
       "is_past": false
     },
     {
-      "id": "2dbda11745a6",
-      "title": "BRECHT WEILL Opera da tre soldi",
+      "id": "c4a8dae3e656",
+      "title": "BRECHT WEILL L’ Opera da tre soldi",
       "date": "2026-09-13",
       "time": "19:00",
       "venue": "Sala della Comunità",
