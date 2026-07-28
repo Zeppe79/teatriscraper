@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T07:35:20.703329+00:00",
-  "count": 386,
+  "last_updated": "2026-07-28T18:08:31.707250+00:00",
+  "count": 388,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4549,22 +4549,6 @@
       "is_past": false
     },
     {
-      "id": "71c84ecd3f04",
-      "title": "Io sono Jago",
-      "date": "2026-07-30",
-      "time": null,
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-io-sono-jago/28009671-1-ita-IT/Fili-d-aria-Io-sono-Jago_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748767",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748767"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7014f335f485",
       "title": "Le cose schifose",
       "date": "2026-07-30",
@@ -4576,6 +4560,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748360",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748360"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "71c84ecd3f04",
+      "title": "Io sono Jago",
+      "date": "2026-07-30",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-io-sono-jago/28009671-1-ita-IT/Fili-d-aria-Io-sono-Jago_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748767",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748767"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4677,6 +4677,22 @@
       "is_past": false
     },
     {
+      "id": "820643cd64a3",
+      "title": "Le fiabe di Giovanna Borzaga | Estateatro",
+      "date": "2026-08-01",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751022",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751022"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d00808657d09",
       "title": "VINCEN GARCIA – GJF 2026",
       "date": "2026-08-01",
@@ -4693,17 +4709,17 @@
       "is_past": false
     },
     {
-      "id": "abd57e2085f6",
-      "title": "Le opere complete di Shakespeare in 90 minuti",
+      "id": "1563a3a61dc7",
+      "title": "Fiabe e leggende delle Dolomiti | Estateatro",
       "date": "2026-08-02",
-      "time": null,
+      "time": "20:00",
       "venue": "",
       "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leoperecomplete2/28031346-1-ita-IT/leoperecomplete2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
+      "description": "Un’estate spettacolare 2026 | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751023",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748769"
+        "https://www.cultura.trentino.it/content/view/full/751023"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4722,6 +4738,22 @@
         "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "abd57e2085f6",
+      "title": "Le opere complete di Shakespeare in 90 minuti",
+      "date": "2026-08-02",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leoperecomplete2/28031346-1-ita-IT/leoperecomplete2_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748769"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4876,7 +4908,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-how-does-it-feel_-rossella-cavagliato/28009783-1-ita-IT/Fili-d-aria-How-does-it-feel_-Rossella-Cavagliato_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748771"
@@ -4892,7 +4924,7 @@
       "venue": "",
       "location": "Riva del Garda",
       "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/750989",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750989"
