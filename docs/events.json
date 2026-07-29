@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T18:08:31.707250+00:00",
-  "count": 388,
+  "last_updated": "2026-07-29T07:39:47.789010+00:00",
+  "count": 387,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4469,22 +4469,6 @@
       "is_past": true
     },
     {
-      "id": "bf63ac5f3c0b",
-      "title": "Fantasia di marionette",
-      "date": "2026-07-28",
-      "time": "18:30",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "L’òra dei burattini 2026 | ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750983",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750983"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "ce2d28b59458",
       "title": "Fuoco e Fantasia – ORCHESTRA HAYDN",
       "date": "2026-07-28",
@@ -4498,7 +4482,7 @@
         "https://www.trentinospettacoli.it/eventi/fuoco-e-fantasia/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "f71f474bdae1",
@@ -4908,7 +4892,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-how-does-it-feel_-rossella-cavagliato/28009783-1-ita-IT/Fili-d-aria-How-does-it-feel_-Rossella-Cavagliato_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748771"
