@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T18:03:22.923139+00:00",
-  "count": 387,
+  "last_updated": "2026-07-30T07:31:53.155108+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4485,54 +4485,6 @@
       "is_past": true
     },
     {
-      "id": "f71f474bdae1",
-      "title": "ll teatro delle stelle",
-      "date": "2026-07-29",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748468",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748468"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "3c493e31bcdc",
-      "title": "La storia di Pinocchio",
-      "date": "2026-07-29",
-      "time": "17:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/29-luglio-2026/28012505-1-ita-IT/29-luglio-2026_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748904",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748904"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d2d314394375",
-      "title": "I capelli dell'orco",
-      "date": "2026-07-29",
-      "time": "18:30",
-      "venue": "",
-      "location": "Arco",
-      "description": "L’òra dei burattini 2026 | ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750984",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750984"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7014f335f485",
       "title": "Le cose schifose",
       "date": "2026-07-30",
@@ -4908,7 +4860,7 @@
       "venue": "",
       "location": "Riva del Garda",
       "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750989",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750989"
@@ -5004,7 +4956,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749287",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749287"
@@ -5100,7 +5052,7 @@
       "venue": "",
       "location": "Riva del Garda",
       "description": "L’òra dei burattini 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750991",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750991"
