@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T07:47:11.608858+00:00",
+  "last_updated": "2026-07-31T18:17:13.561138+00:00",
   "count": 384,
   "events": [
     {
@@ -4517,11 +4517,11 @@
       "is_past": false
     },
     {
-      "id": "a045571f9b68",
+      "id": "d8e6b9919c25",
       "title": "Da cosa nasce cosa",
       "date": "2026-07-31",
       "time": "20:30",
-      "venue": "Parcheggio del Teatro Valle dei Laghi",
+      "venue": "Teatro Valle dei Laghi",
       "location": "Vallelaghi",
       "description": null,
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
