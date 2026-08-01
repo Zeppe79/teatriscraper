@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T18:17:13.561138+00:00",
-  "count": 384,
+  "last_updated": "2026-08-01T07:25:28.024198+00:00",
+  "count": 371,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4212,38 +4212,6 @@
       "is_past": true
     },
     {
-      "id": "a1a61984332b",
-      "title": "Liberidì liberidà | Pergine Festival 2026",
-      "date": "2026-07-01",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Comunale di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2903-liberidi-liberida-pergine-festival",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2903-liberidi-liberida-pergine-festival"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1e1f067eed54",
-      "title": "La futura classe dirigente | Pergine Festival 2026",
-      "date": "2026-07-02",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Comunale di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2904-la-futura-classe-dirigente-pergine-festival",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2904-la-futura-classe-dirigente-pergine-festival"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "f536b5f1b5dc",
       "title": "LADANIVA in concerto",
       "date": "2026-07-03",
@@ -4257,22 +4225,6 @@
         "https://www.trentinospettacoli.it/eventi/ladaniva-in-concerto/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "e098a41c8d11",
-      "title": "L’oro del diavolo | Estateatro",
-      "date": "2026-07-04",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Piazzetta di Casalino (in caso di pioggia Teatro di Vigalzano)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2910-l-oro-del-diavolo-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2910-l-oro-del-diavolo-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4309,22 +4261,6 @@
       "is_past": true
     },
     {
-      "id": "c8acb2a860b8",
-      "title": "Tacet | Pergine Festival 2026",
-      "date": "2026-07-10",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Comunale di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2905-tacet-pergine-festival",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2905-tacet-pergine-festival"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "87d4d1cd2f49",
       "title": "Arcipelago",
       "date": "2026-07-11",
@@ -4338,22 +4274,6 @@
         "https://www.trentinospettacoli.it/eventi/arcipelagoinstallazione-teatrale-per-bambini-e-ragazzi-3/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "d073e81945a7",
-      "title": "Le dolenti note | Pergine Festival 2026",
-      "date": "2026-07-11",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Comunale di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/perginefestival26.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2906-le-dolenti-note-pergine-festival",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2906-le-dolenti-note-pergine-festival"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4373,54 +4293,6 @@
       "is_past": true
     },
     {
-      "id": "56d9ac3be54c",
-      "title": "Secondo concerto estivo della Banda Sociale di Pergine",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Corte Ex-Filanda - in caso di pioggia evento annullato",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Musica/bandasocialepergine125.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2900-secondo-concerto-estivo-banda-pergine-26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2900-secondo-concerto-estivo-banda-pergine-26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "c72358fd4c9d",
-      "title": "Pollo libero | Scirocco",
-      "date": "2026-07-16",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "SCIROCCO - XXI edizione | Giardino interno del Castello di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/pollolibero1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2886-pollo-libero-scirocco",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2886-pollo-libero-scirocco"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "f5273d5447ae",
-      "title": "The Cameraman | Scirocco",
-      "date": "2026-07-17",
-      "time": "21:15",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/isincopatici1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2887-the-cameraman-scirocco",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2887-the-cameraman-scirocco"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "ce61c54909cf",
       "title": "Armonie in Presanella",
       "date": "2026-07-18",
@@ -4434,38 +4306,6 @@
         "https://www.trentinospettacoli.it/eventi/armonie-in-presanella/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "86731161cf24",
-      "title": "Liberty e Wrong Again | Scirocco",
-      "date": "2026-07-18",
-      "time": "21:15",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "SCIROCCO - XXI edizione | Ca' Stalla, Castello di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/isincopatici1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2888-liberty-wrong-again-scirocco",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2888-liberty-wrong-again-scirocco"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1a747e933895",
-      "title": "Asino a chi? | Estateatro",
-      "date": "2026-07-19",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Parco di Canzolino (in caso di pioggia Sala frazionale di Madrano)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2911-asino-a-chi-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2911-asino-a-chi-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4485,38 +4325,6 @@
       "is_past": true
     },
     {
-      "id": "37e580cfcdc2",
-      "title": "Storie dal mondo tra sabbia e fantasia",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/31-luglio-sand-art/28012400-1-ita-IT/31-luglio-Sand-art_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748901",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748901"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f7daa7dff5e0",
-      "title": "Da cosa nasce cosa One Woman Show",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4433/28074965-1-ita-IT/sfondo-ocra-443_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750551",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750551"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "d8e6b9919c25",
       "title": "Da cosa nasce cosa",
       "date": "2026-07-31",
@@ -4530,23 +4338,7 @@
         "https://www.trentinospettacoli.it/eventi/da-cosa-nasce-cosaone-woman-show/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "41e6aa84d26c",
-      "title": "Tre sedie | di Alessandro Fullin",
-      "date": "2026-07-31",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749281",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749281"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "141114168f38",
@@ -5100,7 +4892,7 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-agosto-burattini-1/28012884-1-ita-IT/12-agosto-burattini-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748917",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748917"
@@ -5116,7 +4908,7 @@
       "venue": "",
       "location": "Riva del Garda",
       "description": "L’òra dei burattini 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750992",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750992"
@@ -5148,7 +4940,7 @@
       "venue": "PalaDolomiti - Pinzolo",
       "location": "Pinzolo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4432/28062410-1-ita-IT/sfondo-ocra-443_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750553",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750553"
