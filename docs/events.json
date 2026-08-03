@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T08:23:53.513809+00:00",
-  "count": 367,
+  "last_updated": "2026-08-03T18:45:52.898956+00:00",
+  "count": 368,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4693,6 +4693,22 @@
       "is_past": false
     },
     {
+      "id": "46b526c2b41a",
+      "title": "La tata perfetta | Estateatro",
+      "date": "2026-08-09",
+      "time": "20:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 20.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751231",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751231"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d07c19e8c136",
       "title": "La tata perfetta | Estateatro",
       "date": "2026-08-09",
@@ -4940,7 +4956,7 @@
       "venue": "Museo Retico",
       "location": "Sanzeno",
       "description": "Archeologia estate 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico-sanzeno2-tdallatina-2/28029529-1-ita-IT/Museo-Retico-Sanzeno2-tdallatina-2_opengraph.jpg",
+      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/museo-retico-sanzeno2-tdallatina-2/28029529-1-ita-IT/Museo-Retico-Sanzeno2-tdallatina-2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749407",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749407"
@@ -5004,7 +5020,7 @@
       "venue": "",
       "location": "",
       "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749987",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749987"
