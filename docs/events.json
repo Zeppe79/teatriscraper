@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T17:57:30.242309+00:00",
-  "count": 369,
+  "last_updated": "2026-08-03T08:23:53.513809+00:00",
+  "count": 367,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4349,9 +4349,9 @@
       "location": "Pergine Valsugana",
       "description": "ESTATEATRO - Parco di Serso (in caso di pioggia Sala frazionale di Serso)",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2913-le-fiabe-di-giovanna-borzaga-estateatro26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2913-le-fiabe-di-giovanna-borzaga-estateatro26",
       "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2913-le-fiabe-di-giovanna-borzaga-estateatro26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2913-le-fiabe-di-giovanna-borzaga-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4373,22 +4373,6 @@
       "is_past": true
     },
     {
-      "id": "1563a3a61dc7",
-      "title": "Fiabe e leggende delle Dolomiti | Estateatro",
-      "date": "2026-08-02",
-      "time": "20:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751023",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751023"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "995f58fcc039",
       "title": "Fiabe e leggende delle Dolomiti | Estateatro",
       "date": "2026-08-02",
@@ -4397,28 +4381,12 @@
       "location": "Pergine Valsugana",
       "description": "ESTATEATRO - Parco giochi di Nogarè (in caso di pioggia Casa sociale di Nogarè)",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2914-fiabe-e-leggende-delle-dolomiti-estateatro26",
       "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2914-fiabe-e-leggende-delle-dolomiti-estateatro26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2914-fiabe-e-leggende-delle-dolomiti-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "abd57e2085f6",
-      "title": "Le opere complete di Shakespeare in 90 minuti",
-      "date": "2026-08-02",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leoperecomplete2/28031346-1-ita-IT/leoperecomplete2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748769",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748769"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fa1e0c27fc73",
@@ -4429,12 +4397,12 @@
       "location": "Pergine Valsugana",
       "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/leoperecomplete1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "3e5ec2a1e55e",
@@ -4450,7 +4418,7 @@
         "https://www.trentinospettacoli.it/eventi/joey-calderazzo-trio/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "61e4ae429615",
@@ -4956,7 +4924,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748470",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748470"
@@ -5036,7 +5004,7 @@
       "venue": "",
       "location": "",
       "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749987",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749987"
