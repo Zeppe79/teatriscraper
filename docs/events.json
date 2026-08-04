@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T18:45:52.898956+00:00",
-  "count": 368,
+  "last_updated": "2026-08-04T07:33:02.354919+00:00",
+  "count": 367,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4421,22 +4421,6 @@
       "is_past": true
     },
     {
-      "id": "61e4ae429615",
-      "title": "Il cane infernale",
-      "date": "2026-08-03",
-      "time": "21:00",
-      "venue": "",
-      "location": "Arco",
-      "description": "L’òra dei burattini 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750985",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750985"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "3970c703b163",
       "title": "Katastrofa  Show",
       "date": "2026-08-04",
@@ -4956,7 +4940,7 @@
       "venue": "Museo Retico",
       "location": "Sanzeno",
       "description": "Archeologia estate 2026 | ore 15.00",
-      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/museo-retico-sanzeno2-tdallatina-2/28029529-1-ita-IT/Museo-Retico-Sanzeno2-tdallatina-2_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico-sanzeno2-tdallatina-2/28029529-1-ita-IT/Museo-Retico-Sanzeno2-tdallatina-2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749407",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749407"
@@ -5020,7 +5004,7 @@
       "venue": "",
       "location": "",
       "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749987",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749987"
