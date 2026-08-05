@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T18:25:36.846704+00:00",
-  "count": 367,
+  "last_updated": "2026-08-05T07:35:10.990885+00:00",
+  "count": 366,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4421,22 +4421,6 @@
       "is_past": true
     },
     {
-      "id": "3970c703b163",
-      "title": "Katastrofa  Show",
-      "date": "2026-08-04",
-      "time": "11:00",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "L’òra dei burattini 2026 | ore 11.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750986",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750986"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "85ca36f1c7bc",
       "title": "Testa o croce?",
       "date": "2026-08-04",
@@ -4445,12 +4429,12 @@
       "location": "Pergine Valsugana",
       "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/testaocroce1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2892-testa-o-croce-cinema-estate",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2892-testa-o-croce-cinema-estate",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2892-testa-o-croce-cinema-estate"
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2892-testa-o-croce-cinema-estate"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ba6ffed9dbbf",
@@ -4466,7 +4450,7 @@
         "https://www.trentinospettacoli.it/eventi/kawai-recital-pianistico-olaf-john-laneri/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "bf26134e133d",
@@ -4988,7 +4972,7 @@
       "venue": "Giardino botanico alpino - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 15.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748361",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748361"
