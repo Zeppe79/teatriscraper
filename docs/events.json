@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T18:16:47.407091+00:00",
-  "count": 366,
+  "last_updated": "2026-08-06T07:35:36.922987+00:00",
+  "count": 364,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4453,54 +4453,6 @@
       "is_past": true
     },
     {
-      "id": "bf26134e133d",
-      "title": "ll teatro delle stelle",
-      "date": "2026-08-05",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748469",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748469"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "229728ba16b8",
-      "title": "Lo strano pranzo di Hänsel e Gretel",
-      "date": "2026-08-05",
-      "time": "16:30",
-      "venue": "",
-      "location": "Arco",
-      "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750988",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750988"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "959bf6fc2e60",
-      "title": "Blue Nik – Dopo il rumore",
-      "date": "2026-08-05",
-      "time": "21:00",
-      "venue": "",
-      "location": "",
-      "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749981",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749981"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "35e6e942725c",
       "title": "How does it feel? Something about Bob Dylan",
       "date": "2026-08-06",
@@ -4885,6 +4837,22 @@
       "is_past": false
     },
     {
+      "id": "8a7989a72b18",
+      "title": "Salieri Vs. Mozart – Maestro Stefano Ferrario e Orchestra Haydn",
+      "date": "2026-08-13",
+      "time": "21:00",
+      "venue": "Castello",
+      "location": "Arco",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/salieri-vs-mozart/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/salieri-vs-mozart/"
+      ],
+      "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
       "id": "7e434fbf02e7",
       "title": "Fiabe e leggende delle Dolomiti",
       "date": "2026-08-14",
@@ -4956,7 +4924,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-vengo-anch-io_ina-cara/28009839-1-ita-IT/Fili-d-aria-Vengo-anch-io_Ina-Cara_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748773",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748773"
@@ -5020,7 +4988,7 @@
       "venue": "Parco Archeo Natura di Fiavé",
       "location": "Fiavé",
       "description": "Archeologia estate 2026 | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/frammenti-d-acqua-luisa-moser-47-1/28031304-1-ita-IT/frammenti-d-acqua-Luisa-Moser-47-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749418",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749418"
@@ -5084,7 +5052,7 @@
       "venue": "PalaDolomiti - Pinzolo",
       "location": "Pinzolo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4302/28062522-1-ita-IT/sfondo-ocra-430_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750557",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750557"
