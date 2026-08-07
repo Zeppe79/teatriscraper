@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T06:07:13.757803+00:00",
+  "last_updated": "2026-08-07T17:43:24.147339+00:00",
   "count": 360,
   "events": [
     {
@@ -4461,9 +4461,9 @@
       "location": "Pergine Valsugana",
       "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/howdoesitfeel1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2880-how-does-it-feel-fili-d-aria",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2880-how-does-it-feel-fili-d-aria",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2880-how-does-it-feel-fili-d-aria"
+        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2880-how-does-it-feel-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4949,17 +4949,17 @@
       "is_past": false
     },
     {
-      "id": "3561936d6282",
-      "title": "Kawai – Recital per soprano e pianoforte",
+      "id": "aa5fbfc28ed5",
+      "title": "Kawai – Recital per pianoforte con TATIANA LARIONOVA",
       "date": "2026-08-21",
       "time": "21:00",
       "venue": "Centro Culturale Locca di Concei",
       "location": "Ledro",
       "description": null,
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/kawai-recital-per-soprano-e-pianoforteyana-klein-soprano-tatiana-larionova-pianoforte/",
+      "source_url": "https://www.trentinospettacoli.it/eventi/kawai-recital-per-pianoforte-tatiana-larionova-pianoforte/",
       "source_urls": [
-        "https://www.trentinospettacoli.it/eventi/kawai-recital-per-soprano-e-pianoforteyana-klein-soprano-tatiana-larionova-pianoforte/"
+        "https://www.trentinospettacoli.it/eventi/kawai-recital-per-pianoforte-tatiana-larionova-pianoforte/"
       ],
       "source_name": "trentinospettacoli.it",
       "is_past": false
