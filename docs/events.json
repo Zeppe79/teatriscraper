@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T07:35:36.922987+00:00",
-  "count": 364,
+  "last_updated": "2026-08-07T06:07:13.757803+00:00",
+  "count": 360,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4453,70 +4453,6 @@
       "is_past": true
     },
     {
-      "id": "35e6e942725c",
-      "title": "How does it feel? Something about Bob Dylan",
-      "date": "2026-08-06",
-      "time": null,
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-how-does-it-feel_-rossella-cavagliato/28009783-1-ita-IT/Fili-d-aria-How-does-it-feel_-Rossella-Cavagliato_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748771",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748771"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c7561aa488aa",
-      "title": "La casa degli gnomi",
-      "date": "2026-08-06",
-      "time": "16:30",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "L’òra dei burattini 2026 | ore 16.30 laboratorio\nore 18.30 spettacolo",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750989",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750989"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6b22c065f22c",
-      "title": "Come fu che la iena",
-      "date": "2026-08-06",
-      "time": "17:30",
-      "venue": "",
-      "location": "Palù del Fersina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/iena/28056113-1-ita-IT/iena_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749036",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749036"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "009906ff1ab8",
-      "title": "Teatro per bambini | Sconcerto a 4 mani",
-      "date": "2026-08-06",
-      "time": "18:00",
-      "venue": "Parco delle Terme di Levico",
-      "location": "Levico Terme",
-      "description": "Vivere il Parco 2026 | ore 18.00 Presso l’installazione Sequoia",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/06.08-sconcerto-4-manikb_ns_000pink/27983611-1-ita-IT/06.08-SCONCERTO-4-MANIKB_NS_000pink_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747969",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747969"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "0457feff8282",
       "title": "How does it feel? | Fili d'aria",
       "date": "2026-08-06",
@@ -4530,7 +4466,7 @@
         "https://www.teatrodipergine.it/teatro/2880-how-does-it-feel-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9f20c9ce1244",
@@ -4546,7 +4482,7 @@
         "https://www.trentinospettacoli.it/eventi/quintaessenza-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ec63e0bb24cc",
@@ -5036,7 +4972,7 @@
       "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/22-agosto-burattini-sant-orsola-terme/28008767-1-ita-IT/22-agosto-Burattini-Sant-Orsola-Terme_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748734"
@@ -5084,7 +5020,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749304",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749304"
@@ -5100,7 +5036,7 @@
       "venue": "PalaDolomiti - Pinzolo",
       "location": "Pinzolo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4302/28062522-1-ita-IT/sfondo-ocra-430_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750558",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750558"
@@ -5132,7 +5068,7 @@
       "venue": "Terrazza delle stelle - Viote del Monte Bondone",
       "location": "Trento",
       "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748471",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748471"
