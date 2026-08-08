@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T17:43:24.147339+00:00",
-  "count": 360,
+  "last_updated": "2026-08-08T05:38:13.817568+00:00",
+  "count": 359,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4498,23 +4498,7 @@
         "https://www.trentinospettacoli.it/eventi/kawai-ensemble-la-scala-di-seta-una-notte-allopera/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "8a0d8a8ccb03",
-      "title": "Fricassea di Alessandro Ciacci",
-      "date": "2026-08-07",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749287",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749287"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "65065b6379d3",
@@ -5084,7 +5068,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/ipitocchi2/28031367-1-ita-IT/ipitocchi2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748775",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748775"
