@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T17:23:40.737010+00:00",
+  "last_updated": "2026-08-09T05:43:10.825003+00:00",
   "count": 359,
   "events": [
     {
@@ -4514,7 +4514,7 @@
         "https://www.teatrodipergine.it/ragazzi/2915-il-segreto-del-medaglione-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d000ab2283f2",
@@ -4530,7 +4530,7 @@
         "https://www.trentinospettacoli.it/eventi/fabrizio-bossojulian-oliver-mazzariello-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "46b526c2b41a",
