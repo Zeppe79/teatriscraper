@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T17:25:17.901710+00:00",
+  "last_updated": "2026-08-10T06:08:44.218140+00:00",
   "count": 359,
   "events": [
     {
@@ -4533,22 +4533,6 @@
       "is_past": true
     },
     {
-      "id": "46b526c2b41a",
-      "title": "La tata perfetta | Estateatro",
-      "date": "2026-08-09",
-      "time": "20:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/estateatro6/28035329-1-ita-IT/Estateatro_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751231",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751231"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "d07c19e8c136",
       "title": "La tata perfetta | Estateatro",
       "date": "2026-08-09",
@@ -4562,7 +4546,7 @@
         "https://www.teatrodipergine.it/ragazzi/2916-la-tata-perfetta-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "f280912d967a",
@@ -4578,7 +4562,7 @@
         "https://www.teatrodipergine.it/musica/2901-terzo-concerto-estivo-banda-pergine-26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9a917c3bd6bf",
@@ -4594,7 +4578,7 @@
         "https://www.trentinospettacoli.it/eventi/emma-smith-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2c6c809250eb",
@@ -5084,7 +5068,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749307",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749307"
@@ -5745,6 +5729,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750475",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750475"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1f1d6b571b82",
+      "title": "Francesca Michielin - Data Zero",
+      "date": "2026-11-08",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750481",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750481"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
