@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T17:45:55.441653+00:00",
-  "count": 360,
+  "last_updated": "2026-08-11T05:51:08.870780+00:00",
+  "count": 359,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4581,22 +4581,6 @@
       "is_past": true
     },
     {
-      "id": "2c6c809250eb",
-      "title": "Somari",
-      "date": "2026-08-10",
-      "time": "21:00",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "L’òra dei burattini 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/denisdoukhan-pinocchio-1181567/28085330-1-ita-IT/denisdoukhan-pinocchio-1181567_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750991",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750991"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "38347065a8d9",
       "title": "Larry la Talpa e il mistero del villaggio sull’acqua",
       "date": "2026-08-11",
@@ -5084,7 +5068,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/28-agosto-2026-tebaldi-1/28069921-1-ita-IT/28-agosto-2026-TEBALDI-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750767",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750767"
