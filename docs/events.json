@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T17:53:48.234173+00:00",
-  "count": 363,
+  "last_updated": "2026-08-13T06:12:17.550528+00:00",
+  "count": 361,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4613,38 +4613,6 @@
       "is_past": true
     },
     {
-      "id": "00cad2df6a22",
-      "title": "Fantasia di Marionette",
-      "date": "2026-08-12",
-      "time": "17:30",
-      "venue": "",
-      "location": "Fierozzo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-agosto-burattini-1/28012884-1-ita-IT/12-agosto-burattini-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748917",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748917"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "34a6dacee603",
-      "title": "L' amore delle tre melarance",
-      "date": "2026-08-12",
-      "time": "21:00",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "L’òra dei burattini 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-457/28075259-1-ita-IT/sfondo-ocra-457_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750992",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750992"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7ad4de0a8813",
       "title": "Panorama for strings – Orchestra Haydn di Bolzano e Trento",
       "date": "2026-08-12",
@@ -4658,7 +4626,7 @@
         "https://www.trentinospettacoli.it/eventi/concerto-di-fine-anno-orchestra-haydn-di-bolzano-e-trento/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "3c5b248b2cb9",
@@ -5084,7 +5052,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749308",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749308"
@@ -5100,7 +5068,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/qualcosadiinvisibile2/28031381-1-ita-IT/qualcosadiinvisibile2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748777",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748777"
