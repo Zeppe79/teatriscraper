@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T17:53:26.300597+00:00",
-  "count": 361,
+  "last_updated": "2026-08-14T06:08:57.187805+00:00",
+  "count": 362,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4629,22 +4629,6 @@
       "is_past": true
     },
     {
-      "id": "3c5b248b2cb9",
-      "title": "Band & Dance Show",
-      "date": "2026-08-13",
-      "time": "21:00",
-      "venue": "PalaDolomiti - Pinzolo",
-      "location": "Pinzolo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4432/28062410-1-ita-IT/sfondo-ocra-443_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750553",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750553"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "6ee345528491",
       "title": "Band & Dance Show",
       "date": "2026-08-13",
@@ -4658,7 +4642,7 @@
         "https://www.trentinospettacoli.it/eventi/band-dance-show/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "8a7989a72b18",
@@ -4674,7 +4658,7 @@
         "https://www.trentinospettacoli.it/eventi/salieri-vs-mozart/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "7e434fbf02e7",
@@ -5084,7 +5068,7 @@
       "venue": "",
       "location": "Trento",
       "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749309",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749309"
@@ -5776,6 +5760,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750481",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750481"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9d17c9f112e7",
+      "title": "Every brilliant thing | Teatro Telaio",
+      "date": "2026-11-12",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751407",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751407"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "09db566f2428",
+      "title": "Le ultime lune",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 12 e il 13 novembre alle ore 20.30\nil 14 novembre alle ore 18.00\nil 15 novembre alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747764",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747764"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
