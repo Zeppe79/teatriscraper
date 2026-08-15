@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T17:47:15.132856+00:00",
+  "last_updated": "2026-08-15T05:19:28.173018+00:00",
   "count": 362,
   "events": [
     {
@@ -4661,22 +4661,6 @@
       "is_past": true
     },
     {
-      "id": "7e434fbf02e7",
-      "title": "Fiabe e leggende delle Dolomiti",
-      "date": "2026-08-14",
-      "time": "16:30",
-      "venue": "Museo Retico",
-      "location": "Sanzeno",
-      "description": "Archeologia estate 2026 | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/leggende-delle-dolomiti-foto-l.-moser-1/28040429-1-ita-IT/leggende-delle-Dolomiti-foto-L.-Moser-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749403",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749403"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e9120f59401f",
       "title": "ll teatro delle stelle",
       "date": "2026-08-19",
@@ -5084,7 +5068,7 @@
       "venue": "",
       "location": "Nago-Torbole",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4153/27982254-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747924"
@@ -5792,6 +5776,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747764",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747764"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "12768e5a623f",
+      "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
+      "date": "2026-11-13",
+      "time": "21:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750482",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750482"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
