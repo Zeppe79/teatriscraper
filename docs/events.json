@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T05:30:10.301684+00:00",
-  "count": 362,
+  "last_updated": "2026-08-17T17:21:25.531558+00:00",
+  "count": 363,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4589,9 +4589,9 @@
       "location": "Pergine Valsugana",
       "description": "Musica | Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/orchestrahaydn1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2898-orchestra-haydn-11-agosto",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/2898-orchestra-haydn-11-agosto"
+        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2898-orchestra-haydn-11-agosto"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -5522,6 +5522,22 @@
         "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi-2/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "8e920cacd3c3",
+      "title": "Nanna a Teatro 2026",
+      "date": "2026-09-18",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Venerdì 18 settembre 2026 - ore 20.00",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/nannaateatro26.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
