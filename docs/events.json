@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T05:23:39.880176+00:00",
-  "count": 364,
+  "last_updated": "2026-08-19T17:21:17.903657+00:00",
+  "count": 374,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5621,6 +5621,38 @@
       "is_past": false
     },
     {
+      "id": "d6fd8bde2544",
+      "title": "Sconcerto a 4 mani",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751513",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751513"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e7bc06ae9d99",
+      "title": "L’è afondà l’embarcadero",
+      "date": "2026-10-10",
+      "time": "20:45",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751568",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751568"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "c4b9dd373a22",
       "title": "JUDITH HILL",
       "date": "2026-10-15",
@@ -5701,6 +5733,22 @@
       "is_past": false
     },
     {
+      "id": "c6ebe2bf1729",
+      "title": "Coppie scoppiate",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751569",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751569"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "41bfc04c5fec",
       "title": "Madre Courage e i suoi figli",
       "date": "2026-10-29",
@@ -5733,6 +5781,54 @@
       "is_past": false
     },
     {
+      "id": "c698d96970be",
+      "title": "Antonio e Scipione Salvotti",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751570",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751570"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "851ad22fba73",
+      "title": "Chat a due piazze",
+      "date": "2026-10-31",
+      "time": "20:45",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751572",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751572"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cc601aafee9e",
+      "title": "L’equivoco",
+      "date": "2026-10-31",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751571",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751571"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "aa788846f04c",
       "title": "Breaking Brecht",
       "date": "2026-11-03",
@@ -5760,6 +5856,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751406",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751406"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c7eefb5df5e1",
+      "title": "L’importanza de ciamarse Onesto",
+      "date": "2026-11-07",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751573",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751573"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5824,6 +5936,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750482",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750482"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "749289bf1e0f",
+      "title": "Un’incauta lettera d’amore",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751575",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751575"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "29a21a7575ae",
+      "title": "Le tre Marie",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Bedollo",
+      "location": "Bedollo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751574"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "54b46b132701",
+      "title": "Le tre Marie",
+      "date": "2026-11-15",
+      "time": "17:00",
+      "venue": "",
+      "location": "Pomarolo",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751576",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751576"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
