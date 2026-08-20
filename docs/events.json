@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T17:21:17.903657+00:00",
-  "count": 374,
+  "last_updated": "2026-08-20T05:24:54.273197+00:00",
+  "count": 372,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4661,54 +4661,6 @@
       "is_past": true
     },
     {
-      "id": "e9120f59401f",
-      "title": "ll teatro delle stelle",
-      "date": "2026-08-19",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748470",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748470"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0e6cd780f616",
-      "title": "Archeologi per un giorno",
-      "date": "2026-08-19",
-      "time": "15:00",
-      "venue": "Museo Retico",
-      "location": "Sanzeno",
-      "description": "Archeologia estate 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico-sanzeno2-tdallatina-2/28029529-1-ita-IT/Museo-Retico-Sanzeno2-tdallatina-2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749407",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749407"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c6120f344fa6",
-      "title": "Compartimos: un sogno chiamato Argentina",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "venue": "Teatro del Centro Scolastico di Borgo",
-      "location": "Borgo Valsugana",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751381",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751381"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7cbfcec5ec8d",
       "title": "Compartimos: un sogno chiamato Argentina",
       "date": "2026-08-19",
@@ -4722,7 +4674,7 @@
         "https://www.trentinospettacoli.it/eventi/compartimos-un-sogno-chiamato-argentina/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "11d734371788",
@@ -5084,7 +5036,7 @@
       "venue": "",
       "location": "Nago-Torbole",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4153/27982254-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747924"
@@ -5468,7 +5420,7 @@
       "venue": "Casinò Municipale di Arco",
       "location": "Arco",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751384",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751384"
@@ -5500,7 +5452,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-sragionar-di-guerra/28029613-1-ita-IT/12-settembre-sragionar-di-guerra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749456"
@@ -5984,6 +5936,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751576",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751576"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "313b2b037d1b",
+      "title": "A small anatomy | De Dansers",
+      "date": "2026-11-18",
+      "time": "10:00",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751408",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751408"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
