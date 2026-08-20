@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T05:24:54.273197+00:00",
-  "count": 372,
+  "last_updated": "2026-08-20T17:22:55.978084+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4885,6 +4885,22 @@
       "is_past": false
     },
     {
+      "id": "5bd7f3ff1709",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-23",
+      "time": "17:30",
+      "venue": "Tagliata stradale superiore  Obere Strassensperre Civezzano",
+      "location": "Trento",
+      "description": "Sentinelle di pietra 2026 | ore 17.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751590",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751590"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "c7dd13ba7925",
       "title": "Parigi, amore e can-can",
       "date": "2026-08-23",
@@ -4917,6 +4933,22 @@
       "is_past": false
     },
     {
+      "id": "f20902679cba",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-25",
+      "time": "16:00",
+      "venue": "",
+      "location": "Peio",
+      "description": "Sentinelle di pietra 2026 | ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751591",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751591"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9ad59146d096",
       "title": "ll teatro delle stelle",
       "date": "2026-08-26",
@@ -4933,6 +4965,22 @@
       "is_past": false
     },
     {
+      "id": "589dbc6be953",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-26",
+      "time": "17:00",
+      "venue": "Forte Strino",
+      "location": "Vermiglio",
+      "description": "Sentinelle di pietra 2026 | ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751592",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751592"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "478bd004279d",
       "title": "I pitochi",
       "date": "2026-08-27",
@@ -4944,6 +4992,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748775",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748775"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4d27b7fe0fee",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-27",
+      "time": "16:00",
+      "venue": "",
+      "location": "Peio",
+      "description": "Sentinelle di pietra 2026 | ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751593",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751593"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4997,6 +5061,38 @@
       "is_past": false
     },
     {
+      "id": "21496a6e4e1c",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "venue": "Forte Luserna Werk Lusérn ",
+      "location": "Luserna",
+      "description": "Sentinelle di pietra 2026 | ore 11.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751594",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751594"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6b341040c6b5",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "venue": "Forte Tenna Werk Tenna",
+      "location": "Tenna",
+      "description": "Sentinelle di pietra 2026 | ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751595",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751595"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "65b5dc8dad5c",
       "title": "Qualcosa di invisibile",
       "date": "2026-08-29",
@@ -5004,7 +5100,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 21.00 | in caso di pioggia al Teatro di Pergine",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/qualcosadiinvisibile2/28031381-1-ita-IT/qualcosadiinvisibile2_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/748777",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748777"
@@ -5029,6 +5125,39 @@
       "is_past": false
     },
     {
+      "id": "371d4e14ed8f",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-30",
+      "time": "10:30",
+      "venue": "Forte Cadine",
+      "location": "Trento",
+      "description": "Sentinelle di pietra 2026 | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751596",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751596",
+        "https://www.cultura.trentino.it/content/view/full/751597"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "858b548741a8",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-08-30",
+      "time": "17:30",
+      "venue": "Werk Colle delle Benne Forte San Biagio",
+      "location": "Levico Terme",
+      "description": "Sentinelle di pietra 2026 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751598",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751598"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "fa513b978846",
       "title": "Max Angioni",
       "date": "2026-08-30",
@@ -5036,7 +5165,7 @@
       "venue": "",
       "location": "Nago-Torbole",
       "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4153/27982254-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747924"
@@ -5420,7 +5549,7 @@
       "venue": "Casinò Municipale di Arco",
       "location": "Arco",
       "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751384",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751384"
@@ -5452,7 +5581,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-sragionar-di-guerra/28029613-1-ita-IT/12-settembre-sragionar-di-guerra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749456"
@@ -5506,6 +5635,22 @@
         "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "9dd4ce3123ef",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Sentinelle di pietra 2026 | ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751600",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751600"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5573,6 +5718,22 @@
       "is_past": false
     },
     {
+      "id": "90f1dd8c8078",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "venue": "Forte Dosso del Sommo Werk Serrada",
+      "location": "Vignola-Falesina",
+      "description": "Sentinelle di pietra 2026 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751601",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751601"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d6fd8bde2544",
       "title": "Sconcerto a 4 mani",
       "date": "2026-09-26",
@@ -5600,6 +5761,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751568",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751568"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c8c27adcf026",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-10-11",
+      "time": "10:30",
+      "venue": "Forte Garda Werk Garda",
+      "location": "Riva del Garda",
+      "description": "Sentinelle di pietra 2026 | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751603"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cb93e141a7fc",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-10-11",
+      "time": "14:30",
+      "venue": "Forte Sommo Alto Zwischenwerk Sommo",
+      "location": "Riva del Garda",
+      "description": "Sentinelle di pietra 2026 | ore 14.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751604"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
