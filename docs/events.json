@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T17:22:55.978084+00:00",
-  "count": 384,
+  "last_updated": "2026-08-21T05:26:18.441420+00:00",
+  "count": 382,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4677,54 +4677,6 @@
       "is_past": true
     },
     {
-      "id": "11d734371788",
-      "title": "Vengo anch’io",
-      "date": "2026-08-20",
-      "time": null,
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-vengo-anch-io_ina-cara/28009839-1-ita-IT/Fili-d-aria-Vengo-anch-io_Ina-Cara_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748773",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748773"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "a4bafc1de1ae",
-      "title": "Le cose schifose",
-      "date": "2026-08-20",
-      "time": "15:00",
-      "venue": "Giardino botanico alpino - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748361",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748361"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "111a56e35237",
-      "title": "“Dal legno al suono” Manuale minimo di liuteria di e con Nicola Segatta",
-      "date": "2026-08-20",
-      "time": "21:00",
-      "venue": "",
-      "location": "",
-      "description": "Trentino Music Festival | Mezzano Romantica 2026 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mezzano-4-1/28041402-1-ita-IT/Mezzano-4-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749987",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749987"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "a4bffbd48293",
       "title": "Vengo anch'io | Fili d'aria",
       "date": "2026-08-20",
@@ -4738,7 +4690,7 @@
         "https://www.teatrodipergine.it/teatro/2881-vengo-anch-io-fili-d-aria"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "275d2d605db8",
@@ -5068,7 +5020,7 @@
       "venue": "Forte Luserna Werk Lusérn ",
       "location": "Luserna",
       "description": "Sentinelle di pietra 2026 | ore 11.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751594",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751594"
@@ -5084,7 +5036,7 @@
       "venue": "Forte Tenna Werk Tenna",
       "location": "Tenna",
       "description": "Sentinelle di pietra 2026 | ore 20.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751595",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751595"
@@ -5100,7 +5052,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "Un’estate spettacolare 2026 | ore 21.00 | in caso di pioggia al Teatro di Pergine",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/qualcosadiinvisibile2/28031381-1-ita-IT/qualcosadiinvisibile2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748777",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748777"
@@ -6145,6 +6097,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751408",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751408"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1d86ea7c77aa",
+      "title": "I Legnanesi - \"RICORDI\"",
+      "date": "2026-11-19",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750483",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750483"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
