@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T17:22:42.772499+00:00",
-  "count": 382,
+  "last_updated": "2026-08-22T05:20:59.570416+00:00",
+  "count": 379,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4693,54 +4693,6 @@
       "is_past": true
     },
     {
-      "id": "275d2d605db8",
-      "title": "Frammenti d’acqua",
-      "date": "2026-08-21",
-      "time": "17:00",
-      "venue": "Parco Archeo Natura di Fiavé",
-      "location": "Fiavé",
-      "description": "Archeologia estate 2026 | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/frammenti-d-acqua-luisa-moser-47-1/28031304-1-ita-IT/frammenti-d-acqua-Luisa-Moser-47-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749418",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749418"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "98510f645d7d",
-      "title": "Le nuove avventure dei Musicanti di Brema",
-      "date": "2026-08-21",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi di Vezzano",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751382",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751382"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cb1f0841324c",
-      "title": "La vera storia dei musicanti di Brema",
-      "date": "2026-08-21",
-      "time": "20:30",
-      "venue": "",
-      "location": "Arco",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751509",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751509"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "43b982823219",
       "title": "Le nuove avventure dei Musicanti di Brema",
       "date": "2026-08-21",
@@ -4754,7 +4706,7 @@
         "https://www.trentinospettacoli.it/eventi/le-nuove-avventure-dei-musicanti-di-brema-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "aa5fbfc28ed5",
@@ -4770,7 +4722,7 @@
         "https://www.trentinospettacoli.it/eventi/kawai-recital-per-pianoforte-tatiana-larionova-pianoforte/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "7bccc91354e0",
@@ -5084,7 +5036,7 @@
       "venue": "Forte Cadine",
       "location": "Trento",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751596",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751596",
@@ -5117,7 +5069,7 @@
       "venue": "",
       "location": "Nago-Torbole",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4153/27982254-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747924"
