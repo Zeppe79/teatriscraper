@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T17:15:09.606616+00:00",
+  "last_updated": "2026-08-23T05:23:24.361445+00:00",
   "count": 379,
   "events": [
     {
@@ -4725,38 +4725,6 @@
       "is_past": true
     },
     {
-      "id": "7bccc91354e0",
-      "title": "Le Dita di Fuoco",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "venue": "Museo pietra viva - Sant'Orsola (località Stefani)",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | tre spettacoli: alle ore 15.00, 16.00 e 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/22-agosto-burattini-sant-orsola-terme/28008767-1-ita-IT/22-agosto-Burattini-Sant-Orsola-Terme_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748734",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748734"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0d65f01f7e47",
-      "title": "Parigi, amore e can-can",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "venue": "PalaDolomiti - Pinzolo",
-      "location": "Pinzolo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4302/28062522-1-ita-IT/sfondo-ocra-430_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750557",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750557"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "cfd2077bfd02",
       "title": "Parigi, amore e can-can",
       "date": "2026-08-22",
@@ -4770,23 +4738,7 @@
         "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "e2f7134b05c9",
-      "title": "Lucio Gardin in Amore e altri disastri",
-      "date": "2026-08-22",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749304",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749304"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "5bd7f3ff1709",
@@ -5053,7 +5005,7 @@
       "venue": "Werk Colle delle Benne Forte San Biagio",
       "location": "Levico Terme",
       "description": "Sentinelle di pietra 2026 | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751598",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751598"
@@ -5453,7 +5405,7 @@
       "venue": "Casinò Municipale di Arco",
       "location": "Arco",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751384",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751384"
@@ -5485,7 +5437,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-sragionar-di-guerra/28029613-1-ita-IT/12-settembre-sragionar-di-guerra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749456"
@@ -6065,6 +6017,55 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750483",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750483"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6603861ffd61",
+      "title": "Clownerentola",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748899",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748899"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "43643e609468",
+      "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751578",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751578"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b5a0d5952500",
+      "title": "Le tre Marie",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "",
+      "location": "Spiazzo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751577",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751577",
+        "https://www.cultura.trentino.it/content/view/full/751580"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
