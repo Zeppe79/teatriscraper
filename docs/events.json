@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T17:15:38.551138+00:00",
-  "count": 379,
+  "last_updated": "2026-08-24T05:33:13.325922+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4741,38 +4741,6 @@
       "is_past": true
     },
     {
-      "id": "5bd7f3ff1709",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-23",
-      "time": "17:30",
-      "venue": "Tagliata stradale superiore  Obere Strassensperre Civezzano",
-      "location": "Trento",
-      "description": "Sentinelle di pietra 2026 | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751590",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751590"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c7dd13ba7925",
-      "title": "Parigi, amore e can-can",
-      "date": "2026-08-23",
-      "time": "21:00",
-      "venue": "PalaDolomiti - Pinzolo",
-      "location": "Pinzolo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4302/28062522-1-ita-IT/sfondo-ocra-430_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750558",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750558"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "21edd6be20c1",
       "title": "Parigi, amore e can-can",
       "date": "2026-08-23",
@@ -4786,7 +4754,7 @@
         "https://www.trentinospettacoli.it/eventi/parigi-amore-e-can-can/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "f20902679cba",
@@ -5453,7 +5421,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 19.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751385"
@@ -5501,7 +5469,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751600",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751600"
