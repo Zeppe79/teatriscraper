@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T05:26:08.178433+00:00",
-  "count": 377,
+  "last_updated": "2026-08-25T17:25:53.718957+00:00",
+  "count": 381,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4805,22 +4805,6 @@
       "is_past": false
     },
     {
-      "id": "478bd004279d",
-      "title": "I pitochi",
-      "date": "2026-08-27",
-      "time": null,
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/ipitocchi2/28031367-1-ita-IT/ipitocchi2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748775",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748775"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "4d27b7fe0fee",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-08-27",
@@ -4832,6 +4816,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751593",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751593"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7b8ee63f7c95",
+      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
+      "date": "2026-08-27",
+      "time": "17:00",
+      "venue": "Museo geologico delle Dolomiti - Predazzo",
+      "location": "Predazzo",
+      "description": "ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751674",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751674"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "478bd004279d",
+      "title": "I pitochi",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "Un’estate spettacolare 2026 | ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fili-d-aria-i-pitochi_ph.-giovanna-gianesin2/28096499-1-ita-IT/Fili-d-aria-i-pitochi_ph.-Giovanna-Gianesin_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748775",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748775"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4956,10 +4972,9 @@
       "venue": "Forte Cadine",
       "location": "Trento",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751596",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/forte-cadine-cbasso/27507538-1-ita-IT/Forte-Cadine-cbasso_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751597",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751596",
         "https://www.cultura.trentino.it/content/view/full/751597"
       ],
       "source_name": "cultura.trentino.it",
@@ -5043,6 +5058,22 @@
         "https://www.teatrodipergine.it/musica/2897-transformingnature-castello"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "31f27e562711",
+      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
+      "date": "2026-09-03",
+      "time": "17:00",
+      "venue": "Museo geologico delle Dolomiti - Predazzo",
+      "location": "Predazzo",
+      "description": "ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751675",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751675"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5366,6 +5397,22 @@
       "is_past": false
     },
     {
+      "id": "4e59e3c17476",
+      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
+      "date": "2026-09-10",
+      "time": "17:00",
+      "venue": "Museo geologico delle Dolomiti - Predazzo",
+      "location": "Predazzo",
+      "description": "ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751676",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751676"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "a75399ad3ea3",
       "title": "Brecht Weill | L'opera da tre soldi",
       "date": "2026-09-11",
@@ -5398,6 +5445,22 @@
       "is_past": false
     },
     {
+      "id": "5f489f15e0b4",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-09-12",
+      "time": "15:00",
+      "venue": "Istituto Cimbro - Kulturinstitut Lusérn",
+      "location": "Luserna",
+      "description": "Sentinelle di pietra 2026 | ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751660",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751660"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "21990a7ca9f8",
       "title": "A (S)Ragionar di Guerra",
       "date": "2026-09-12",
@@ -5405,7 +5468,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-sragionar-di-guerra/28029613-1-ita-IT/12-settembre-sragionar-di-guerra_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-1-1/28096194-1-ita-IT/12-settembre-1-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749456"
@@ -5421,7 +5484,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751385"
@@ -5469,7 +5532,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751600",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751600"
@@ -5547,7 +5610,7 @@
       "date": "2026-09-26",
       "time": "16:00",
       "venue": "Forte Dosso del Sommo Werk Serrada",
-      "location": "Vignola-Falesina",
+      "location": "Folgaria",
       "description": "Sentinelle di pietra 2026 | ore 16.00",
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751601",
