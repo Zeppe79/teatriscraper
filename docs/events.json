@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T17:25:53.718957+00:00",
-  "count": 381,
+  "last_updated": "2026-08-26T05:28:21.891567+00:00",
+  "count": 380,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4757,22 +4757,6 @@
       "is_past": true
     },
     {
-      "id": "f20902679cba",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-25",
-      "time": "16:00",
-      "venue": "",
-      "location": "Peio",
-      "description": "Sentinelle di pietra 2026 | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751591",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751591"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "9ad59146d096",
       "title": "ll teatro delle stelle",
       "date": "2026-08-26",
@@ -5452,7 +5436,7 @@
       "venue": "Istituto Cimbro - Kulturinstitut Lusérn",
       "location": "Luserna",
       "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751660",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751660"
