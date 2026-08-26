@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T05:28:21.891567+00:00",
-  "count": 380,
+  "last_updated": "2026-08-26T18:52:26.284308+00:00",
+  "count": 392,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5205,6 +5205,22 @@
       "is_past": false
     },
     {
+      "id": "1b5ab8643018",
+      "title": "Il filo della tradizione nella città azzurra",
+      "date": "2026-09-05",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2925-il-filo-della-tradizione-nella-citta-azzurra",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2925-il-filo-della-tradizione-nella-citta-azzurra"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "c06af3b2a89e",
       "title": "Visita guidata a Progetto Manifattura",
       "date": "2026-09-05",
@@ -5461,6 +5477,22 @@
       "is_past": false
     },
     {
+      "id": "e06ea7a02e49",
+      "title": "Il filo della tradizione nella città azzurra",
+      "date": "2026-09-12",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2927-il-filo-della-tradizione-nella-citta-azzurra-2",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2927-il-filo-della-tradizione-nella-citta-azzurra-2"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "cd1aca59235e",
       "title": "Brecht Weill | L'opera da tre soldi",
       "date": "2026-09-13",
@@ -5522,6 +5554,70 @@
         "https://www.cultura.trentino.it/content/view/full/751600"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a853a477fc85",
+      "title": "Il filo della tradizione nella città azzurra",
+      "date": "2026-09-19",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a28224069509",
+      "title": "Rita",
+      "date": "2026-09-19",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rita1.JPG",
+      "source_url": "https://www.teatrodipergine.it/teatro/2926-rita-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2926-rita-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "c71088598c5e",
+      "title": "Rita",
+      "date": "2026-09-20",
+      "time": "11:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rita1.JPG",
+      "source_url": "https://www.teatrodipergine.it/teatro/2926-rita-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2926-rita-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a8f5aeca41f5",
+      "title": "Rita",
+      "date": "2026-09-21",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rita1.JPG",
+      "source_url": "https://www.teatrodipergine.it/teatro/2926-rita-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2926-rita-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5621,6 +5717,86 @@
       "is_past": false
     },
     {
+      "id": "f6ad27bbd3ff",
+      "title": "Il filo della tradizione nella città azzurra",
+      "date": "2026-09-26",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2929-il-filo-della-tradizione-nella-citta-azzurra-4",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2929-il-filo-della-tradizione-nella-citta-azzurra-4"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "29b65234cbc8",
+      "title": "Na carega col cusin",
+      "date": "2026-09-26",
+      "time": "20:45",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751735",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751735"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ade315785395",
+      "title": "Sior Todero brontolon",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Ospedaletto",
+      "location": "Ospedaletto",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751736",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751736"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1c5c55ac63b3",
+      "title": "Viva Robin!",
+      "date": "2026-10-03",
+      "time": "21:00",
+      "venue": "",
+      "location": "Madruzzo",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751737"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "02910b695406",
+      "title": "Padri per un terzo – Quell’estate sull’isola",
+      "date": "2026-10-10",
+      "time": "20:30",
+      "venue": "Teatro Parrocchiale di Pieve",
+      "location": "",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751738"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e7bc06ae9d99",
       "title": "L’è afondà l’embarcadero",
       "date": "2026-10-10",
@@ -5631,7 +5807,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751568",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751568"
+        "https://www.cultura.trentino.it/content/view/full/751568",
+        "https://www.cultura.trentino.it/content/view/full/751739"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5664,6 +5841,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751604"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "78b85af00fa4",
+      "title": "Sior Todero brontolon",
+      "date": "2026-10-11",
+      "time": "15:30",
+      "venue": "Auditorium Casa della Gioventù di Predazzo",
+      "location": "Predazzo",
+      "description": "ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751741",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751741"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
