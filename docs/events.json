@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T18:52:26.284308+00:00",
-  "count": 392,
+  "last_updated": "2026-08-27T16:03:26.024131+00:00",
+  "count": 395,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4757,38 +4757,6 @@
       "is_past": true
     },
     {
-      "id": "9ad59146d096",
-      "title": "ll teatro delle stelle",
-      "date": "2026-08-26",
-      "time": null,
-      "venue": "Terrazza delle stelle - Viote del Monte Bondone",
-      "location": "Trento",
-      "description": "Un'estate tra fiori e notti stellate alle Viote del Monte Bondone 2026 | ore 21-23",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/terrazza-delle-stelle-monte-bondone-1/27998531-1-ita-IT/Terrazza-delle-Stelle-Monte-Bondone-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748471",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748471"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "589dbc6be953",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-26",
-      "time": "17:00",
-      "venue": "Forte Strino",
-      "location": "Vermiglio",
-      "description": "Sentinelle di pietra 2026 | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751592",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751592"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "4d27b7fe0fee",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-08-27",
@@ -4992,6 +4960,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747924"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7735a609a61a",
+      "title": "Max Angioni | Anche Meno - round finale",
+      "date": "2026-08-30",
+      "time": "21:00",
+      "venue": "",
+      "location": "Nago-Torbole",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751814",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751814"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5429,6 +5413,22 @@
       "is_past": false
     },
     {
+      "id": "30e55d1e2c8f",
+      "title": "Teatro musicale Garda trentino debutta con «L'opera da tre soldi»",
+      "date": "2026-09-11",
+      "time": "21:00",
+      "venue": "Casinò Municipale di Arco",
+      "location": "Arco",
+      "description": "ore 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751809",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751809"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "027d14654ae6",
       "title": "BRECHT WEILL L’opera da tre soldi",
       "date": "2026-09-11",
@@ -5504,6 +5504,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751385"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "84a2514220e0",
+      "title": "Teatro musicale Garda trentino debutta con «L'opera da tre soldi»",
+      "date": "2026-09-13",
+      "time": "19:00",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 19.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751810",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751810"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -6274,6 +6290,38 @@
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751577",
         "https://www.cultura.trentino.it/content/view/full/751580"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "86a33a89366a",
+      "title": "Vestire gli ignudi | De Dansers",
+      "date": "2026-11-25",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751409",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751409"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4d65c1478e39",
+      "title": "Raul Cremona - Bravisssssimo!",
+      "date": "2026-11-25",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750485",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750485"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
