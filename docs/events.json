@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T17:07:12.453122+00:00",
-  "count": 391,
+  "last_updated": "2026-08-29T11:27:21.222410+00:00",
+  "count": 390,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4757,38 +4757,6 @@
       "is_past": true
     },
     {
-      "id": "094640bd0311",
-      "title": "Dino Tebaldi, tra Ferrara e la Valle dei Mòcheni",
-      "date": "2026-08-28",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/28-agosto-2026-tebaldi-1/28069921-1-ita-IT/28-agosto-2026-TEBALDI-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750767",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750767"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7711173db241",
-      "title": "Prometeo Capovolto \"Pensieri solo pensieri\"",
-      "date": "2026-08-28",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749308",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749308"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "21496a6e4e1c",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-08-29",
@@ -5596,7 +5564,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4152/27973693-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747682"
@@ -5660,7 +5628,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/26-settembre-3/28092059-1-ita-IT/26-settembre-3_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751513",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751513"
@@ -6258,6 +6226,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750485",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750485"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6e655e7e02d6",
+      "title": "Antropocene e altri poceti",
+      "date": "2026-11-27",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751579",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751579"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
