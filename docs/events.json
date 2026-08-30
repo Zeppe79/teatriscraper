@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T19:35:40.594473+00:00",
-  "count": 390,
+  "last_updated": "2026-08-30T10:13:59.412133+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4757,70 +4757,6 @@
       "is_past": true
     },
     {
-      "id": "21496a6e4e1c",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-29",
-      "time": "11:00",
-      "venue": "Forte Luserna Werk Lusérn ",
-      "location": "Luserna",
-      "description": "Sentinelle di pietra 2026 | ore 11.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751594",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751594"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6b341040c6b5",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-29",
-      "time": "20:00",
-      "venue": "Forte Tenna Werk Tenna",
-      "location": "Tenna",
-      "description": "Sentinelle di pietra 2026 | ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751595",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751595"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "65b5dc8dad5c",
-      "title": "Qualcosa di invisibile",
-      "date": "2026-08-29",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "Un’estate spettacolare 2026 | ore 21.00 | in caso di pioggia al Teatro di Pergine",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/qualcosadiinvisibile2/28031381-1-ita-IT/qualcosadiinvisibile2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748777",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748777"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "508577d34bbd",
-      "title": "Frankie hi-nrg mc in “Voce e batteria”",
-      "date": "2026-08-29",
-      "time": "21:15",
-      "venue": "",
-      "location": "Trento",
-      "description": "Teatro Capovolto 2026 | ore 21.15",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tcapovolto26-generiche_sitoimm800x600/28021374-1-ita-IT/TCAPOVOLTO26-generiche_sitoimm800x600_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749309",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749309"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "371d4e14ed8f",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-08-30",
@@ -5612,7 +5548,7 @@
       "venue": "Forte Dosso del Sommo Werk Serrada",
       "location": "Folgaria",
       "description": "Sentinelle di pietra 2026 | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751601",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751601"
@@ -5660,7 +5596,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751735",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751735"
@@ -5676,7 +5612,7 @@
       "venue": "Teatro Comunale di Ospedaletto",
       "location": "Ospedaletto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751736",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751736"
@@ -5692,7 +5628,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751737"
