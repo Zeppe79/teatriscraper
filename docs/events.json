@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T19:36:28.130438+00:00",
-  "count": 386,
+  "last_updated": "2026-08-31T11:17:51.603330+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4757,70 +4757,6 @@
       "is_past": true
     },
     {
-      "id": "371d4e14ed8f",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-30",
-      "time": "10:30",
-      "venue": "Forte Cadine",
-      "location": "Trento",
-      "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/forte-cadine-cbasso/27507538-1-ita-IT/Forte-Cadine-cbasso_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751597",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751597"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "858b548741a8",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-08-30",
-      "time": "17:30",
-      "venue": "Werk Colle delle Benne Forte San Biagio",
-      "location": "Levico Terme",
-      "description": "Sentinelle di pietra 2026 | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751598",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751598"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "fa513b978846",
-      "title": "Max Angioni",
-      "date": "2026-08-30",
-      "time": "21:00",
-      "venue": "",
-      "location": "Nago-Torbole",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4153/27982254-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747924",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747924"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7735a609a61a",
-      "title": "Max Angioni | Anche Meno - round finale",
-      "date": "2026-08-30",
-      "time": "21:00",
-      "venue": "",
-      "location": "Nago-Torbole",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751814",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751814"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7f429cb66bfd",
       "title": "Le città di pianura",
       "date": "2026-09-01",
@@ -5032,7 +4968,7 @@
       "id": "1b5ab8643018",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-05",
-      "time": "18:00",
+      "time": "17:00",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
       "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
@@ -5237,6 +5173,22 @@
       "is_past": false
     },
     {
+      "id": "daa93c07ae19",
+      "title": "Sulle note del cinema",
+      "date": "2026-09-11",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Festa Granda",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/sullenotedelcinema.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2930-sulle-note-del-cinema",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2930-sulle-note-del-cinema"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "a75399ad3ea3",
       "title": "Brecht Weill | L'opera da tre soldi",
       "date": "2026-09-11",
@@ -5320,7 +5272,7 @@
       "id": "e06ea7a02e49",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-12",
-      "time": "18:00",
+      "time": "17:00",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
       "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
@@ -5416,7 +5368,7 @@
       "id": "a853a477fc85",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-19",
-      "time": "18:00",
+      "time": "17:00",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
       "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
@@ -5541,6 +5493,22 @@
       "is_past": false
     },
     {
+      "id": "e828c9c7cf67",
+      "title": "Nonna Nunzia - Spazio ultima dentiera",
+      "date": "2026-09-25",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/nonnanunzia1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2931-nonna-nunzia-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2931-nonna-nunzia-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "90f1dd8c8078",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-09-26",
@@ -5570,22 +5538,6 @@
         "https://www.cultura.trentino.it/content/view/full/751513"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f6ad27bbd3ff",
-      "title": "Il filo della tradizione nella città azzurra",
-      "date": "2026-09-26",
-      "time": "18:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2929-il-filo-della-tradizione-nella-citta-azzurra-4",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2929-il-filo-della-tradizione-nella-citta-azzurra-4"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5644,7 +5596,7 @@
       "venue": "Teatro Parrocchiale di Pieve",
       "location": "",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751738"
@@ -5660,7 +5612,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751568",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751568",
@@ -5677,7 +5629,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
@@ -6178,6 +6130,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751579",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751579"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "90f41b1a6890",
+      "title": "Truffaldino e lo Spirito del Natale",
+      "date": "2026-11-29",
+      "time": "17:30",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748740",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748740"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
