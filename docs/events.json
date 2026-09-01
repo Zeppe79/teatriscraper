@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T21:43:52.908768+00:00",
-  "count": 384,
+  "last_updated": "2026-09-01T09:43:14.047489+00:00",
+  "count": 374,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4341,22 +4341,6 @@
       "is_past": true
     },
     {
-      "id": "141114168f38",
-      "title": "Le fiabe di Giovanna Borzaga | Estateatro",
-      "date": "2026-08-01",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Parco di Serso (in caso di pioggia Sala frazionale di Serso)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2913-le-fiabe-di-giovanna-borzaga-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2913-le-fiabe-di-giovanna-borzaga-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "d00808657d09",
       "title": "VINCEN GARCIA – GJF 2026",
       "date": "2026-08-01",
@@ -4370,38 +4354,6 @@
         "https://www.trentinospettacoli.it/eventi/vincen-garcia/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "995f58fcc039",
-      "title": "Fiabe e leggende delle Dolomiti | Estateatro",
-      "date": "2026-08-02",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Parco giochi di Nogarè (in caso di pioggia Casa sociale di Nogarè)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2914-fiabe-e-leggende-delle-dolomiti-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2914-fiabe-e-leggende-delle-dolomiti-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "fa1e0c27fc73",
-      "title": "Le opere complete di Shakespeare in 90 minuti | Fili d'aria",
-      "date": "2026-08-02",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/leoperecomplete1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2879-le-opere-di-shakespeare-in-90-minuti-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4421,22 +4373,6 @@
       "is_past": true
     },
     {
-      "id": "85ca36f1c7bc",
-      "title": "Testa o croce?",
-      "date": "2026-08-04",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/testaocroce1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2892-testa-o-croce-cinema-estate",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2892-testa-o-croce-cinema-estate"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "ba6ffed9dbbf",
       "title": "Kawai – Recital pianistico OLAF JOHN LANERI",
       "date": "2026-08-04",
@@ -4450,22 +4386,6 @@
         "https://www.trentinospettacoli.it/eventi/kawai-recital-pianistico-olaf-john-laneri/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "0457feff8282",
-      "title": "How does it feel? | Fili d'aria",
-      "date": "2026-08-06",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/howdoesitfeel1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2880-how-does-it-feel-fili-d-aria",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2880-how-does-it-feel-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4501,22 +4421,6 @@
       "is_past": true
     },
     {
-      "id": "65065b6379d3",
-      "title": "Il segreto del medaglione | Estateatro",
-      "date": "2026-08-08",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Parco di Canezza (in caso di pioggia Sala filodrammatica di Canezza)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2915-il-segreto-del-medaglione-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2915-il-segreto-del-medaglione-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "d000ab2283f2",
       "title": "FABRIZIO BOSSO & JULIAN OLIVER MAZZARIELLO – GJF 2026",
       "date": "2026-08-08",
@@ -4533,38 +4437,6 @@
       "is_past": true
     },
     {
-      "id": "d07c19e8c136",
-      "title": "La tata perfetta | Estateatro",
-      "date": "2026-08-09",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Teatro di Zivignago",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2916-la-tata-perfetta-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2916-la-tata-perfetta-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "f280912d967a",
-      "title": "Terzo concerto estivo della Banda Sociale di Pergine",
-      "date": "2026-08-09",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Piazza Municipio - in caso di pioggia evento annullato",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Musica/bandasocialepergine125.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2901-terzo-concerto-estivo-banda-pergine-26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2901-terzo-concerto-estivo-banda-pergine-26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "9a917c3bd6bf",
       "title": "EMMA SMITH – GJF 2026",
       "date": "2026-08-09",
@@ -4578,22 +4450,6 @@
         "https://www.trentinospettacoli.it/eventi/emma-smith-gjf-2026/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "be94f542fb67",
-      "title": "Salieri vs. Mozart",
-      "date": "2026-08-11",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Musica | Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/orchestrahaydn1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2898-orchestra-haydn-11-agosto",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2898-orchestra-haydn-11-agosto"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4674,22 +4530,6 @@
         "https://www.trentinospettacoli.it/eventi/compartimos-un-sogno-chiamato-argentina/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": true
-    },
-    {
-      "id": "a4bffbd48293",
-      "title": "Vengo anch'io | Fili d'aria",
-      "date": "2026-08-20",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "FILI D'ARIA | Corte Ex-Filanda - in caso di pioggia Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Teatro/vengoanchio1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2881-vengo-anch-io-fili-d-aria",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/109-teatro-2025-2026/2881-vengo-anch-io-fili-d-aria"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -4994,6 +4834,22 @@
         "https://www.crushsite.it/it/didattica/2026visita-guidata-a-progetto-manifattura.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "330e79c2318e",
+      "title": "Giornata dell'Autonomia - Note d'Autonomia, voci di montagna in coro",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Sabato 5 settembre 2026 - ore 20.30",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/giornataautonomia.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2932-giornata-dell-autonomia",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2932-giornata-dell-autonomia"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5490,22 +5346,6 @@
         "https://www.trentinospettacoli.it/eventi/lavanda/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "e828c9c7cf67",
-      "title": "Nonna Nunzia - Spazio ultima dentiera",
-      "date": "2026-09-25",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/nonnanunzia1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2931-nonna-nunzia-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2931-nonna-nunzia-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
