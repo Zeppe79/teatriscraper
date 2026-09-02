@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T19:43:50.325129+00:00",
-  "count": 375,
+  "last_updated": "2026-09-02T09:14:39.740132+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4605,12 +4605,12 @@
       "location": "Pergine Valsugana",
       "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lecittadipianura1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2894-le-citta-di-pianura-cinema-estate",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2894-le-citta-di-pianura-cinema-estate",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2894-le-citta-di-pianura-cinema-estate"
+        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2894-le-citta-di-pianura-cinema-estate"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "325d650faafb",
@@ -4642,22 +4642,6 @@
         "https://www.teatrodipergine.it/musica/2897-transformingnature-castello"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "31f27e562711",
-      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
-      "date": "2026-09-03",
-      "time": "17:00",
-      "venue": "Museo geologico delle Dolomiti - Predazzo",
-      "location": "Predazzo",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751675",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751675"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5013,22 +4997,6 @@
       "is_past": false
     },
     {
-      "id": "4e59e3c17476",
-      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
-      "date": "2026-09-10",
-      "time": "17:00",
-      "venue": "Museo geologico delle Dolomiti - Predazzo",
-      "location": "Predazzo",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751676",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751676"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "daa93c07ae19",
       "title": "Sulle note del cinema",
       "date": "2026-09-11",
@@ -5042,38 +5010,6 @@
         "https://www.teatrodipergine.it/eventi/2930-sulle-note-del-cinema"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "a75399ad3ea3",
-      "title": "Brecht Weill | L'opera da tre soldi",
-      "date": "2026-09-11",
-      "time": "21:00",
-      "venue": "Casinò Municipale di Arco",
-      "location": "Arco",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751384",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751384"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "30e55d1e2c8f",
-      "title": "Teatro musicale Garda trentino debutta con «L'opera da tre soldi»",
-      "date": "2026-09-11",
-      "time": "21:00",
-      "venue": "Casinò Municipale di Arco",
-      "location": "Arco",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751809",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751809"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5093,38 +5029,6 @@
       "is_past": false
     },
     {
-      "id": "5f489f15e0b4",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "venue": "Istituto Cimbro - Kulturinstitut Lusérn",
-      "location": "Luserna",
-      "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751660",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751660"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "21990a7ca9f8",
-      "title": "A (S)Ragionar di Guerra",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-1-1/28096194-1-ita-IT/12-settembre-1-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749456"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e06ea7a02e49",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-12",
@@ -5138,38 +5042,6 @@
         "https://www.teatrodipergine.it/eventi/2927-il-filo-della-tradizione-nella-citta-azzurra-2"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "cd1aca59235e",
-      "title": "Brecht Weill | L'opera da tre soldi",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751385"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "84a2514220e0",
-      "title": "Teatro musicale Garda trentino debutta con «L'opera da tre soldi»",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751810",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751810"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5202,22 +5074,6 @@
         "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "9dd4ce3123ef",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751600",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751600"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5285,38 +5141,6 @@
       "is_past": false
     },
     {
-      "id": "deab90f0764e",
-      "title": "Attraverso i tuoi occhi",
-      "date": "2026-09-23",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/23-settembre-2/28076265-1-ita-IT/23-settembre-2_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751018",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751018"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c7674a6ab0f3",
-      "title": "Dammi rose senza spine",
-      "date": "2026-09-24",
-      "time": "21:00",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4152/27973693-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747682"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "1f7fedb094e5",
       "title": "Dammi rose senza spine",
       "date": "2026-09-24",
@@ -5349,167 +5173,6 @@
       "is_past": false
     },
     {
-      "id": "90f1dd8c8078",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "venue": "Forte Dosso del Sommo Werk Serrada",
-      "location": "Folgaria",
-      "description": "Sentinelle di pietra 2026 | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751601",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751601"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d6fd8bde2544",
-      "title": "Sconcerto a 4 mani",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/26-settembre-3/28092059-1-ita-IT/26-settembre-3_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751513",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751513"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "29b65234cbc8",
-      "title": "Na carega col cusin",
-      "date": "2026-09-26",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751735",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751735"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ade315785395",
-      "title": "Sior Todero brontolon",
-      "date": "2026-10-03",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Ospedaletto",
-      "location": "Ospedaletto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751736",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751736"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1c5c55ac63b3",
-      "title": "Viva Robin!",
-      "date": "2026-10-03",
-      "time": "21:00",
-      "venue": "",
-      "location": "Madruzzo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751737"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "02910b695406",
-      "title": "Padri per un terzo – Quell’estate sull’isola",
-      "date": "2026-10-10",
-      "time": "20:30",
-      "venue": "Teatro Parrocchiale di Pieve",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751738"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e7bc06ae9d99",
-      "title": "L’è afondà l’embarcadero",
-      "date": "2026-10-10",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751568",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751568",
-        "https://www.cultura.trentino.it/content/view/full/751739"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c8c27adcf026",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-10-11",
-      "time": "10:30",
-      "venue": "Forte Garda Werk Garda",
-      "location": "Riva del Garda",
-      "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751603"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cb93e141a7fc",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-10-11",
-      "time": "14:30",
-      "venue": "Forte Sommo Alto Zwischenwerk Sommo",
-      "location": "Riva del Garda",
-      "description": "Sentinelle di pietra 2026 | ore 14.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751604"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "78b85af00fa4",
-      "title": "Sior Todero brontolon",
-      "date": "2026-10-11",
-      "time": "15:30",
-      "venue": "Auditorium Casa della Gioventù di Predazzo",
-      "location": "Predazzo",
-      "description": "ore 15.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751741",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751741"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c4b9dd373a22",
       "title": "JUDITH HILL",
       "date": "2026-10-15",
@@ -5526,198 +5189,6 @@
       "is_past": false
     },
     {
-      "id": "4d4b2f818e39",
-      "title": "Hansel e Gretel",
-      "date": "2026-10-17",
-      "time": "17:30",
-      "venue": "",
-      "location": "Frassilongo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748736",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748736"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "76cf13002103",
-      "title": "Turbopaolo - Il Poliziotto del Formaggio",
-      "date": "2026-10-18",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750473",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750473"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5b470d7cb78c",
-      "title": "Ozpetek",
-      "date": "2026-10-21",
-      "time": "19:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 21 ottobre alle ore 19.30\nil 22 e il 23 ottobre alle ore 20.30\nil 24 ottobre alle ore 18.00\nil 25 ottobre alle ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747762",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747762"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "27511182f3a7",
-      "title": "Ubaldo Pantani - Inimitabile",
-      "date": "2026-10-22",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750474",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750474"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c6ebe2bf1729",
-      "title": "Coppie scoppiate",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751569",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751569"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "41bfc04c5fec",
-      "title": "Madre Courage e i suoi figli",
-      "date": "2026-10-29",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 29 e il 30 ottobre alle ore 20.30\nil 31 ottobre alle ore 18.00\nil 1. novembre alle ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747763",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747763"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5c355c41e402",
-      "title": "Paolo Nori racconta Il maestro e Margherita",
-      "date": "2026-10-29",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00\nRISERVATO ALLE SCUOLE",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750475",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750475"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c698d96970be",
-      "title": "Antonio e Scipione Salvotti",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 17.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751570",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751570"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "851ad22fba73",
-      "title": "Chat a due piazze",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751572",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751572"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cc601aafee9e",
-      "title": "L’equivoco",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751571",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751571"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "aa788846f04c",
-      "title": "Breaking Brecht",
-      "date": "2026-11-03",
-      "time": "20:30",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "Stagione AudiPOP 2026/2027 | ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751395",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751395"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "4994dccf0227",
-      "title": "Ero un bullo | Fondazione Aida",
-      "date": "2026-11-04",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751406",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751406"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "34e1977059e8",
       "title": "piacere, Denaro!",
       "date": "2026-11-05",
@@ -5731,279 +5202,6 @@
         "https://www.trentinospettacoli.it/eventi/piacere-denaro-conferenza-spettacolo-per-unattrice-e-uneconomista/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
-    },
-    {
-      "id": "c7eefb5df5e1",
-      "title": "L’importanza de ciamarse Onesto",
-      "date": "2026-11-07",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751573",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751573"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1f1d6b571b82",
-      "title": "Francesca Michielin - Data Zero",
-      "date": "2026-11-08",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750481",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750481"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "9d17c9f112e7",
-      "title": "Every brilliant thing | Teatro Telaio",
-      "date": "2026-11-12",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751407",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751407"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "09db566f2428",
-      "title": "Le ultime lune",
-      "date": "2026-11-12",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 12 e il 13 novembre alle ore 20.30\nil 14 novembre alle ore 18.00\nil 15 novembre alle ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747764",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747764"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "12768e5a623f",
-      "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750482",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750482"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "749289bf1e0f",
-      "title": "Un’incauta lettera d’amore",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751575",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751575"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "29a21a7575ae",
-      "title": "Le tre Marie",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Bedollo",
-      "location": "Bedollo",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751574"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "54b46b132701",
-      "title": "Le tre Marie",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "venue": "",
-      "location": "Pomarolo",
-      "description": "ore 17.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751576",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751576"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "313b2b037d1b",
-      "title": "A small anatomy | De Dansers",
-      "date": "2026-11-18",
-      "time": "10:00",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751408",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751408"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1d86ea7c77aa",
-      "title": "I Legnanesi - \"RICORDI\"",
-      "date": "2026-11-19",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750483",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750483"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6603861ffd61",
-      "title": "Clownerentola",
-      "date": "2026-11-21",
-      "time": "17:00",
-      "venue": "",
-      "location": "Fierozzo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748899",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748899"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "43643e609468",
-      "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
-      "date": "2026-11-21",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751578",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751578"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b5a0d5952500",
-      "title": "Le tre Marie",
-      "date": "2026-11-21",
-      "time": "20:45",
-      "venue": "",
-      "location": "Spiazzo",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751577",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751577",
-        "https://www.cultura.trentino.it/content/view/full/751580"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "86a33a89366a",
-      "title": "Vestire gli ignudi | De Dansers",
-      "date": "2026-11-25",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751409",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751409"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "4d65c1478e39",
-      "title": "Raul Cremona - Bravisssssimo!",
-      "date": "2026-11-25",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750485",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750485"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6e655e7e02d6",
-      "title": "Antropocene e altri poceti",
-      "date": "2026-11-27",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751579",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751579"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "90f41b1a6890",
-      "title": "Truffaldino e lo Spirito del Natale",
-      "date": "2026-11-29",
-      "time": "17:30",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748740",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748740"
-      ],
-      "source_name": "cultura.trentino.it",
       "is_past": false
     }
   ]
