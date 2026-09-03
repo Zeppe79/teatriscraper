@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T19:36:13.991313+00:00",
-  "count": 375,
+  "last_updated": "2026-09-03T09:22:43.129831+00:00",
+  "count": 374,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4613,22 +4613,6 @@
       "is_past": true
     },
     {
-      "id": "325d650faafb",
-      "title": "Closing performance - Totentanz",
-      "date": "2026-09-02",
-      "time": "19:00",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Ingresso libero e gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067133-orienteoccidenteanteprima.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/closing-performance-totentanz.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/closing-performance-totentanz.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "1ba45c029637",
       "title": "transformingNATURE | Castello",
       "date": "2026-09-02",
@@ -4637,12 +4621,12 @@
       "location": "Pergine Valsugana",
       "description": "CASTELLO DI PERGINE",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/transformingnature.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2897-transformingnature-castello",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2897-transformingnature-castello",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/2897-transformingnature-castello"
+        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2897-transformingnature-castello"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "31f27e562711",
@@ -4949,6 +4933,22 @@
       "is_past": false
     },
     {
+      "id": "1f04a3513076",
+      "title": "Presentazione Corsi di Teatro 2026-2027",
+      "date": "2026-09-08",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Martedì 8 settembre 2026 - ore 18.00",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/Pergine26.png",
+      "source_url": "https://www.teatrodipergine.it/eventi/2933-presentazione-corsi-di-teatro-26-27",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2933-presentazione-corsi-di-teatro-26-27"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "1f573e6c2c49",
       "title": "Chi restituisce memoria - Nicoletta Verna",
       "date": "2026-09-08",
@@ -4976,6 +4976,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/replica.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/replica.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "0ad15de8d4a0",
+      "title": "The Choreography of Water",
+      "date": "2026-09-09",
+      "time": "06:00",
+      "venue": "MUSE, Corso del lavoro e della scienza, Trento",
+      "location": "Trento",
+      "description": "Coreografia e drammaturgia Simona Deaconescu / Oggetti sonori fluidi Ioana Vreme Moser / Musica originale e sound design Simina Oprescu / Interpreti Laura Murariu, Silvia Brazzale, Andra Muntenasu / Assistente Georgia Elza Măciuceanu / Lavorazione del vetro Adrian Sistem / Electronic sound object design Dorian Largen / Direzione tecnica Hermina Stanciulescu Prodotto da Tangaj Collective / Coprodotto da The National Center for Dance in Bucharest Prima nazionale / Cofinanziato da Administration of",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067560-muse-orienteoccidente.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/the-choreography-of-water.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/the-choreography-of-water.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5148,7 +5164,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751385"
@@ -5232,54 +5248,6 @@
       "source_url": "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "a28224069509",
-      "title": "Rita",
-      "date": "2026-09-19",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rita1.JPG",
-      "source_url": "https://www.teatrodipergine.it/teatro/2926-rita-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2926-rita-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "c71088598c5e",
-      "title": "Rita",
-      "date": "2026-09-20",
-      "time": "11:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rita1.JPG",
-      "source_url": "https://www.teatrodipergine.it/teatro/2926-rita-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2926-rita-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "a8f5aeca41f5",
-      "title": "Rita",
-      "date": "2026-09-21",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rita1.JPG",
-      "source_url": "https://www.teatrodipergine.it/teatro/2926-rita-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2926-rita-prestagione"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -5426,6 +5394,22 @@
         "https://www.cultura.trentino.it/content/view/full/751737"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e95ab99e6d74",
+      "title": "Il segreto di FRANCESCO",
+      "date": "2026-10-04",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": null,
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "source_url": "https://www.trentinospettacoli.it/eventi/il-segreto-di-francesco/",
+      "source_urls": [
+        "https://www.trentinospettacoli.it/eventi/il-segreto-di-francesco/"
+      ],
+      "source_name": "trentinospettacoli.it",
       "is_past": false
     },
     {
