@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T09:22:43.129831+00:00",
+  "last_updated": "2026-09-03T19:34:30.154113+00:00",
   "count": 374,
   "events": [
     {
@@ -5164,7 +5164,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 19.00",
-      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751385"
@@ -5436,11 +5436,11 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751568",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751568",
-        "https://www.cultura.trentino.it/content/view/full/751739"
+        "https://www.cultura.trentino.it/content/view/full/751739",
+        "https://www.cultura.trentino.it/content/view/full/751568"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5453,7 +5453,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
@@ -5485,7 +5485,7 @@
       "venue": "Auditorium Casa della Gioventù di Predazzo",
       "location": "Predazzo",
       "description": "ore 15.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sior-todero/28099202-1-ita-IT/Sior-Todero_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751741",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751741"
