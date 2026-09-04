@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T19:34:30.154113+00:00",
-  "count": 374,
+  "last_updated": "2026-09-04T09:16:09.436102+00:00",
+  "count": 373,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4629,54 +4629,6 @@
       "is_past": true
     },
     {
-      "id": "31f27e562711",
-      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
-      "date": "2026-09-03",
-      "time": "17:00",
-      "venue": "Museo geologico delle Dolomiti - Predazzo",
-      "location": "Predazzo",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751675",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751675"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1093e429c5cf",
-      "title": "Chi prende posizione - David Mambouch",
-      "date": "2026-09-03",
-      "time": "18:00",
-      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Ingresso libero e gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067134-0494343b.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-prende-posizione-david-mambouch.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-prende-posizione-david-mambouch.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "c0624c4aa20d",
-      "title": "Prélude Out + Esperanza",
-      "date": "2026-09-03",
-      "time": "20:30",
-      "venue": "Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Spettacolo adatto alle famiglie / Ingresso libero e gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067226-0293123.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/prelude-out-esperanza.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/prelude-out-esperanza.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "85d876beec22",
       "title": "Patatrac | Estateatro",
       "date": "2026-09-03",
@@ -4685,12 +4637,12 @@
       "location": "Pergine Valsugana",
       "description": "ESTATEATRO - Sala frazionale di Canale",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2920-patatrac-estateatro26",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2920-patatrac-estateatro26",
       "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2920-patatrac-estateatro26"
+        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2920-patatrac-estateatro26"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "6d9ccabd392a",
@@ -5029,6 +4981,22 @@
       "is_past": false
     },
     {
+      "id": "b778272151dd",
+      "title": "Chi cerca la verità - Simone Manetti",
+      "date": "2026-09-09",
+      "time": "20:30",
+      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi / Giulio Regeni. Tutto il male del mondo | Italia, 2026, 105’ / Simone Manetti Il documentario che ricostruisce la verità giudiziaria sul sequestro, le torture, l’omicidio di Giulio Regeni, raccontate per la prima volta dai suoi genitori Claudio Regeni e Paola Deffendi e dall’avvocata Alessandra Ballerini. Una ricerca che attraversa anni di silenzi e ostacoli, ma anche di grande coraggio, in cui cercare la verità è diventato un atto di presenza continua. Paola Deffendi e Claudio Regeni",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067559-chicerca.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4e59e3c17476",
       "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
       "date": "2026-09-10",
@@ -5042,6 +5010,22 @@
         "https://www.cultura.trentino.it/content/view/full/751676"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "79d68817d424",
+      "title": "Habitat – cruising intermediale",
+      "date": "2026-09-10",
+      "time": "22:00",
+      "venue": "Mart, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Lo spettacolo è parte di D.Arte, ampia collaborazione tra Oriente Occidente e Mart",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067587-mart-orienteoccidente.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5453,7 +5437,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
