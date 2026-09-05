@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T19:16:02.686691+00:00",
+  "last_updated": "2026-09-05T08:45:29.701053+00:00",
   "count": 373,
   "events": [
     {
@@ -4658,39 +4658,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/la-bellezza-dellimperfezione-installazione-coreografica.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "88a4ccaa1202",
-      "title": "Chi occupa spazi - CHEAP",
-      "date": "2026-09-04",
-      "time": "18:00",
-      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi Un intervento per raccontare l’arte nello spazio pubblico come atto visibile e condiviso. L’affissione diventa presa di parola, gesto politico e poetico insieme. Occuparlo significa trasformarlo: renderlo campo di confronto, di dissenso, di possibilità. CHEAP in dialogo con Sara Zanatta. CHEAP è un progetto artistico nato a Bologna nel 2013 dalla determinazione di sei donne che lavora nello spazio pubblico attraverso l’uso del poster. Intervenendo sui muri della città, sviluppa linguag",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067230-cheap.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-occupa-spazi-cheap.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-occupa-spazi-cheap.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "bda053a895ed",
-      "title": "May B",
-      "date": "2026-09-04",
-      "time": "20:30",
-      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Coreografia Maguy Marin / Interpreti Kostia Chaix, Kaïs Chouibi, Brune De Maurin, Liah Frank, Lazare Huet, Louise Mariotte, Lisa Martinez, Isabelle Missal, Rolando Rocha, Ennio Sammarco / Light designer Alexandre Beneteaud, Albin Chavigno / Costumi Louise Marin / Musiche originali Franz Schubert, Gilles de Binche, Gavin Bryars / Direttore prove Ulises Alvarez / Durata 90’ COPRODUTTORI Compagnie Maguy Marin / Maison des Arts et de la Culture de Créteil / La Compagnie Maguy Marin è sussidiata dal ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067231-019282.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/may-b.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/may-b.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "115c400e209f",
@@ -4706,7 +4674,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/la-bellezza-dellimperfezione.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ccb28760fc8a",
@@ -5010,6 +4978,38 @@
         "https://www.cultura.trentino.it/content/view/full/751676"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "457cee90054c",
+      "title": "Sciucàri",
+      "date": "2026-09-10",
+      "time": "18:00",
+      "venue": "Piazza Urban City, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Una poltrona per due . Incontro introduttivo allo spettacolo con lo staff di Oriente Occidente e il coreografo: giovedì 10 settembre, ore 15, Urban Center / Spettacolo adatto alle famiglie / Ingresso libero e gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067564-susciari.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/sciucari.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/sciucari.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "5d10a013d181",
+      "title": "Chi ridefinisce lo sguardo - Djarah Kan",
+      "date": "2026-09-10",
+      "time": "18:00",
+      "venue": "Smart Lab - Centro Giovani, Viale Trento, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi / Come le identità si intrecciano - Djarah Kan Cosa succede quando cambiamo prospettiva? Con Djarah Kan, scrittrice e attivista italo-ghanese, un attraversamento tra identità, corpi e narrazioni. L’ intersezionalità non è un tema da approfondire, ma un modo di leggere il mondo: genere, provenienza e classe sociale non sono categorie separate, ma identità multiple che si sovrappongono e ridefiniscono il modo in cui vediamo e siamo viste e visti. Djarah Kan è una scrittrice, attivista e ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067582-chiridefiniscelosguardo.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-ridefinisce-lo-sguardo-djarah-kan.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-ridefinisce-lo-sguardo-djarah-kan.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
