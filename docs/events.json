@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T18:44:43.327250+00:00",
+  "last_updated": "2026-09-06T09:06:53.534676+00:00",
   "count": 373,
   "events": [
     {
@@ -4677,38 +4677,6 @@
       "is_past": true
     },
     {
-      "id": "ccb28760fc8a",
-      "title": "Chi interroga il diritto - Micaela Frulli",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi Guerre, crisi umanitarie e alleanze geopolitiche: il diritto internazionale sembra oggi impotente di fronte all'arbitrio dei più forti. Ma quando gli Stati ignorano le regole, la giustizia diventa davvero un'illusione? Un viaggio dietro le quinte delle leggi globali e dei tribunali per capire quali garanzie legali ci restano per difendere i diritti umani e chiedere conto al potere. Micaela Frulli in dialogo con Luisa Chiodi. Micaela Frulli è docente di diritto internazionale all’Univer",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067373-linguaggi26.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-interroga-il-diritto-micaela-frulli.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-interroga-il-diritto-micaela-frulli.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "2580a6660099",
-      "title": "Bamboo",
-      "date": "2026-09-05",
-      "time": "11:30",
-      "venue": "Piazza Caduti sul Lavoro, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Ingresso libero e gratuito / Spettacolo adatto alle famiglie",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067375-bamboo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bamboo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bamboo.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "1b5ab8643018",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-05",
@@ -4722,7 +4690,7 @@
         "https://www.teatrodipergine.it/eventi/2925-il-filo-della-tradizione-nella-citta-azzurra"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c06af3b2a89e",
@@ -4738,7 +4706,7 @@
         "https://www.crushsite.it/it/didattica/2026visita-guidata-a-progetto-manifattura.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "330e79c2318e",
@@ -4754,23 +4722,7 @@
         "https://www.teatrodipergine.it/eventi/2932-giornata-dell-autonomia"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "11ed93c2e0e3",
-      "title": "F*cking Future",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "venue": "Progetto Manifattura, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Direzione artistica e coreografia Marco da Silva Ferreira / Assistenza artistica e drammaturgica Catarina Miranda & Cristina Planas Leitão / Interpreti Catarina Casqueiro, Eríc Amorim dos Santos, Fábio Krayze, Doisy Bryan, Marco da Silva Ferreira, Matias Rocha Moura, Max Makowski, Nala Revlon/José Santos (apprendista), Mélanie Ferreira (residenza) / Musica Rui Lima & Sérgio Martins / Luci Teresa Antunes & Rui Monteiro, Marco da Silva Ferreira / Direzione di produzione Mafalda Bastos / Assistenza",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067377-manif.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fcking-future.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/fcking-future.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9c43a019c1ae",
@@ -5013,6 +4965,22 @@
       "is_past": false
     },
     {
+      "id": "b110d86d7ba4",
+      "title": "Chora – Il vuoto all’origine",
+      "date": "2026-09-10",
+      "time": "20:30",
+      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Coreografia Sofia Nappi in collaborazione con i danzatori KOMOCO / Interpreti Evans Berthelot, Bonni Bogya, India Guanzini, Sem Houmes, Paolo Piancastelli, Senne Reus, Alessia Sinato / Direttore prove Luca Tomasoni / Musica originale e sound design Ciaran Morahan / Con musiche di Alessandro Cortini, Ben Frost (Gluteus Maximus remix), J.S. Bach mixate e integrate da Ciaran Morahan / Luci Alessandro Caso / Costumi Adriano Popolo Rubbio realizzati da Adriano Popolo Rubbio, Adelaide D’Ago / Producti",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067581-4888484.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chora-il-vuoto-allorigine.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/chora-il-vuoto-allorigine.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "79d68817d424",
       "title": "Habitat – cruising intermediale",
       "date": "2026-09-10",
@@ -5024,6 +4992,38 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "59c8d587e290",
+      "title": "Chi amplifica le voci - Raffaele Costantino",
+      "date": "2026-09-11",
+      "time": "18:00",
+      "venue": "Smart Lab - Centro Giovani, Viale Trento, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Linguaggi / Clan Acustico: coordinate sonore - Raffaele Costantino Il suono come modo di confrontarsi con il mondo. Con Clan Acustico, Raffaele Costantino fonde racconto e ascolto, portando in scena registrazioni e racconti che mettono in relazione luoghi e comunità musicali diverse tra loro. L’ascolto diventa qui esperienza collettiva e condivisa: un modo per aprire nuove possibilità di percezione e cambiare prospettiva. In collaborazione con Cooperativa Smart. Un ringraziamento ad Associazione",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067584-raffaele.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-amplifica-le-voci-raffaele-costantino.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/chi-amplifica-le-voci-raffaele-costantino.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "e43092ee77ea",
+      "title": "Living & Leaving",
+      "date": "2026-09-11",
+      "time": "20:30",
+      "venue": "Progetto Manifattura, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Idea e direzione artistica Marcos Morau / Direzione di produzione Juanma G. Galindo / Coreografia Marcos Morau in collaborazione con gli interpreti / Interpreti Fabio Calvisi, Marina Rodríguez / Luci Bernat Jansà / Direttore di scena e oggetti di scena David Pascual / Suono Uriel Ireland / Ideazione costumi Marcos Morau / Logistica e produzione Cristina Goñi Adot, Àngela Boix / Coproduzione La Veronal, Oriente Occidente, Mercat de les Flors, Temporada Alta – Festival de tardor de Catalunya / Con",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067583-003932.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/living-leaving.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/living-leaving.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
