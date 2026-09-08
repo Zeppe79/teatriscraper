@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T09:18:33.477578+00:00",
-  "count": 374,
+  "last_updated": "2026-09-08T19:42:31.594754+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5253,6 +5253,22 @@
       "is_past": false
     },
     {
+      "id": "06ca82c4df37",
+      "title": "“Laundrette”, apertura del progetto Sottotraccia",
+      "date": "2026-09-19",
+      "time": "20:30",
+      "venue": "Cinema Teatro Paradiso di Folgaria",
+      "location": "Folgaria",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752253",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752253"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "deab90f0764e",
       "title": "Attraverso i tuoi occhi",
       "date": "2026-09-23",
@@ -5264,6 +5280,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751018",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751018"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d956dc33b38d",
+      "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
+      "date": "2026-09-24",
+      "time": "20:30",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20:30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752250",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752250"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5298,6 +5330,22 @@
         "https://www.trentinospettacoli.it/eventi/dammi-rose-senza-spine/"
       ],
       "source_name": "trentinospettacoli.it",
+      "is_past": false
+    },
+    {
+      "id": "8ae76151b452",
+      "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
+      "date": "2026-09-25",
+      "time": "20:30",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "ore 20:30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752251",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752251"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5420,7 +5468,7 @@
       "venue": "Teatro Parrocchiale di Pieve",
       "location": "",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751738"
@@ -5436,7 +5484,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751739",
