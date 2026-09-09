@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T09:21:29.582487+00:00",
-  "count": 375,
+  "last_updated": "2026-09-09T19:35:29.680944+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5013,22 +5013,6 @@
       "is_past": false
     },
     {
-      "id": "5f489f15e0b4",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "venue": "Istituto Cimbro - Kulturinstitut Lusérn",
-      "location": "Luserna",
-      "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751660",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751660"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "21990a7ca9f8",
       "title": "A (S)Ragionar di Guerra",
       "date": "2026-09-12",
@@ -5122,6 +5106,22 @@
         "https://www.crushsite.it/it/musica/2026/analog-techno-live-set.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "098d9c4c3024",
+      "title": "Gianluca Gotto | Questione di karma",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 16.00 e 21.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752367",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752367"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5301,6 +5301,22 @@
       "is_past": false
     },
     {
+      "id": "7a3d0e9f1c70",
+      "title": "Sentinelle di Pietra | Oltre la tregua",
+      "date": "2026-09-25",
+      "time": "20:00",
+      "venue": "Forte Tenna Werk Tenna",
+      "location": "Tenna",
+      "description": "Sentinelle di pietra 2026 | ore 20.00 (in caso di maltempo: Teatro parrocchiale)",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752373",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752373"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8ae76151b452",
       "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
       "date": "2026-09-25",
@@ -5414,18 +5430,19 @@
     },
     {
       "id": "e95ab99e6d74",
-      "title": "Il segreto di FRANCESCO",
+      "title": "Il segreto di Francesco",
       "date": "2026-10-04",
       "time": "20:30",
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
-      "description": null,
+      "description": "ore 20.30",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "source_url": "https://www.trentinospettacoli.it/eventi/il-segreto-di-francesco/",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752328",
       "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752328",
         "https://www.trentinospettacoli.it/eventi/il-segreto-di-francesco/"
       ],
-      "source_name": "trentinospettacoli.it",
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5452,7 +5469,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751739",
@@ -5761,6 +5778,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750481",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750481"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ee33ddc280f6",
+      "title": "Federico Basso | Non faccio il bis",
+      "date": "2026-11-09",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752371",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752371"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
