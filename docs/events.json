@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T19:42:31.594754+00:00",
-  "count": 377,
+  "last_updated": "2026-09-09T09:21:29.582487+00:00",
+  "count": 375,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4709,22 +4709,6 @@
       "is_past": true
     },
     {
-      "id": "1803f86889ee",
-      "title": "Presentazione Corsi di Teatro 2026-2027",
-      "date": "2026-09-08",
-      "time": "18:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-112/28115162-1-ita-IT/unnamed-11_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752197",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752197"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "1f04a3513076",
       "title": "Presentazione Corsi di Teatro 2026-2027",
       "date": "2026-09-08",
@@ -4733,44 +4717,12 @@
       "location": "Pergine Valsugana",
       "description": "Martedì 8 settembre 2026 - ore 18.00",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/Pergine26.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2933-presentazione-corsi-di-teatro-26-27",
+      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2933-presentazione-corsi-di-teatro-26-27",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2933-presentazione-corsi-di-teatro-26-27"
+        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2933-presentazione-corsi-di-teatro-26-27"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "1f573e6c2c49",
-      "title": "Chi restituisce memoria - Nicoletta Verna",
-      "date": "2026-09-08",
-      "time": "18:00",
-      "venue": "Sala Conferenze Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi / Quando scegliere il presente significò costruire il futuro Quanto è durata la guerra di liberazione? Quale ponte la collega a ciò che venne dopo? Il passaggio tra Resistenza e nascita della Repubblica spesso scompare. Attraverso i libri di Nicoletta Verna, uno sguardo su come, nel pieno degli eventi, si scelga da che parte stare: tra urgenza, dubbi e responsabilità. In quel presente prese forma un nuovo spazio comune: il futuro, la Repubblica. Nicoletta Verna in dialogo con Giuseppe ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067512-93838.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-restituisce-memoria-nicoletta-verna.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-restituisce-memoria-nicoletta-verna.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "a27d9f1c1fc8",
-      "title": "Replica",
-      "date": "2026-09-08",
-      "time": "20:30",
-      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Regia, coreografia Ginevra Panzetti, Enrico Ticconi / Interpreti Michele Abbondanza, Antonella Bertoni / Musiche originali Hrvoje Niksic / Disegno luci, ingegneria di scena Michele Piazzi / Video Valerio Figuccio / Direzione tecnica Claudio Modugno / Costumi Ginevra Panzetti, Enrico Ticconi / Sartoria Manuela Gober / Progettazione Poliedri Studio Doppio - Alessandro Panzetti / Organizzazione, strategia e sviluppo Dalia Macii / Amministrazione e produzione esecutiva Francesca Leonelli / Comunicaz",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067511-replica.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/replica.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/replica.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "83b1aed4db48",
@@ -4832,6 +4784,22 @@
       "source_url": "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/chi-cerca-la-verita-simone-manetti.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "6a12154a2dff",
+      "title": "Book & tea time",
+      "date": "2026-09-09",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "La nostra data di nascita è molto più di una semplice sequenza di numeri. Cristiana Caria ci accompagna alla scoperta de Il Tuo Codice Cosmico, tra numeri, significati e caratteristiche personali Durante la serata, anche il pubblico sarà protagonista: metti in gioco la tua data di nascita e scopri cosa può raccontare di te. Iniziativa realizzata all'interno del progetto Zeronovantanove . In collaborazione con Biblioteca Vallelaghi e Biblioteca Valle di Cavedine. Book & tea time Un momento inform",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068356-6a6a6.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/book-tea-time.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/book-tea-time.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5484,7 +5452,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751739",
