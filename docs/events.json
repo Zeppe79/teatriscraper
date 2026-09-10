@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T09:20:12.761720+00:00",
-  "count": 377,
+  "last_updated": "2026-09-10T19:25:50.662477+00:00",
+  "count": 378,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5189,6 +5189,22 @@
       "is_past": false
     },
     {
+      "id": "92df3d57b0fa",
+      "title": "Alla corte di re Mello",
+      "date": "2026-09-19",
+      "time": "16:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "ore 16.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-105/28121719-1-ita-IT/unnamed-10_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752400",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752400"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "a853a477fc85",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-19",
@@ -5404,7 +5420,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751737"
