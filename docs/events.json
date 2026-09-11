@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T19:25:50.662477+00:00",
-  "count": 378,
+  "last_updated": "2026-09-11T09:19:09.146094+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4725,22 +4725,6 @@
       "is_past": true
     },
     {
-      "id": "4e59e3c17476",
-      "title": "Visita teatralizzata al Museo Geologico delle Dolomiti a Predazzo",
-      "date": "2026-09-10",
-      "time": "17:00",
-      "venue": "Museo geologico delle Dolomiti - Predazzo",
-      "location": "Predazzo",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751676",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751676"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "8eb30f685a94",
       "title": "Sciucàri",
       "date": "2026-09-10",
@@ -4754,55 +4738,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/sciucari.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5d10a013d181",
-      "title": "Chi ridefinisce lo sguardo - Djarah Kan",
-      "date": "2026-09-10",
-      "time": "18:00",
-      "venue": "Smart Lab - Centro Giovani, Viale Trento, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi / Come le identità si intrecciano - Djarah Kan Cosa succede quando cambiamo prospettiva? Con Djarah Kan, scrittrice e attivista italo-ghanese, un attraversamento tra identità, corpi e narrazioni. L’ intersezionalità non è un tema da approfondire, ma un modo di leggere il mondo: genere, provenienza e classe sociale non sono categorie separate, ma identità multiple che si sovrappongono e ridefiniscono il modo in cui vediamo e siamo viste e visti. Djarah Kan è una scrittrice, attivista e ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067582-chiridefiniscelosguardo.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-ridefinisce-lo-sguardo-djarah-kan.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-ridefinisce-lo-sguardo-djarah-kan.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "cae2da359823",
-      "title": "Musica e danza. Viaggiando attraverso le Alpi intorno al 1500",
-      "date": "2026-09-10",
-      "time": "18:00",
-      "venue": "Castello del Buonconsiglio, Via B. Clesio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068410-934834.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/musica-e-danza-viaggiando-attraverso-le-alpi-intorno-al-1500.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/musica-e-danza-viaggiando-attraverso-le-alpi-intorno-al-1500.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b110d86d7ba4",
-      "title": "Chora – Il vuoto all’origine",
-      "date": "2026-09-10",
-      "time": "20:30",
-      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Coreografia Sofia Nappi in collaborazione con i danzatori KOMOCO / Interpreti Evans Berthelot, Bonni Bogya, India Guanzini, Sem Houmes, Paolo Piancastelli, Senne Reus, Alessia Sinato / Direttore prove Luca Tomasoni / Musica originale e sound design Ciaran Morahan / Con musiche di Alessandro Cortini, Ben Frost (Gluteus Maximus remix), J.S. Bach mixate e integrate da Ciaran Morahan / Luci Alessandro Caso / Costumi Adriano Popolo Rubbio realizzati da Adriano Popolo Rubbio, Adelaide D’Ago / Producti",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067581-4888484.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chora-il-vuoto-allorigine.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/chora-il-vuoto-allorigine.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "79d68817d424",
@@ -4818,7 +4754,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "59c8d587e290",
@@ -5157,6 +5093,22 @@
       "is_past": false
     },
     {
+      "id": "eb9ea8bc17bf",
+      "title": "Book time - Valle dei Laghi Book Festival",
+      "date": "2026-09-18",
+      "time": "15:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068586-78987798.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/book-time-valle-dei-laghi-book-festival.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/book-time-valle-dei-laghi-book-festival.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "5c756fd665fd",
       "title": "Nanna a Teatro 2026 | SOLD OUT",
       "date": "2026-09-18",
@@ -5189,6 +5141,22 @@
       "is_past": false
     },
     {
+      "id": "267cab2f774a",
+      "title": "Madri d'Europa - Sentinelle di Pietra",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "venue": "Forte Busa Granda, Vigolana Falesina (Tn)",
+      "location": "Vigolana Falesina",
+      "description": "ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "92df3d57b0fa",
       "title": "Alla corte di re Mello",
       "date": "2026-09-19",
@@ -5218,6 +5186,22 @@
         "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "b832db379a7d",
+      "title": "Anima, il concerto racconto",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "venue": "Anfiteatro Vegetale, Termenalgo (Tn)",
+      "location": "Termenalgo",
+      "description": "Lo spettacolo è inserito in \"Termenago a Teatro\" in collaborazione con il Centro Servizi Culturali Santa Chiara di Trento",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067197-30293.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/anima-il-concerto-racconto.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/anima-il-concerto-racconto.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5420,7 +5404,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751737"
