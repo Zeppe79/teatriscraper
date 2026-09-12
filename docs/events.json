@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T08:59:06.906831+00:00",
-  "count": 374,
+  "last_updated": "2026-09-12T18:54:32.640800+00:00",
+  "count": 375,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5330,6 +5330,22 @@
         "https://www.cultura.trentino.it/content/view/full/751735"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ed82cdfe84ec",
+      "title": "Bauhaus",
+      "date": "2026-10-01",
+      "time": "20:00",
+      "venue": "Chiesa di San Francesco Saverio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068613-03943.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/bauhaus.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/bauhaus.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
