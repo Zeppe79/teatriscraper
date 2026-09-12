@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T19:24:04.872397+00:00",
-  "count": 377,
+  "last_updated": "2026-09-12T08:59:06.906831+00:00",
+  "count": 374,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4661,22 +4661,6 @@
       "is_past": true
     },
     {
-      "id": "c06af3b2a89e",
-      "title": "Visita guidata a Progetto Manifattura",
-      "date": "2026-09-05",
-      "time": "18:00",
-      "venue": "Progetto Manifattura, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Ritrovo nel piazzale interno di Progetto Manifattura (Piazza della Manifattura 1, Rovereto)",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067585-manifatturatabacchi.jpg",
-      "source_url": "https://www.crushsite.it/it/didattica/2026visita-guidata-a-progetto-manifattura.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026visita-guidata-a-progetto-manifattura.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "330e79c2318e",
       "title": "Giornata dell'Autonomia - Note d'Autonomia, voci di montagna in coro",
       "date": "2026-09-05",
@@ -4725,22 +4709,6 @@
       "is_past": true
     },
     {
-      "id": "8eb30f685a94",
-      "title": "Sciucàri",
-      "date": "2026-09-10",
-      "time": "18:00",
-      "venue": "Piazza Urban City,  Rovereto (Tn) (*)",
-      "location": "",
-      "description": "Una poltrona per due . Incontro introduttivo allo spettacolo con lo staff di Oriente Occidente e il coreografo: giovedì 10 settembre, ore 15, Urban Center / Spettacolo adatto alle famiglie / Ingresso libero e gratuito / (*) Causa pioggia, Sciucàri di Andrea De Siena e Teatro del Mediterraneo, in programma giovedì 10 settembre alle 18, cambia location: lo spettacolo si terrà nella piazza del Mart, sotto la grande cupola di vetro. Data e orario restano invariati",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067564-susciari.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/sciucari.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/sciucari.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "79d68817d424",
       "title": "Habitat – cruising intermediale",
       "date": "2026-09-10",
@@ -4757,38 +4725,6 @@
       "is_past": true
     },
     {
-      "id": "59c8d587e290",
-      "title": "Chi amplifica le voci - Raffaele Costantino",
-      "date": "2026-09-11",
-      "time": "18:00",
-      "venue": "Smart Lab - Centro Giovani, Viale Trento, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi / Clan Acustico: coordinate sonore - Raffaele Costantino Il suono come modo di confrontarsi con il mondo. Con Clan Acustico, Raffaele Costantino fonde racconto e ascolto, portando in scena registrazioni e racconti che mettono in relazione luoghi e comunità musicali diverse tra loro. L’ascolto diventa qui esperienza collettiva e condivisa: un modo per aprire nuove possibilità di percezione e cambiare prospettiva. In collaborazione con Cooperativa Smart. Un ringraziamento ad Associazione",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067584-raffaele.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-amplifica-le-voci-raffaele-costantino.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-amplifica-le-voci-raffaele-costantino.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "e43092ee77ea",
-      "title": "Living & Leaving",
-      "date": "2026-09-11",
-      "time": "20:30",
-      "venue": "Progetto Manifattura, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Idea e direzione artistica Marcos Morau / Direzione di produzione Juanma G. Galindo / Coreografia Marcos Morau in collaborazione con gli interpreti / Interpreti Fabio Calvisi, Marina Rodríguez / Luci Bernat Jansà / Direttore di scena e oggetti di scena David Pascual / Suono Uriel Ireland / Ideazione costumi Marcos Morau / Logistica e produzione Cristina Goñi Adot, Àngela Boix / Coproduzione La Veronal, Oriente Occidente, Mercat de les Flors, Temporada Alta – Festival de tardor de Catalunya / Con",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067583-003932.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/living-leaving.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/living-leaving.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "daa93c07ae19",
       "title": "Sulle note del cinema",
       "date": "2026-09-11",
@@ -4802,39 +4738,7 @@
         "https://www.teatrodipergine.it/eventi/2930-sulle-note-del-cinema"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "a75399ad3ea3",
-      "title": "Brecht Weill | L'opera da tre soldi",
-      "date": "2026-09-11",
-      "time": "21:00",
-      "venue": "Casinò Municipale di Arco",
-      "location": "Arco",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751384",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751384"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "30e55d1e2c8f",
-      "title": "Teatro musicale Garda trentino debutta con «L'opera da tre soldi»",
-      "date": "2026-09-11",
-      "time": "21:00",
-      "venue": "Casinò Municipale di Arco",
-      "location": "Arco",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751809",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751809"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "027d14654ae6",
@@ -4850,7 +4754,7 @@
         "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "88f0d90f54d5",
@@ -5237,6 +5141,22 @@
       "is_past": false
     },
     {
+      "id": "8a5f81ceb6ea",
+      "title": "Diamanda Galás",
+      "date": "2026-09-23",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Diamanda Galás torna in Italia con tre concerti speciali e apre il tour il 23 settembre 2026 a Trento, all’Auditorium Santa Chiara. Cantante d’avanguardia, compositrice e pianista, Diamanda Galás è una delle figure più radicali e visionarie della musica contemporanea. Il suo lavoro attraversa generi e linguaggi, fondendo tradizione classica, jazz sperimentale, influenze gospel e una ricerca vocale estrema che l’ha resa unica nel panorama internazionale. Artista precoce, si esibisce già a quattor",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/065298-dmd.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/diamanda-galas.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/diamanda-galas.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "d956dc33b38d",
       "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
       "date": "2026-09-24",
@@ -5301,6 +5221,22 @@
       "is_past": false
     },
     {
+      "id": "3194349263dc",
+      "title": "Versi - Sentinelle di Pietra",
+      "date": "2026-09-25",
+      "time": "20:00",
+      "venue": "Forte Tenna, Tenna (Tn)",
+      "location": "Tenna",
+      "description": "ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/versi-sentinelle-di-pietra.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/versi-sentinelle-di-pietra.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "8ae76151b452",
       "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
       "date": "2026-09-25",
@@ -5346,6 +5282,22 @@
         "https://www.cultura.trentino.it/content/view/full/751601"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "891e0092e4db",
+      "title": "Madri d'Europa - Sentinelle di Pietra",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "venue": "Forte Dosso delle Somme, Folgaria (Tn)",
+      "location": "Folgaria",
+      "description": "ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra_126431.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra_126431.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5420,7 +5372,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752328",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752328",
@@ -5453,7 +5405,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751739",
