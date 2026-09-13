@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T18:54:32.640800+00:00",
-  "count": 375,
+  "last_updated": "2026-09-13T09:56:22.489778+00:00",
+  "count": 370,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4677,22 +4677,6 @@
       "is_past": true
     },
     {
-      "id": "9c43a019c1ae",
-      "title": "Summer Lab Opening Studio",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "venue": "Rovereto (Tn)",
-      "location": "",
-      "description": "Ingresso libero e gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067590-summerlab.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/summer-lab-opening-studio.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/summer-lab-opening-studio.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "1f04a3513076",
       "title": "Presentazione Corsi di Teatro 2026-2027",
       "date": "2026-09-08",
@@ -4706,22 +4690,6 @@
         "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2933-presentazione-corsi-di-teatro-26-27"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "79d68817d424",
-      "title": "Habitat – cruising intermediale",
-      "date": "2026-09-10",
-      "time": "22:00",
-      "venue": "Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Lo spettacolo è parte di D.Arte, ampia collaborazione tra Oriente Occidente e Mart",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067587-mart-orienteoccidente.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026habitat-cruising-intermediale.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": true
     },
     {
@@ -4757,70 +4725,6 @@
       "is_past": true
     },
     {
-      "id": "88f0d90f54d5",
-      "title": "Cultura adesso. Uno spazio per immaginare",
-      "date": "2026-09-12",
-      "time": "10:00",
-      "venue": "Sala Conferenze della Fondazione Caritro di Rovereto, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Ingresso gratuito su prenotazione",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067592-34.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/cultura-adesso-uno-spazio-per-immaginare.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/cultura-adesso-uno-spazio-per-immaginare.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "878b796f2d30",
-      "title": "Sciucàri. Lab - la danza incontra il gioco Teatro del Mediterraneo",
-      "date": "2026-09-12",
-      "time": "10:00",
-      "venue": "Urban Center. Rovereto (Tn)",
-      "location": "",
-      "description": "Ingresso libero e gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067591-sciucari.jpg",
-      "source_url": "https://www.crushsite.it/it/didattica/2026/sciucari-lab-la-danza-incontra-il-gioco-teatro-del-mediterraneo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/didattica/2026/sciucari-lab-la-danza-incontra-il-gioco-teatro-del-mediterraneo.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "21990a7ca9f8",
-      "title": "A (S)Ragionar di Guerra",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/12-settembre-1-1/28096194-1-ita-IT/12-settembre-1-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/749456",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/749456"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6722b560eeea",
-      "title": "Il filo della tradizione nella città azzurra",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "dalle ore 17.00 | Partenza dal Teatro di Pergine",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-273/28115379-1-ita-IT/unnamed-27_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752205",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752205"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e06ea7a02e49",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-12",
@@ -4834,55 +4738,7 @@
         "https://www.teatrodipergine.it/eventi/2927-il-filo-della-tradizione-nella-citta-azzurra-2"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "08d63f52bf1f",
-      "title": "Chi riscrive i corpi - Chiara Bersani, Flavia Dalila D’Amico e Giulia Traversi",
-      "date": "2026-09-12",
-      "time": "18:00",
-      "venue": "Urban Center, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Linguaggi / Prima di ogni cosa. Per un futuro Crip Un libro nato come scambio tra Chiara Bersani, Flavia Dalila D’Amico e Giulia Traversi, tre voci dell’associazione di categoria per artisti con disabilità Al.Di.Qua.Artists. Uno sguardo sull'abilismo, l'accessibilità e la precarietà nel campo delle arti performative. Con la lente crip, il corpo diventa spazio politico e relazionale. Non una teoria, ma un modo di abitare il mondo che mette in discussione autonomia e produttività, aprendo possibil",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067589-chiriscrivecorpi.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/chi-riscrive-i-corpi-chiara-bersani-flavia-dalila-damico-e-giulia-traversi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/chi-riscrive-i-corpi-chiara-bersani-flavia-dalila-damico-e-giulia-traversi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "140b4be62ae9",
-      "title": "Bach to Sacre: Bach + Silent Ballet + Sacre",
-      "date": "2026-09-12",
-      "time": "20:30",
-      "venue": "Teatro Zandonai, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "È possibile utilizzare i subpac. È presente uno spazio decompressione. Elementi potenzialmente disturbanti: buio totale, luci strobo, alto volume della musica, utilizzo della macchina del fumo. Per informazioni ancora più dettagliate sui trigger warning, contattateci alla mail accessibilita@orienteoccidente.it / Maggiori informazioni su tutte le azioni di accessibilità click qui.",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067588-silent.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bach-to-sacre-bach-silent-ballet-sacre.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bach-to-sacre-bach-silent-ballet-sacre.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "815dab052e93",
-      "title": "Analog Techno Live Set",
-      "date": "2026-09-12",
-      "time": "22:00",
-      "venue": "Mart, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Lo spettacolo è parte di D.Arte, ampia collaborazione tra Oriente Occidente e Mart / Ingresso libero e gratuito.",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067586-analog.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/analog-techno-live-set.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/analog-techno-live-set.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "098d9c4c3024",
@@ -5365,6 +5221,22 @@
       "is_past": false
     },
     {
+      "id": "27f72eb08ada",
+      "title": "Mario Cagol in \"Nonna Nunzia: spazio, ultima dentiera\"",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Con Nonna Nunzia, Alfredo Stolf, Andrea Cortelletti, Mario Cagol / Testo e regia Mario Cagol / Coproduzione Mario Cagol e TeatroE / Light designer Leonardo Liberi / Scenografie Andrea Coppi / Assistente alla regia Simone Acclavio / Tecnici Nicola Piffer, Giada Corradini, Leonardo Ravanelli / Graphic Designer Marcello Plotegher La nonna più amata della regione è pronta a lanciarsi in una nuova avventura. Questa volta la vulcanica Nonna Nunzia è chiamata ad una divertente missione fra le galassie ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068614-mariocagol.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mario-cagol-in-nonna-nunzia-spazio-ultima-dentiera.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/mario-cagol-in-nonna-nunzia-spazio-ultima-dentiera.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "1c5c55ac63b3",
       "title": "Viva Robin!",
       "date": "2026-10-03",
@@ -5398,6 +5270,38 @@
       "is_past": false
     },
     {
+      "id": "15b9f85b7a66",
+      "title": "Eddy Serafini: Codex Discantans",
+      "date": "2026-10-04",
+      "time": "20:30",
+      "venue": "Chiesa di San Francesco Saverio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068615-0394.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/eddy-serafini-codex-discantans.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/eddy-serafini-codex-discantans.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "aeb3c49b4910",
+      "title": "Fratelli - Teatro La Ribalta / Kunst der Vielfalt",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Regia, costumi e scene Antonio Viganò / Testi Carmelo Samonà, Antonio Viganò, Remo Rostagno, Michele Fiocchi / Con Michele Calcari e Paolo Grossi / Ligth Designer Melissa Pircali / Assistenza drammaturgica GianLuigi Gherzi / Una produzione Teatro la Ribalta-Kunst der Vielfalt / In collaborazione produttiva con Balletto Civile e Gli Scarti ETS / Durata: 70 min / Età consigliata: dai 13 anni Scappo a teatro Il gioco, forse, è la cosa più importante del mondo. I bambini hanno bisogno del gioco per ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fratelli-teatro-la-ribalta-kunst-der-vielfalt.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/fratelli-teatro-la-ribalta-kunst-der-vielfalt.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "02910b695406",
       "title": "Padri per un terzo – Quell’estate sull’isola",
       "date": "2026-10-10",
@@ -5405,7 +5309,7 @@
       "venue": "Teatro Parrocchiale di Pieve",
       "location": "",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751738"
@@ -5476,6 +5380,22 @@
         "https://www.cultura.trentino.it/content/view/full/751741"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d3b7984a2d54",
+      "title": "Bunker",
+      "date": "2026-10-13",
+      "time": "20:00",
+      "venue": "Teatro San Giorgio, Via S. Giorgio, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/056966-bunker.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_126695.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bunker_126695.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
