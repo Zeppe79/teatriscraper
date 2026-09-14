@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T19:11:17.243692+00:00",
-  "count": 370,
+  "last_updated": "2026-09-14T10:15:38.643686+00:00",
+  "count": 368,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4685,9 +4685,9 @@
       "location": "Pergine Valsugana",
       "description": "Martedì 8 settembre 2026 - ore 18.00",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/Pergine26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2933-presentazione-corsi-di-teatro-26-27",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2933-presentazione-corsi-di-teatro-26-27",
       "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2933-presentazione-corsi-di-teatro-26-27"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2933-presentazione-corsi-di-teatro-26-27"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4701,9 +4701,9 @@
       "location": "Pergine Valsugana",
       "description": "Festa Granda",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/sullenotedelcinema.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2930-sulle-note-del-cinema",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2930-sulle-note-del-cinema",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2930-sulle-note-del-cinema"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2930-sulle-note-del-cinema"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -4733,76 +4733,12 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2927-il-filo-della-tradizione-nella-citta-azzurra-2",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2927-il-filo-della-tradizione-nella-citta-azzurra-2",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2927-il-filo-della-tradizione-nella-citta-azzurra-2"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2927-il-filo-della-tradizione-nella-citta-azzurra-2"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
-    },
-    {
-      "id": "098d9c4c3024",
-      "title": "Gianluca Gotto | Questione di karma",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 16.00 e 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752367",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752367"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2c614979f300",
-      "title": "Gianluca Gotto - Questione di Karma",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/gianluca-gotto-questione-di-karma.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/gianluca-gotto-questione-di-karma.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "cd1aca59235e",
-      "title": "Brecht Weill | L'opera da tre soldi",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751385",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751385"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "84a2514220e0",
-      "title": "Teatro musicale Garda trentino debutta con «L'opera da tre soldi»",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751810",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751810"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
     },
     {
       "id": "f024a66ccfc5",
@@ -4818,7 +4754,7 @@
         "https://www.trentinospettacoli.it/eventi/brecht-weill-opera-da-tre-soldi-2/"
       ],
       "source_name": "trentinospettacoli.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "224bebda2aef",
@@ -5342,7 +5278,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
@@ -5358,7 +5294,7 @@
       "venue": "Forte Sommo Alto Zwischenwerk Sommo",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 14.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751604"
@@ -5374,7 +5310,7 @@
       "venue": "Auditorium Casa della Gioventù di Predazzo",
       "location": "Predazzo",
       "description": "ore 15.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sior-todero/28099202-1-ita-IT/Sior-Todero_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751741",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751741"
@@ -5426,6 +5362,22 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "df6bc39681c2",
+      "title": "Down",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "venue": "Cineteatro Oratorio San Gabriele, Via Pomerio 15, Arco (Tn)",
+      "location": "Arco",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067702-down33.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/down_125306.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/down_125306.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5923,6 +5875,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748740",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748740"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "983177ad9249",
+      "title": "Arriva Lucilla",
+      "date": "2026-12-13",
+      "time": "18:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 18.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750490",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750490"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
