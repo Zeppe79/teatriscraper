@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T20:43:45.002932+00:00",
-  "count": 368,
+  "last_updated": "2026-09-15T09:44:47.540919+00:00",
+  "count": 370,
   "events": [
     {
       "id": "06d96a048e56",
@@ -4917,6 +4917,22 @@
       "is_past": false
     },
     {
+      "id": "32275158c6ef",
+      "title": "Miss Julie",
+      "date": "2026-09-22",
+      "time": "20:30",
+      "venue": "Palacongressi di Riva del Garda",
+      "location": "Riva del Garda",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752460",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752460"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "deab90f0764e",
       "title": "Attraverso i tuoi occhi",
       "date": "2026-09-23",
@@ -5103,7 +5119,8 @@
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/26-settembre-3/28092059-1-ita-IT/26-settembre-3_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751513",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751513"
+        "https://www.cultura.trentino.it/content/view/full/751513",
+        "https://www.cultura.trentino.it/content/view/full/752447"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5278,7 +5295,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
@@ -5294,7 +5311,7 @@
       "venue": "Forte Sommo Alto Zwischenwerk Sommo",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 14.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751604"
@@ -5891,6 +5908,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750490",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750490"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c7640eefa640",
+      "title": "Kamikaze di Eleazaro Rossi",
+      "date": "2026-12-14",
+      "time": "21:00",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/750491",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/750491"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
