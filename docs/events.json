@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T19:57:46.615331+00:00",
-  "count": 140,
+  "last_updated": "2026-09-16T09:38:36.039056+00:00",
+  "count": 144,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1428,6 +1428,22 @@
       "is_past": false
     },
     {
+      "id": "92b34c7a6aea",
+      "title": "Trittico buffo - Tre atti unici",
+      "date": "2026-09-26",
+      "time": "20:00",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "il 26 settembre alle ore 20.00\nil 27 settembre alle ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752589",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752589"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "29b65234cbc8",
       "title": "Na carega col cusin",
       "date": "2026-09-26",
@@ -1580,7 +1596,7 @@
       "venue": "Teatro Parrocchiale di Pieve",
       "location": "",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751738"
@@ -1602,6 +1618,22 @@
         "https://www.cultura.trentino.it/content/view/full/751739",
         "https://www.cultura.trentino.it/content/view/full/751568",
         "https://www.cultura.trentino.it/content/view/full/752538"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8d459cd4e213",
+      "title": "80 anni, le radici e la memoria",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "venue": "",
+      "location": "Predazzo",
+      "description": "ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752590",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752590"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1923,6 +1955,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751406",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751406"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "20fe42080625",
+      "title": "Piacere, Denaro!",
+      "date": "2026-11-05",
+      "time": "21:00",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752649",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752649"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e9b67d730464",
+      "title": "Fango | Storia di un'alluvione",
+      "date": "2026-11-06",
+      "time": "20:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752588",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752588"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
