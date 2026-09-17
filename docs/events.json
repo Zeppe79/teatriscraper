@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T19:50:01.912321+00:00",
-  "count": 156,
+  "last_updated": "2026-09-17T09:47:03.673313+00:00",
+  "count": 160,
   "events": [
     {
       "id": "06d96a048e56",
@@ -287,86 +287,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/smile/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/smile/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "95f751b12bca",
-      "title": "Asino a chi?",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Un gioco fatto di parole e fantasia dà vita alle favole di Esopo, reinterpretate in chiave comica da due bambini che inventano storie per addormentarsi. Uno spettacolo per tutta la famiglia che fa ridere, pensare e sognare.",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/asino-a-chi-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/asino-a-chi-4/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/asino-a-chi-4/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "233d198df74e",
-      "title": "La vita mi è passata davanti e io… tiè! L’ho doppiata.",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Alfredo Colina. Attore. Uomo. Racconta. Quella volta che si sentiva Bukowski e, prima di entrare in scena, ha bevuto perfino le pozzanghere. Quella volta che ha dimenticato una pistola di scena nel trolley, e il metal detector dell’aeroporto non l’ha...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Colina2-870x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "2d5a745b82dc",
-      "title": "Degusta Teatro: La società dei ribelli",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Mentre Renoir dipingeva sulla Senna… Tra le piccole storie di persone comuni e potenti Generali, cittadini e Imperatori, scienziati improvvisati e combattenti, La Società dei Ribelli è uno spettacolo che accende un sentimento di comunione e cambiamento di sguardo.Un viaggio...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/AG_2111008-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-la-societa-dei-ribelli/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/degusta-teatro-la-societa-dei-ribelli/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "6dee8cf5df54",
-      "title": "Degusta Teatro: I cuori battono nelle uova",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Tre donne, tre pance gonfie, tre vite in attesa. I cuori battono nelle uova è un inno alla maternità e alla fragilità, una riflessione poetica e tagliente sull’amore, la paura e il desiderio che accompagnano ogni nascita. In un linguaggio...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/1_LesMoustachesIcuoriBattonoNelleUova260923-4154-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-i-cuori-battono-nelle-uova/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/degusta-teatro-i-cuori-battono-nelle-uova/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "40a06daabdb6",
-      "title": "Degusta Teatro: L’occhio invisibile",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "In un mondo in cui tutto è sicurezza — o almeno la sua percezione — L’occhio invisibile ci accompagna in una distopia sempre più reale, dove il confine tra protezione e controllo si fa sottile, quasi impercettibile. Lei ha subito...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/IMG-20250531-WA0012-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/degusta-teatro-locchio-invisibile/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/degusta-teatro-locchio-invisibile/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -900,6 +820,86 @@
       "is_past": true
     },
     {
+      "id": "774328c081f7",
+      "title": "BAMBU 2026",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è “BAMBU” è un progetto che mira allo sviluppo delle relazioni culturali con l’Africa subsahariana su basi di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/BAMBU-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/bambu-2026/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/bambu-2026/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "841673179fcf",
+      "title": "Puttana",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è un’opera di narrazione musicale sperimentale che mette al banco dei testimoni non i suoi protagonisti, ma la...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/DSC03508-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/puttana-8/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/puttana-8/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "2005e4c78d59",
+      "title": "Boxeur",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Boxeur è uno spettacolo che parla di un incontro di boxe, il più importante e atteso incontro di boxe del dopo-guerra.E’ il 1946. Parigi.La folla si accalca curiosa attorno al ring, tutti aspettano l’entrata dei due sfidanti: Eugenio Smit Lorenzoni e...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Boxeur-1-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/boxeur-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/boxeur-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "55635139d62d",
+      "title": "Il lungo pranzo di Natale",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“Il lungo pranzo di Natale” di Wilder è un atto unico in cui viene raccontata la storia di una famiglia borghese americana di fine ‘800. Novanta pranzi di Natale permettono di conoscere i componenti della famiglia; in un susseguirsi di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Il-Lungo-pranzo-di-Natale-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-lungo-pranzo-di-natale/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-lungo-pranzo-di-natale/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "288a1aa51f45",
+      "title": "Robert Johnson non se n’è mai andato",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Robert Johnson non se n’è mai andato è un viaggio nel Mississippi degli anni Trenta, dentro il mondo da cui è nato il blues e dentro la vita di un uomo che ha scelto di inseguire la musica senza sapere dove...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Robert-Johnson-non-se-ne-mai-andato-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/robert-johnson-non-se-ne-mai-andato/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/robert-johnson-non-se-ne-mai-andato/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
       "id": "888c3174272a",
       "title": "Sherlock Holmes",
       "date": "2026-09-16",
@@ -913,7 +913,7 @@
         "https://www.teatrodivillazzano.it/event/sherlock-holmes/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e1e1cdd58419",
@@ -929,7 +929,7 @@
         "https://www.teatrodivillazzano.it/event/marionette-girovaghe-cabaret/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d3662c4b88d8",
@@ -945,7 +945,7 @@
         "https://www.teatrodivillazzano.it/event/il-cuoco-con-la-gamba-di-legno/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "70cd5151970b",
@@ -961,7 +961,7 @@
         "https://www.teatrodivillazzano.it/event/magik-show-2/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "d08d8244fc9b",
@@ -977,7 +977,7 @@
         "https://www.teatrodivillazzano.it/event/piacere-sono-operetta/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "24b414a2ee36",
@@ -993,7 +993,7 @@
         "https://www.teatrodivillazzano.it/event/i-meravigliosi-viaggi-di-gulliver/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "5bfd77ffe76d",
@@ -1009,7 +1009,7 @@
         "https://www.teatrodivillazzano.it/event/fill-e-foll-raccontano-cappuccetto-rosso/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "85e1b1c7d34d",
@@ -1025,7 +1025,7 @@
         "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno-2/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "acef43ea9910",
@@ -1041,7 +1041,7 @@
         "https://www.teatrodivillazzano.it/event/solo-3-minuti/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "e23a67f6317d",
@@ -1057,7 +1057,7 @@
         "https://www.teatrodivillazzano.it/event/betly-o-la-capanna-svizzera/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "a469430c52d2",
@@ -1073,7 +1073,7 @@
         "https://www.teatrodivillazzano.it/event/betly-al-buio/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "224bebda2aef",
@@ -1435,7 +1435,7 @@
       "venue": "Forte Dosso del Sommo Werk Serrada",
       "location": "Folgaria",
       "description": "Sentinelle di pietra 2026 | ore 16.00",
-      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751601",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751601"
@@ -1927,6 +1927,22 @@
       "is_past": false
     },
     {
+      "id": "eb6b6160a347",
+      "title": "BAMBU 2026",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Festa del Teatro   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752712",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752712"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "27511182f3a7",
       "title": "Ubaldo Pantani - Inimitabile",
       "date": "2026-10-22",
@@ -2217,6 +2233,22 @@
       "is_past": false
     },
     {
+      "id": "bc84766e293f",
+      "title": "Robert Johnson non se n’è mai andato",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Festa del Teatro   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752713",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752713"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "12768e5a623f",
       "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
       "date": "2026-11-13",
@@ -2474,6 +2506,22 @@
       "is_past": false
     },
     {
+      "id": "28e9e6157233",
+      "title": "Il lungo pranzo di Natale",
+      "date": "2026-12-01",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Festa del Teatro   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752714",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752714"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "983177ad9249",
       "title": "Arriva Lucilla",
       "date": "2026-12-13",
@@ -2501,6 +2549,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750491",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750491"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cd9dcf331522",
+      "title": "Incendi",
+      "date": "2026-12-16",
+      "time": "19:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 16 dicembre alle ore 19.30\nil 17 e il 18 dicembre alle ore 20.30\nil 19 dicembre alle ore 18.00\nil 20 dicembre alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747767",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747767"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
