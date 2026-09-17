@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T09:47:03.673313+00:00",
+  "last_updated": "2026-09-17T19:58:17.469558+00:00",
   "count": 160,
   "events": [
     {
@@ -1028,8 +1028,8 @@
       "is_past": true
     },
     {
-      "id": "acef43ea9910",
-      "title": "Solo 3 minuti",
+      "id": "afe32c0c9355",
+      "title": "Solo tre minuti",
       "date": "2026-09-16",
       "time": null,
       "venue": "Teatro di Villazzano",
@@ -1116,9 +1116,9 @@
       "location": "Vezzano - Vallelaghi",
       "description": "Ingresso libero",
       "image_url": "https://www.crushsite.it/upload/images/media/large/068586-78987798.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/book-time-valle-dei-laghi-book-festival.html",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026book-time-valle-dei-laghi-book-festival.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/book-time-valle-dei-laghi-book-festival.html"
+        "https://www.crushsite.it/it/danza-teatro/2026book-time-valle-dei-laghi-book-festival.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
