@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T19:58:17.469558+00:00",
-  "count": 160,
+  "last_updated": "2026-09-18T09:20:35.727923+00:00",
+  "count": 161,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1076,38 +1076,6 @@
       "is_past": true
     },
     {
-      "id": "224bebda2aef",
-      "title": "Ballo liscio con musica dal vivo",
-      "date": "2026-09-17",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065081-987987112.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_121378.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5841231b3eae",
-      "title": "Vivi stelle",
-      "date": "2026-09-17",
-      "time": "20:30",
-      "venue": "Castello del Buonconsiglio, Via B. Clesio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068410-934834.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/vivi-stelle.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/vivi-stelle.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "eb9ea8bc17bf",
       "title": "Book time - Valle dei Laghi Book Festival",
       "date": "2026-09-18",
@@ -1669,6 +1637,22 @@
       "is_past": false
     },
     {
+      "id": "1e7ba607d058",
+      "title": "Concerto del quartetto chitarristico Silenzio Massimale",
+      "date": "2026-10-09",
+      "time": "18:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Foyer del Teatro Comunale di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/percorsi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2935-concerto-silenzio-massimale",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2935-concerto-silenzio-massimale"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "b6d6ecf5face",
       "title": "\"Chiedimi come sto” | Giornata Mondiale della Salute Mentale",
       "date": "2026-10-10",
@@ -1831,6 +1815,22 @@
       "is_past": false
     },
     {
+      "id": "6bc2872ba61c",
+      "title": "DEsPRESSO",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "venue": "Cineteatro Oratorio San Gabriele, Via Pomerio 15, Arco (Tn)",
+      "location": "Arco",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068516-despresso.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/despresso.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/despresso.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4d4b2f818e39",
       "title": "Hansel e Gretel",
       "date": "2026-10-17",
@@ -1892,6 +1892,22 @@
         "https://www.cultura.trentino.it/content/view/full/752682"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "30cd3e448914",
+      "title": "Cura il futuro Ledro: Pinocchio",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "venue": "Auditorium, Tiarno di Sopra - Ledro (Tn)",
+      "location": "Tiarno di Sopra - Ledro",
+      "description": "Info n. 333.9456604, biglietteria@collettivoclochart.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/067194-www.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-ledro-pinocchio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-ledro-pinocchio.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
