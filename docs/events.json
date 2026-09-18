@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T09:20:35.727923+00:00",
-  "count": 161,
+  "last_updated": "2026-09-18T19:23:00.126346+00:00",
+  "count": 163,
   "events": [
     {
       "id": "06d96a048e56",
@@ -2217,6 +2217,22 @@
       "is_past": false
     },
     {
+      "id": "fe8420b8a60f",
+      "title": "Cura il Futuro 2026 Riva del Garda: Ninna nanna del Vajont",
+      "date": "2026-11-11",
+      "time": "20:45",
+      "venue": "Sala della Comunità, Viale Rosmini, Riva del Garda (Tn)",
+      "location": "Riva del Garda",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068514-879789.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-riva-del-garda-ninna-nanna-del-vajont.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-riva-del-garda-ninna-nanna-del-vajont.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9d17c9f112e7",
       "title": "Every brilliant thing | Teatro Telaio",
       "date": "2026-11-12",
@@ -2262,6 +2278,22 @@
         "https://www.cultura.trentino.it/content/view/full/752713"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5c724164c807",
+      "title": "Bunker",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "venue": "Auditorium Hermann Zontini, Via S. Floriano 47, Storo (Tn)",
+      "location": "Storo",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068515-bunker1111.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
