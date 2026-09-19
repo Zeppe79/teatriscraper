@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T19:23:00.126346+00:00",
+  "last_updated": "2026-09-19T09:08:14.286521+00:00",
   "count": 163,
   "events": [
     {
@@ -1076,22 +1076,6 @@
       "is_past": true
     },
     {
-      "id": "eb9ea8bc17bf",
-      "title": "Book time - Valle dei Laghi Book Festival",
-      "date": "2026-09-18",
-      "time": "15:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068586-78987798.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026book-time-valle-dei-laghi-book-festival.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026book-time-valle-dei-laghi-book-festival.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "5c756fd665fd",
       "title": "Nanna a Teatro 2026 | SOLD OUT",
       "date": "2026-09-18",
@@ -1105,7 +1089,7 @@
         "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9dd4ce3123ef",
@@ -2613,6 +2597,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747767",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747767"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ea133a205001",
+      "title": "Il furto dei regali",
+      "date": "2026-12-18",
+      "time": "17:30",
+      "venue": "",
+      "location": "Fierozzo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/748738",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/748738"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
