@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T09:08:14.286521+00:00",
-  "count": 163,
+  "last_updated": "2026-09-19T19:07:24.196403+00:00",
+  "count": 164,
   "events": [
     {
       "id": "06d96a048e56",
@@ -163,247 +163,6 @@
       "is_past": true
     },
     {
-      "id": "4424b801663c",
-      "title": "Un amore di peso",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "“Un Amore di Peso” racconta una storia che indaga l’amore filtrato dai pregiudizi sociali e dalle differenze fisiche, con uno sguardo ironico e profondo. Giorgio, protagonista ingenuo e romantico, è innamorato della sua affascinante capo d’azienda, Lara. Tutto sembra già...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/scheda-Un-Amore-di-Peso-Marco-Cavallaro-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/un-amore-di-peso-2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/un-amore-di-peso-2/",
-        "https://www.teatrodivillazzano.it/event/un-amore-di-peso/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "dfa154938110",
-      "title": "Ci prendesse un colpo",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Stella, dopo una delusione in una grande casa di moda, sogna di lanciare una sua linea di abbigliamento. Walter, architetto visionario licenziato per aver perso un appalto, vuole aprire una società edilizia green e proiettata nel futuro. Gianni, ex promessa...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/ci-prendesse-un-colpo-870x550.webp",
-      "source_url": "https://www.teatrodivillazzano.it/event/ci-prendesse-un-colpo/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/ci-prendesse-un-colpo/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "788ce374c0ac",
-      "title": "Se mi lasci non vale",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "La camera da letto di Luca e Lilli, coppia di cinquantenni sposati da una vita, diventa il centro di una nuova fase: il figlio è partito per l’università e i due si ritrovano finalmente soli. Lilli oscilla tra tristezza e...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/5-870x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/se-mi-lasci-non-vale/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/se-mi-lasci-non-vale/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "6743f6eee740",
-      "title": "La battuta atomica",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Sul palco prende vita il backstage del celebre programma televisivo “Sganasciamoci & Scompisciamoci”. In un camerino improvvisato, Alberto (Stefano Chiodaroli) e Mirko (Alberto Cella), duo comico al debutto televisivo dopo anni di gavetta, si preparano alla grande occasione ottenuta grazie...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/L3A8330-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-battuta-atomica/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-battuta-atomica/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "ef5d7f44cfd7",
-      "title": "Ho adottato mio fratello",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Dopo la morte dei genitori, due fratelli si trovano a condividere la loro unica eredità: un appartamento. Bruno è strafottente e scansafatiche, l’opposto del fratello Francesco che è intraprendente e crede negli antichi valori. Neanche a dirlo, sarà quest’ultimo a...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/HO-ADOTTATO-MIO-FRATELLO-5-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/ho-adottato-mio-fratello/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/ho-adottato-mio-fratello/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "7466b4544be3",
-      "title": "Le opere complete di Shakespeare in 90 minuti",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Uno dei fenomeni teatrali più amati al mondo: 37 opere condensate in 90 minuti da tre attori scatenati. Dopo il debutto al Festival di Edimburgo nel 1987 e nove anni in scena al Criterion Theatre di Londra, lo spettacolo arriva...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/Shakespeare-web1-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti-2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/le-opere-complete-di-shakespeare-in-90-minuti-2/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "04b417fb7b92",
-      "title": "Spazio. Ultima dentiera",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Una nuova, sorprendente avventura attende la vulcanica nonna Nunzia: questa volta il viaggio non è dietro l’angolo, ma addirittura fra le galassie! La nonna più amata della regione si ritrova con un compito fuori dal comune, una missione importantissima per...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/immagine_Spazio_Ultima_Dentiera-A4No-Scritte-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/spazio-ultima-dentiera/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/spazio-ultima-dentiera/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "ab2bb0056f62",
-      "title": "Smile",
-      "date": "2025-09-23",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Mario Cagol cerca l’origine della risata in un monologo comico pieno di ritmo e improvvisazione. Un viaggio teatrale tra passato, natura e vita quotidiana, con un unico obiettivo: far ridere, e tanto.",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/smile-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/smile/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/smile/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "04955ae9badb",
-      "title": "BAMBU",
-      "date": "2025-10-06",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "“BAMBU” è un progetto che mira allo sviluppo delle relazioni culturali con l’Africa su basi di vero e concreto reciproco rispetto.",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/10/AFRICA-PLURALE-2-870x550.png",
-      "source_url": "https://www.teatrodivillazzano.it/event/bambu/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/bambu/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "cf74b341544c",
-      "title": "La rabbia di Louise",
-      "date": "2025-11-08",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Rivoluzionaria e femminista. Poco conosciuta in Italia, ma persona di spicco in Francia, Louise Michel è una maestra vissuta a cavallo del 1800 e il 1900. Durante i giorni della Comune di Parigi del 1871, combattè in prima linea e...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/11/louise-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/la-rabbia-di-louise/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/la-rabbia-di-louise/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "6c476bf43315",
-      "title": "Best Christmas Movie",
-      "date": "2025-12-09",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Il saggio di danza della Dance Team School che porta sul palco la magia dei film di Natale. Un viaggio tra coreografie, musica e atmosfere iconiche per celebrare la stagione più luminosa dell’anno.",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/12/Santa_Claus_Hat_On_A_Fingers_original_1091197-1-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/best-christmas-movie/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/best-christmas-movie/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "9cf0a38a49d6",
-      "title": "Mumu e il Mago",
-      "date": "2026-03-16",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Alcuni ragazzi under 15 della compagnia Des Etoiles di Trento, rinomata scuola di danza sportiva è lieta di presentarvi il nuovo progetto creato tutto da loro , il musical Mumu e il mago. Il famosissimo Mago, insieme al suo simpatico...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/03/mumu-2026-pdf.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/mumu-e-il-mago/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/mumu-e-il-mago/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "8389d4963250",
-      "title": "Una donna impenetrabile",
-      "date": "2026-04-17",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "L’attesa è il filo conduttore che unisce tre figure femminili profondamente diverse tra loro, accomunate da un tempo sospeso fatto di desideri, aspettative e contraddizioni. C’è Ada, timida e romantica, che aspetta il suo fidanzato e si racconta attraverso parole...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-11.43.19-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/una-donna-impenetrabile-2/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/una-donna-impenetrabile-2/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "0fa2575cb894",
-      "title": "Tabù 2026 – Music: Ale Soul Dj",
-      "date": "2026-04-27",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "45 rpm sixties and seventies pure vinyl selection – soul, beat, garage, northern soul, rhythm and blues, jamaican ska, British Invasion.",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/Ale-Soul-ill-870x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-music-ale-soul-dj/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-music-ale-soul-dj/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "f369deb45b6e",
-      "title": "Tabù 2026 – Talk: Non si può più dire niente (?)",
-      "date": "2026-04-27",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "La censura tra media tradizionali e online. Nel cinema, nella stampa ma anche nei social media la censura può cambiare forma continuando a operare nella stessa direzione: mantenere specifici regimi di rappresentazione che, a loro volta, regolano gli immaginari collettivi...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/29920284-no-segnale-distorto-problema-tecnico-tv-discendente-rete-vettore-illustrazione-vettoriale-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-talk-non-si-puo-piu-dire-niente/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-talk-non-si-puo-piu-dire-niente/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "349dd8941ec2",
       "title": "Tabù 2026 – Show: Puttana",
       "date": "2026-04-28",
@@ -543,54 +302,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-music-luciano-forlese/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/tabu-2026-music-luciano-forlese/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "c63b810cbfc2",
-      "title": "Tabù 2026 – Music: All at Once",
-      "date": "2026-04-28",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Dj set con suoni eclettici e selezione imprevedibile. Oltre i generi, solo buone vibrazioni.",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/DJ_Mixing_A_Set_On_A_DJ_Mixer_original_2537777-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-music-all-at-once/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-music-all-at-once/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "ead11f0cbec5",
-      "title": "Tabù 2026 – Show: Notte tempo",
-      "date": "2026-04-28",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "50 anni fa Pasolini veniva assassinato. Oggi le sue profezie si sono avverate e il giornalismo è più che mai il megafono delle paure di massa. Notte tempo è una raffica di colpi inferti alla stampa di oggi che preferisce...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/DAVIDE-DE-NOVA-1-Il-Milione-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-show-notte-tempo/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-show-notte-tempo/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "579b53479d76",
-      "title": "Tabù 2026 – Talk: Al supermercato della Storia",
-      "date": "2026-04-28",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Ricordo, oblio, censura. Come maneggiamo il passato. La Storia, volendo definirla, è l’insieme di tutto quello che è accaduto prima di… ora. Si tratta davvero di molti fatti. Anzi, di tutti i fatti. Un enorme supermercato in cui si può...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/f02ecd2bcb141eb8904b50eb5c2ff40c-736x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-talk-al-supermercato-della-storia/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-talk-al-supermercato-della-storia/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -964,6 +675,231 @@
       "is_past": true
     },
     {
+      "id": "b2fca40c0091",
+      "title": "Tut per na firma sbaliada",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Adele, truffata a causa della sua ingenuità e buonafede, inizia un rapporto con la ditta “Costopoc” e si ritrova, suo malgrado, costretta ad acquistare un computer di cui ignora l’utilizzo. Di conseguenza, spese improbabili e fatte per errore, creano equivoci...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Tut-per-na-firma-sbaliada-e1789055830353-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/tut-per-na-firma-sbaliada/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/tut-per-na-firma-sbaliada/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ce08c3ed9ad7",
+      "title": "Ajò!",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una tranquilla domenica mattina, la famiglia dell’Onorevole Sperandio, viene sconvolta dall’arrivo di uno strano personaggio accompagnato dalla sua fedele capra… Costui, dopo essere entrato, si mette comodo e mangia… ma cosa vuole dall’Onorevole questo singolare personaggio e che cosa nasconde?Il...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/5.-Ajo-1-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/ajo/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/ajo/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "769e53214d87",
+      "title": "Atomic Tales",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Il 26 aprile 1986 esplode il reattore della centrale nucleare di Cernobyl: un evento che ha segnato le coscienze e che Aleksievich rievoca attraverso testimonianze e monologhi, tra i quali quello di Ljudmila Ignatenko, moglie di un vigile del fuoco....",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/2.-Atomic-tales-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/atomic-tales-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/atomic-tales-2/",
+        "https://www.teatrodivillazzano.it/event/atomic-tales/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ea6cf42b28c8",
+      "title": "Se ti sposo mi rovino",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cosa succede a un miliardario scapolo con “il vizio delle donne” se chiede a tutte di sposarlo? E se tutte piombano a casa sua con l’intento di organizzare le nozze, ma nessuna sa dell’esistenza dell’altra? Semplice, la sua vita è...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/3.-Se-mi-sposi-ti-rovino-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/se-ti-sposo-mi-rovino/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/se-ti-sposo-mi-rovino/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "2c1b358b141f",
+      "title": "E alla fine arriva Tommy",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“E alla fine arriva Tommy”, una nuova esilarante commedia scritta e interpretata dalla crew composta da Mirko Cannella, Michele Iovane e Jey Libertino ai quali si aggiunge Lorenza Giacometti.Lo spettacolo, di cui firma la regia Giovanni De Anna, racconta di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/4.-e-alla-fine-arriva-Tommy-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/e-alla-fine-arriva-tommy/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/e-alla-fine-arriva-tommy/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "0ec627d107f4",
+      "title": "Co le femene le se m’ponta… el medico el posto el ghe donta",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In un paese di montagna, si sa, tutti si rivolgono al medico di base per i loro piccoli o grandi problemi esistenziali…ops… di salute. Ma alle donne di Telve non sembra che il Dottor Zadra svolga al meglio il suo ruolo:...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/6.-Co-le-femene-le-se-mponta-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/co-le-femene-le-se-mponta-el-medico-el-posto-el-ghe-donta/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/co-le-femene-le-se-mponta-el-medico-el-posto-el-ghe-donta/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ec8a6d7310eb",
+      "title": "Tut per sparmiar",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tre amici e una sola grande passione: non spendere!Giacobbe, Isaia e Abramo sono tre vecchi amici accomunati da una passione sfrenata per il risparmio.Ma quando decidono di organizzare insieme persino il proprio funerale per non lasciare agli altri il peso...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/4.-Tut-per-sparmiar-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/tut-per-sparmiar/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/tut-per-sparmiar/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "5112637f8f6a",
+      "title": "Anche meno",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Un tormentone, un modo di dire, quasi un “idioms”, come direbbero gli inglesi, che ormai fa parte del nostro linguaggio e che racchiude in se la necessità di smorzare i toni, di alleggerire questa necessità di caricare allo stremo ogni...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Anche-meno-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/anche-meno/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/anche-meno/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "94de2f4a1341",
+      "title": "L’importanza de ciamarse Onesto",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Vivace e divertente commedia che vede protagonisti due amici scapoli, Alberto Marchiori ed Ernesto Vicentini che si inventano falsi personaggi per sfuggire ognuno ai propri impegni sociali portando ad esilaranti complicazioni quando entrambi si innamorano di donne, Guendalina e Cecilia,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Limportanza-de-ciamerse-Onesto-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/limportanza-de-ciamarse-onesto/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/limportanza-de-ciamarse-onesto/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "7cca0f055be0",
+      "title": "A chi tocca mia moglie?",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Parigi, fine ‘800. Clarisse accetta di sposare un uomo di cui non è innamorata imponendo una condizione: se dovesse incontrare l’uomo della sua vita, divorzierà immediatamente per stare con il nuovo amore. Dopo un anno di matrimonio, lui, stufo della...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/A-chi-tocca-mia-moglie-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/a-chi-tocca-mia-moglie/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/a-chi-tocca-mia-moglie/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "f85e5903d359",
+      "title": "Come ammazzare la moglie o il marito senza tanti perché",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La comicità di Amurri, stringata ed elegante, prorompe, in maniera emblematica, con una vena ironica dissacrante e con i suoi commenti e giudizi portati al limite di assurdi ma divertenti “consigli di rapida eliminazione”, mette sotto una spietata lente di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/COME-AMMAZZARE-MILANESI-MADDALENA-RIZZI-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/come-ammazzare-la-moglie-o-il-marito-senza-tanti-perche/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/come-ammazzare-la-moglie-o-il-marito-senza-tanti-perche/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "68071d67bb23",
+      "title": "Mi è scappato il morto",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In un appartamento, meta gettonata di incontro galanti, Nico, il proprietario, sta illustrando all’uomo che di lì a poco dovrà incontrarsi con la fascinosa Emilie, gli spazi e le particolarità della loro alcova d’amore. Il tour sembra essersi quasi concluso,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Mi-e-scappato-il-morto-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/mi-e-scappato-il-morto/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/mi-e-scappato-il-morto/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "9be8a19de6b6",
+      "title": "La vita mi è passata davanti e io… Tiè! L’ho doppiata",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Alfredo Colina. Attore. Uomo. Racconta. Quella volta che si sentiva Bukowski e, prima di entrare in scena, ha bevuto perfino le pozzanghere. Quella volta che ha dimenticato una pistola di scena nel trolley, e il metal detector dell’aeroporto non l’ha...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/8.Colina-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "cd92fc41c34c",
+      "title": "Quasi quasi ci ripenso",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Riccardo e Greta vogliono sposarsi in chiesa per usufruire di un bonus in denaro stanziato dal papa per combattere la crisi dei matrimoni religiosi. A guidarli nel ritiro spirituale di 3 giorni troveranno Don Nino, un prete particolare e molto...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Quasi-quasi-ci-ripenso-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/quasi-quasi-ci-ripenso/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/quasi-quasi-ci-ripenso/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
       "id": "d08d8244fc9b",
       "title": "Piacere, sono Operetta!",
       "date": "2026-09-16",
@@ -1012,6 +948,22 @@
       "is_past": true
     },
     {
+      "id": "890662f93061",
+      "title": "Rita",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "RITA è una tragicommedia che affronta con delicatezza e ironia il tema della difficoltà di “lasciare andare” le persone che amiamo. Interroga il significato della dignità nella vita e nella morte, ponendo domande scomode e profonde sulla legittimità di decidere...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/3.-Rita-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/rita/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/rita/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
       "id": "85e1b1c7d34d",
       "title": "Confronti – Concerto di fine anno",
       "date": "2026-09-16",
@@ -1039,6 +991,54 @@
       "source_url": "https://www.teatrodivillazzano.it/event/solo-3-minuti/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/solo-3-minuti/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "e115635c7ab7",
+      "title": "Vite Binarie",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cosa succederebbe se il mondo frenetico a cui siamo abituati, che ci spinge a correre costantemente da una parte all’altra, si fermasse? In una stazione ferroviaria l’orologio sembra andare ad un ritmo tutto suo, creando una bolla atemporale, fatta di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Vite-Binarie--870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/vite-binarie/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/vite-binarie/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "60f2d915f4ee",
+      "title": "5 minuti",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Quanto dura, in media, un provino?5 minuti. A volte una /Per tutti quelli che almeno una volta nella vita hanno dovuto sostenere un provino per una parte a teatro, in un film, l’ammissione a un talent show o semplicemente un...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/5-minuti-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/5-minuti/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/5-minuti/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "dc5a081c7066",
+      "title": "Flyover Country",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La drammaturgia si ispira a una serie di storie vere provenienti dall’America profonda: terre della Cintura della Ruggine, territori isolati, depressi, di frontiera. Aree soprannominate – dagli abitanti delle ricche e movimentate metropoli atlantiche e californiane flyover country: quel pezzo...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Flyover-country-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/flyover-country/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/flyover-country/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -1444,6 +1444,22 @@
       "is_past": false
     },
     {
+      "id": "c19ed4efc9fd",
+      "title": "Trittico buffo - tre atti unici",
+      "date": "2026-09-26",
+      "time": "20:00",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Conservatorio F.A. Bonporti in collaborazione con il CSC The telephone ou l’amour à trois (libretto e musica di GIANCARLO MENOTTI / durata 30 minuti). I vestiti nuovi dell’imperatore (libretto tratto da G. Rodari / musica di PAOLO ORLANDI ( ex allievo del F.A: Bonporti) / durata 30 minuti). La serva padrona ( libretto di Gennaro Antonio Federico / musica di GIOVANBATTISTA PERGOLESI / Durata 30 minuti ). Interpreti: allievi del Conservatorio F.A. Bonporti selezionati tramite audizione interna. Or",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068876-049584.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026trittico-buffo-tre-atti-unici.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026trittico-buffo-tre-atti-unici.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "a6c74fff2324",
       "title": "Na carega col cuscin",
       "date": "2026-09-26",
@@ -1458,6 +1474,22 @@
         "https://www.cultura.trentino.it/content/view/full/751735"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "44457b820d1e",
+      "title": "Mr.Rain live nei teatri",
+      "date": "2026-09-26",
+      "time": "21:00",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "MR.RAIN torna dal vivo nel 2026 e, per la prima volta nella sua carriera, sceglie l’atmosfera raccolta e suggestiva dei teatri per un tour che si preannuncia unico nel suo percorso artistico. L’Auditorium Melotti di Rovereto ospiterà in anteprima il nuovo tour teatrale il 26 settembre, dando il via a un viaggio musicale che, tra ottobre e novembre, porterà MR.RAIN nelle principali città italiane. Con all’attivo 24 dischi di platino e 5 dischi d’oro, MR.RAIN si presenta al pubblico in una veste n",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068877-mrrain-rovereto.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/mrrain-live-nei-teatri.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/mrrain-live-nei-teatri.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2262,22 +2294,6 @@
         "https://www.cultura.trentino.it/content/view/full/752713"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5c724164c807",
-      "title": "Bunker",
-      "date": "2026-11-13",
-      "time": "20:30",
-      "venue": "Auditorium Hermann Zontini, Via S. Floriano 47, Storo (Tn)",
-      "location": "Storo",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068515-bunker1111.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
