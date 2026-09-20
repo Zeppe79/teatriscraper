@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T19:07:24.196403+00:00",
-  "count": 164,
+  "last_updated": "2026-09-20T09:33:53.592712+00:00",
+  "count": 158,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1092,54 +1092,6 @@
       "is_past": true
     },
     {
-      "id": "9dd4ce3123ef",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Sentinelle di pietra 2026 | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751600",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751600"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "267cab2f774a",
-      "title": "Madri d'Europa - Sentinelle di Pietra",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "venue": "Forte Busa Granda, Vigolana Falesina (Tn)",
-      "location": "Vigolana Falesina",
-      "description": "ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "92df3d57b0fa",
-      "title": "Alla corte di re Mello",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-105/28121719-1-ita-IT/unnamed-10_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752400",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752400"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "a853a477fc85",
       "title": "Il filo della tradizione nella città azzurra",
       "date": "2026-09-19",
@@ -1153,23 +1105,7 @@
         "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "b832db379a7d",
-      "title": "Anima, il concerto racconto",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "venue": "Anfiteatro Vegetale, Termenalgo (Tn)",
-      "location": "Termenalgo",
-      "description": "Lo spettacolo è inserito in \"Termenago a Teatro\" in collaborazione con il Centro Servizi Culturali Santa Chiara di Trento",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067197-30293.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/anima-il-concerto-racconto.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/anima-il-concerto-racconto.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "340cd4c09e28",
@@ -1185,39 +1121,7 @@
         "https://www.cultura.trentino.it/content/view/full/752520"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "06ca82c4df37",
-      "title": "“Laundrette”, apertura del progetto Sottotraccia",
-      "date": "2026-09-19",
-      "time": "20:30",
-      "venue": "Cinema Teatro Paradiso di Folgaria",
-      "location": "Folgaria",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752253",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752253"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c07a886c2e77",
-      "title": "L’importanza de ciamarse Onesto",
-      "date": "2026-09-19",
-      "time": "20:45",
-      "venue": "",
-      "location": "Isera",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752651",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752651"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "916bade13bf7",
@@ -1532,7 +1436,7 @@
       "venue": "Teatro Comunale di Ospedaletto",
       "location": "Ospedaletto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751736",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751736"
@@ -1580,7 +1484,7 @@
       "venue": "",
       "location": "Sella Giudicarie",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752652",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752652"
@@ -1596,7 +1500,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751737"
@@ -1612,7 +1516,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752328",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752328"
@@ -1810,22 +1714,6 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "df6bc39681c2",
-      "title": "Down",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "venue": "Cineteatro Oratorio San Gabriele, Via Pomerio 15, Arco (Tn)",
-      "location": "Arco",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067702-down33.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/down_125306.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/down_125306.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -2294,6 +2182,22 @@
         "https://www.cultura.trentino.it/content/view/full/752713"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5c724164c807",
+      "title": "Bunker",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "venue": "Auditorium Hermann Zontini, Via S. Floriano 47, Storo (Tn)",
+      "location": "Storo",
+      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068515-bunker1111.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
