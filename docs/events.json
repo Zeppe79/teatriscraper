@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T19:13:52.057212+00:00",
-  "count": 158,
+  "last_updated": "2026-09-21T10:21:28.200144+00:00",
+  "count": 157,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1084,9 +1084,9 @@
       "location": "Pergine Valsugana",
       "description": "Venerdì 18 settembre 2026 - ore 20.00",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/nannaateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2923-nannaateatro2026",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2923-nannaateatro2026"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2923-nannaateatro2026"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -1100,9 +1100,9 @@
       "location": "Pergine Valsugana",
       "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2928-il-filo-della-tradizione-nella-citta-azzurra-3",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -1122,22 +1122,6 @@
       ],
       "source_name": "cultura.trentino.it",
       "is_past": true
-    },
-    {
-      "id": "916bade13bf7",
-      "title": "Maiali, teatranti e buchi neri",
-      "date": "2026-09-20",
-      "time": "10:30",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "Intermittenze 2026 | dalle ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/intermittenze4/28123909-1-ita-IT/intermittenze_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752698",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752698"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
     },
     {
       "id": "1cf878e3fbc5",
@@ -1612,7 +1596,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752538",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752538",
