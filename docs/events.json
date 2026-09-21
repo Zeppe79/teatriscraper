@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T10:21:28.200144+00:00",
-  "count": 157,
+  "last_updated": "2026-09-21T20:44:16.682990+00:00",
+  "count": 184,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1195,10 +1195,26 @@
       "venue": "",
       "location": "Dimaro Folgarida",
       "description": "ore 20:30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752250",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752250"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "384529ef4994",
+      "title": "Ubi minor maior cessat",
+      "date": "2026-09-24",
+      "time": "20:30",
+      "venue": "Sala Filarmonica di Rovereto",
+      "location": "Rovereto",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752771",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752771"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1413,6 +1429,22 @@
       "is_past": false
     },
     {
+      "id": "1bbd189333d6",
+      "title": "Parigi, amore e can can",
+      "date": "2026-10-02",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "ade315785395",
       "title": "Sior Todero brontolon",
       "date": "2026-10-03",
@@ -1474,6 +1506,22 @@
         "https://www.cultura.trentino.it/content/view/full/752652"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ef545beb8dc2",
+      "title": "Parigi, amore e can can",
+      "date": "2026-10-03",
+      "time": "20:45",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1541,6 +1589,38 @@
       "is_past": false
     },
     {
+      "id": "540b64f1e49d",
+      "title": "Complessità. Il Gioco della Vita",
+      "date": "2026-10-07",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/complessita1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2937-complessita-il-gioco-della-vita-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2937-complessita-il-gioco-della-vita-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "579f9ffafec9",
+      "title": "La sat la penultima?",
+      "date": "2026-10-08",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/lasatlapenultima1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2938-la-sat-la-penultima-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2938-la-sat-la-penultima-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "1e7ba607d058",
       "title": "Concerto del quartetto chitarristico Silenzio Massimale",
       "date": "2026-10-09",
@@ -1589,6 +1669,22 @@
       "is_past": false
     },
     {
+      "id": "de7399307447",
+      "title": "Rovereto Wind Orchestra",
+      "date": "2026-10-10",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi - Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/roveretowindorchestra1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2982-rovereto-wind-orchestra",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2982-rovereto-wind-orchestra"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "70d679f766b9",
       "title": "Fonda l'embarcadero",
       "date": "2026-10-10",
@@ -1596,7 +1692,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752538",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752538",
@@ -1671,6 +1767,22 @@
       "is_past": false
     },
     {
+      "id": "9b842402b9ac",
+      "title": "Ensemble Turchese",
+      "date": "2026-10-11",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/ensembleturchese1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2939-ensemble-turchese-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2939-ensemble-turchese-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "d3b7984a2d54",
       "title": "Bunker",
       "date": "2026-10-13",
@@ -1684,6 +1796,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/bunker_126695.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "512453899a12",
+      "title": "La società dei ribelli",
+      "date": "2026-10-15",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/lasocietadeiribelli1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2940-la-societa-dei-ribelli-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2940-la-societa-dei-ribelli-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1751,6 +1879,22 @@
       "is_past": false
     },
     {
+      "id": "6e19b6aacf20",
+      "title": "Stuf",
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/stuf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "9ca4f73d9147",
       "title": "La famiglia Bruscolin",
       "date": "2026-10-17",
@@ -1799,6 +1943,22 @@
       "is_past": false
     },
     {
+      "id": "b6f077a0d800",
+      "title": "Stuf",
+      "date": "2026-10-18",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/stuf1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "76cf13002103",
       "title": "Turbopaolo - Il Poliziotto del Formaggio",
       "date": "2026-10-18",
@@ -1831,6 +1991,22 @@
       "is_past": false
     },
     {
+      "id": "25f8141c7c02",
+      "title": "Orchestra Haydn di Bolzano e Trento",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/haydn1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2974-orchestra-haydn-21-ottobre",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2974-orchestra-haydn-21-ottobre"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "eb6b6160a347",
       "title": "BAMBU 2026",
       "date": "2026-10-22",
@@ -1844,6 +2020,22 @@
         "https://www.cultura.trentino.it/content/view/full/752712"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "58d613ed8be5",
+      "title": "La magnifica imperfezione",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/lamagnificaimperfezione1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2942-la-magnifica-imperfezione-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2942-la-magnifica-imperfezione-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2024,6 +2216,22 @@
       "is_past": false
     },
     {
+      "id": "92b70e17c7d8",
+      "title": "Figliasanta",
+      "date": "2026-11-05",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione - Danza",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Danza/figliasanta1.jpg",
+      "source_url": "https://www.teatrodipergine.it/danza/2945-figliasanta-prestagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/danza/2945-figliasanta-prestagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "20fe42080625",
       "title": "Piacere, Denaro!",
       "date": "2026-11-05",
@@ -2102,6 +2310,22 @@
         "https://www.cultura.trentino.it/content/view/full/752371"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1dbfe3b60e32",
+      "title": "Una cena d'addio",
+      "date": "2026-11-11",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/unacenadaddio1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2946-una-cena-d-addio",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2946-una-cena-d-addio"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2249,6 +2473,22 @@
       "is_past": false
     },
     {
+      "id": "add3991883af",
+      "title": "Di robot e altre persone...",
+      "date": "2026-11-15",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi | sul palco del Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/dirobotealtrepersone1.jpg",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2967-di-robot-e-altre-persone",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2967-di-robot-e-altre-persone"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "54b46b132701",
       "title": "Le tre Marie",
       "date": "2026-11-15",
@@ -2281,6 +2521,22 @@
       "is_past": false
     },
     {
+      "id": "12dd524363c7",
+      "title": "Laborintus - Signal to Noise Festival",
+      "date": "2026-11-15",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/laborintus1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2975-laborintus-signal-to-noise-festival",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2975-laborintus-signal-to-noise-festival"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "313b2b037d1b",
       "title": "A small anatomy | De Dansers",
       "date": "2026-11-18",
@@ -2294,6 +2550,22 @@
         "https://www.cultura.trentino.it/content/view/full/751408"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2cb6dd27df17",
+      "title": "Ridere, sganasciarsi, scompisciarsi",
+      "date": "2026-11-18",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/rideresganasciarsiscompisciarsi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2947-ridere-sganasciarsi-scompisciarsi",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2947-ridere-sganasciarsi-scompisciarsi"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2410,6 +2682,22 @@
       "is_past": false
     },
     {
+      "id": "c4aa4bcd79a7",
+      "title": "Alì’nghiastrë. Musica popolare contemporanea",
+      "date": "2026-11-26",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Giovedì 26 novembre 2026 - ore 20.30",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/allinghiastre1.jpeg",
+      "source_url": "https://www.teatrodipergine.it/musica/2976-ali-nghiastre-musica-popolare-contemporanea",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2976-ali-nghiastre-musica-popolare-contemporanea"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "6e655e7e02d6",
       "title": "Antropocene e altri poceti",
       "date": "2026-11-27",
@@ -2423,6 +2711,22 @@
         "https://www.cultura.trentino.it/content/view/full/751579"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9ebf6745ac28",
+      "title": "Gli aiutanti di Babbo Natale",
+      "date": "2026-11-29",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/gliaiutantidibabbonatale1.jpg",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2968-gli-aiutanti-di-babbo-natale",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2968-gli-aiutanti-di-babbo-natale"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2458,6 +2762,70 @@
       "is_past": false
     },
     {
+      "id": "2dd8279584f4",
+      "title": "La (in)coscienza di Zeno",
+      "date": "2026-12-03",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/laincoscienzadizeno1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2948-la-incoscienza-di-zeno",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2948-la-incoscienza-di-zeno"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "b118f9418bd1",
+      "title": "Gli ultimi orsi polari",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/gliultimiorsipolari.jpg",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "69181231c245",
+      "title": "Flòrula. Concerto Condiviso",
+      "date": "2026-12-09",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/florula1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2977-florula-concerto-condiviso",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2977-florula-concerto-condiviso"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "03b260fe44c7",
+      "title": "Tempo orfano",
+      "date": "2026-12-10",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione | sul palco del Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/tempoorfano1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2957-tempo-orfano-fuoristagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2957-tempo-orfano-fuoristagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "983177ad9249",
       "title": "Arriva Lucilla",
       "date": "2026-12-13",
@@ -2471,6 +2839,22 @@
         "https://www.cultura.trentino.it/content/view/full/750490"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2fe3a2d7e8f1",
+      "title": "Le Nozze di Figaro - Wolfgang Amadeus Mozart",
+      "date": "2026-12-13",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/lenozzedifigaro1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2978-le-nozze-di-figaro",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2978-le-nozze-di-figaro"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2506,6 +2890,22 @@
       "is_past": false
     },
     {
+      "id": "cc61ce2c80ca",
+      "title": "Overload",
+      "date": "2026-12-16",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/overload1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2949-overload",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2949-overload"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "ea133a205001",
       "title": "Il furto dei regali",
       "date": "2026-12-18",
@@ -2519,6 +2919,38 @@
         "https://www.cultura.trentino.it/content/view/full/748738"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "748d42e54e34",
+      "title": "Forma mentis/Holy shift",
+      "date": "2026-12-18",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Danza",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Danza/formamentis1.jpg",
+      "source_url": "https://www.teatrodipergine.it/danza/2964-forma-mentis-holy-shift-danza",
+      "source_urls": [
+        "https://www.teatrodipergine.it/danza/2964-forma-mentis-holy-shift-danza"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "4a09ea8c7d74",
+      "title": "Concerto di Natale della Banda Sociale di Pergine",
+      "date": "2026-12-23",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi - Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/bandapergine1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2983-concerto-di-natale-26",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2983-concerto-di-natale-26"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     }
   ]
