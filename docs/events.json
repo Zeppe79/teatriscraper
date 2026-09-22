@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T09:35:48.414828+00:00",
-  "count": 192,
+  "last_updated": "2026-09-22T20:00:00.199473+00:00",
+  "count": 203,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1580,7 +1580,7 @@
       "venue": "Chiesa di San Francesco Saverio, Trento",
       "location": "Trento",
       "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068615-0394.jpg",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068971-eddi.jpg",
       "source_url": "https://www.crushsite.it/it/musica/2026/eddy-serafini-codex-discantans.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/eddy-serafini-codex-discantans.html"
@@ -1799,6 +1799,22 @@
       "is_past": false
     },
     {
+      "id": "660697bbb38c",
+      "title": "Storie al profumo di guerra - Sentinelle di Pietra",
+      "date": "2026-10-11",
+      "time": "10:30",
+      "venue": "Forte Garda, Riva del Garda (Tn)",
+      "location": "Riva del Garda",
+      "description": "ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/storie-al-profumo-di-guerra-sentinelle-di-pietra_126429.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/storie-al-profumo-di-guerra-sentinelle-di-pietra_126429.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "cb93e141a7fc",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-10-11",
@@ -1812,6 +1828,22 @@
         "https://www.cultura.trentino.it/content/view/full/751604"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "79bf38c45bf9",
+      "title": "Frequenze Forti",
+      "date": "2026-10-11",
+      "time": "14:30",
+      "venue": "Forte Sommo Alto, Folgaria (Tn)",
+      "location": "Folgaria",
+      "description": "ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1847,17 +1879,49 @@
       "is_past": false
     },
     {
-      "id": "d3b7984a2d54",
-      "title": "Bunker",
-      "date": "2026-10-13",
-      "time": "20:00",
-      "venue": "Teatro San Giorgio, Via S. Giorgio, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/056966-bunker.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_126695.html",
+      "id": "df996137c82f",
+      "title": "La scuola policorale romana del sei-settecento",
+      "date": "2026-10-11",
+      "time": "20:30",
+      "venue": "Chiesa di San Francesco Saverio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068970-miaa.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/la-scuola-policorale-romana-del-sei-settecento.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bunker_126695.html"
+        "https://www.crushsite.it/it/musica/2026/la-scuola-policorale-romana-del-sei-settecento.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b62eaf6c3e34",
+      "title": "Big One - The European Pink Floyd Show",
+      "date": "2026-10-11",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026big-one-the-european-pink-floyd-show.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026big-one-the-european-pink-floyd-show.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "4413f454c2cc",
+      "title": "L'Amore Che Rimane",
+      "date": "2026-10-13",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068975-4049559.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/lamore-che-rimane.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/lamore-che-rimane.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -1906,22 +1970,6 @@
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "6bc2872ba61c",
-      "title": "DEsPRESSO",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "venue": "Cineteatro Oratorio San Gabriele, Via Pomerio 15, Arco (Tn)",
-      "location": "Arco",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068516-despresso.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/despresso.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/despresso.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -2007,17 +2055,17 @@
       "is_past": false
     },
     {
-      "id": "30cd3e448914",
-      "title": "Cura il futuro Ledro: Pinocchio",
+      "id": "b0aa7339bfc5",
+      "title": "Pierino e Il Lupo / Il Carnevale degli Animali - Balletto di Siena",
       "date": "2026-10-18",
       "time": "16:00",
-      "venue": "Auditorium, Tiarno di Sopra - Ledro (Tn)",
-      "location": "Tiarno di Sopra - Ledro",
-      "description": "Info n. 333.9456604, biglietteria@collettivoclochart.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/067194-www.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-ledro-pinocchio.html",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Regia e coreografia Marco Batti / Musica S. Prokofiev e C. Saint-Saëns / Costumi Jasha Atelier e Nataliia Dolyk Scappo a teatro Pierino e il Lupo è una fiaba musicale scritta da Sergej Prokof ’ev, una felice commistione di teatro e musica dove questi due elementi si intrecciano in un dialogo continuo e arricchente. Voce narrante e musica contribuiscono a portare avanti la storia, dove ogni personaggio è rappresentato da uno strumento musicale dell’orchestra e ne viene caratterizzato, divenendo r",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-ledro-pinocchio.html"
+        "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -2055,6 +2103,22 @@
       "is_past": false
     },
     {
+      "id": "8a4095a508f9",
+      "title": "Turbopaolo - Il Poliziotto del Formaggio",
+      "date": "2026-10-18",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Turbopaolo torna a teatro con Il Poliziotto del Formaggio, il suo nuovo incredibile spettacolo. Turbopaolo, luminare della genetica prestato al mondo del comedy per mostrare ai mortali la strada verso la meditazione trascendentale, pratica che affascina i vip della città degli angeli. Introverso e calcolatore, durante l’accademia navale era considerato il nome più papabile per finire nel programma di selezione per gli astronauti dell’ESA, l’agenzia spaziale europea. Poi il colpo di fulmine con l",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068973-0495959.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "5b470d7cb78c",
       "title": "Ozpetek",
       "date": "2026-10-21",
@@ -2068,6 +2132,22 @@
         "https://www.cultura.trentino.it/content/view/full/747762"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bb9d2c45acfe",
+      "title": "Ruoli secondari di Ferzan Ozpetek",
+      "date": "2026-10-21",
+      "time": "19:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068977-fo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2442,6 +2522,22 @@
       "is_past": false
     },
     {
+      "id": "2af985daef1c",
+      "title": "Una cena d'addio",
+      "date": "2026-11-11",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752855",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752855"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "1dbfe3b60e32",
       "title": "Una cena d'addio",
       "date": "2026-11-11",
@@ -2455,22 +2551,6 @@
         "https://www.teatrodipergine.it/teatro/2946-una-cena-d-addio"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "fe8420b8a60f",
-      "title": "Cura il Futuro 2026 Riva del Garda: Ninna nanna del Vajont",
-      "date": "2026-11-11",
-      "time": "20:45",
-      "venue": "Sala della Comunità, Viale Rosmini, Riva del Garda (Tn)",
-      "location": "Riva del Garda",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068514-879789.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-riva-del-garda-ninna-nanna-del-vajont.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cura-il-futuro-2026-riva-del-garda-ninna-nanna-del-vajont.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2519,22 +2599,6 @@
         "https://www.cultura.trentino.it/content/view/full/752713"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5c724164c807",
-      "title": "Bunker",
-      "date": "2026-11-13",
-      "time": "20:30",
-      "venue": "Auditorium Hermann Zontini, Via S. Floriano 47, Storo (Tn)",
-      "location": "Storo",
-      "description": "Info n. 333.9456604, biglietteriaclochart@gmail.com",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068515-bunker1111.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bunker_126697.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2597,6 +2661,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751574"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5f7c307484d4",
+      "title": "Di robot e altre persone...",
+      "date": "2026-11-15",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752898",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752898"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2677,6 +2757,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751408",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751408"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ff59bdc47ef0",
+      "title": "Ridere, sganasciarsi, scompisciarsi",
+      "date": "2026-11-18",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752862",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752862"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2843,6 +2939,22 @@
       "is_past": false
     },
     {
+      "id": "b9fbd7372a73",
+      "title": "Gli aiutanti di Babbo Natale",
+      "date": "2026-11-29",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752900",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752900"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9ebf6745ac28",
       "title": "Gli aiutanti di Babbo Natale",
       "date": "2026-11-29",
@@ -2891,6 +3003,22 @@
       "is_past": false
     },
     {
+      "id": "8d0f0511f544",
+      "title": "La (in)coscienza di Zeno",
+      "date": "2026-12-03",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752864",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752864"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2dd8279584f4",
       "title": "La (in)coscienza di Zeno",
       "date": "2026-12-03",
@@ -2904,6 +3032,22 @@
         "https://www.teatrodipergine.it/teatro/2948-la-incoscienza-di-zeno"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "5cc684fd2a99",
+      "title": "Gli ultimi orsi polari",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752902",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752902"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -2936,6 +3080,22 @@
         "https://www.teatrodipergine.it/musica/2977-florula-concerto-condiviso"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "504478226067",
+      "title": "Tempo orfano",
+      "date": "2026-12-10",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752883",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752883"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3014,6 +3174,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747767",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747767"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fa3639131ac7",
+      "title": "Overload",
+      "date": "2026-12-16",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752866",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752866"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
