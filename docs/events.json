@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T20:44:16.682990+00:00",
-  "count": 184,
+  "last_updated": "2026-09-22T09:35:48.414828+00:00",
+  "count": 192,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1108,22 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "340cd4c09e28",
-      "title": "Rita",
-      "date": "2026-09-19",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "sabato 19 e lunedì 21 settembre alle ore 20.30\ndomenica 20 settembre in matinée alle 11.00\nSabato 19 settembre alle 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/prestagione-rita_ph-matteo-de-stefano/28125279-1-ita-IT/Prestagione-Rita_ph-matteo-de-stefano_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752520",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752520"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "1cf878e3fbc5",
       "title": "Il corpo è la prima stanza. Abitare il proprio spazio tra parole e movimento",
       "date": "2026-09-22",
@@ -1195,7 +1179,7 @@
       "venue": "",
       "location": "Dimaro Folgarida",
       "description": "ore 20:30",
-      "image_url": "http://ez074-prod.infotn.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752250",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752250"
@@ -1279,6 +1263,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752251",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752251"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2cf49bef1ce0",
+      "title": "Nonna Nunzia - Spazio ultima dentiera",
+      "date": "2026-09-25",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/nonnanunzia2/28136932-1-ita-IT/nonnanunzia2_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752829",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752829"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1429,6 +1429,22 @@
       "is_past": false
     },
     {
+      "id": "a832379cbcc9",
+      "title": "Parigi, amore e can can",
+      "date": "2026-10-02",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/parigiamorecancan2/28136988-1-ita-IT/parigiamorecancan2_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752831",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752831"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "1bbd189333d6",
       "title": "Parigi, amore e can can",
       "date": "2026-10-02",
@@ -1548,7 +1564,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752328",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752328"
@@ -1589,6 +1605,22 @@
       "is_past": false
     },
     {
+      "id": "8c7099afb534",
+      "title": "Complessità. Il Gioco della Vita",
+      "date": "2026-10-07",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752833",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752833"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "540b64f1e49d",
       "title": "Complessità. Il Gioco della Vita",
       "date": "2026-10-07",
@@ -1602,6 +1634,22 @@
         "https://www.teatrodipergine.it/teatro/2937-complessita-il-gioco-della-vita-prestagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "ebde3bac61e3",
+      "title": "La sat la penultima?",
+      "date": "2026-10-08",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752835",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752835"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -1648,6 +1696,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752665",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752665"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f6b9ae65faac",
+      "title": "Il lupo",
+      "date": "2026-10-10",
+      "time": "16:30",
+      "venue": "",
+      "location": "Vignola-Falesina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752783",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752783"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1796,6 +1860,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/bunker_126695.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "12567187eb56",
+      "title": "La società dei ribelli",
+      "date": "2026-10-15",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752837",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752837"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -2023,6 +2103,22 @@
       "is_past": false
     },
     {
+      "id": "7a6fa5f961b8",
+      "title": "La magnifica imperfezione",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752839",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752839"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "58d613ed8be5",
       "title": "La magnifica imperfezione",
       "date": "2026-10-22",
@@ -2055,6 +2151,22 @@
       "is_past": false
     },
     {
+      "id": "3eb03c74f402",
+      "title": "La Maria Zanella",
+      "date": "2026-10-24",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752842",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752842"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "60fbc9ee915e",
       "title": "Come narala a finir",
       "date": "2026-10-24",
@@ -2082,6 +2194,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751569",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751569"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d3c8093f5639",
+      "title": "Il sogno",
+      "date": "2026-10-28",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752844",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752844"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2258,7 +2386,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752588",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752588"
+        "https://www.cultura.trentino.it/content/view/full/752588",
+        "https://www.cultura.trentino.it/content/view/full/752786"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
