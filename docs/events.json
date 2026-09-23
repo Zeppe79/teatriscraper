@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T20:00:00.199473+00:00",
-  "count": 203,
+  "last_updated": "2026-09-23T09:41:30.099931+00:00",
+  "count": 209,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1108,22 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "1cf878e3fbc5",
-      "title": "Il corpo è la prima stanza. Abitare il proprio spazio tra parole e movimento",
-      "date": "2026-09-22",
-      "time": "18:00",
-      "venue": "",
-      "location": "Riva del Garda",
-      "description": "Intermittenze 2026 | alle 18.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/intermittenze4/28123909-1-ita-IT/intermittenze_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752699",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752699"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "32275158c6ef",
       "title": "Miss Julie",
       "date": "2026-09-22",
@@ -1137,7 +1121,7 @@
         "https://www.cultura.trentino.it/content/view/full/752460"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "deab90f0764e",
@@ -1564,7 +1548,7 @@
       "venue": "Teatro Zandonai",
       "location": "Rovereto",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752328",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752328"
@@ -1749,19 +1733,19 @@
       "is_past": false
     },
     {
-      "id": "70d679f766b9",
-      "title": "Fonda l'embarcadero",
+      "id": "e7bc06ae9d99",
+      "title": "L’è afondà l’embarcadero",
       "date": "2026-10-10",
       "time": "20:45",
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
+      "description": "ore 20.45",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752538",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752538",
         "https://www.cultura.trentino.it/content/view/full/751739",
-        "https://www.cultura.trentino.it/content/view/full/751568"
+        "https://www.cultura.trentino.it/content/view/full/751568",
+        "https://www.cultura.trentino.it/content/view/full/752538"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2007,6 +1991,22 @@
       "is_past": false
     },
     {
+      "id": "a14ebf17bee4",
+      "title": "Stuf",
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752932",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752932"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6e19b6aacf20",
       "title": "Stuf",
       "date": "2026-10-17",
@@ -2247,22 +2247,6 @@
       "is_past": false
     },
     {
-      "id": "60fbc9ee915e",
-      "title": "Come narala a finir",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752540",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752540"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c6ebe2bf1729",
       "title": "Coppie scoppiate",
       "date": "2026-10-24",
@@ -2274,6 +2258,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751569",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751569"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "60fbc9ee915e",
+      "title": "Come narala a finir",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
+      "location": "Riva del Garda",
+      "description": "Ottobre a teatro 2026 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752540",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752540"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2365,12 +2365,12 @@
       "time": "20:45",
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
+      "description": "ore 20.45",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752541",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751572",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752541",
-        "https://www.cultura.trentino.it/content/view/full/751572"
+        "https://www.cultura.trentino.it/content/view/full/751572",
+        "https://www.cultura.trentino.it/content/view/full/752541"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2424,6 +2424,22 @@
       "is_past": false
     },
     {
+      "id": "cf7bb1840593",
+      "title": "Kai nel cuore blu",
+      "date": "2026-11-04",
+      "time": "10:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752945",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752945"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "92b70e17c7d8",
       "title": "Figliasanta",
       "date": "2026-11-05",
@@ -2466,8 +2482,7 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752588",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752588",
-        "https://www.cultura.trentino.it/content/view/full/752786"
+        "https://www.cultura.trentino.it/content/view/full/752588"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2481,10 +2496,10 @@
       "location": "Trento",
       "description": "ore 20.45",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752653",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751573",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752653",
-        "https://www.cultura.trentino.it/content/view/full/751573"
+        "https://www.cultura.trentino.it/content/view/full/751573",
+        "https://www.cultura.trentino.it/content/view/full/752653"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2597,6 +2612,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752713",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752713"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e3275279b068",
+      "title": "Grammatica della fantasia | Il Museo degli errori",
+      "date": "2026-11-13",
+      "time": "10:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752949",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752949"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2805,6 +2836,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750483",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750483"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "570e04665695",
+      "title": "Rita",
+      "date": "2026-11-20",
+      "time": "11:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 11.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752959",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752959"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3035,6 +3082,38 @@
       "is_past": false
     },
     {
+      "id": "2aae5631dc8b",
+      "title": "Wallace and Gromit: the curse of the were-Rabbit",
+      "date": "2026-12-04",
+      "time": "10:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752957",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752957"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e12001c4f162",
+      "title": "La società dei ribelli",
+      "date": "2026-12-04",
+      "time": "20:30",
+      "venue": "",
+      "location": "Palù del Fersina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752920",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752920"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5cc684fd2a99",
       "title": "Gli ultimi orsi polari",
       "date": "2026-12-06",
@@ -3240,6 +3319,22 @@
         "https://www.teatrodipergine.it/danza/2964-forma-mentis-holy-shift-danza"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "612ca40b87fa",
+      "title": "Fill e Foll raccontano Cappuccetto Rosso",
+      "date": "2026-12-22",
+      "time": "20:00",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Infanzia   | ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752717",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752717"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
