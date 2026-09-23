@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T09:41:30.099931+00:00",
-  "count": 209,
+  "last_updated": "2026-09-23T19:57:11.136980+00:00",
+  "count": 213,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1156,22 +1156,6 @@
       "is_past": false
     },
     {
-      "id": "d956dc33b38d",
-      "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
-      "date": "2026-09-24",
-      "time": "20:30",
-      "venue": "",
-      "location": "Dimaro Folgarida",
-      "description": "ore 20:30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752250",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752250"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "384529ef4994",
       "title": "Ubi minor maior cessat",
       "date": "2026-09-24",
@@ -1183,6 +1167,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752771",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752771"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d956dc33b38d",
+      "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
+      "date": "2026-09-24",
+      "time": "20:30",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "ore 20:30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lavanda-1/28141379-1-ita-IT/Lavanda-1_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752250",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752250"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1243,7 +1243,7 @@
       "venue": "Cinema Teatro Comunale di Tione",
       "location": "Tione di Trento",
       "description": "ore 20:30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-153/28141295-1-ita-IT/unnamed-15_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752251",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752251"
@@ -2659,7 +2659,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752654",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752654"
+        "https://www.cultura.trentino.it/content/view/full/752654",
+        "https://www.cultura.trentino.it/content/view/full/753007"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2873,6 +2874,22 @@
       "is_past": false
     },
     {
+      "id": "8eab6a0dc269",
+      "title": "La vita mi è passata davanti e io… Tiè! L’ho doppiata",
+      "date": "2026-11-21",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Stagione comica   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753000",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753000"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "43643e609468",
       "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
       "date": "2026-11-21",
@@ -2948,7 +2965,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752704",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752704"
+        "https://www.cultura.trentino.it/content/view/full/752704",
+        "https://www.cultura.trentino.it/content/view/full/753015"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3114,6 +3132,22 @@
       "is_past": false
     },
     {
+      "id": "f64d8a086bc3",
+      "title": "A chi tocca mia moglie?",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Teatro amatoriale | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753008",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753008"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5cc684fd2a99",
       "title": "Gli ultimi orsi polari",
       "date": "2026-12-06",
@@ -3191,6 +3225,22 @@
         "https://www.teatrodipergine.it/teatro/2957-tempo-orfano-fuoristagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "c7227ab6a0d1",
+      "title": "Atomic Tales",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Degusta Teatro | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753019",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753019"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3301,6 +3351,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748738",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748738"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f7c49a8e44a3",
+      "title": "Se ti sposo mi rovino",
+      "date": "2026-12-18",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Stagione comica   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753001",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753001"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
