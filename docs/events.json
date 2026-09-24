@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T19:57:11.136980+00:00",
-  "count": 213,
+  "last_updated": "2026-09-24T09:40:26.356488+00:00",
+  "count": 210,
   "events": [
     {
       "id": "06d96a048e56",
@@ -537,7 +537,7 @@
       "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è “BAMBU” è un progetto che mira allo sviluppo delle relazioni culturali con l’Africa subsahariana su basi di...",
+      "description": "“BAMBU” è un progetto che mira allo sviluppo delle relazioni culturali con l’Africa subsahariana su basi di concreto e reciproco rispetto e coinvolge operatori italiani che promuovono buone pratiche di collaborazione creando un ponte tra l’offerta di spettacoli di danza...",
       "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/BAMBU-870x550.jpg",
       "source_url": "https://www.teatrodivillazzano.it/event/bambu-2026/",
       "source_urls": [
@@ -1108,54 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "32275158c6ef",
-      "title": "Miss Julie",
-      "date": "2026-09-22",
-      "time": "20:30",
-      "venue": "Palacongressi di Riva del Garda",
-      "location": "Riva del Garda",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752460",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752460"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "deab90f0764e",
-      "title": "Attraverso i tuoi occhi",
-      "date": "2026-09-23",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/23-settembre-2/28076265-1-ita-IT/23-settembre-2_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751018",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751018"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8a5f81ceb6ea",
-      "title": "Diamanda Galás",
-      "date": "2026-09-23",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Diamanda Galás torna in Italia con tre concerti speciali e apre il tour il 23 settembre 2026 a Trento, all’Auditorium Santa Chiara. Cantante d’avanguardia, compositrice e pianista, Diamanda Galás è una delle figure più radicali e visionarie della musica contemporanea. Il suo lavoro attraversa generi e linguaggi, fondendo tradizione classica, jazz sperimentale, influenze gospel e una ricerca vocale estrema che l’ha resa unica nel panorama internazionale. Artista precoce, si esibisce già a quattor",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/065298-dmd.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/diamanda-galas.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/diamanda-galas.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "384529ef4994",
       "title": "Ubi minor maior cessat",
       "date": "2026-09-24",
@@ -1358,8 +1310,7 @@
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752535",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752535",
-        "https://www.cultura.trentino.it/content/view/full/751735"
+        "https://www.cultura.trentino.it/content/view/full/752535"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1596,7 +1547,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/complessita2/28137044-1-ita-IT/complessita2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752833",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752833"
@@ -1628,7 +1579,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lasatlapenultima2/28137100-1-ita-IT/lasatlapenultima2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752835",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752835"
@@ -1740,7 +1691,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751739",
