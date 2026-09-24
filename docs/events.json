@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T09:40:26.356488+00:00",
-  "count": 210,
+  "last_updated": "2026-09-24T20:14:50.495084+00:00",
+  "count": 212,
   "events": [
     {
       "id": "06d96a048e56",
@@ -2227,6 +2227,38 @@
         "https://www.cultura.trentino.it/content/view/full/752540"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c9fdf194d341",
+      "title": "Biancaneve show - I teatri soffiati",
+      "date": "2026-10-25",
+      "time": "16:30",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Con Maria Vittoria Barrella / Regia Alessio Kogoj / Drammaturgia e testi Alessio Kogoj e Maria Vittoria Barrella / Disegno luci Blumen / Costumi Samuel Trentini e Federica Zampini / Foto di scena Romano Magrone / Video Federico Maraner / Organizzazione Saba Burali / Grafica Laura Moretto / Produzione I teatri soffiati / Residenza artistica presso Centro Servizi Culturali S. Chiara Scappo a teatro Lo spettacolo è una ricostruzione contemporanea, fedelissima all’originale, della celeberrima fiaba ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/biancaneve-show-i-teatri-soffiati.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/biancaneve-show-i-teatri-soffiati.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "f7ea5498ba64",
+      "title": "Un poeta",
+      "date": "2026-10-27",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069111-049495.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/un-poeta_127585.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/un-poeta_127585.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
