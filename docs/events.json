@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T20:14:50.495084+00:00",
-  "count": 212,
+  "last_updated": "2026-09-25T09:58:16.339702+00:00",
+  "count": 209,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1108,54 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "384529ef4994",
-      "title": "Ubi minor maior cessat",
-      "date": "2026-09-24",
-      "time": "20:30",
-      "venue": "Sala Filarmonica di Rovereto",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752771",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752771"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d956dc33b38d",
-      "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
-      "date": "2026-09-24",
-      "time": "20:30",
-      "venue": "",
-      "location": "Dimaro Folgarida",
-      "description": "ore 20:30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lavanda-1/28141379-1-ita-IT/Lavanda-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752250",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752250"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c7674a6ab0f3",
-      "title": "Dammi rose senza spine",
-      "date": "2026-09-24",
-      "time": "21:00",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4152/27973693-1-ita-IT/sfondo-ocra-415_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747682",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747682"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7a3d0e9f1c70",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-09-25",
@@ -1659,7 +1611,7 @@
       "venue": "Teatro Parrocchiale di Pieve",
       "location": "",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751738"
