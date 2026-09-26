@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T20:12:44.332573+00:00",
-  "count": 209,
+  "last_updated": "2026-09-26T09:40:17.883802+00:00",
+  "count": 207,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1108,70 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "7a3d0e9f1c70",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-25",
-      "time": "20:00",
-      "venue": "Forte Tenna Werk Tenna",
-      "location": "Tenna",
-      "description": "Sentinelle di pietra 2026 | ore 20.00 (in caso di maltempo: Teatro parrocchiale)",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752373",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752373"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "3194349263dc",
-      "title": "Versi - Sentinelle di Pietra",
-      "date": "2026-09-25",
-      "time": "20:00",
-      "venue": "Forte Tenna, Tenna (Tn)",
-      "location": "Tenna",
-      "description": "ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/versi-sentinelle-di-pietra.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/versi-sentinelle-di-pietra.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "8ae76151b452",
-      "title": "Debutto “Lavanda”, uno spettacolo sensoriale tra olfatto, storia e cura",
-      "date": "2026-09-25",
-      "time": "20:30",
-      "venue": "Cinema Teatro Comunale di Tione",
-      "location": "Tione di Trento",
-      "description": "ore 20:30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-153/28141295-1-ita-IT/unnamed-15_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752251",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752251"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2cf49bef1ce0",
-      "title": "Nonna Nunzia - Spazio ultima dentiera",
-      "date": "2026-09-25",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/nonnanunzia2/28136932-1-ita-IT/nonnanunzia2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752829",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752829"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "90f1dd8c8078",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-09-26",
@@ -1588,6 +1524,38 @@
       "is_past": false
     },
     {
+      "id": "ec9d9221454e",
+      "title": "Arte in Valle - I giovani artisti si mettono in mostra",
+      "date": "2026-10-09",
+      "time": "18:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069138-arteinvlle.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/arte-in-valle-i-giovani-artisti-si-mettono-in-mostra.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/arte-in-valle-i-giovani-artisti-si-mettono-in-mostra.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "c1d6d1a51e5b",
+      "title": "Fuori di Bach - Paesaggi Sonori",
+      "date": "2026-10-09",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "info e biglietti: 370 124 5353 & ingresso gratuito su prenotazione",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069137-049485.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/fuori-di-bach-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/fuori-di-bach-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "b6d6ecf5face",
       "title": "\"Chiedimi come sto” | Giornata Mondiale della Salute Mentale",
       "date": "2026-10-10",
@@ -1595,7 +1563,7 @@
       "venue": "Muse Museo delle scienze",
       "location": "Predazzo",
       "description": "dalle 15.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/muse-trento-tdallatina/28130583-1-ita-IT/Muse-Trento-tdallatina_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752665",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752665"
@@ -1611,7 +1579,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/10-ottobre-2026-1/28135692-1-ita-IT/10-ottobre-2026-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752783",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752783"
@@ -1757,7 +1725,7 @@
       "venue": "Auditorium Casa della Gioventù di Predazzo",
       "location": "Predazzo",
       "description": "ore 15.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sior-todero/28099202-1-ita-IT/Sior-Todero_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751741",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751741"
@@ -1870,9 +1838,8 @@
       "location": "Vezzano - Vallelaghi",
       "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it /Info n. 370.1245353",
       "image_url": "https://www.crushsite.it/upload/images/media/large/066660-9s9999d.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill_127565.html",
+      "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
       "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill_127565.html",
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
       ],
       "source_name": "crushsite.it",
@@ -2135,6 +2102,22 @@
       "is_past": false
     },
     {
+      "id": "4331990e6eb3",
+      "title": "Bambu 2026 di Roberto Castello",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano, Via U. Giordano 6, Villazzano (Tn)",
+      "location": "Villazzano",
+      "description": "Bambu è un’idea di Roberto Castello / produzione esecutiva: ALDES / Per Villazzano lo spettacolo è in collaborazione con Compagnia TeatroE e con CAM Consorzio Associazioni con il Mozambico ODV Circuito Danza. \"BAMBU\" promuove relazioni culturali con l'Africa subsahariana attraverso un ponte tra danza e teatro contemporaneo africano e i teatri italiani. Unisce un tour nazionale di spettacoli selezionati con direttori artistici africani e un convegno internazionale di confronto tra artisti, operat",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069155-9483843.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "27511182f3a7",
       "title": "Ubaldo Pantani - Inimitabile",
       "date": "2026-10-22",
@@ -2196,22 +2179,6 @@
         "https://www.cultura.trentino.it/content/view/full/752540"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c9fdf194d341",
-      "title": "Biancaneve show - I teatri soffiati",
-      "date": "2026-10-25",
-      "time": "16:30",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Con Maria Vittoria Barrella / Regia Alessio Kogoj / Drammaturgia e testi Alessio Kogoj e Maria Vittoria Barrella / Disegno luci Blumen / Costumi Samuel Trentini e Federica Zampini / Foto di scena Romano Magrone / Video Federico Maraner / Organizzazione Saba Burali / Grafica Laura Moretto / Produzione I teatri soffiati / Residenza artistica presso Centro Servizi Culturali S. Chiara Scappo a teatro Lo spettacolo è una ricostruzione contemporanea, fedelissima all’originale, della celeberrima fiaba ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/biancaneve-show-i-teatri-soffiati.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/biancaneve-show-i-teatri-soffiati.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
