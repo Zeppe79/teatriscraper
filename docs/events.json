@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T09:40:17.883802+00:00",
+  "last_updated": "2026-09-26T19:31:19.345940+00:00",
   "count": 207,
   "events": [
     {
@@ -1428,6 +1428,22 @@
       "is_past": false
     },
     {
+      "id": "4f9272a1c61d",
+      "title": "Hen – Storia di una gallina",
+      "date": "2026-10-06",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069167-rer445.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/hen-storia-di-una-gallina.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/hen-storia-di-una-gallina.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "8c7099afb534",
       "title": "Complessità. Il Gioco della Vita",
       "date": "2026-10-07",
@@ -2006,6 +2022,22 @@
       "is_past": false
     },
     {
+      "id": "28994258a2db",
+      "title": "Camp Miasma: Adolescenza, sesso e morte",
+      "date": "2026-10-20",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069168-49384.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/camp-miasma-adolescenza-sesso-e-morte.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/camp-miasma-adolescenza-sesso-e-morte.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "5b470d7cb78c",
       "title": "Ozpetek",
       "date": "2026-10-21",
@@ -2019,22 +2051,6 @@
         "https://www.cultura.trentino.it/content/view/full/747762"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "bb9d2c45acfe",
-      "title": "Ruoli secondari di Ferzan Ozpetek",
-      "date": "2026-10-21",
-      "time": "19:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068977-fo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2099,22 +2115,6 @@
         "https://www.teatrodipergine.it/teatro/2942-la-magnifica-imperfezione-prestagione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "4331990e6eb3",
-      "title": "Bambu 2026 di Roberto Castello",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano, Via U. Giordano 6, Villazzano (Tn)",
-      "location": "Villazzano",
-      "description": "Bambu è un’idea di Roberto Castello / produzione esecutiva: ALDES / Per Villazzano lo spettacolo è in collaborazione con Compagnia TeatroE e con CAM Consorzio Associazioni con il Mozambico ODV Circuito Danza. \"BAMBU\" promuove relazioni culturali con l'Africa subsahariana attraverso un ponte tra danza e teatro contemporaneo africano e i teatri italiani. Unisce un tour nazionale di spettacoli selezionati con direttori artistici africani e un convegno internazionale di confronto tra artisti, operat",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069155-9483843.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
