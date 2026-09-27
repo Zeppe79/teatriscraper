@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T19:31:19.345940+00:00",
-  "count": 207,
+  "last_updated": "2026-09-27T10:20:05.210135+00:00",
+  "count": 204,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1108,54 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "90f1dd8c8078",
-      "title": "Sentinelle di Pietra | Oltre la tregua",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "venue": "Forte Dosso del Sommo Werk Serrada",
-      "location": "Folgaria",
-      "description": "Sentinelle di pietra 2026 | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751601",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751601"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "891e0092e4db",
-      "title": "Madri d'Europa - Sentinelle di Pietra",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "venue": "Forte Dosso delle Somme, Folgaria (Tn)",
-      "location": "Folgaria",
-      "description": "ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra_126431.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/madri-deuropa-sentinelle-di-pietra_126431.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "d6fd8bde2544",
-      "title": "Sconcerto a 4 mani",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/26-settembre-3/28092059-1-ita-IT/26-settembre-3_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751513",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751513"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "92b34c7a6aea",
       "title": "Trittico buffo - Tre atti unici",
       "date": "2026-09-26",
@@ -1169,7 +1121,7 @@
         "https://www.cultura.trentino.it/content/view/full/752589"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c19ed4efc9fd",
@@ -1185,39 +1137,7 @@
         "https://www.crushsite.it/it/musica/2026trittico-buffo-tre-atti-unici.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "a6c74fff2324",
-      "title": "Na carega col cuscin",
-      "date": "2026-09-26",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752535",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752535"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "44457b820d1e",
-      "title": "Mr.Rain live nei teatri",
-      "date": "2026-09-26",
-      "time": "21:00",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "MR.RAIN torna dal vivo nel 2026 e, per la prima volta nella sua carriera, sceglie l’atmosfera raccolta e suggestiva dei teatri per un tour che si preannuncia unico nel suo percorso artistico. L’Auditorium Melotti di Rovereto ospiterà in anteprima il nuovo tour teatrale il 26 settembre, dando il via a un viaggio musicale che, tra ottobre e novembre, porterà MR.RAIN nelle principali città italiane. Con all’attivo 24 dischi di platino e 5 dischi d’oro, MR.RAIN si presenta al pubblico in una veste n",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068877-mrrain-rovereto.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/mrrain-live-nei-teatri.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/mrrain-live-nei-teatri.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ed82cdfe84ec",
@@ -1661,7 +1581,7 @@
       "venue": "",
       "location": "Predazzo",
       "description": "ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752590",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752590"
@@ -1677,7 +1597,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
@@ -1709,7 +1629,7 @@
       "venue": "Forte Sommo Alto Zwischenwerk Sommo",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 14.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751604"
@@ -2054,6 +1974,22 @@
       "is_past": false
     },
     {
+      "id": "bb9d2c45acfe",
+      "title": "Ruoli secondari di Ferzan Ozpetek",
+      "date": "2026-10-21",
+      "time": "19:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068977-fo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "25f8141c7c02",
       "title": "Orchestra Haydn di Bolzano e Trento",
       "date": "2026-10-21",
@@ -2067,6 +2003,22 @@
         "https://www.teatrodipergine.it/musica/2974-orchestra-haydn-21-ottobre"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "b8c211e461c8",
+      "title": "Viaggio nella memoria del medioevo latino",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "venue": "Badia San Lorenzo, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069165-309384.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/viaggio-nella-memoria-del-medioevo-latino.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/viaggio-nella-memoria-del-medioevo-latino.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
