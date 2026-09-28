@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T19:57:53.159173+00:00",
+  "last_updated": "2026-09-28T11:23:11.615807+00:00",
   "count": 204,
   "events": [
     {
@@ -1108,38 +1108,6 @@
       "is_past": true
     },
     {
-      "id": "92b34c7a6aea",
-      "title": "Trittico buffo - Tre atti unici",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "il 26 settembre alle ore 20.00\nil 27 settembre alle ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752589",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752589"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "c19ed4efc9fd",
-      "title": "Trittico buffo - tre atti unici",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Conservatorio F.A. Bonporti in collaborazione con il CSC The telephone ou l’amour à trois (libretto e musica di GIANCARLO MENOTTI / durata 30 minuti). I vestiti nuovi dell’imperatore (libretto tratto da G. Rodari / musica di PAOLO ORLANDI ( ex allievo del F.A: Bonporti) / durata 30 minuti). La serva padrona ( libretto di Gennaro Antonio Federico / musica di GIOVANBATTISTA PERGOLESI / Durata 30 minuti ). Interpreti: allievi del Conservatorio F.A. Bonporti selezionati tramite audizione interna. Or",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068876-049584.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026trittico-buffo-tre-atti-unici.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026trittico-buffo-tre-atti-unici.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
       "id": "ed82cdfe84ec",
       "title": "Bauhaus",
       "date": "2026-10-01",
@@ -1172,6 +1140,22 @@
       "is_past": false
     },
     {
+      "id": "1bbd189333d6",
+      "title": "Parigi, amore e can can",
+      "date": "2026-10-02",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "a832379cbcc9",
       "title": "Parigi, amore e can can",
       "date": "2026-10-02",
@@ -1188,22 +1172,6 @@
       "is_past": false
     },
     {
-      "id": "1bbd189333d6",
-      "title": "Parigi, amore e can can",
-      "date": "2026-10-02",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "ade315785395",
       "title": "Sior Todero brontolon",
       "date": "2026-10-03",
@@ -1217,6 +1185,22 @@
         "https://www.cultura.trentino.it/content/view/full/751736"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ef545beb8dc2",
+      "title": "Parigi, amore e can can",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1265,22 +1249,6 @@
         "https://www.cultura.trentino.it/content/view/full/752652"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ef545beb8dc2",
-      "title": "Parigi, amore e can can",
-      "date": "2026-10-03",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1404,9 +1372,9 @@
       "location": "Vezzano - Vallelaghi",
       "description": "Ingresso libero",
       "image_url": "https://www.crushsite.it/upload/images/media/large/069136-029383.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026book-tea-time-anima-animale.html",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/book-tea-time-anima-animale.html",
       "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026book-tea-time-anima-animale.html"
+        "https://www.crushsite.it/it/incontri/2026/book-tea-time-anima-animale.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -1482,7 +1450,7 @@
       "time": "21:00",
       "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
       "location": "Vezzano - Vallelaghi",
-      "description": "info e biglietti: 370 124 5353 & ingresso gratuito su prenotazione",
+      "description": "Ingresso gratuito su prenotazione, n. 370.1245353",
       "image_url": "https://www.crushsite.it/upload/images/media/large/069137-049485.jpg",
       "source_url": "https://www.crushsite.it/it/musica/2026/fuori-di-bach-paesaggi-sonori.html",
       "source_urls": [
@@ -1606,22 +1574,6 @@
       "is_past": false
     },
     {
-      "id": "660697bbb38c",
-      "title": "Storie al profumo di guerra - Sentinelle di Pietra",
-      "date": "2026-10-11",
-      "time": "10:30",
-      "venue": "Forte Garda, Riva del Garda (Tn)",
-      "location": "Riva del Garda",
-      "description": "ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/storie-al-profumo-di-guerra-sentinelle-di-pietra_126429.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/storie-al-profumo-di-guerra-sentinelle-di-pietra_126429.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "cb93e141a7fc",
       "title": "Sentinelle di Pietra | Oltre la tregua",
       "date": "2026-10-11",
@@ -1635,22 +1587,6 @@
         "https://www.cultura.trentino.it/content/view/full/751604"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "79bf38c45bf9",
-      "title": "Frequenze Forti",
-      "date": "2026-10-11",
-      "time": "14:30",
-      "venue": "Forte Sommo Alto, Folgaria (Tn)",
-      "location": "Folgaria",
-      "description": "ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1718,22 +1654,6 @@
       "is_past": false
     },
     {
-      "id": "4413f454c2cc",
-      "title": "L'Amore Che Rimane",
-      "date": "2026-10-13",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068975-4049559.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/lamore-che-rimane.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/lamore-che-rimane.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "12567187eb56",
       "title": "La società dei ribelli",
       "date": "2026-10-15",
@@ -1741,7 +1661,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lasocietadeiribelli2/28137156-1-ita-IT/lasocietadeiribelli2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752837",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752837"
@@ -1772,11 +1692,27 @@
       "time": "21:00",
       "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
       "location": "Vezzano - Vallelaghi",
-      "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it /Info n. 370.1245353",
+      "description": "Biglietti € 30 / Biglietti online su trentinospettacoli.it / Info n. 370.1245353",
       "image_url": "https://www.crushsite.it/upload/images/media/large/066660-9s9999d.jpg",
       "source_url": "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html",
       "source_urls": [
         "https://www.crushsite.it/it/musica/2026/paesaggi-sonori-judith-hill.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "da82edaadbc4",
+      "title": "La noche latina - Salsa e bachata con DJ Mariano",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Entrata a pagamento / Tesserati ArteLaghi 2026 €10, non tesserati €15 / Incluso nel biglietto: apericena e drink o bibita a scelta / Prenotazione obbligatoria solo WhatsApp/SMS n. 370.1245353 / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069182-88888w.png",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/la-noche-latina-salsa-e-bachata-con-dj-mariano.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/la-noche-latina-salsa-e-bachata-con-dj-mariano.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -1878,22 +1814,6 @@
       "is_past": false
     },
     {
-      "id": "b0aa7339bfc5",
-      "title": "Pierino e Il Lupo / Il Carnevale degli Animali - Balletto di Siena",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Regia e coreografia Marco Batti / Musica S. Prokofiev e C. Saint-Saëns / Costumi Jasha Atelier e Nataliia Dolyk Scappo a teatro Pierino e il Lupo è una fiaba musicale scritta da Sergej Prokof ’ev, una felice commistione di teatro e musica dove questi due elementi si intrecciano in un dialogo continuo e arricchente. Voce narrante e musica contribuiscono a portare avanti la storia, dove ogni personaggio è rappresentato da uno strumento musicale dell’orchestra e ne viene caratterizzato, divenendo r",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "b6f077a0d800",
       "title": "Stuf",
       "date": "2026-10-18",
@@ -1926,38 +1846,6 @@
       "is_past": false
     },
     {
-      "id": "8a4095a508f9",
-      "title": "Turbopaolo - Il Poliziotto del Formaggio",
-      "date": "2026-10-18",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Turbopaolo torna a teatro con Il Poliziotto del Formaggio, il suo nuovo incredibile spettacolo. Turbopaolo, luminare della genetica prestato al mondo del comedy per mostrare ai mortali la strada verso la meditazione trascendentale, pratica che affascina i vip della città degli angeli. Introverso e calcolatore, durante l’accademia navale era considerato il nome più papabile per finire nel programma di selezione per gli astronauti dell’ESA, l’agenzia spaziale europea. Poi il colpo di fulmine con l",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068973-0495959.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "28994258a2db",
-      "title": "Camp Miasma: Adolescenza, sesso e morte",
-      "date": "2026-10-20",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069168-49384.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/camp-miasma-adolescenza-sesso-e-morte.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/camp-miasma-adolescenza-sesso-e-morte.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "5b470d7cb78c",
       "title": "Ozpetek",
       "date": "2026-10-21",
@@ -1971,22 +1859,6 @@
         "https://www.cultura.trentino.it/content/view/full/747762"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "bb9d2c45acfe",
-      "title": "Ruoli secondari di Ferzan Ozpetek",
-      "date": "2026-10-21",
-      "time": "19:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068977-fo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/ruoli-secondari-di-ferzan-ozpetek.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2006,17 +1878,17 @@
       "is_past": false
     },
     {
-      "id": "b8c211e461c8",
-      "title": "Viaggio nella memoria del medioevo latino",
+      "id": "ca5ec8164121",
+      "title": "Book & tea time - Dare è ricevere",
       "date": "2026-10-21",
       "time": "20:30",
-      "venue": "Badia San Lorenzo, Trento",
-      "location": "Trento",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
       "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069165-309384.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/viaggio-nella-memoria-del-medioevo-latino.html",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069184-444.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/book-tea-time-dare-e-ricevere.html",
       "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/viaggio-nella-memoria-del-medioevo-latino.html"
+        "https://www.crushsite.it/it/incontri/2026/book-tea-time-dare-e-ricevere.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -2389,6 +2261,22 @@
         "https://www.cultura.trentino.it/content/view/full/752371"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1026c03a58e7",
+      "title": "Lívia Mattos - Paesaggi Sonori",
+      "date": "2026-11-10",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069174-Livia-Mattos.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/livia-mattos-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/livia-mattos-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2955,6 +2843,22 @@
       "is_past": false
     },
     {
+      "id": "971546afabec",
+      "title": "Antoine Boyer & Yeore Kim - Paesaggi Sonori",
+      "date": "2026-12-03",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069176-Antoine-.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/antoine-boyer-yeore-kim-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/antoine-boyer-yeore-kim-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "2aae5631dc8b",
       "title": "Wallace and Gromit: the curse of the were-Rabbit",
       "date": "2026-12-04",
@@ -3096,6 +3000,22 @@
         "https://www.cultura.trentino.it/content/view/full/753019"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2c2b1022c764",
+      "title": "Lúcia de Carvalho - Paesaggi Sonori",
+      "date": "2026-12-12",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069177-9qq9.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/lucia-de-carvalho-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/lucia-de-carvalho-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -3272,6 +3192,86 @@
         "https://www.teatrodipergine.it/eventi/2983-concerto-di-natale-26"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "4eeeceb39332",
+      "title": "Una Renna alla Vecchia Fattoria",
+      "date": "2026-12-27",
+      "time": "17:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/749038",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/749038"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9c2ed046081d",
+      "title": "Riccardo Tesi, Quartetto Elastico - Paesaggi Sonori",
+      "date": "2027-01-22",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069178-999w.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/riccardo-tesi-quartetto-elastico-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/riccardo-tesi-quartetto-elastico-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b1950a196875",
+      "title": "Aoife Ní Bhriain & Birkin Tree - Paesaggi Sonori",
+      "date": "2027-02-12",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069179-999a99a9.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2027/aoife-ni-bhriain-birkin-tree-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2027/aoife-ni-bhriain-birkin-tree-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "d9b57b17b897",
+      "title": "Upcycling Band - Paesaggi Sonori",
+      "date": "2027-03-13",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069180-987987.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2027/upcycling-band-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2027/upcycling-band-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "50e051831a38",
+      "title": "Sam Ghezzi & The Roaring Cats - Paesaggi Sonori",
+      "date": "2027-04-02",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 12, ridotto (under 18) € 8 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069181-8888q888.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2027/sam-ghezzi-the-roaring-cats-paesaggi-sonori.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2027/sam-ghezzi-the-roaring-cats-paesaggi-sonori.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     }
   ]
