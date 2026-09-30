@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T10:51:52.332105+00:00",
-  "count": 256,
+  "last_updated": "2026-09-30T21:09:47.345774+00:00",
+  "count": 281,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1284,14 +1284,14 @@
       "is_past": false
     },
     {
-      "id": "a9e8b4353bfe",
-      "title": "Pippi Calzelunghe - EVENTO ANNULLATO",
+      "id": "a36d6e052af8",
+      "title": "La tata perfetta",
       "date": "2026-10-04",
       "time": "16:00",
       "venue": "Teatro di Meano",
       "location": "Trento",
-      "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00 - Per cause di forza maggiore, l’evento è annullato.",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pippi/28147559-1-ita-IT/Pippi_opengraph.jpg",
+      "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/latataperfetta1/28156457-1-ita-IT/latataperfetta1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753204",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753204"
@@ -1788,7 +1788,7 @@
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
       "description": "Altri eventi",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/spegniloschermo.jpg",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/spegniloschermo2.jpg",
       "source_url": "https://www.teatrodipergine.it/eventi/2989-spegni-lo-schermo-accendi-l-infanzia",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2989-spegni-lo-schermo-accendi-l-infanzia"
@@ -2453,6 +2453,22 @@
       "is_past": false
     },
     {
+      "id": "9280bfbc5681",
+      "title": "Con tut el ben che te vòi",
+      "date": "2026-10-25",
+      "time": "17:00",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753450",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753450"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "14b4e3e514fe",
       "title": "Con la magia di Mago Merlino … è tutta un’altra storia",
       "date": "2026-10-25",
@@ -2464,6 +2480,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753366",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753366"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6ca7080b9e32",
+      "title": "L’equivoco",
+      "date": "2026-10-25",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753453",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753453"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2581,6 +2613,22 @@
       "is_past": false
     },
     {
+      "id": "6ad7a4bcd4bc",
+      "title": "La bugiarda",
+      "date": "2026-10-31",
+      "time": "20:30",
+      "venue": "Teatro di Cognola",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753455",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753455"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "851ad22fba73",
       "title": "Chat a due piazze",
       "date": "2026-10-31",
@@ -2625,6 +2673,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753306",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753306"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "447680fd2df3",
+      "title": "Quattro bombe in tasca",
+      "date": "2026-10-31",
+      "time": "20:45",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753457",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753457"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2d7f4f7879b1",
+      "title": "Meno male che oggi è venerdì",
+      "date": "2026-10-31",
+      "time": "20:45",
+      "venue": "",
+      "location": "Madruzzo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753458",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753458"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2774,6 +2854,38 @@
       "is_past": false
     },
     {
+      "id": "788b94ce2c57",
+      "title": "Con tut el ben che te vòi",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753451",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753451"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f2042e81e1c3",
+      "title": "La bugiarda",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "venue": "Teatro Sanbàpolis",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753456",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753456"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "c7eefb5df5e1",
       "title": "L’importanza de ciamarse Onesto",
       "date": "2026-11-07",
@@ -2785,6 +2897,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752653",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752653"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "755d902b9b07",
+      "title": "MAYBE – non tutto è come sembra",
+      "date": "2026-11-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753463",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753463"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "665be40fa6e4",
+      "title": "Ajò!",
+      "date": "2026-11-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Telve",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753466",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753466"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5d8e816e26bc",
+      "title": "L’importanza de ciamarse Onesto",
+      "date": "2026-11-08",
+      "time": "17:00",
+      "venue": "",
+      "location": "Pomarolo",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753468",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753468"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2998,6 +3158,70 @@
       "is_past": false
     },
     {
+      "id": "30046e198f0a",
+      "title": "L’è pròpri …Poarèt",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753473",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753473"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "96975efcce97",
+      "title": "B.R.A.T.S. Brave Ragazze Ancora Tutte Single",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Lavis",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753471",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753471"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "29a21a7575ae",
+      "title": "Le tre Marie",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Bedollo",
+      "location": "Bedollo",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751574"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8249cb88a7e5",
+      "title": "En gran rebalton",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753477",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753477"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "749289bf1e0f",
       "title": "Un’incauta lettera d’amore",
       "date": "2026-11-14",
@@ -3014,22 +3238,6 @@
       "is_past": false
     },
     {
-      "id": "29a21a7575ae",
-      "title": "Le tre Marie",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Bedollo",
-      "location": "Bedollo",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751574"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e29bb693141a",
       "title": "'Na gabia de mati",
       "date": "2026-11-14",
@@ -3041,6 +3249,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753295",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753295"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7070e1bf942a",
+      "title": "Na carega col cusin",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "",
+      "location": "San Lorenzo Dorsino",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753482",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753482"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cbe0b6de228f",
+      "title": "Zent de paes",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "",
+      "location": "Telve",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753483",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753483"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "db73c4d0d2d3",
+      "title": "El giro del mondo en 79 dì",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Zambana",
+      "location": "Zambana",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753485",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753485"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3302,6 +3558,22 @@
       "is_past": false
     },
     {
+      "id": "856c352eaa13",
+      "title": "L’equivoco",
+      "date": "2026-11-21",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Bedollo",
+      "location": "Bedollo",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753454",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753454"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "43643e609468",
       "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
       "date": "2026-11-21",
@@ -3318,22 +3590,6 @@
       "is_past": false
     },
     {
-      "id": "b5a0d5952500",
-      "title": "Le tre Marie",
-      "date": "2026-11-21",
-      "time": "20:45",
-      "venue": "",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751580",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751580"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "2a5ca4b0dd9d",
       "title": "Otto volte mistero",
       "date": "2026-11-21",
@@ -3345,6 +3601,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753399",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753399"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b5a0d5952500",
+      "title": "Le tre Marie",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "",
+      "location": "Spiazzo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753476",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753476"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f4e85a6ca38c",
+      "title": "Ajò!",
+      "date": "2026-11-21",
+      "time": "21:00",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753467",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753467"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "67ab7389ad67",
+      "title": "L’è pròpri …Poarèt",
+      "date": "2026-11-22",
+      "time": "20:45",
+      "venue": "Cinema Teatro Paradiso di Folgaria",
+      "location": "Folgaria",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753474",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753474"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3457,6 +3761,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753388",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753388"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4ddf100b65a2",
+      "title": "Se pol far senza",
+      "date": "2026-11-28",
+      "time": "20:45",
+      "venue": "",
+      "location": "Telve",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753460",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753460"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2b2dad1f5f08",
+      "title": "Le tre Marie",
+      "date": "2026-11-28",
+      "time": "20:45",
+      "venue": "",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751580",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751580"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "310e58dd0078",
+      "title": "L’è pròpri …Poarèt",
+      "date": "2026-11-28",
+      "time": "21:00",
+      "venue": "",
+      "location": "",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753475",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753475"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3633,6 +3985,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753364",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753364"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "705d63286674",
+      "title": "MAYBE – non tutto è come sembra",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "",
+      "location": "Castelnuovo",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753464",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753464"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e25f011fd297",
+      "title": "B.R.A.T.S. Brave Ragazze Ancora Tutte Single",
+      "date": "2026-12-05",
+      "time": "20:45",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753472",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753472"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3985,6 +4369,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753405",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753405"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e60ee8200e71",
+      "title": "En gran rebalton",
+      "date": "2026-12-19",
+      "time": "20:45",
+      "venue": "",
+      "location": "San Lorenzo Dorsino",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753478",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753478"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
