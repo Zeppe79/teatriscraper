@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T21:09:47.345774+00:00",
-  "count": 281,
+  "last_updated": "2026-10-01T11:18:48.924147+00:00",
+  "count": 279,
   "events": [
     {
       "id": "06d96a048e56",
@@ -400,134 +400,6 @@
         "https://www.teatrodivillazzano.it/event/boxeur-eng/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "7f429cb66bfd",
-      "title": "Le città di pianura",
-      "date": "2026-09-01",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cinema d'Estate - Corte Ex-Filanda (in caso di pioggia Teatro di Pergine)",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Cinema/lecittadipianura1.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2894-le-citta-di-pianura-cinema-estate",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/110-cinema-2025-2026/2894-le-citta-di-pianura-cinema-estate"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1ba45c029637",
-      "title": "transformingNATURE | Castello",
-      "date": "2026-09-02",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "CASTELLO DI PERGINE",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Musica/transformingnature.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2897-transformingnature-castello",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/111-musica-2025-2026/2897-transformingnature-castello"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "85d876beec22",
-      "title": "Patatrac | Estateatro",
-      "date": "2026-09-03",
-      "time": "21:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "ESTATEATRO - Sala frazionale di Canale",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/TeatroRagazzi/estateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2920-patatrac-estateatro26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/113-teatro-ragazzi-2025-2026/2920-patatrac-estateatro26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1b5ab8643018",
-      "title": "Il filo della tradizione nella città azzurra",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2925-il-filo-della-tradizione-nella-citta-azzurra",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2925-il-filo-della-tradizione-nella-citta-azzurra"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "330e79c2318e",
-      "title": "Giornata dell'Autonomia - Note d'Autonomia, voci di montagna in coro",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Sabato 5 settembre 2026 - ore 20.30",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/giornataautonomia.jpg",
-      "source_url": "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2932-giornata-dell-autonomia",
-      "source_urls": [
-        "https://www.teatrodipergine.it/archivio-2025-2026/115-altri-eventi-2025-2026/2932-giornata-dell-autonomia"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1f04a3513076",
-      "title": "Presentazione Corsi di Teatro 2026-2027",
-      "date": "2026-09-08",
-      "time": "18:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Martedì 8 settembre 2026 - ore 18.00",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/Pergine26.png",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2933-presentazione-corsi-di-teatro-26-27",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2933-presentazione-corsi-di-teatro-26-27"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "daa93c07ae19",
-      "title": "Sulle note del cinema",
-      "date": "2026-09-11",
-      "time": "20:45",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Festa Granda",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/sullenotedelcinema.png",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2930-sulle-note-del-cinema",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2930-sulle-note-del-cinema"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "e06ea7a02e49",
-      "title": "Il filo della tradizione nella città azzurra",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2927-il-filo-della-tradizione-nella-citta-azzurra-2",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2927-il-filo-della-tradizione-nella-citta-azzurra-2"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -1076,38 +948,6 @@
       "is_past": true
     },
     {
-      "id": "5c756fd665fd",
-      "title": "Nanna a Teatro 2026 | SOLD OUT",
-      "date": "2026-09-18",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Venerdì 18 settembre 2026 - ore 20.00",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2025-2026/Eventi/nannaateatro26.png",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2923-nannaateatro2026",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2923-nannaateatro2026"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "a853a477fc85",
-      "title": "Il filo della tradizione nella città azzurra",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Spettacolo itinerante | Partenza dal Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/filodellatradizione.png",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2928-il-filo-della-tradizione-nella-citta-azzurra-3",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2928-il-filo-della-tradizione-nella-citta-azzurra-3"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "ed82cdfe84ec",
       "title": "Bauhaus",
       "date": "2026-10-01",
@@ -1179,7 +1019,7 @@
       "venue": "Teatro Comunale di Ospedaletto",
       "location": "Ospedaletto",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753285",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753285"
@@ -1957,22 +1797,6 @@
       "is_past": false
     },
     {
-      "id": "4f0d151a24ad",
-      "title": "La valisèta",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "",
-      "location": "Lavis",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753325",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753325"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "99328f705abf",
       "title": "Serata del dilettante a Teatro",
       "date": "2026-10-17",
@@ -1984,6 +1808,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753339",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753339"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4f0d151a24ad",
+      "title": "La valisèta",
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": "",
+      "location": "Lavis",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753325",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753325"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2373,22 +2213,6 @@
       "is_past": false
     },
     {
-      "id": "323213788e9d",
-      "title": "Nuda e per pochi soldi",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "",
-      "location": "Garniga Terme",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753298",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753298"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "af9e2c4c3f68",
       "title": "Le bosìe le g’ha le gambe corte",
       "date": "2026-10-24",
@@ -2432,6 +2256,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753417",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753417"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "323213788e9d",
+      "title": "Nuda e per pochi soldi",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "venue": "",
+      "location": "Garniga Terme",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753298"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2678,22 +2518,6 @@
       "is_past": false
     },
     {
-      "id": "447680fd2df3",
-      "title": "Quattro bombe in tasca",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753457",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753457"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "2d7f4f7879b1",
       "title": "Meno male che oggi è venerdì",
       "date": "2026-10-31",
@@ -2705,6 +2529,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753458",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753458"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "447680fd2df3",
+      "title": "Quattro bombe in tasca",
+      "date": "2026-10-31",
+      "time": "20:45",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753457",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753457"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2902,22 +2742,6 @@
       "is_past": false
     },
     {
-      "id": "755d902b9b07",
-      "title": "MAYBE – non tutto è come sembra",
-      "date": "2026-11-07",
-      "time": "20:45",
-      "venue": "",
-      "location": "Revò",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753463",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753463"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "665be40fa6e4",
       "title": "Ajò!",
       "date": "2026-11-07",
@@ -2929,6 +2753,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753466",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753466"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "755d902b9b07",
+      "title": "MAYBE – non tutto è come sembra",
+      "date": "2026-11-07",
+      "time": "20:45",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753463",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753463"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3142,22 +2982,6 @@
       "is_past": false
     },
     {
-      "id": "ace78a441078",
-      "title": "Come narala a finir?",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "",
-      "location": "Villa Lagarina",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753384",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753384"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "30046e198f0a",
       "title": "L’è pròpri …Poarèt",
       "date": "2026-11-14",
@@ -3190,22 +3014,6 @@
       "is_past": false
     },
     {
-      "id": "29a21a7575ae",
-      "title": "Le tre Marie",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Bedollo",
-      "location": "Bedollo",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751574"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "8249cb88a7e5",
       "title": "En gran rebalton",
       "date": "2026-11-14",
@@ -3222,17 +3030,33 @@
       "is_past": false
     },
     {
-      "id": "749289bf1e0f",
-      "title": "Un’incauta lettera d’amore",
+      "id": "29a21a7575ae",
+      "title": "Le tre Marie",
       "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Bedollo",
+      "location": "Bedollo",
+      "description": "ore 20.30",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751575",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751575"
+        "https://www.cultura.trentino.it/content/view/full/751574"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ace78a441078",
+      "title": "Come narala a finir?",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "venue": "",
+      "location": "Villa Lagarina",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753384",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753384"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3254,17 +3078,17 @@
       "is_past": false
     },
     {
-      "id": "7070e1bf942a",
-      "title": "Na carega col cusin",
+      "id": "db73c4d0d2d3",
+      "title": "El giro del mondo en 79 dì",
       "date": "2026-11-14",
       "time": "20:45",
-      "venue": "",
-      "location": "San Lorenzo Dorsino",
+      "venue": "Teatro Comunale di Zambana",
+      "location": "Zambana",
       "description": "ore 20.45",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753482",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753485",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753482"
+        "https://www.cultura.trentino.it/content/view/full/753485"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3286,17 +3110,33 @@
       "is_past": false
     },
     {
-      "id": "db73c4d0d2d3",
-      "title": "El giro del mondo en 79 dì",
+      "id": "749289bf1e0f",
+      "title": "Un’incauta lettera d’amore",
       "date": "2026-11-14",
       "time": "20:45",
-      "venue": "Teatro Comunale di Zambana",
-      "location": "Zambana",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
       "description": "ore 20.45",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753485",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751575",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753485"
+        "https://www.cultura.trentino.it/content/view/full/751575"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7070e1bf942a",
+      "title": "Na carega col cusin",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "",
+      "location": "San Lorenzo Dorsino",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753482",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753482"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3350,22 +3190,6 @@
       "is_past": false
     },
     {
-      "id": "54b46b132701",
-      "title": "Le tre Marie",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "venue": "",
-      "location": "Pomarolo",
-      "description": "ore 17.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751576",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751576"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "6c511f6170c1",
       "title": "I meravigliosi viaggi di Gulliver",
       "date": "2026-11-15",
@@ -3377,6 +3201,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752707",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752707"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "54b46b132701",
+      "title": "Le tre Marie",
+      "date": "2026-11-15",
+      "time": "17:00",
+      "venue": "",
+      "location": "Pomarolo",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751576",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751576"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3542,22 +3382,6 @@
       "is_past": false
     },
     {
-      "id": "52e200166a79",
-      "title": "Come narala a finir?",
-      "date": "2026-11-21",
-      "time": "20:30",
-      "venue": "Auditorium Comunale di Lavis",
-      "location": "Lavis",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753387",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753387"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "856c352eaa13",
       "title": "L’equivoco",
       "date": "2026-11-21",
@@ -3574,17 +3398,17 @@
       "is_past": false
     },
     {
-      "id": "43643e609468",
-      "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
+      "id": "52e200166a79",
+      "title": "Come narala a finir?",
       "date": "2026-11-21",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
+      "time": "20:30",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "ore 20.30",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751578",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753387",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751578"
+        "https://www.cultura.trentino.it/content/view/full/753387"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3601,6 +3425,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753399",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753399"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "43643e609468",
+      "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751578",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751578"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4438,6 +4278,118 @@
       "is_past": false
     },
     {
+      "id": "7bee5c71a35e",
+      "title": "Cosmos",
+      "date": "2027-01-05",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Danza",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Danza/cosmos1.jpg",
+      "source_url": "https://www.teatrodipergine.it/danza/2965-cosmos-danza",
+      "source_urls": [
+        "https://www.teatrodipergine.it/danza/2965-cosmos-danza"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1a9fc30a74cd",
+      "title": "Nel blu. Avere tra le braccia tanta felicità",
+      "date": "2027-01-07",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/nelblu1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2950-nel-blu",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2950-nel-blu"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1d3752c2c107",
+      "title": "Closer",
+      "date": "2027-01-13",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/closer1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2951-closer",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2951-closer"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "407822744ff3",
+      "title": "Fragrancia de tango",
+      "date": "2027-01-14",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/fragranciadetango1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2979-fragrancia-de-tango",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2979-fragrancia-de-tango"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "971488fa71d0",
+      "title": "Tempo matto",
+      "date": "2027-01-17",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/tempomatto1.jpg",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2970-tempo-matto",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2970-tempo-matto"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "6d1e9dcd602d",
+      "title": "Tape. La registrazione",
+      "date": "2027-01-20",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/tape1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2962-tape-la-registrazione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2962-tape-la-registrazione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "3dd0af497f3f",
+      "title": "Tape. La registrazione",
+      "date": "2027-01-21",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/tape1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2962-tape-la-registrazione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2962-tape-la-registrazione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "9c2ed046081d",
       "title": "Riccardo Tesi, Quartetto Elastico - Paesaggi Sonori",
       "date": "2027-01-22",
@@ -4451,6 +4403,22 @@
         "https://www.crushsite.it/it/musica/2026/riccardo-tesi-quartetto-elastico-paesaggi-sonori.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "1ff10b1325af",
+      "title": "Rockstar - Vasco Tribute Band",
+      "date": "2027-01-23",
+      "time": null,
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/rockstar1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2987-rockstar-vasco-tribute-band",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2987-rockstar-vasco-tribute-band"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
