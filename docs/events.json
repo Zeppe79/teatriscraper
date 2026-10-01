@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T11:18:48.924147+00:00",
+  "last_updated": "2026-10-01T21:32:32.300926+00:00",
   "count": 279,
   "events": [
     {
@@ -1685,22 +1685,6 @@
       "is_past": false
     },
     {
-      "id": "3dd466032636",
-      "title": "'Na gabia de mati",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "venue": "Teatro San Sisto di Caldonazzo",
-      "location": "Caldonazzo",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753294",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753294"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "e489e964aef5",
       "title": "Sior Todero brontolon",
       "date": "2026-10-16",
@@ -1712,6 +1696,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753323",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753323"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3dd466032636",
+      "title": "'Na gabia de mati",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "venue": "Teatro San Sisto di Caldonazzo",
+      "location": "Caldonazzo",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753294",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753294"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2181,22 +2181,6 @@
       "is_past": false
     },
     {
-      "id": "c6ebe2bf1729",
-      "title": "Coppie scoppiate",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751569",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751569"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "60fbc9ee915e",
       "title": "Come narala a finir",
       "date": "2026-10-24",
@@ -2208,22 +2192,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752540",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752540"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "af9e2c4c3f68",
-      "title": "Le bosìe le g’ha le gambe corte",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "",
-      "location": "Fornace",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753351",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753351"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2245,6 +2213,38 @@
       "is_past": false
     },
     {
+      "id": "323213788e9d",
+      "title": "Nuda e per pochi soldi",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "venue": "",
+      "location": "Garniga Terme",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753298",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753298"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c6ebe2bf1729",
+      "title": "Coppie scoppiate",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751569",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751569"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "b6369b26b28c",
       "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
       "date": "2026-10-24",
@@ -2261,17 +2261,17 @@
       "is_past": false
     },
     {
-      "id": "323213788e9d",
-      "title": "Nuda e per pochi soldi",
+      "id": "af9e2c4c3f68",
+      "title": "Le bosìe le g’ha le gambe corte",
       "date": "2026-10-24",
       "time": "20:45",
       "venue": "",
-      "location": "Garniga Terme",
+      "location": "Fornace",
       "description": "ore 20.45",
       "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753298",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753351",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753298"
+        "https://www.cultura.trentino.it/content/view/full/753351"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2678,6 +2678,22 @@
       "is_past": false
     },
     {
+      "id": "f2042e81e1c3",
+      "title": "La bugiarda",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "venue": "Teatro Sanbàpolis",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753456",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753456"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ede55b7bdfb7",
       "title": "Come narala a finir?",
       "date": "2026-11-07",
@@ -2705,22 +2721,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753451",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753451"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f2042e81e1c3",
-      "title": "La bugiarda",
-      "date": "2026-11-07",
-      "time": "20:30",
-      "venue": "Teatro Sanbàpolis",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753456",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753456"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
