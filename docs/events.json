@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T21:32:32.300926+00:00",
-  "count": 279,
+  "last_updated": "2026-10-02T10:50:53.786145+00:00",
+  "count": 285,
   "events": [
     {
       "id": "06d96a048e56",
@@ -948,22 +948,6 @@
       "is_past": true
     },
     {
-      "id": "ed82cdfe84ec",
-      "title": "Bauhaus",
-      "date": "2026-10-01",
-      "time": "20:00",
-      "venue": "Chiesa di San Francesco Saverio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068613-03943.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/bauhaus.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/bauhaus.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "80dd48990460",
       "title": "Il Portland rimbalza in Valle dei Laghi",
       "date": "2026-10-02",
@@ -1217,6 +1201,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/fratelli-teatro-la-ribalta-kunst-der-vielfalt.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "ad582c0db37c",
+      "title": "Presentazione Cineforum e Nazra Palestine Short Film Festival 2026",
+      "date": "2026-10-06",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/nazra.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2991-presentazione-cineforum-e-nazra-palestine-short-film-festival",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2991-presentazione-cineforum-e-nazra-palestine-short-film-festival"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -1541,6 +1541,22 @@
       "is_past": false
     },
     {
+      "id": "79bf38c45bf9",
+      "title": "Frequenze Forti",
+      "date": "2026-10-11",
+      "time": "14:30",
+      "venue": "Forte Sommo Alto, Folgaria (Tn)",
+      "location": "Folgaria",
+      "description": "ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "78b85af00fa4",
       "title": "Sior Todero brontolon",
       "date": "2026-10-11",
@@ -1845,22 +1861,6 @@
       "is_past": false
     },
     {
-      "id": "6e19b6aacf20",
-      "title": "Stuf",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/stuf1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "9ca4f73d9147",
       "title": "La famiglia Bruscolin",
       "date": "2026-10-17",
@@ -1973,22 +1973,6 @@
       "is_past": false
     },
     {
-      "id": "b6f077a0d800",
-      "title": "Stuf",
-      "date": "2026-10-18",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/stuf1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2941-stuf-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "76cf13002103",
       "title": "Turbopaolo - Il Poliziotto del Formaggio",
       "date": "2026-10-18",
@@ -2016,6 +2000,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/747762",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747762"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "717ae44597eb",
+      "title": "Racconti dalle montagne",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "venue": "",
+      "location": "Tione di Trento",
+      "description": "Abitare il cambiamento | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753544",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753544"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2566,6 +2566,22 @@
       "is_past": false
     },
     {
+      "id": "bdc5a6556a04",
+      "title": "Silent friend",
+      "date": "2026-11-03",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/silentfriend1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2994-silent-friend-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2994-silent-friend-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "4994dccf0227",
       "title": "Ero un bullo | Fondazione Aida",
       "date": "2026-11-04",
@@ -2819,6 +2835,22 @@
         "https://www.cultura.trentino.it/content/view/full/752371"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a3f58a94d278",
+      "title": "Naza",
+      "date": "2026-11-10",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/naza1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2995-naza-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2995-naza-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -3238,6 +3270,22 @@
       "is_past": false
     },
     {
+      "id": "4477094ff1f5",
+      "title": "Se solo potessi ti prenderei a calci",
+      "date": "2026-11-17",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/sesolopotessi1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2996-se-solo-potessi-ti-prenderei-a-calci-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2996-se-solo-potessi-ti-prenderei-a-calci-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "313b2b037d1b",
       "title": "A small anatomy | De Dansers",
       "date": "2026-11-18",
@@ -3494,6 +3542,22 @@
       "is_past": false
     },
     {
+      "id": "026ff490b49f",
+      "title": "Nouvelle vague",
+      "date": "2026-11-24",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/nouvellevague1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2997-nouvelle-vague-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2997-nouvelle-vague-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "86a33a89366a",
       "title": "Vestire gli ignudi | De Dansers",
       "date": "2026-11-25",
@@ -3670,22 +3734,6 @@
       "is_past": false
     },
     {
-      "id": "9ebf6745ac28",
-      "title": "Gli aiutanti di Babbo Natale",
-      "date": "2026-11-29",
-      "time": "16:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Ragazzi",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/gliaiutantidibabbonatale1.jpg",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2968-gli-aiutanti-di-babbo-natale",
-      "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2968-gli-aiutanti-di-babbo-natale"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "90f41b1a6890",
       "title": "Truffaldino e lo Spirito del Natale",
       "date": "2026-11-29",
@@ -3715,6 +3763,22 @@
         "https://www.cultura.trentino.it/content/view/full/752714"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8de80541788e",
+      "title": "Sîrat",
+      "date": "2026-12-01",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/sirat1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2998-sirat-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2998-sirat-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -3889,6 +3953,22 @@
       "source_url": "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari",
       "source_urls": [
         "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "d03391b3a541",
+      "title": "Per silenzio e vento",
+      "date": "2026-12-08",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/persilenzioevento1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/2999-per-silenzio-e-vento",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/2999-per-silenzio-e-vento"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -4086,6 +4166,22 @@
       "is_past": false
     },
     {
+      "id": "6f8b26ec4cf6",
+      "title": "Yellow letters",
+      "date": "2026-12-15",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Cineforum Effetto Festival",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/yellowletters1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3000-yellow-letters-cineforum",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3000-yellow-letters-cineforum"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "cd9dcf331522",
       "title": "Incendi",
       "date": "2026-12-16",
@@ -4246,22 +4342,6 @@
       "is_past": false
     },
     {
-      "id": "4a09ea8c7d74",
-      "title": "Concerto di Natale della Banda Sociale di Pergine",
-      "date": "2026-12-23",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Altri eventi - Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/bandapergine1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/2983-concerto-di-natale-26",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2983-concerto-di-natale-26"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "4eeeceb39332",
       "title": "Una Renna alla Vecchia Fattoria",
       "date": "2026-12-27",
@@ -4417,6 +4497,22 @@
       "source_url": "https://www.teatrodipergine.it/eventi/2987-rockstar-vasco-tribute-band",
       "source_urls": [
         "https://www.teatrodipergine.it/eventi/2987-rockstar-vasco-tribute-band"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "9e3ff58ec08e",
+      "title": "Kohlhaas",
+      "date": "2027-01-30",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/kohlhaas1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2958-kohlhaas-fuoristagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2958-kohlhaas-fuoristagione"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
