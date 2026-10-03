@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T21:08:13.111243+00:00",
-  "count": 285,
+  "last_updated": "2026-10-03T10:10:33.237617+00:00",
+  "count": 284,
   "events": [
     {
       "id": "06d96a048e56",
@@ -948,22 +948,6 @@
       "is_past": true
     },
     {
-      "id": "80dd48990460",
-      "title": "Il Portland rimbalza in Valle dei Laghi",
-      "date": "2026-10-02",
-      "time": "17:00",
-      "venue": "",
-      "location": "Vallelaghi",
-      "description": "Lezione di prova: venerdì 2 ottobre 2026 dalle 17.00 alle 19.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752657",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752657"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "1bbd189333d6",
       "title": "Parigi, amore e can can",
       "date": "2026-10-02",
@@ -977,7 +961,7 @@
         "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "a832379cbcc9",
@@ -993,7 +977,7 @@
         "https://www.cultura.trentino.it/content/view/full/752831"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ade315785395",
@@ -1195,7 +1179,7 @@
       "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
       "location": "Trento",
       "description": "Regia, costumi e scene Antonio Viganò / Testi Carmelo Samonà, Antonio Viganò, Remo Rostagno, Michele Fiocchi / Con Michele Calcari e Paolo Grossi / Ligth Designer Melissa Pircali / Assistenza drammaturgica GianLuigi Gherzi / Una produzione Teatro la Ribalta-Kunst der Vielfalt / In collaborazione produttiva con Balletto Civile e Gli Scarti ETS / Durata: 70 min / Età consigliata: dai 13 anni Scappo a teatro Il gioco, forse, è la cosa più importante del mondo. I bambini hanno bisogno del gioco per ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069368-40404.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/fratelli-teatro-la-ribalta-kunst-der-vielfalt.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/fratelli-teatro-la-ribalta-kunst-der-vielfalt.html"
@@ -1268,6 +1252,22 @@
       "is_past": false
     },
     {
+      "id": "00c69a6e0404",
+      "title": "Complessità. Il Gioco della Vita",
+      "date": "2026-10-07",
+      "time": "20:30",
+      "venue": "Teatro Comunale, Piazza Garibaldi 5/g, Pergine Valsugana (Tn)",
+      "location": "Pergine Valsugana",
+      "description": "Intero 13€; ridotto (<26, >65, carta “In Cooperazione”, soci Cassa Rurale Alta Valsugana, EuregioFamilyPass) 11€; card Amici dei Teatri 9€, tessera Giovani a Teatro 3€",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068919-complessita.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_127891.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_127891.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9f73cccfd5c3",
       "title": "Book & tea time - Anima animale",
       "date": "2026-10-07",
@@ -1313,6 +1313,22 @@
         "https://www.teatrodipergine.it/teatro/2938-la-sat-la-penultima-prestagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "34b18e2f52de",
+      "title": "Giornata mondiale della salute mentale",
+      "date": "2026-10-09",
+      "time": "08:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026/giornata-mondiale-della-salute-mentale.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/giornata-mondiale-della-salute-mentale.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1396,6 +1412,22 @@
       "is_past": false
     },
     {
+      "id": "1f01a7fe9f5c",
+      "title": "E-Agle Team e Opera Universitaria / 10th Anniversary of our team",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026e-agle-team-e-opera-universitaria-10th-anniversary-of-our-team.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026e-agle-team-e-opera-universitaria-10th-anniversary-of-our-team.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "02910b695406",
       "title": "Padri per un terzo – Quell’estate sull’isola",
       "date": "2026-10-10",
@@ -1435,7 +1467,7 @@
       "venue": "",
       "location": "Primiero San Martino di Castrozza",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753305",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753305"
@@ -1541,22 +1573,6 @@
       "is_past": false
     },
     {
-      "id": "79bf38c45bf9",
-      "title": "Frequenze Forti",
-      "date": "2026-10-11",
-      "time": "14:30",
-      "venue": "Forte Sommo Alto, Folgaria (Tn)",
-      "location": "Folgaria",
-      "description": "ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068219-045945.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/frequenze-forti.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "78b85af00fa4",
       "title": "Sior Todero brontolon",
       "date": "2026-10-11",
@@ -1586,38 +1602,6 @@
         "https://www.teatrodipergine.it/musica/2939-ensemble-turchese-prestagione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "df996137c82f",
-      "title": "La scuola policorale romana del sei-settecento",
-      "date": "2026-10-11",
-      "time": "20:30",
-      "venue": "Chiesa di San Francesco Saverio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068970-miaa.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/la-scuola-policorale-romana-del-sei-settecento.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/la-scuola-policorale-romana-del-sei-settecento.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b62eaf6c3e34",
-      "title": "Big One - The European Pink Floyd Show",
-      "date": "2026-10-11",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026big-one-the-european-pink-floyd-show.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026big-one-the-european-pink-floyd-show.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
