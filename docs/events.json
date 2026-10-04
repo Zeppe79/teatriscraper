@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T19:39:47.434914+00:00",
-  "count": 284,
+  "last_updated": "2026-10-04T10:51:18.813488+00:00",
+  "count": 278,
   "events": [
     {
       "id": "06d96a048e56",
@@ -964,54 +964,6 @@
       "is_past": true
     },
     {
-      "id": "a832379cbcc9",
-      "title": "Parigi, amore e can can",
-      "date": "2026-10-02",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/parigiamorecancan2/28136988-1-ita-IT/parigiamorecancan2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752831",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752831"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "ade315785395",
-      "title": "Sior Todero brontolon",
-      "date": "2026-10-03",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Ospedaletto",
-      "location": "Ospedaletto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753285",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753285"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f252fba7e67b",
-      "title": "El corajo no me manca … xe la sfiga che me frega",
-      "date": "2026-10-03",
-      "time": "20:30",
-      "venue": "",
-      "location": "Primiero San Martino di Castrozza",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753289",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753289"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "ef545beb8dc2",
       "title": "Parigi, amore e can can",
       "date": "2026-10-03",
@@ -1025,71 +977,7 @@
         "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "27f72eb08ada",
-      "title": "Mario Cagol in \"Nonna Nunzia: spazio, ultima dentiera\"",
-      "date": "2026-10-03",
-      "time": "20:30",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Con Nonna Nunzia, Alfredo Stolf, Andrea Cortelletti, Mario Cagol / Testo e regia Mario Cagol / Coproduzione Mario Cagol e TeatroE / Light designer Leonardo Liberi / Scenografie Andrea Coppi / Assistente alla regia Simone Acclavio / Tecnici Nicola Piffer, Giada Corradini, Leonardo Ravanelli / Graphic Designer Marcello Plotegher La nonna più amata della regione è pronta a lanciarsi in una nuova avventura. Questa volta la vulcanica Nonna Nunzia è chiamata ad una divertente missione fra le galassie ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068614-mariocagol.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mario-cagol-in-nonna-nunzia-spazio-ultima-dentiera.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mario-cagol-in-nonna-nunzia-spazio-ultima-dentiera.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "fc4787043da2",
-      "title": "Un'incauta lettera d'amore",
-      "date": "2026-10-03",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752537",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752537"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "105f57a455d5",
-      "title": "L’importanza de ciamarse Onesto",
-      "date": "2026-10-03",
-      "time": "20:45",
-      "venue": "",
-      "location": "Sella Giudicarie",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752652",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752652"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1c5c55ac63b3",
-      "title": "Viva Robin!",
-      "date": "2026-10-03",
-      "time": "21:00",
-      "venue": "",
-      "location": "Madruzzo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751737",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751737"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "a36d6e052af8",
@@ -1532,7 +1420,7 @@
       "venue": "",
       "location": "Predazzo",
       "description": "ore 10.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752590",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752590"
@@ -1548,7 +1436,7 @@
       "venue": "Forte Garda Werk Garda",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751603",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751603"
@@ -1564,7 +1452,7 @@
       "venue": "Forte Sommo Alto Zwischenwerk Sommo",
       "location": "Riva del Garda",
       "description": "Sentinelle di pietra 2026 | ore 14.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751604",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751604"
@@ -1580,7 +1468,7 @@
       "venue": "Auditorium Casa della Gioventù di Predazzo",
       "location": "Predazzo",
       "description": "ore 15.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sior-todero/28099202-1-ita-IT/Sior-Todero_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751741",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751741"
@@ -1602,6 +1490,22 @@
         "https://www.teatrodipergine.it/musica/2939-ensemble-turchese-prestagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "b62eaf6c3e34",
+      "title": "Big One - The European Pink Floyd Show",
+      "date": "2026-10-11",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026big-one-the-european-pink-floyd-show.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026big-one-the-european-pink-floyd-show.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1644,7 +1548,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lasocietadeiribelli2/28137156-1-ita-IT/lasocietadeiribelli2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752837",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752837"
@@ -1692,7 +1596,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sior-todero/28099202-1-ita-IT/Sior-Todero_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753323",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753323"
