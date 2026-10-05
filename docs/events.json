@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T19:53:45.345958+00:00",
-  "count": 278,
+  "last_updated": "2026-10-05T11:59:30.347412+00:00",
+  "count": 274,
   "events": [
     {
       "id": "06d96a048e56",
@@ -956,9 +956,9 @@
       "location": "Pergine Valsugana",
       "description": "Prestagione",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
+        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -972,92 +972,12 @@
       "location": "Pergine Valsugana",
       "description": "Prestagione",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2936-parigi-amore-e-can-can"
+        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
-    },
-    {
-      "id": "a36d6e052af8",
-      "title": "La tata perfetta",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/latataperfetta1/28156457-1-ita-IT/latataperfetta1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753204",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753204"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6910e5fb11db",
-      "title": "'Na gabia de mati",
-      "date": "2026-10-04",
-      "time": "16:30",
-      "venue": "",
-      "location": "Altopiano della Vigolana",
-      "description": "ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753293",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753293"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7d810235b1bb",
-      "title": "Nuda e per pochi soldi",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "venue": "Teatro Comunale di Aldeno",
-      "location": "Aldeno",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753297",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753297"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e95ab99e6d74",
-      "title": "Il segreto di Francesco",
-      "date": "2026-10-04",
-      "time": "20:30",
-      "venue": "Teatro Zandonai",
-      "location": "Rovereto",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752328",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752328"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "15b9f85b7a66",
-      "title": "Eddy Serafini: Codex Discantans",
-      "date": "2026-10-04",
-      "time": "20:30",
-      "venue": "Chiesa di San Francesco Saverio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068971-eddi.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/eddy-serafini-codex-discantans.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/eddy-serafini-codex-discantans.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "aeb3c49b4910",
@@ -1077,7 +997,7 @@
     },
     {
       "id": "ad582c0db37c",
-      "title": "Presentazione Cineforum e Nazra Palestine Short Film Festival 2026",
+      "title": "Presentazione Cineforum e NAZRA Palestine Short Film Festival 2026",
       "date": "2026-10-06",
       "time": "20:30",
       "venue": "Teatro Lux",
@@ -1477,8 +1397,8 @@
       "is_past": false
     },
     {
-      "id": "9b842402b9ac",
-      "title": "Ensemble Turchese",
+      "id": "4162886dcb7b",
+      "title": "Safar. Viaggio mediterraneo - Ensemble Turchese",
       "date": "2026-10-11",
       "time": "20:30",
       "venue": "Teatro Lux",
@@ -1490,6 +1410,22 @@
         "https://www.teatrodipergine.it/musica/2939-ensemble-turchese-prestagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "df996137c82f",
+      "title": "La scuola policorale romana del sei-settecento",
+      "date": "2026-10-11",
+      "time": "20:30",
+      "venue": "Chiesa di San Francesco Saverio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068970-miaa.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/la-scuola-policorale-romana-del-sei-settecento.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/la-scuola-policorale-romana-del-sei-settecento.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1612,7 +1548,7 @@
       "venue": "Teatro San Sisto di Caldonazzo",
       "location": "Caldonazzo",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753294",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753294"
@@ -1644,7 +1580,7 @@
       "venue": "",
       "location": "Frassilongo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/17-ottobre-hansel-e-gretel-1/28008823-1-ita-IT/17-ottobre-HANSEL-E-GRETEL-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748736",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748736"
@@ -1660,7 +1596,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Musica | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-2/28131297-1-ita-IT/Vil26_27_Post_1080x13502-2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752684",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752684"
@@ -1756,7 +1692,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752539",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752539"
