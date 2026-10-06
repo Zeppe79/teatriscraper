@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T23:02:38.701378+00:00",
-  "count": 274,
+  "last_updated": "2026-10-06T11:40:24.487302+00:00",
+  "count": 282,
   "events": [
     {
       "id": "06d96a048e56",
@@ -286,22 +286,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-filmtalk-la-parte-maledetta/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/tabu-2026-filmtalk-la-parte-maledetta/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "8b6c00ef0abb",
-      "title": "Tabù 2026 – Music: Luciano Forlese",
-      "date": "2026-04-28",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Cantautore nato a Trento da madre trentina e padre pugliese, a suonato noise rock, tarantelle, reggae, ballate, canti anonimi e le proprie canzoni. Scrive brani dove il testo è il centro della composizione e l’attualità ne è il paesaggio emotivo....",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/Luciano-forlese-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-music-luciano-forlese/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-music-luciano-forlese/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -978,6 +962,22 @@
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
+    },
+    {
+      "id": "047d6a7a98b2",
+      "title": "Non passare per il bosco",
+      "date": "2026-10-06",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una commedia per tutta la famiglia che ribalta la celebre fiaba di Cappuccetto Rosso con ironia e leggerezza. In questa versione, i “cattivi” non sono poi così cattivi, e ciò che sembrava scontato si capovolge in un vortice di risate...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/Teatro-in-cortile-186-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/non-passare-per-il-bosco/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/non-passare-per-il-bosco/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
     },
     {
       "id": "aeb3c49b4910",
@@ -2239,7 +2239,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751570",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751570"
+        "https://www.cultura.trentino.it/content/view/full/751570",
+        "https://www.cultura.trentino.it/content/view/full/753591"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2641,6 +2642,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750481",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750481"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7959f5e5de6e",
+      "title": "La gallinella rossa",
+      "date": "2026-11-09",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753634",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753634"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3094,6 +3111,22 @@
       "is_past": false
     },
     {
+      "id": "ac7938ddefa5",
+      "title": "Vai via",
+      "date": "2026-11-16",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753636",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753636"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "4477094ff1f5",
       "title": "Se solo potessi ti prenderei a calci",
       "date": "2026-11-17",
@@ -3107,6 +3140,22 @@
         "https://www.teatrodipergine.it/cinema/2996-se-solo-potessi-ti-prenderei-a-calci-cineforum"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "4c91f92657a9",
+      "title": "Storia del rock 1 - SOLD OUT",
+      "date": "2026-11-18",
+      "time": "09:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 9.00 | Replica alle ore 11.00\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753641",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753641"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -3366,6 +3415,38 @@
       "is_past": false
     },
     {
+      "id": "6b7d0339fb2d",
+      "title": "Un mare di avventure",
+      "date": "2026-11-23",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753643",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753643"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "59096f9f050c",
+      "title": "Storia di un no",
+      "date": "2026-11-24",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753645",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753645"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "026ff490b49f",
       "title": "Nouvelle vague",
       "date": "2026-11-24",
@@ -3393,6 +3474,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751409",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751409"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fe0b2ddb38a9",
+      "title": "Storia di un no | replica - SOLD OUT",
+      "date": "2026-11-25",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753646",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753646"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3569,6 +3666,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/748740",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748740"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5809ef4ee757",
+      "title": "La fiaba di Celeste - SOLD OUT",
+      "date": "2026-11-30",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753649",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753649"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4003,6 +4116,22 @@
         "https://www.teatrodipergine.it/cinema/3000-yellow-letters-cineforum"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a4c3a690856a",
+      "title": "Gli Ultimi Orsi Polari",
+      "date": "2026-12-16",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753651",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753651"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
