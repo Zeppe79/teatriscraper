@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T11:44:19.806676+00:00",
-  "count": 311,
+  "last_updated": "2026-10-08T21:42:44.536888+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1380,6 +1380,22 @@
       "is_past": false
     },
     {
+      "id": "ab8699ddba0f",
+      "title": "Nanni ed Emilia",
+      "date": "2026-10-11",
+      "time": "17:00",
+      "venue": "Centro Congressi Piné 1000",
+      "location": "Baselga di Pinè",
+      "description": "Teatro di Baselga di Piné | Stagione 2026/2027 | ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753941",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753941"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "4162886dcb7b",
       "title": "Safar. Viaggio mediterraneo - Ensemble Turchese",
       "date": "2026-10-11",
@@ -1611,7 +1627,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Musica | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-2/28131297-1-ita-IT/Vil26_27_Post_1080x13502-2_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/752684",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752684"
@@ -1823,6 +1839,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753350",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753350"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b7e52ff92bb0",
+      "title": "Il nuovo vestito dell’imperatrice",
+      "date": "2026-10-18",
+      "time": "16:30",
+      "venue": "",
+      "location": "Storo",
+      "description": "Teatro di Storo | Stagione 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753944",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753944"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e7866cf8e746",
+      "title": "Fagioli",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "Teatro Dimaro Folgarida - Mezzana | Stagione 2026/2027 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753947",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753947"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2228,6 +2276,22 @@
       "is_past": false
     },
     {
+      "id": "df0dfeacbb81",
+      "title": "Strighe Maledette!",
+      "date": "2026-10-27",
+      "time": "21:00",
+      "venue": "",
+      "location": "Storo",
+      "description": "Teatro di Storo | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753945",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753945"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "d3c8093f5639",
       "title": "Il sogno",
       "date": "2026-10-28",
@@ -2546,6 +2610,22 @@
         "https://www.teatrodipergine.it/danza/2945-figliasanta-prestagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "574e2696ef6c",
+      "title": "Arrivato a questo punto",
+      "date": "2026-11-05",
+      "time": "20:45",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753951",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753951"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -2901,6 +2981,22 @@
       "is_past": false
     },
     {
+      "id": "c07c310309a1",
+      "title": "Una cena d’addio",
+      "date": "2026-11-12",
+      "time": "20:45",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753952",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753952"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e3275279b068",
       "title": "Grammatica della fantasia | Il Museo degli errori",
       "date": "2026-11-13",
@@ -3136,6 +3232,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753871",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753871"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1a45ad31690b",
+      "title": "Ostinata, con brio",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "venue": "Centro Congressi Piné 1000",
+      "location": "Baselga di Pinè",
+      "description": "Teatro di Baselga di Piné | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753942",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753942"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3525,6 +3637,22 @@
       "is_past": false
     },
     {
+      "id": "61736cd4cb43",
+      "title": "Avete mai provato ad essere donne?",
+      "date": "2026-11-21",
+      "time": "20:30",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "Teatro Dimaro Folgarida - Mezzana | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753949",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753949"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2a5ca4b0dd9d",
       "title": "Otto volte mistero",
       "date": "2026-11-21",
@@ -3878,6 +4006,22 @@
       "is_past": false
     },
     {
+      "id": "aea4489b0cdc",
+      "title": "Complessità – Il gioco della vita",
+      "date": "2026-11-27",
+      "time": "20:45",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753953",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753953"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "3fe46eee2275",
       "title": "1539: Morte del principe vescovo",
       "date": "2026-11-28",
@@ -4033,6 +4177,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752900",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752900"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "eac495995a56",
+      "title": "Pinocchio",
+      "date": "2026-11-29",
+      "time": "16:30",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753955",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753955"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bfca0e4c165c",
+      "title": "Gioco da ragazzi",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "venue": "",
+      "location": "Dimaro Folgarida",
+      "description": "Teatro Dimaro Folgarida - Mezzana | Stagione 2026/2027 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753950",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753950"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4198,6 +4374,22 @@
       "is_past": false
     },
     {
+      "id": "18c11d5e7a36",
+      "title": "L’invidia dell’orso – Commedia (con musica) transanimalista e transalpina",
+      "date": "2026-12-04",
+      "time": "20:45",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753957",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753957"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f64d8a086bc3",
       "title": "A chi tocca mia moglie?",
       "date": "2026-12-05",
@@ -4307,6 +4499,22 @@
         "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "dc4586cdf0be",
+      "title": "Quando arriva Natale?",
+      "date": "2026-12-06",
+      "time": "16:30",
+      "venue": "",
+      "location": "Storo",
+      "description": "Teatro di Storo | Stagione 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753946",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753946"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4753,6 +4961,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752717",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752717"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1c2fd060329b",
+      "title": "PanDiZenzero – Storie dolci di Natale",
+      "date": "2026-12-27",
+      "time": "17:00",
+      "venue": "Centro Congressi Piné 1000",
+      "location": "Baselga di Pinè",
+      "description": "Teatro di Baselga di Piné | Stagione 2026/2027 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753943",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753943"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
