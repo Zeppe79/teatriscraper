@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T21:43:54.743381+00:00",
-  "count": 312,
+  "last_updated": "2026-10-08T11:44:19.806676+00:00",
+  "count": 311,
   "events": [
     {
       "id": "06d96a048e56",
@@ -996,22 +996,6 @@
       "is_past": true
     },
     {
-      "id": "8c7099afb534",
-      "title": "Complessità. Il Gioco della Vita",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/complessita2/28137044-1-ita-IT/complessita2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752833",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752833"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "540b64f1e49d",
       "title": "Complessità. Il Gioco della Vita",
       "date": "2026-10-07",
@@ -1020,44 +1004,12 @@
       "location": "Pergine Valsugana",
       "description": "Prestagione",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/complessita1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2937-complessita-il-gioco-della-vita-prestagione",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2937-complessita-il-gioco-della-vita-prestagione",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2937-complessita-il-gioco-della-vita-prestagione"
+        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2937-complessita-il-gioco-della-vita-prestagione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "00c69a6e0404",
-      "title": "Complessità. Il Gioco della Vita",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "venue": "Teatro Comunale, Piazza Garibaldi 5/g, Pergine Valsugana (Tn)",
-      "location": "Pergine Valsugana",
-      "description": "Intero 13€; ridotto (<26, >65, carta “In Cooperazione”, soci Cassa Rurale Alta Valsugana, EuregioFamilyPass) 11€; card Amici dei Teatri 9€, tessera Giovani a Teatro 3€",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068919-complessita.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_127891.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_127891.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "9f73cccfd5c3",
-      "title": "Book & tea time - Anima animale",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069136-029383.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/book-tea-time-anima-animale.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/book-tea-time-anima-animale.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ebde3bac61e3",
@@ -1179,7 +1131,7 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 16.30",
-      "image_url": "http://ez052-prod.infotn.it/var/001/storage/images/media/images/10-ottobre-2026-1/28135692-1-ita-IT/10-ottobre-2026-1_opengraph.png",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/10-ottobre-2026-1/28135692-1-ita-IT/10-ottobre-2026-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752783",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752783"
@@ -1268,17 +1220,16 @@
       "is_past": false
     },
     {
-      "id": "e7bc06ae9d99",
-      "title": "L’è afondà l’embarcadero",
+      "id": "70d679f766b9",
+      "title": "Fonda l'embarcadero",
       "date": "2026-10-10",
       "time": "20:45",
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751739",
+      "description": "Ottobre a teatro 2026 | ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752538",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751739",
         "https://www.cultura.trentino.it/content/view/full/752538"
       ],
       "source_name": "cultura.trentino.it",
@@ -1493,6 +1444,22 @@
       "is_past": false
     },
     {
+      "id": "3f2fb3750f05",
+      "title": "Giuseppe Ninno - Citofonare Casa Imbarazzi",
+      "date": "2026-10-12",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026giuseppe-ninno-citofonare-casa-imbarazzi.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026giuseppe-ninno-citofonare-casa-imbarazzi.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "3ff123dcc4f7",
       "title": "Spegni lo schermo, accendi l’infanzia",
       "date": "2026-10-13",
@@ -1506,6 +1473,22 @@
         "https://www.teatrodipergine.it/eventi/2989-spegni-lo-schermo-accendi-l-infanzia"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "4413f454c2cc",
+      "title": "L'Amore Che Rimane",
+      "date": "2026-10-13",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068975-4049559.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/lamore-che-rimane.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/lamore-che-rimane.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1628,7 +1611,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Musica | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-2/28131297-1-ita-IT/Vil26_27_Post_1080x13502-2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752684",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752684"
@@ -1740,7 +1723,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752539",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752539"
