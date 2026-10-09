@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T21:42:44.536888+00:00",
-  "count": 325,
+  "last_updated": "2026-10-09T11:37:25.938708+00:00",
+  "count": 326,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1012,22 +1012,6 @@
       "is_past": true
     },
     {
-      "id": "ebde3bac61e3",
-      "title": "La sat la penultima?",
-      "date": "2026-10-08",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lasatlapenultima2/28137100-1-ita-IT/lasatlapenultima2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752835",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752835"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "579f9ffafec9",
       "title": "La sat la penultima?",
       "date": "2026-10-08",
@@ -1036,12 +1020,12 @@
       "location": "Pergine Valsugana",
       "description": "Prestagione",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/lasatlapenultima1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2938-la-sat-la-penultima-prestagione",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2938-la-sat-la-penultima-prestagione",
       "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2938-la-sat-la-penultima-prestagione"
+        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2938-la-sat-la-penultima-prestagione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "34b18e2f52de",
@@ -1627,7 +1611,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Musica | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-2/28131297-1-ita-IT/Vil26_27_Post_1080x13502-2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752684",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752684"
@@ -5011,6 +4995,38 @@
         "https://www.teatrodipergine.it/danza/2965-cosmos-danza"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "caa633924293",
+      "title": "Prima del temporale",
+      "date": "2027-01-07",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 7 e l'8 gennaio alle ore 20.30\nil 9 gennaio alle ore 18.00\nil 10 gennaio alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747768",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747768"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5b0aa3f25055",
+      "title": "Nel blu. Avere tra le braccia tanta felicità",
+      "date": "2027-01-07",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752868",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752868"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
