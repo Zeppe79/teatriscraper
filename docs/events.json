@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T10:55:14.089366+00:00",
+  "last_updated": "2026-10-10T20:26:41.003763+00:00",
   "count": 326,
   "events": [
     {
@@ -1460,6 +1460,22 @@
       "is_past": false
     },
     {
+      "id": "c42c8eea9c72",
+      "title": "Anna Moreno e Bernardo Zanotta - The Terminal Beach",
+      "date": "2026-10-15",
+      "time": "18:00",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069562-altriquadri.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026anna-moreno-e-bernardo-zanotta-the-terminal-beach.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026anna-moreno-e-bernardo-zanotta-the-terminal-beach.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "12567187eb56",
       "title": "La società dei ribelli",
       "date": "2026-10-15",
@@ -1551,6 +1567,22 @@
       "source_url": "https://www.crushsite.it/it/incontri/2026/la-noche-latina-salsa-e-bachata-con-dj-mariano.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/la-noche-latina-salsa-e-bachata-con-dj-mariano.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "b46330005212",
+      "title": "La Rosa Bianca - Uman Festival",
+      "date": "2026-10-16",
+      "time": "21:00",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/la-rosa-bianca-uman-festival.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/la-rosa-bianca-uman-festival.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -1780,22 +1812,6 @@
       "is_past": false
     },
     {
-      "id": "b0aa7339bfc5",
-      "title": "Pierino e Il Lupo / Il Carnevale degli Animali - Balletto di Siena",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Regia e coreografia Marco Batti / Musica S. Prokofiev e C. Saint-Saëns / Costumi Jasha Atelier e Nataliia Dolyk Scappo a teatro Pierino e il Lupo è una fiaba musicale scritta da Sergej Prokof ’ev, una felice commistione di teatro e musica dove questi due elementi si intrecciano in un dialogo continuo e arricchente. Voce narrante e musica contribuiscono a portare avanti la storia, dove ogni personaggio è rappresentato da uno strumento musicale dell’orchestra e ne viene caratterizzato, divenendo r",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "a7f46d1c7486",
       "title": "La bancheta",
       "date": "2026-10-18",
@@ -1857,22 +1873,6 @@
         "https://www.cultura.trentino.it/content/view/full/750473"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8a4095a508f9",
-      "title": "Turbopaolo - Il Poliziotto del Formaggio",
-      "date": "2026-10-18",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Turbopaolo torna a teatro con Il Poliziotto del Formaggio, il suo nuovo incredibile spettacolo. Turbopaolo, luminare della genetica prestato al mondo del comedy per mostrare ai mortali la strada verso la meditazione trascendentale, pratica che affascina i vip della città degli angeli. Introverso e calcolatore, durante l’accademia navale era considerato il nome più papabile per finire nel programma di selezione per gli astronauti dell’ESA, l’agenzia spaziale europea. Poi il colpo di fulmine con l",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068973-0495959.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
