@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T21:25:50.909677+00:00",
+  "last_updated": "2026-10-10T10:55:14.089366+00:00",
   "count": 326,
   "events": [
     {
@@ -1028,22 +1028,6 @@
       "is_past": true
     },
     {
-      "id": "34b18e2f52de",
-      "title": "Giornata mondiale della salute mentale",
-      "date": "2026-10-09",
-      "time": "08:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026/giornata-mondiale-della-salute-mentale.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/giornata-mondiale-della-salute-mentale.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "1e7ba607d058",
       "title": "Concerto del quartetto chitarristico Silenzio Massimale",
       "date": "2026-10-09",
@@ -1057,7 +1041,7 @@
         "https://www.teatrodipergine.it/eventi/2935-concerto-silenzio-massimale"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ec9d9221454e",
@@ -1073,23 +1057,7 @@
         "https://www.crushsite.it/it/incontri/2026/arte-in-valle-i-giovani-artisti-si-mettono-in-mostra.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "c1d6d1a51e5b",
-      "title": "Fuori di Bach - Paesaggi Sonori",
-      "date": "2026-10-09",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Ingresso gratuito su prenotazione, n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069137-049485.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/fuori-di-bach-paesaggi-sonori.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/fuori-di-bach-paesaggi-sonori.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "b6d6ecf5face",
@@ -1812,6 +1780,22 @@
       "is_past": false
     },
     {
+      "id": "b0aa7339bfc5",
+      "title": "Pierino e Il Lupo / Il Carnevale degli Animali - Balletto di Siena",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Regia e coreografia Marco Batti / Musica S. Prokofiev e C. Saint-Saëns / Costumi Jasha Atelier e Nataliia Dolyk Scappo a teatro Pierino e il Lupo è una fiaba musicale scritta da Sergej Prokof ’ev, una felice commistione di teatro e musica dove questi due elementi si intrecciano in un dialogo continuo e arricchente. Voce narrante e musica contribuiscono a portare avanti la storia, dove ogni personaggio è rappresentato da uno strumento musicale dell’orchestra e ne viene caratterizzato, divenendo r",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/pierino-e-il-lupo-il-carnevale-degli-animali-balletto-di-siena.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "a7f46d1c7486",
       "title": "La bancheta",
       "date": "2026-10-18",
@@ -1873,6 +1857,22 @@
         "https://www.cultura.trentino.it/content/view/full/750473"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8a4095a508f9",
+      "title": "Turbopaolo - Il Poliziotto del Formaggio",
+      "date": "2026-10-18",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Turbopaolo torna a teatro con Il Poliziotto del Formaggio, il suo nuovo incredibile spettacolo. Turbopaolo, luminare della genetica prestato al mondo del comedy per mostrare ai mortali la strada verso la meditazione trascendentale, pratica che affascina i vip della città degli angeli. Introverso e calcolatore, durante l’accademia navale era considerato il nome più papabile per finire nel programma di selezione per gli astronauti dell’ESA, l’agenzia spaziale europea. Poi il colpo di fulmine con l",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068973-0495959.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026turbopaolo-il-poliziotto-del-formaggio.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
