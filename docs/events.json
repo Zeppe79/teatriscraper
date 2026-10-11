@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T20:26:41.003763+00:00",
-  "count": 326,
+  "last_updated": "2026-10-11T11:09:40.536300+00:00",
+  "count": 321,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1060,102 +1060,6 @@
       "is_past": true
     },
     {
-      "id": "b6d6ecf5face",
-      "title": "\"Chiedimi come sto” | Giornata Mondiale della Salute Mentale",
-      "date": "2026-10-10",
-      "time": "15:00",
-      "venue": "Muse Museo delle scienze",
-      "location": "Trento",
-      "description": "dalle 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/muse-trento-tdallatina/28130583-1-ita-IT/Muse-Trento-tdallatina_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752665",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752665"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f6b9ae65faac",
-      "title": "Il lupo",
-      "date": "2026-10-10",
-      "time": "16:30",
-      "venue": "",
-      "location": "Vignola-Falesina",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/10-ottobre-2026-1/28135692-1-ita-IT/10-ottobre-2026-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752783",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752783"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1f01a7fe9f5c",
-      "title": "E-Agle Team e Opera Universitaria / 10th Anniversary of our team",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026e-agle-team-e-opera-universitaria-10th-anniversary-of-our-team.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026e-agle-team-e-opera-universitaria-10th-anniversary-of-our-team.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "02910b695406",
-      "title": "Padri per un terzo – Quell’estate sull’isola",
-      "date": "2026-10-10",
-      "time": "20:30",
-      "venue": "Teatro Parrocchiale di Pieve",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751738",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751738"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "06f8a9556eb3",
-      "title": "Soli. Storia di una madre e del figlio Hikikomori",
-      "date": "2026-10-10",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/10-ottobre-2026-2/28146313-1-ita-IT/10-ottobre-2026-2_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753145",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753145"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "43386ce954af",
-      "title": "Padri per un terzo – Quell’estate sull’isola",
-      "date": "2026-10-10",
-      "time": "20:30",
-      "venue": "",
-      "location": "Primiero San Martino di Castrozza",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753305",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753305"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "de7399307447",
       "title": "Rovereto Wind Orchestra",
       "date": "2026-10-10",
@@ -1169,55 +1073,7 @@
         "https://www.teatrodipergine.it/eventi/2982-rovereto-wind-orchestra"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "70d679f766b9",
-      "title": "Fonda l'embarcadero",
-      "date": "2026-10-10",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752538",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752538"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7bd423ba0e2d",
-      "title": "Niente panico!",
-      "date": "2026-10-10",
-      "time": "20:45",
-      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
-      "location": "Civezzano",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753309",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753309"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "d32e56f5bfa6",
-      "title": "SMILE Non ci resta che ridere!",
-      "date": "2026-10-10",
-      "time": "20:45",
-      "venue": "Teatro di Cognola",
-      "location": "Trento",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753862",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753862"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "37e6e2cb0b1f",
@@ -1572,6 +1428,22 @@
       "is_past": false
     },
     {
+      "id": "4618e39055e0",
+      "title": "Sior Todero Brontolon - G.A.D. città di Trento",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/sior-todero-brontolon-gad-citta-di-trento.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/sior-todero-brontolon-gad-citta-di-trento.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "b46330005212",
       "title": "La Rosa Bianca - Uman Festival",
       "date": "2026-10-16",
@@ -1627,7 +1499,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stuf2-1/28139671-1-ita-IT/stuf2-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752932",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752932"
@@ -1643,7 +1515,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Stagione amatoriale | Teatro di Meano | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/en-gran-rebalton3/28148301-1-ita-IT/En-gran-rebalton_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753223",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753223"
@@ -1659,7 +1531,7 @@
       "venue": "Cinema teatro oratorio di Dro",
       "location": "Dro",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753339",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753339"
@@ -1675,7 +1547,7 @@
       "venue": "",
       "location": "Lavis",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753325",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753325"
@@ -1691,7 +1563,7 @@
       "venue": "",
       "location": "Primiero San Martino di Castrozza",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753340",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753340"
@@ -1739,7 +1611,7 @@
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753346",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753346"
@@ -1755,7 +1627,7 @@
       "venue": "",
       "location": "Besenello",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753341",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753341"
@@ -1771,7 +1643,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753307",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753307"
@@ -5043,6 +4915,54 @@
         "https://www.teatrodipergine.it/teatro/2950-nel-blu"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "065ff939e068",
+      "title": "Le tre Marie",
+      "date": "2027-01-09",
+      "time": "20:45",
+      "venue": "",
+      "location": "Zambana",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751581",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751581"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "dd3546c050bd",
+      "title": "Otto volte mistero",
+      "date": "2027-01-09",
+      "time": "20:45",
+      "venue": "",
+      "location": "Castel Ivano",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753407",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753407"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "467fb2c21777",
+      "title": "En gran rebalton",
+      "date": "2027-01-09",
+      "time": "20:45",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753479",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753479"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
