@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T12:39:27.895862+00:00",
+  "last_updated": "2026-10-12T23:25:41.585535+00:00",
   "count": 315,
   "events": [
     {
@@ -1092,22 +1092,6 @@
       "is_past": false
     },
     {
-      "id": "3f2fb3750f05",
-      "title": "Giuseppe Ninno - Citofonare Casa Imbarazzi",
-      "date": "2026-10-12",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026giuseppe-ninno-citofonare-casa-imbarazzi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026giuseppe-ninno-citofonare-casa-imbarazzi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "3ff123dcc4f7",
       "title": "Spegni lo schermo, accendi l’infanzia",
       "date": "2026-10-13",
@@ -1428,6 +1412,22 @@
       "is_past": false
     },
     {
+      "id": "4f126877a155",
+      "title": "Se.No",
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": "Altopiano della Vigolana (Tn)",
+      "location": "",
+      "description": "informazioni in: www.arditodesio.org/calendario2026/",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/053807-seno.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/seno.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/seno.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9ca4f73d9147",
       "title": "La famiglia Bruscolin",
       "date": "2026-10-17",
@@ -1636,6 +1636,22 @@
       "is_past": false
     },
     {
+      "id": "0e590082123e",
+      "title": "Se.No",
+      "date": "2026-10-19",
+      "time": "19:30",
+      "venue": "MUSE, Corso del lavoro e della scienza, Trento",
+      "location": "Trento",
+      "description": "informazioni in: www.arditodesio.org/calendario2026/",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/053807-seno.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/seno_128270.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/seno_128270.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "28994258a2db",
       "title": "Camp Miasma: Adolescenza, sesso e morte",
       "date": "2026-10-20",
@@ -1665,22 +1681,6 @@
         "https://www.cultura.trentino.it/content/view/full/747762"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "09379451046a",
-      "title": "Chiara Francini in \"Coppia aperta quasi spalancata\"",
-      "date": "2026-10-21",
-      "time": "19:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069263-4043935.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
