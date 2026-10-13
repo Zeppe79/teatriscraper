@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T23:25:41.585535+00:00",
+  "last_updated": "2026-10-13T12:25:25.028915+00:00",
   "count": 315,
   "events": [
     {
@@ -1084,12 +1084,12 @@
       "location": "Pergine Valsugana",
       "description": "Lunedì 12 ottobre 2026 - dalle 16.00 alle 20.00",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/controvento1.png",
-      "source_url": "https://www.teatrodipergine.it/eventi/2986-controvento-terza-edizione",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2986-controvento-terza-edizione",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/2986-controvento-terza-edizione"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2986-controvento-terza-edizione"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "3ff123dcc4f7",
