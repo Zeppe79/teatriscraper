@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T09:53:12.696929+00:00",
-  "count": 322,
+  "last_updated": "2026-10-14T20:24:18.706268+00:00",
+  "count": 325,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1316,22 +1316,6 @@
       "is_past": false
     },
     {
-      "id": "a14ebf17bee4",
-      "title": "Stuf",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stuf2-1/28139671-1-ita-IT/stuf2-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752932",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752932"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "7c14fdb86914",
       "title": "En gran rebalton",
       "date": "2026-10-17",
@@ -1412,6 +1396,22 @@
       "is_past": false
     },
     {
+      "id": "a14ebf17bee4",
+      "title": "Stuf",
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/stuf2-1/28139671-1-ita-IT/stuf2-1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752932",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752932"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "4f126877a155",
       "title": "Se.No",
       "date": "2026-10-17",
@@ -1471,6 +1471,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753341",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753341"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "658bf072122f",
+      "title": "Tuti mati per i schei",
+      "date": "2026-10-17",
+      "time": "20:45",
+      "venue": "Cinema Teatro Dolomiti di Lavarone",
+      "location": "Lavarone",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754144",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754144"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1547,7 +1563,7 @@
       "venue": "",
       "location": "Altopiano della Vigolana",
       "description": "ore 16.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753350",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753350"
@@ -3477,22 +3493,6 @@
       "is_past": false
     },
     {
-      "id": "23ba8faebfab",
-      "title": "Na carega col cuscin",
-      "date": "2026-11-21",
-      "time": "20:30",
-      "venue": "",
-      "location": "",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753874",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753874"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "61736cd4cb43",
       "title": "Avete mai provato ad essere donne?",
       "date": "2026-11-21",
@@ -3504,6 +3504,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753949",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753949"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e420157aaf45",
+      "title": "Na carega col cuscin",
+      "date": "2026-11-21",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753874",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753874"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3681,6 +3697,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753881",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753881"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a2cc04ac52c0",
+      "title": "I mantenuti",
+      "date": "2026-11-22",
+      "time": "17:00",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754148",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754148"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3985,6 +4017,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753885",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753885"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bebc97ab2753",
+      "title": "En gran rebalton",
+      "date": "2026-11-28",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754150",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754150"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
