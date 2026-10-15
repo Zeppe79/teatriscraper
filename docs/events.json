@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T20:24:18.706268+00:00",
-  "count": 325,
+  "last_updated": "2026-10-15T09:34:01.964369+00:00",
+  "count": 327,
   "events": [
     {
       "id": "06d96a048e56",
@@ -5025,6 +5025,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753810",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753810"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c6618dcf7513",
+      "title": "Autoritratto",
+      "date": "2027-01-13",
+      "time": "19:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 13 gennaio alle ore 19.30\nil 14 e il 15 gennaio alle ore 20.30\nil 16 gennaio alle ore 18.00\nil 17 gennaio alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747770",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747770"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1aee5f187541",
+      "title": "Closer",
+      "date": "2027-01-13",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752870",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752870"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
