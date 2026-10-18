@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T18:59:32.279789+00:00",
-  "count": 326,
+  "last_updated": "2026-10-18T09:17:15.822672+00:00",
+  "count": 320,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,134 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "a6cda4b1de6f",
-      "title": "Corali di Innsbruck e Ravenna - prove aperte",
-      "date": "2026-10-17",
-      "time": "16:00",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026corali-di-innsbruck-e-ravenna-prove-aperte.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026corali-di-innsbruck-e-ravenna-prove-aperte.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4d4b2f818e39",
-      "title": "Hansel e Gretel",
-      "date": "2026-10-17",
-      "time": "17:30",
-      "venue": "",
-      "location": "Frassilongo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/17-ottobre-hansel-e-gretel-1/28008823-1-ita-IT/17-ottobre-HANSEL-E-GRETEL-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/748736",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/748736"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "499f5b33a062",
-      "title": "Betly, o la capanna svizzera",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano - Stagione 2026/2027 | Musica | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-2/28131297-1-ita-IT/Vil26_27_Post_1080x13502-2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752684",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752684"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7c14fdb86914",
-      "title": "En gran rebalton",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Stagione amatoriale | Teatro di Meano | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/en-gran-rebalton3/28148301-1-ita-IT/En-gran-rebalton_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753223",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753223"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "99328f705abf",
-      "title": "Serata del dilettante a Teatro",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "Cinema teatro oratorio di Dro",
-      "location": "Dro",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753339",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753339"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "4f0d151a24ad",
-      "title": "La valisèta",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "",
-      "location": "Lavis",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753325",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753325"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cdaf136f9548",
-      "title": "Se non son matti non li vogliamo",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "",
-      "location": "Primiero San Martino di Castrozza",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753340",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753340"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "480bde267299",
-      "title": "Se.No",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "",
-      "location": "Altopiano della Vigolana",
-      "description": "dalle 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753846",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753846"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "a14ebf17bee4",
       "title": "Stuf",
       "date": "2026-10-17",
@@ -1265,103 +1137,7 @@
         "https://www.cultura.trentino.it/content/view/full/752932"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "4f126877a155",
-      "title": "Se.No",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "venue": "Altopiano della Vigolana (Tn)",
-      "location": "",
-      "description": "informazioni in: www.arditodesio.org/calendario2026/",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/053807-seno.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/seno.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/seno.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "9ca4f73d9147",
-      "title": "La famiglia Bruscolin",
-      "date": "2026-10-17",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752539",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752539"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "9270861e3d46",
-      "title": "Segreto, segreto, segreto – disastrosa trama di velenose trine",
-      "date": "2026-10-17",
-      "time": "20:45",
-      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
-      "location": "Civezzano",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753346",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753346"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1494e6a88ff9",
-      "title": "Sinistra o destra stessa minestra",
-      "date": "2026-10-17",
-      "time": "20:45",
-      "venue": "",
-      "location": "Besenello",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753341",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753341"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "658bf072122f",
-      "title": "Tuti mati per i schei",
-      "date": "2026-10-17",
-      "time": "20:45",
-      "venue": "Cinema Teatro Dolomiti di Lavarone",
-      "location": "Lavarone",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754144",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754144"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b7587a4bc3d6",
-      "title": "L’è afondà l’embarcadero",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "venue": "",
-      "location": "Madruzzo",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753307",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753307"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "14262f2e4c6b",
@@ -1595,7 +1371,7 @@
       "venue": "Palacongressi di Riva del Garda",
       "location": "Riva del Garda",
       "description": "Teatro di Riva del Garda Nago - Torbole | Stagione 2026/2027 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754100",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754100"
@@ -1611,7 +1387,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 21 ottobre alle ore 19.30\nil 22 e il 23 ottobre alle ore 20.30\nil 24 ottobre alle ore 18.00\nil 25 ottobre alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-interno-1-cbasso-1/27975999-1-ita-IT/Teatro-Sociale-di-Trento-interno-1-cbasso-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747762",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747762"
@@ -1643,7 +1419,7 @@
       "venue": "",
       "location": "Tione di Trento",
       "description": "Abitare il cambiamento | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pixifant-nature-7870374_1920/28159697-1-ita-IT/pixifant-nature-7870374_1920_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753544",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753544"
@@ -1691,7 +1467,7 @@
       "venue": "",
       "location": "Pergine Valsugana",
       "description": "ore 19.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753359",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753359"
@@ -1707,7 +1483,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Festa del Teatro   | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-12/28131241-1-ita-IT/Vil26_27_Post_1080x13502-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752712",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752712"
@@ -1723,12 +1499,28 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lamagnificaimperfezione2/28137219-1-ita-IT/lamagnificaimperfezione2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752839",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752839"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4331990e6eb3",
+      "title": "Bambu 2026 di Roberto Castello",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano, Via U. Giordano 6, Villazzano (Tn)",
+      "location": "Villazzano",
+      "description": "Bambu è un’idea di Roberto Castello / produzione esecutiva: ALDES / Per Villazzano lo spettacolo è in collaborazione con Compagnia TeatroE e con CAM Consorzio Associazioni con il Mozambico ODV Circuito Danza. \"BAMBU\" promuove relazioni culturali con l'Africa subsahariana attraverso un ponte tra danza e teatro contemporaneo africano e i teatri italiani. Unisce un tour nazionale di spettacoli selezionati con direttori artistici africani e un convegno internazionale di confronto tra artisti, operat",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069155-9483843.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1739,12 +1531,28 @@
       "venue": "Auditorium Santa Chiara - Trento",
       "location": "Trento",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750474",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750474"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "70bfd162a5f4",
+      "title": "Ubaldo Pantani - Inimitabile",
+      "date": "2026-10-22",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "“Che personaggio!” Quante volte lo diciamo di fronte a qualcuno che ci sembra fuori dal comune? Lo ripetiamo tra amici, lo raccontiamo a casa, lo condividiamo al lavoro: “Ero a fare l’aperitivo e c’era un barista… dovevi vedere che personaggio!” In Inimitabile, Ubaldo Pantani, mattatore della comicità televisiva, porta sul palco il suo mondo di personaggi: dalle celebrità imitate – Lapo Elkann e tutti gli altri – fino alle persone comuni, quelle incontrate nei contesti più disparati, dal benzina",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069169-22.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ubaldo-pantani-inimitabile.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ubaldo-pantani-inimitabile.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1755,7 +1563,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Stagione professionale | Teatro di Meano | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/la-mandragola/28148637-1-ita-IT/La-Mandragola_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753235",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753235"
@@ -1771,7 +1579,7 @@
       "venue": "Cinema Teatro di Cembra Lisignago",
       "location": "Cembra Lisignago",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753362",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753362"
@@ -1803,7 +1611,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lamariazanella2/28137275-1-ita-IT/lamariazanella2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752842",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752842"
@@ -1835,7 +1643,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752540",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752540"
@@ -1851,7 +1659,7 @@
       "venue": "",
       "location": "Frassilongo",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753397",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753397"
@@ -5073,6 +4881,102 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753653",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753653"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "893e38de0645",
+      "title": "Tut per na firma sbaliada",
+      "date": "2027-01-16",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Teatro amatoriale | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753009",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753009"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "13cda18640b4",
+      "title": "Coppie scoppiate",
+      "date": "2027-01-16",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Stagione amatoriale | Teatro di Meano | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753229",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753229"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fb5464c04e40",
+      "title": "Meno male che oggi è venerdì",
+      "date": "2027-01-16",
+      "time": "20:30",
+      "venue": "Teatro di Cognola",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753459",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753459"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "527c48f301c0",
+      "title": "Se pol far senza",
+      "date": "2027-01-16",
+      "time": "20:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753461",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753461"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "51c78a575564",
+      "title": "Sinistra o destra stessa minestra",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753345",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753345"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "daab28cc2ebd",
+      "title": "Le bosìe le g’ha le gambe corte",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753353",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753353"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
