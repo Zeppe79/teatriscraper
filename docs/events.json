@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T10:27:04.942198+00:00",
+  "last_updated": "2026-10-19T21:19:27.457887+00:00",
   "count": 314,
   "events": [
     {
@@ -163,38 +163,6 @@
       "is_past": true
     },
     {
-      "id": "349dd8941ec2",
-      "title": "Tabù 2026 – Show: Puttana",
-      "date": "2026-04-28",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è un’opera di narrazione musicale sperimentale che mette al banco dei testimoni non i suoi protagonisti,...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/DSC03508-870x550.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-show-puttana/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-show-puttana/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "e36775375104",
-      "title": "Tabù 2026 – Performance: Dovevo andare al mare",
-      "date": "2026-04-28",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Carlo è un ragazzo come tanti. Cresce felice per le vie di Genova. Donato Tempia è un uomo adulto. Ha voglia di lasciare un mondo migliore ai suoi figli. Carlo esce di casa. Deve andare al mare con un amico:...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/1-Semifinale_Z907296-Marco-Bandiera-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/tabu-2026-performance-dovevo-andare-al-mare/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/tabu-2026-performance-dovevo-andare-al-mare/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
       "id": "93dd692465e4",
       "title": "mutant/6LL3",
       "date": "2026-04-30",
@@ -206,22 +174,6 @@
       "source_url": "https://www.teatrodivillazzano.it/event/mutant-6ll3/",
       "source_urls": [
         "https://www.teatrodivillazzano.it/event/mutant-6ll3/"
-      ],
-      "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "49462ab61f51",
-      "title": "Un viaggio nel castello più magico di sempre",
-      "date": "2026-04-30",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "La magia prende vita sul palco del Teatro di Villazzano con uno spettacolo che trasporta il pubblico nel mondo incantato di Harry Potter. La Dance Team School presenta una produzione coreografica coinvolgente, dove danza, musica e scenografia si intrecciano per...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/WhatsApp-Image-2026-05-18-at-12.01.14-1-870x530.jpeg",
-      "source_url": "https://www.teatrodivillazzano.it/event/harry-potter/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/harry-potter/"
       ],
       "source_name": "teatrodivillazzano.it",
       "is_past": true
@@ -1122,6 +1074,54 @@
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
+    },
+    {
+      "id": "1a3610e2f19c",
+      "title": "Cineforum 2026/27",
+      "date": "2026-10-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "A Villazzano arriva il Cineforum: il mercoledì ci vediamo al cinema! Dal 4 novembre una nuova collaborazione con Cinema Mezzanotte porta sul grande schermo del Teatro di Villazzano film indipendenti e d’essai. Un nuovo appuntamento che guarda già oltre le...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Vil26_27_QuadratiSito_833x8337-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2026/10/19/cineforum-2026-27/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2026/10/19/cineforum-2026-27/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
+    },
+    {
+      "id": "21f89ac5490c",
+      "title": "DegustaTeatro 2026/27",
+      "date": "2026-10-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "DegustaTeatro 2026/27: le storie si ascoltano, ma si possono anche assaporare Al Teatro di Villazzano torna la rassegna che unisce spettacoli, incontri con gli artisti e degustazioni. Un viaggio tra teatro, territori e sapori. Cosa succede quando una serata a...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Vil26_27_QuadratiSito_833x8333-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2026/10/19/degustateatro-2026-27/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2026/10/19/degustateatro-2026-27/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
+    },
+    {
+      "id": "c36f85a4aef7",
+      "title": "Stagione 26/27 – C’è vita fuori dall’acquario",
+      "date": "2026-10-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "C’è vita fuori dall’acquario: la stagione 2026/27 del Teatro di Villazzano Dieci anni di TeatroE a Villazzano, venticinque anni di attività della compagnia e una nuova stagione tutta da scoprire. Tra commedie, musica, teatro contemporaneo, spettacoli per famiglie e nuove...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2017/08/Vil25_26_BannerSito_900x600-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2026/10/19/stagione-26-27-ce-vita-fuori-dallacquario/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2026/10/19/stagione-26-27-ce-vita-fuori-dallacquario/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": false
     },
     {
       "id": "bba72c917461",
