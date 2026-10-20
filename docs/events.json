@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T09:45:52.216286+00:00",
-  "count": 317,
+  "last_updated": "2026-10-20T20:15:16.409659+00:00",
+  "count": 318,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1172,22 +1172,6 @@
       "is_past": false
     },
     {
-      "id": "09379451046a",
-      "title": "Chiara Francini in \"Coppia aperta quasi spalancata\"",
-      "date": "2026-10-21",
-      "time": "19:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069263-4043935.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "717ae44597eb",
       "title": "Racconti dalle montagne",
       "date": "2026-10-21",
@@ -1281,6 +1265,22 @@
         "https://www.cultura.trentino.it/content/view/full/752839"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4a2d28ceaf7e",
+      "title": "Chiara Francini in \"Coppia aperta quasi spalancata\"",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui / A seguito dello sciopero proclamato per mercoledì 21 ottobre, lo spettacolo previsto al Teatro Sociale alle ore 19:30 non avrà luogo nella data inizialmente programmata. Per garantire al pubblico la possibilità di assistere all’evento, è stata aggiunta una replica straordinaria sabato 24 ottobre alle ore 21:00. Ci scusiamo per il disagio e ringraziamo il pubblico per la comprensione. Per informazioni relative ai bigli",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069263-4043935.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1423,6 +1423,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754277",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754277"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e05f7b8610ba",
+      "title": "Teatro per famiglie al Museo Retico",
+      "date": "2026-10-24",
+      "time": "16:00",
+      "venue": "Museo Retico",
+      "location": "Sanzeno",
+      "description": "ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico_24-ottobre-2026_locandina/28184510-1-ita-IT/Museo-Retico_24-ottobre-2026_locandina_opengraph.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754304",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754304"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1579,7 +1595,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/basilico/28147867-1-ita-IT/Basilico_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753208",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753208"
@@ -2872,7 +2888,7 @@
       "id": "12dd524363c7",
       "title": "Laborintus - Signal to Noise Festival",
       "date": "2026-11-15",
-      "time": "20:30",
+      "time": "20:00",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
       "description": "Musica",
