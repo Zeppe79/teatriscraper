@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T21:19:27.457887+00:00",
-  "count": 314,
+  "last_updated": "2026-10-20T09:45:52.216286+00:00",
+  "count": 317,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1089,7 +1089,7 @@
         "https://www.teatrodivillazzano.it/2026/10/19/cineforum-2026-27/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "21f89ac5490c",
@@ -1105,7 +1105,7 @@
         "https://www.teatrodivillazzano.it/2026/10/19/degustateatro-2026-27/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "c36f85a4aef7",
@@ -1121,71 +1121,7 @@
         "https://www.teatrodivillazzano.it/2026/10/19/stagione-26-27-ce-vita-fuori-dallacquario/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": false
-    },
-    {
-      "id": "bba72c917461",
-      "title": "Se.No",
-      "date": "2026-10-19",
-      "time": "19:30",
-      "venue": "Muse Museo delle scienze",
-      "location": "Trento",
-      "description": "dalle 19.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753845",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753845"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0e590082123e",
-      "title": "Se.No",
-      "date": "2026-10-19",
-      "time": "19:30",
-      "venue": "MUSE, Corso del lavoro e della scienza, Trento",
-      "location": "Trento",
-      "description": "informazioni in: www.arditodesio.org/calendario2026/",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/053807-seno.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/seno_128270.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/seno_128270.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4bb405028dc9",
-      "title": "Baracoa - La Rampa",
-      "date": "2026-10-19",
-      "time": "20:00",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/cinema/2026/baracoa-la-rampa.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/baracoa-la-rampa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "71b5710a55b2",
-      "title": "Polifonie del presente con Matteo Franceschini",
-      "date": "2026-10-19",
-      "time": "20:00",
-      "venue": "Conservatorio Bonporti, Via S. Giovanni Bosco, Trento",
-      "location": "Trento",
-      "description": "ingresso libero con prenotazioni a questo link / Fondazione Cassa Rurale di Trento",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069786-04949.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026polifonie-del-presente-con-matteo-franceschini.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026polifonie-del-presente-con-matteo-franceschini.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "28994258a2db",
@@ -1476,6 +1412,22 @@
       "is_past": false
     },
     {
+      "id": "12a7198e3c61",
+      "title": "L'ora che non c'è",
+      "date": "2026-10-24",
+      "time": "02:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi  2026-2027 | Teatro comunale di Pergine | ore 2.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/orachenonce/28183870-1-ita-IT/orachenonce_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754277",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754277"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "92a62cd15f40",
       "title": "Con la magia di Mago Merlino … è tutta un’altra storia",
       "date": "2026-10-24",
@@ -1636,6 +1588,22 @@
       "is_past": false
     },
     {
+      "id": "c9fdf194d341",
+      "title": "Biancaneve show - I teatri soffiati",
+      "date": "2026-10-25",
+      "time": "16:30",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Con Maria Vittoria Barrella / Regia Alessio Kogoj / Drammaturgia e testi Alessio Kogoj e Maria Vittoria Barrella / Disegno luci Blumen / Costumi Samuel Trentini e Federica Zampini / Foto di scena Romano Magrone / Video Federico Maraner / Organizzazione Saba Burali / Grafica Laura Moretto / Produzione I teatri soffiati / Residenza artistica presso Centro Servizi Culturali S. Chiara Scappo a teatro Lo spettacolo è una ricostruzione contemporanea, fedelissima all’originale, della celeberrima fiaba ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/biancaneve-show-i-teatri-soffiati.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/biancaneve-show-i-teatri-soffiati.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "9280bfbc5681",
       "title": "Con tut el ben che te vòi",
       "date": "2026-10-25",
@@ -1684,6 +1652,22 @@
       "is_past": false
     },
     {
+      "id": "68d3ffc20af9",
+      "title": "Las Aventuras de Juan Quin Quin - La Rampa",
+      "date": "2026-10-26",
+      "time": "20:00",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/cinema/2026/las-aventuras-de-juan-quin-quin-la-rampa.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/las-aventuras-de-juan-quin-quin-la-rampa.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "6bb6120b30cc",
       "title": "Gaza vive",
       "date": "2026-10-27",
@@ -1697,6 +1681,22 @@
         "https://www.cultura.trentino.it/content/view/full/753888"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f7ea5498ba64",
+      "title": "Un poeta",
+      "date": "2026-10-27",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069111-049495.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/un-poeta_127585.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/un-poeta_127585.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2160,6 +2160,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753342",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753342"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e619b91555b1",
+      "title": "Sconcerto a 4 mani",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "venue": "",
+      "location": "Palù del Fersina",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754282",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754282"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3489,6 +3505,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753361",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753361"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2b56d6bd0217",
+      "title": "80 anni e non sentirli",
+      "date": "2026-11-27",
+      "time": "20:30",
+      "venue": "",
+      "location": "Sant'Orsola Terme",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754281",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754281"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4899,6 +4931,22 @@
         "https://www.teatrodipergine.it/ragazzi/2970-tempo-matto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "2585aa155fe5",
+      "title": "Fino a quando la mia stella brillerà | Margherita Mannino",
+      "date": "2027-01-18",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751411",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751411"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
