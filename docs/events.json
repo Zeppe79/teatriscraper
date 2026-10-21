@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T09:47:28.458117+00:00",
-  "count": 348,
+  "last_updated": "2026-10-21T20:26:17.725344+00:00",
+  "count": 366,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1556,6 +1556,22 @@
       "is_past": false
     },
     {
+      "id": "f7ebd6d446c0",
+      "title": "Nonna Nunzia: spazio, ultima dentiera",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "venue": "Cinema Teatro Dolomiti di Lavarone",
+      "location": "Lavarone",
+      "description": "ore 20.45",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754414",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754414"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "078517aa9abf",
       "title": "Basilico nel bosco nero",
       "date": "2026-10-25",
@@ -1563,7 +1579,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/basilico/28147867-1-ita-IT/Basilico_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753208",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753208"
@@ -2272,6 +2288,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753451",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753451"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "896f45f6c141",
+      "title": "Pozzo dei miracoli",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "venue": "",
+      "location": "Segonzano",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754416",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754416"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3430,22 +3462,6 @@
       "is_past": false
     },
     {
-      "id": "638cbce57a1a",
-      "title": "Stasera se ride",
-      "date": "2026-11-21",
-      "time": "20:45",
-      "venue": "Teatro parrocchiale di Sabbionara",
-      "location": "Avio",
-      "description": "ore 20.45",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753876",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753876"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "40c4819a8c34",
       "title": "Il sogno dell’onorevole Largaspugna",
       "date": "2026-11-21",
@@ -3457,6 +3473,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753878",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753878"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d86ef58ba935",
+      "title": "Tut colpa de l’ors",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "Teatro parrocchiale di Avio",
+      "location": "Avio",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754417",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754417"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4262,6 +4294,22 @@
       "is_past": false
     },
     {
+      "id": "8b3b7e92eb95",
+      "title": "Ho deciso de no morir",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754418",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754418"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e25f011fd297",
       "title": "B.R.A.T.S. Brave Ragazze Ancora Tutte Single",
       "date": "2026-12-05",
@@ -4289,6 +4337,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753890",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753890"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7f428e2b31c8",
+      "title": "Chat a due piazze",
+      "date": "2026-12-05",
+      "time": "20:45",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754419",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754419"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4464,23 +4528,8 @@
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753227",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753227"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "774955605dcb",
-      "title": "Sinistra o destra stessa minestra",
-      "date": "2026-12-12",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753343",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753343"
+        "https://www.cultura.trentino.it/content/view/full/753227",
+        "https://www.cultura.trentino.it/content/view/full/754422"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4497,6 +4546,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753809",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753809"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cdc9ad241ed2",
+      "title": "Tut colpa de l’ors",
+      "date": "2026-12-12",
+      "time": "20:30",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754420",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754420"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d5ec0cd6ef91",
+      "title": "La stupidità dell’uomo comune",
+      "date": "2026-12-12",
+      "time": "20:30",
+      "venue": "",
+      "location": "Castelnuovo",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754421",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754421"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4547,6 +4628,22 @@
         "https://www.crushsite.it/it/musica/2026/lucia-de-carvalho-paesaggi-sonori.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "a9e0e4a7a12f",
+      "title": "Le nuove avventure dei musicanti di Brema",
+      "date": "2026-12-13",
+      "time": "10:30",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754423",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754423"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4774,6 +4871,22 @@
       "is_past": false
     },
     {
+      "id": "e117f173e7aa",
+      "title": "Il portale magico del Polo Nord",
+      "date": "2026-12-19",
+      "time": "20:00",
+      "venue": "",
+      "location": "Castelnuovo",
+      "description": "ore 20.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754424",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754424"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "3ebe04b908e6",
       "title": "Otto volte mistero",
       "date": "2026-12-19",
@@ -4806,6 +4919,38 @@
       "is_past": false
     },
     {
+      "id": "2dd118b13e24",
+      "title": "L’asso nella tonaca",
+      "date": "2026-12-19",
+      "time": "20:45",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754425",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754425"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "830463843978",
+      "title": "Boeing boeing … l’amore vola e va",
+      "date": "2026-12-19",
+      "time": "21:00",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754426",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754426"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f27e4a139ae2",
       "title": "La Conta di Natale",
       "date": "2026-12-20",
@@ -4817,6 +4962,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753891",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753891"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b332269c97e3",
+      "title": "L’asso nella tonaca",
+      "date": "2026-12-20",
+      "time": "17:00",
+      "venue": "",
+      "location": "Revò",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754427",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754427"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6347c0521f1d",
+      "title": "Il portale magico del Polo Nord",
+      "date": "2026-12-20",
+      "time": "17:30",
+      "venue": "",
+      "location": "Castelnuovo",
+      "description": "ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754428",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754428"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4881,6 +5058,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754381",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754381"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "444f290fdbb1",
+      "title": "Detective Magico Camillo",
+      "date": "2026-12-26",
+      "time": "16:00",
+      "venue": "",
+      "location": "Valfloriana",
+      "description": "ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754429",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754429"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5238,6 +5431,22 @@
       "is_past": false
     },
     {
+      "id": "bb162c343138",
+      "title": "Fragolina",
+      "date": "2027-01-16",
+      "time": "16:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754389",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754389"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "893e38de0645",
       "title": "Tut per na firma sbaliada",
       "date": "2027-01-16",
@@ -5334,6 +5543,54 @@
       "is_past": false
     },
     {
+      "id": "7c280b79e31d",
+      "title": "Tra i lumini e i fiorellini",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "Teatro Gigi Cona di Gardolo",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754433",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754433"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e716023ecd68",
+      "title": "Don Chisciotte – solo chi combatte può perdere, chi non combatte ha già perso",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "",
+      "location": "San Lorenzo Dorsino",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754432",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754432"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "046bbacac7a7",
+      "title": "Nome in codice Afrodite",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754434",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754434"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2bcb4de7d1ea",
       "title": "Canzoni, la vita",
       "date": "2027-01-16",
@@ -5361,6 +5618,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4a4b8fea195b",
+      "title": "Tuti mati per i schei",
+      "date": "2027-01-17",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754435",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754435"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5395,6 +5668,22 @@
         "https://www.teatrodipergine.it/ragazzi/2970-tempo-matto"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "344b0a103e37",
+      "title": "Come narala a finir?",
+      "date": "2027-01-17",
+      "time": "17:00",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754436",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754436"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
