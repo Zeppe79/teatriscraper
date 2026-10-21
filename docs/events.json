@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T20:15:16.409659+00:00",
-  "count": 318,
+  "last_updated": "2026-10-21T09:47:28.458117+00:00",
+  "count": 348,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,38 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "28994258a2db",
-      "title": "Camp Miasma: Adolescenza, sesso e morte",
-      "date": "2026-10-20",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069168-49384.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/camp-miasma-adolescenza-sesso-e-morte.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/camp-miasma-adolescenza-sesso-e-morte.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "fb60348eb872",
-      "title": "Romeo e Giulietta – L’amore è saltimbanco",
-      "date": "2026-10-20",
-      "time": "21:00",
-      "venue": "Palacongressi di Riva del Garda",
-      "location": "Riva del Garda",
-      "description": "Teatro di Riva del Garda Nago - Torbole | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754100",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754100"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "5b470d7cb78c",
       "title": "Ozpetek",
       "date": "2026-10-21",
@@ -1595,7 +1563,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/basilico/28147867-1-ita-IT/Basilico_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753208",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753208"
@@ -1780,6 +1748,22 @@
       "is_past": false
     },
     {
+      "id": "ac62b51c7913",
+      "title": "Madre Courage e i suoi figli con Lunetta Savino",
+      "date": "2026-10-29",
+      "time": "20:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069158-040495.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/madre-courage-e-i-suoi-figli-con-lunetta-savino.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/madre-courage-e-i-suoi-figli-con-lunetta-savino.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "5c355c41e402",
       "title": "Paolo Nori racconta Il maestro e Margherita",
       "date": "2026-10-29",
@@ -1807,6 +1791,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752702",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752702"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "50dbb3d5bb8d",
+      "title": "Gaza vive",
+      "date": "2026-10-30",
+      "time": "21:00",
+      "venue": "",
+      "location": "Caderzone",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754309",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754309"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1973,6 +1973,22 @@
       "is_past": false
     },
     {
+      "id": "99d659d91f8e",
+      "title": "Pinocchio",
+      "date": "2026-11-01",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754367",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754367"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "802d83999b9f",
       "title": "L'isola dei ricordi",
       "date": "2026-11-01",
@@ -2064,6 +2080,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752945",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752945"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7a926ac3a520",
+      "title": "Le signore delle cime – storie di alpiniste e delle loro imprese",
+      "date": "2026-11-04",
+      "time": "21:00",
+      "venue": "",
+      "location": "Borgo Chiese",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754314",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754314"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2293,6 +2325,38 @@
       "is_past": false
     },
     {
+      "id": "a802b491d8c9",
+      "title": "Arlecchino muto per spavento",
+      "date": "2026-11-07",
+      "time": "21:00",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754315",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754315"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cf3705d206d9",
+      "title": "La gallinella rossa",
+      "date": "2026-11-08",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754370",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754370"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5d8e816e26bc",
       "title": "L’importanza de ciamarse Onesto",
       "date": "2026-11-08",
@@ -2304,6 +2368,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753468",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753468"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b25082bce018",
+      "title": "Toma e Carolina",
+      "date": "2026-11-08",
+      "time": "17:30",
+      "venue": "",
+      "location": "Giustino",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754316",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754316"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2565,6 +2645,38 @@
       "is_past": false
     },
     {
+      "id": "28f45a3780bc",
+      "title": "Chiara e Francesco prima dell’alba",
+      "date": "2026-11-13",
+      "time": "21:00",
+      "venue": "",
+      "location": "Pieve di Bono-Prezzo",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754317",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754317"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "230309ca2eaa",
+      "title": "A (S)ragionar di guerra",
+      "date": "2026-11-13",
+      "time": "21:00",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754351",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754351"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "b16440980609",
       "title": "L’importanza de ciamarse Onesto",
       "date": "2026-11-14",
@@ -2789,6 +2901,22 @@
       "is_past": false
     },
     {
+      "id": "018102363eb4",
+      "title": "Vai via",
+      "date": "2026-11-15",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754372",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754372"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5f7c307484d4",
       "title": "Di robot e altre persone...",
       "date": "2026-11-15",
@@ -2880,6 +3008,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753889",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753889"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "aea109f40a38",
+      "title": "I brutti anatroccoli",
+      "date": "2026-11-15",
+      "time": "17:30",
+      "venue": "Oratorio Don Bosco di Ponte Arche",
+      "location": "Comano Terme",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754318",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754318"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3334,6 +3478,22 @@
       "is_past": false
     },
     {
+      "id": "13746ecb2e4f",
+      "title": "Gli stivali di Amanda",
+      "date": "2026-11-22",
+      "time": "10:00",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754352",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754352"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "80aff0ff2f6c",
       "title": "Il circo in valigia",
       "date": "2026-11-22",
@@ -3345,6 +3505,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753880",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753880"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9b8db5b8cebf",
+      "title": "Un mare di avventure",
+      "date": "2026-11-22",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754375",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754375"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3377,6 +3553,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754148",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754148"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7a9c9584039e",
+      "title": "Le rocambolesche avventure dell’orso Nicola, del ragnetto Eugenio e del moscerino che voleva vedere il mondo e che rese tutti felici",
+      "date": "2026-11-22",
+      "time": "17:30",
+      "venue": "",
+      "location": "Bondone",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754321",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754321"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3489,6 +3681,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/750485",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750485"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9164fa21eb2a",
+      "title": "Complessità – Il gioco della vita",
+      "date": "2026-11-25",
+      "time": "21:00",
+      "venue": "",
+      "location": "Sella Giudicarie",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754322",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754322"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3729,6 +3937,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753475",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753475"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3c1589d01d09",
+      "title": "Storie di Gianni",
+      "date": "2026-11-29",
+      "time": "10:00",
+      "venue": "",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 10.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754353",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754353"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c494b371424f",
+      "title": "La fiaba di Celeste",
+      "date": "2026-11-29",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754377",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754377"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4054,6 +4294,22 @@
       "is_past": false
     },
     {
+      "id": "2a3d8e9012e4",
+      "title": "Clownerentola",
+      "date": "2026-12-06",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754379",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754379"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5cc684fd2a99",
       "title": "Gli ultimi orsi polari",
       "date": "2026-12-06",
@@ -4097,6 +4353,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753946",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753946"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c7939032838c",
+      "title": "Missione S.P.B.N.",
+      "date": "2026-12-06",
+      "time": "17:30",
+      "venue": "",
+      "location": "Borgo Chiese",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754323",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754323"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4241,6 +4513,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753344",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753344"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6668927ad84f",
+      "title": "Medusa",
+      "date": "2026-12-12",
+      "time": "21:00",
+      "venue": "",
+      "location": "Bleggio Superiore",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754324",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754324"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4406,6 +4694,22 @@
       "is_past": false
     },
     {
+      "id": "f658a85c7bc1",
+      "title": "Una cena d’addio",
+      "date": "2026-12-17",
+      "time": "21:00",
+      "venue": "",
+      "location": "Storo",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754325",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754325"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ea133a205001",
       "title": "Il furto dei regali",
       "date": "2026-12-18",
@@ -4518,6 +4822,22 @@
       "is_past": false
     },
     {
+      "id": "9677d5f1bfa8",
+      "title": "Bob e Singer: Salviamo il Natale!",
+      "date": "2026-12-20",
+      "time": "17:30",
+      "venue": "Cinema Teatro Comunale di Tione",
+      "location": "Tione di Trento",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754326",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754326"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ac8275d99ba1",
       "title": "Lo Schiaccianoci",
       "date": "2026-12-21",
@@ -4550,6 +4870,38 @@
       "is_past": false
     },
     {
+      "id": "367c708c4ec7",
+      "title": "Nella vecchia fattoria",
+      "date": "2026-12-26",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754381",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754381"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "aec8ceeee53e",
+      "title": "Il famoso canto di Natale del Signor Charles Dickens",
+      "date": "2026-12-27",
+      "time": "16:00",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754354",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754354"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "1c2fd060329b",
       "title": "PanDiZenzero – Storie dolci di Natale",
       "date": "2026-12-27",
@@ -4577,6 +4929,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/749038",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/749038"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8e5c242a872d",
+      "title": "La notte di Natale – Storia di un asino e un bue",
+      "date": "2026-12-27",
+      "time": "17:30",
+      "venue": "",
+      "location": "Pelugo",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754327",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754327"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2f41c7b71e8a",
+      "title": "Una renna alla vecchia fattoria",
+      "date": "2026-12-29",
+      "time": "15:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754383",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754383"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d8050169fef1",
+      "title": "Rudolph – Operazione Natale",
+      "date": "2027-01-03",
+      "time": "17:30",
+      "venue": "PalaDolomiti - Pinzolo",
+      "location": "Pinzolo",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754328",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754328"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4659,6 +5059,22 @@
         "https://www.teatrodipergine.it/teatro/2950-nel-blu"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "307c365ce8f4",
+      "title": "Un carretto di storie: cappuccetto rosso",
+      "date": "2027-01-09",
+      "time": "16:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754386",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754386"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4918,6 +5334,22 @@
       "is_past": false
     },
     {
+      "id": "2bcb4de7d1ea",
+      "title": "Canzoni, la vita",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "venue": "",
+      "location": "Fiavé",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754329",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754329"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "27f72f8558bf",
       "title": "Tempo matto",
       "date": "2027-01-17",
@@ -4929,6 +5361,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752904",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752904"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "45a3ba2df9e7",
+      "title": "Clownerentola",
+      "date": "2027-01-17",
+      "time": "16:00",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754355",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754355"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4950,6 +5398,22 @@
       "is_past": false
     },
     {
+      "id": "830e055d3a16",
+      "title": "Cavoli a merenda",
+      "date": "2027-01-17",
+      "time": "17:30",
+      "venue": "",
+      "location": "Giustino",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754330",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754330"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2585aa155fe5",
       "title": "Fino a quando la mia stella brillerà | Margherita Mannino",
       "date": "2027-01-18",
@@ -4961,6 +5425,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751411",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751411"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d20553e1dc42",
+      "title": "Il sogno di Ludwig!",
+      "date": "2027-01-19",
+      "time": "11:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 11.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752947",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752947"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
