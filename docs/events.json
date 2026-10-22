@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T20:26:17.725344+00:00",
-  "count": 366,
+  "last_updated": "2026-10-22T09:47:20.541416+00:00",
+  "count": 369,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1137,55 +1137,7 @@
         "https://www.cultura.trentino.it/content/view/full/747762"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "717ae44597eb",
-      "title": "Racconti dalle montagne",
-      "date": "2026-10-21",
-      "time": "20:30",
-      "venue": "",
-      "location": "Tione di Trento",
-      "description": "Abitare il cambiamento | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pixifant-nature-7870374_1920/28159697-1-ita-IT/pixifant-nature-7870374_1920_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753544",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753544"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ca5ec8164121",
-      "title": "Book & tea time - Dare è ricevere",
-      "date": "2026-10-21",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069184-444.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/book-tea-time-dare-e-ricevere.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/book-tea-time-dare-e-ricevere.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b8c211e461c8",
-      "title": "Viaggio nella memoria del medioevo latino",
-      "date": "2026-10-21",
-      "time": "20:30",
-      "venue": "Badia San Lorenzo, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069165-309384.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/viaggio-nella-memoria-del-medioevo-latino.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/viaggio-nella-memoria-del-medioevo-latino.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "a85c578285e3",
@@ -1579,7 +1531,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/basilico/28147867-1-ita-IT/Basilico_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753208",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753208"
@@ -1780,6 +1732,22 @@
       "is_past": false
     },
     {
+      "id": "5131405ec3de",
+      "title": "Best of IV stagione Trento e lode",
+      "date": "2026-10-29",
+      "time": "20:30",
+      "venue": "Teatro Sanbàpolis, via della Malpensada 82, Trento",
+      "location": "Trento",
+      "description": "ingresso gratuito",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069783-039434.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/best-of-iv-stagione-trento-e-lode_128607.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/best-of-iv-stagione-trento-e-lode_128607.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "5c355c41e402",
       "title": "Paolo Nori racconta Il maestro e Margherita",
       "date": "2026-10-29",
@@ -1793,6 +1761,22 @@
         "https://www.cultura.trentino.it/content/view/full/750475"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "190019a54eb4",
+      "title": "Paolo Nori racconta Il maestro e Margherita",
+      "date": "2026-10-29",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Sympathy for the Devil «Quando, nel 1967, Einaudi pubblica un romanzo di uno scrittore russo morto nel 1940, sconosciuto da noi, Michail Bulgakov, Il maestro e Margherita, Eugenio Montale scrive che siamo di fronte a “un miracolo che ognuno deve salutare con commozione”. L’anno successivo, nel 1968, i Rolling Stones incidono una canzone, Sympathy for the Devil, che Mick Jagger ha scritto dopo aver letto Il maestro e Margherita. Questo diavolo così simpatico, che nel romanzo si chiama Woland, qu",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069495-o444.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/paolo-nori-racconta-il-maestro-e-margherita.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/paolo-nori-racconta-il-maestro-e-margherita.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2112,6 +2096,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754314",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754314"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "93762c92c3c6",
+      "title": "Festival Informatici Senza Frontiere 2026",
+      "date": "2026-11-05",
+      "time": "08:45",
+      "venue": "",
+      "location": "Rovereto",
+      "description": "dalle 8.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754461",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754461"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5735,6 +5735,38 @@
       "is_past": false
     },
     {
+      "id": "fe3654e2d249",
+      "title": "Hansel e Gretel - infanzia in guerra",
+      "date": "2027-01-20",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753655",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753655"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2409160c62be",
+      "title": "Tape. La registrazione",
+      "date": "2027-01-20",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752872",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752872"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "6d1e9dcd602d",
       "title": "Tape. La registrazione",
       "date": "2027-01-20",
@@ -5748,6 +5780,22 @@
         "https://www.teatrodipergine.it/teatro/2962-tape-la-registrazione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "34ea032204a9",
+      "title": "La scommessa – dramma ridicolo in due atti",
+      "date": "2027-01-20",
+      "time": "21:00",
+      "venue": "Cinema Teatro San Pietro",
+      "location": "Mezzolombardo",
+      "description": "Teatro di Mezzolombardo | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753820",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753820"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
