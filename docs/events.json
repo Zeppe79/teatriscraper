@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T20:22:49.221773+00:00",
-  "count": 369,
+  "last_updated": "2026-10-23T09:43:08.627217+00:00",
+  "count": 365,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1140,54 +1140,6 @@
       "is_past": true
     },
     {
-      "id": "a85c578285e3",
-      "title": "Chicago 1929: omicidio di un boss",
-      "date": "2026-10-22",
-      "time": "19:30",
-      "venue": "",
-      "location": "Pergine Valsugana",
-      "description": "ore 19.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753359",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753359"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "eb6b6160a347",
-      "title": "BAMBU 2026",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano - Stagione 2026/2027 | Festa del Teatro   | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-12/28131241-1-ita-IT/Vil26_27_Post_1080x13502-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752712",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752712"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7a6fa5f961b8",
-      "title": "La magnifica imperfezione",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lamagnificaimperfezione2/28137219-1-ita-IT/lamagnificaimperfezione2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752839",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752839"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "4a2d28ceaf7e",
       "title": "Chiara Francini in \"Coppia aperta quasi spalancata\"",
       "date": "2026-10-22",
@@ -1201,55 +1153,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/chiara-francini-in-coppia-aperta-quasi-spalancata.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4331990e6eb3",
-      "title": "Bambu 2026 di Roberto Castello",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano, Via U. Giordano 6, Villazzano (Tn)",
-      "location": "Villazzano",
-      "description": "Bambu è un’idea di Roberto Castello / produzione esecutiva: ALDES / Per Villazzano lo spettacolo è in collaborazione con Compagnia TeatroE e con CAM Consorzio Associazioni con il Mozambico ODV Circuito Danza. \"BAMBU\" promuove relazioni culturali con l'Africa subsahariana attraverso un ponte tra danza e teatro contemporaneo africano e i teatri italiani. Unisce un tour nazionale di spettacoli selezionati con direttori artistici africani e un convegno internazionale di confronto tra artisti, operat",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069155-9483843.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/bambu-2026-di-roberto-castello.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "27511182f3a7",
-      "title": "Ubaldo Pantani - Inimitabile",
-      "date": "2026-10-22",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750474",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750474"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "70bfd162a5f4",
-      "title": "Ubaldo Pantani - Inimitabile",
-      "date": "2026-10-22",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "“Che personaggio!” Quante volte lo diciamo di fronte a qualcuno che ci sembra fuori dal comune? Lo ripetiamo tra amici, lo raccontiamo a casa, lo condividiamo al lavoro: “Ero a fare l’aperitivo e c’era un barista… dovevi vedere che personaggio!” In Inimitabile, Ubaldo Pantani, mattatore della comicità televisiva, porta sul palco il suo mondo di personaggi: dalle celebrità imitate – Lapo Elkann e tutti gli altri – fino alle persone comuni, quelle incontrate nei contesti più disparati, dal benzina",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069169-22.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ubaldo-pantani-inimitabile.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/ubaldo-pantani-inimitabile.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "9b227b51dcdc",
@@ -1563,7 +1467,7 @@
       "venue": "",
       "location": "Revò",
       "description": "ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753450",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753450"
@@ -1579,7 +1483,7 @@
       "venue": "",
       "location": "Castelnuovo",
       "description": "ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753366",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753366"
@@ -1595,7 +1499,7 @@
       "venue": "Cinema Teatro Comunale di Tesero",
       "location": "Tesero",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/l-equivoco-pagina2/28170079-1-ita-IT/L-Equivoco-PAGINA_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753453",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753453"
@@ -1659,7 +1563,7 @@
       "venue": "",
       "location": "Storo",
       "description": "Teatro di Storo | Stagione 2026/2027 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753945",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753945"
@@ -1793,6 +1697,22 @@
         "https://www.cultura.trentino.it/content/view/full/752702"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "205135958857",
+      "title": "Sia Laudato San Francesco",
+      "date": "2026-10-30",
+      "time": "20:30",
+      "venue": "Castello del Buonconsiglio, Via B. Clesio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1970,6 +1890,22 @@
         "https://www.cultura.trentino.it/content/view/full/753817"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2041dfe22cef",
+      "title": "Basement - Lucretio",
+      "date": "2026-10-31",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada 82, Trento",
+      "location": "Trento",
+      "description": "10 euro i primi 100 biglietti / 15 euro fino al giorno prima / 20 euro Door Ticket",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069481-lucretio-basement.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/basement-lucretio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/basement-lucretio.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
