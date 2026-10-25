@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T19:12:15.501019+00:00",
-  "count": 365,
+  "last_updated": "2026-10-25T09:32:37.418349+00:00",
+  "count": 360,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1169,183 +1169,7 @@
         "https://www.cultura.trentino.it/content/view/full/754277"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e05f7b8610ba",
-      "title": "Teatro per famiglie al Museo Retico",
-      "date": "2026-10-24",
-      "time": "16:00",
-      "venue": "Museo Retico",
-      "location": "Sanzeno",
-      "description": "ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/museo-retico_24-ottobre-2026_locandina/28184510-1-ita-IT/Museo-Retico_24-ottobre-2026_locandina_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754304",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754304"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "92a62cd15f40",
-      "title": "Con la magia di Mago Merlino … è tutta un’altra storia",
-      "date": "2026-10-24",
-      "time": "20:00",
-      "venue": "",
-      "location": "Castelnuovo",
-      "description": "ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753365",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753365"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "3eb03c74f402",
-      "title": "La Maria Zanella",
-      "date": "2026-10-24",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/lamariazanella2/28137275-1-ita-IT/lamariazanella2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752842",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752842"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c21d8cb4557f",
-      "title": "Feisbuc Cianel",
-      "date": "2026-10-24",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Bedollo",
-      "location": "Bedollo",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753370",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753370"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "60fbc9ee915e",
-      "title": "Come narala a finir",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752540",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752540"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "70bd996c131f",
-      "title": "Otto volte mistero",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "",
-      "location": "Frassilongo",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753397",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753397"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "323213788e9d",
-      "title": "Nuda e per pochi soldi",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "",
-      "location": "Garniga Terme",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753298",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753298"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "af9e2c4c3f68",
-      "title": "Le bosìe le g’ha le gambe corte",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "",
-      "location": "Fornace",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753351",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753351"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c6ebe2bf1729",
-      "title": "Coppie scoppiate",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/coppie-scoppiatepagina/28169841-1-ita-IT/coppie-scoppiatePAGINA_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753829",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753829"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b6369b26b28c",
-      "title": "Na malga par .. doe – Stavolta el malgaro l’ha ciapà na n’cavicià",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "",
-      "location": "Telve",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/na-malga-par-doe-pagina-1/28170394-1-ita-IT/na-malga-par-doe-PAGINA-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753417",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753417"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f7ebd6d446c0",
-      "title": "Nonna Nunzia: spazio, ultima dentiera",
-      "date": "2026-10-24",
-      "time": "20:45",
-      "venue": "Cinema Teatro Dolomiti di Lavarone",
-      "location": "Lavarone",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754414",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754414"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "078517aa9abf",
@@ -1515,7 +1339,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 29 e il 30 ottobre alle ore 20.30\nil 31 ottobre alle ore 18.00\nil 1. novembre alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-interno-1-cbasso-1/27975999-1-ita-IT/Teatro-Sociale-di-Trento-interno-1-cbasso-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747763",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747763"
@@ -1579,7 +1403,7 @@
       "venue": "Auditorium Santa Chiara - Trento",
       "location": "Trento",
       "description": "ore 21.00\nRISERVATO ALLE SCUOLE",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750475",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750475"
@@ -1611,7 +1435,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Stagione comica   | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-13/28131976-1-ita-IT/Vil26_27_Post_1080x13502-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752702",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752702"
@@ -1643,7 +1467,7 @@
       "venue": "",
       "location": "Caderzone",
       "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754309",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754309"
@@ -1659,7 +1483,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751570",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751570",
@@ -1676,7 +1500,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Stagione professionale | Teatro di Meano | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/le-cognate/28153209-1-ita-IT/Le-cognate_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753355",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753355"
@@ -1692,7 +1516,7 @@
       "venue": "Cinema Teatro Paradiso di Folgaria",
       "location": "Folgaria",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753398",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753398"
@@ -1708,7 +1532,7 @@
       "venue": "Teatro di Cognola",
       "location": "Trento",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753455",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753455"
@@ -1724,7 +1548,7 @@
       "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
       "location": "Riva del Garda",
       "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752541",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752541"
@@ -1740,7 +1564,7 @@
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753306",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753306"
@@ -1756,7 +1580,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753458",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753458"
@@ -5780,6 +5604,102 @@
         "https://www.teatrodipergine.it/eventi/2987-rockstar-vasco-tribute-band"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "adaf32304101",
+      "title": "Storie da mangiare",
+      "date": "2027-01-23",
+      "time": "16:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754391",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754391"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f22ab15be2d7",
+      "title": "Le tre Marie",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "Teatro San Domenico Savio di Olle",
+      "location": "Borgo Valsugana",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751582",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751582"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "47b5a69f17f1",
+      "title": "'Na gabia de mati",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Zambana",
+      "location": "Zambana",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753296",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753296"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2d08fbb2de68",
+      "title": "Otto volte mistero",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "",
+      "location": "",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753410",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753410"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e47dac603faa",
+      "title": "En gran rebalton",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "",
+      "location": "Fornace",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753480",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753480"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "378d58013e9f",
+      "title": "Pedala!",
+      "date": "2027-01-23",
+      "time": "21:00",
+      "venue": "Casa della Comunità di Nago",
+      "location": "Nago-Torbole",
+      "description": "Teatro di Riva del Garda Nago - Torbole | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754104",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754104"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
