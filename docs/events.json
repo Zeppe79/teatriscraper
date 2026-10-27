@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T10:10:05.918481+00:00",
-  "count": 358,
+  "last_updated": "2026-10-27T21:05:10.399679+00:00",
+  "count": 379,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1354,12 +1354,12 @@
       "time": "17:00",
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751570",
+      "description": "Altri eventi  2026-2027 | Teatro comunale di Pergine | ore 17.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/salvotti1/28160628-1-ita-IT/salvotti1_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753591",
       "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751570",
-        "https://www.cultura.trentino.it/content/view/full/753591"
+        "https://www.cultura.trentino.it/content/view/full/753591",
+        "https://www.cultura.trentino.it/content/view/full/751570"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1541,6 +1541,22 @@
       "is_past": false
     },
     {
+      "id": "99700123fb5c",
+      "title": "Festa di chiusura al MAG - Museo Alto Garda",
+      "date": "2026-11-01",
+      "time": "16:00",
+      "venue": "MAG Museo Alto Garda",
+      "location": "Riva del Garda",
+      "description": "ore 16.00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mag-panoramica-cbasso-4/28076528-1-ita-IT/Mag-panoramica-cbasso-4_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754655",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754655"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "802d83999b9f",
       "title": "L'isola dei ricordi",
       "date": "2026-11-01",
@@ -1557,54 +1573,6 @@
       "is_past": false
     },
     {
-      "id": "7e1033af8a33",
-      "title": "Mario Biondi",
-      "date": "2026-11-01",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Ascoltando per la prima volta in radio la hit This is what you are nel 2006, probabilmente vi sarete immaginati un robusto cantante afro-americano di mezza età. Invece Mario Biondi, nativo di Catania (città che da sempre ha un rapporto speciale con la musica italiana), aveva allora trentacinque anni e la pelle bianca. A trarre in inganno è la sua straordinaria voce calda e pastosa, affinata in tanti anni di live, che ha reso inevitabili i paragoni con Teddy Pendergrass, Isaac Hayes e Barry White",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "fc867a668465",
-      "title": "Se permuta - La Rampa",
-      "date": "2026-11-02",
-      "time": "20:00",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/cinema/2026/se-permuta-la-rampa.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/se-permuta-la-rampa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "79d5eb120d8c",
-      "title": "Epiphanīa - Compagnia Abbondanza/Bertoni",
-      "date": "2026-11-03",
-      "time": "20:00",
-      "venue": "Teatro Cristallo, Via Dalmazia, Bolzano",
-      "location": "Bolzano",
-      "description": "Di Michele Abbondanza e Antonella Bertoni / ideazione, scena e costumi Antonella Bertoni / con Sara Cavalieri, Valentina Dal Mas, Ludovica Messina Poerio / musiche originali Sergio Beercock / disegno luci Alessio Guerra / direzione tecnica Claudio Modugno / assistente alla creazione Eleonora Chiocchini / sartoria Manuela Gober / organizzazione, strategia e sviluppo Dalia Macii / amministrazione e produzione esecutiva Francesca Leonelli / comunicazione Erika Parise / ufficio stampa Marilù Ursi / ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069156-0493843443-abbondanzabertoni.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/epiphana-compagnia-abbondanzabertoni.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/epiphana-compagnia-abbondanzabertoni.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "aa788846f04c",
       "title": "Breaking Brecht",
       "date": "2026-11-03",
@@ -1612,7 +1580,7 @@
       "venue": "Auditorium Santa Chiara - Trento",
       "location": "Trento",
       "description": "Stagione AudiPOP 2026/2027 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/audipop26-27-generiche_sitoimm800x6002/28088826-1-ita-IT/AudiPOP26-27-generiche_sitoimm800x600_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/751395",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751395"
@@ -1653,38 +1621,6 @@
       "is_past": false
     },
     {
-      "id": "0044628ec141",
-      "title": "Veronica Pivetti, Manuela Mandracchia, Lucia Vasini - Breaking Brecht",
-      "date": "2026-11-03",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "BREAKING BRECHT - Sing'n'Song Cabaret / Di Giovanna Gra / Con Veronica Pivetti, Manuela Mandracchia e Lucia Vasini / Direzione musicale Alessandro Nidi / Disegno luci Eva Bruno / Regia di Giovanna Gra / Produzione International Music and Arts, Pigra Srl Stagione AudiPop BREAKING BRECHT - Sing’n’Song Cabaret è uno spettacolo epico-satirico che racconta le battaglie artistiche e le contraddizioni del grande poeta e drammaturgo Bertolt Brecht, e lo fa con un linguaggio contemporaneo che vuol divert",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069161-049834-audipop.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/veronica-pivetti-manuela-mandracchia-lucia-vasini-breaking-brecht.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/veronica-pivetti-manuela-mandracchia-lucia-vasini-breaking-brecht.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b307624a9cad",
-      "title": "Kontinental '25",
-      "date": "2026-11-03",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069190-40959.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/kontinental-25.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/kontinental-25.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "4994dccf0227",
       "title": "Ero un bullo | Fondazione Aida",
       "date": "2026-11-04",
@@ -1714,6 +1650,22 @@
         "https://www.cultura.trentino.it/content/view/full/752945"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d575a06b90fd",
+      "title": "Book & tea time - I racconti della zia giraffa",
+      "date": "2026-11-04",
+      "time": "17:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Ingresso libero / Info n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070056-6s55s.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/book-tea-time-i-racconti-della-zia-giraffa.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/book-tea-time-i-racconti-della-zia-giraffa.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1842,6 +1794,22 @@
         "https://www.teatrodipergine.it/cinema/3004-michael"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "f7f09af43738",
+      "title": "Rita",
+      "date": "2026-11-06",
+      "time": "20:45",
+      "venue": "",
+      "location": "Garniga Terme",
+      "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754651",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754651"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -1986,6 +1954,22 @@
         "https://www.cultura.trentino.it/content/view/full/752653"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "137e1d2c581e",
+      "title": "Le bosìe le g'ha le gambe corte",
+      "date": "2026-11-07",
+      "time": "20:45",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 10, ridotto € 5 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070057-456.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/le-bosie-le-gha-le-gambe-corte.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/le-bosie-le-gha-le-gambe-corte.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2261,6 +2245,22 @@
       "is_past": false
     },
     {
+      "id": "cef201899626",
+      "title": "Gaza vive",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754662",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754662"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "c07c310309a1",
       "title": "Una cena d’addio",
       "date": "2026-11-12",
@@ -2272,6 +2272,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753952",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753952"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6c3fcaf71de1",
+      "title": "Novecento",
+      "date": "2026-11-12",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Predazzo",
+      "location": "Predazzo",
+      "description": "Teatro Fiemme | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754677",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754677"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2533,6 +2549,22 @@
       "is_past": false
     },
     {
+      "id": "f903933bb117",
+      "title": "Stuf",
+      "date": "2026-11-14",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Aldeno",
+      "location": "Aldeno",
+      "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754656",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754656"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "0e15bd286873",
       "title": "La famiglia Bruscolin",
       "date": "2026-11-14",
@@ -2562,6 +2594,22 @@
         "https://www.cultura.trentino.it/content/view/full/753942"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "17cfbb9e84db",
+      "title": "Dreaming of Musical",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 20, ridotto € 12 (under 11), prevendita online su www.trentinospettacoli.it soggetta a diritti a carico dell’utente / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070058-w.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/dreaming-of-musical.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/dreaming-of-musical.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2869,6 +2917,22 @@
       "is_past": false
     },
     {
+      "id": "a090621a5bfc",
+      "title": "Mondo",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "venue": "Cinema Teatro Parrocchiale di Cles",
+      "location": "Cles",
+      "description": "Teatro Val di Non | Stagione 2026/2027 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754692",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754692"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "04d99601404a",
       "title": "Il Professor Insalatoni",
       "date": "2026-11-21",
@@ -3126,6 +3190,38 @@
       "is_past": false
     },
     {
+      "id": "851e8f10b6ce",
+      "title": "Tutta da aggiustare",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Predazzo",
+      "description": "Teatro Fiemme | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754678",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754678"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5137efd51ef8",
+      "title": "W Robin!",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 10, ridotto € 5 / Info e prenotazioni n. 370.1245353",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/w-robin.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/w-robin.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "f4e85a6ca38c",
       "title": "Ajò!",
       "date": "2026-11-21",
@@ -3217,6 +3313,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754148",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754148"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "927b5be3ee14",
+      "title": "Fagioli",
+      "date": "2026-11-22",
+      "time": "17:00",
+      "venue": "Teatro Comunale di Aldeno",
+      "location": "Aldeno",
+      "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754657",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754657"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3478,6 +3590,22 @@
       "is_past": false
     },
     {
+      "id": "0df20a87e0f0",
+      "title": "It’s a match!",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754663",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754663"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9527b8b44917",
       "title": "Come narala a finir?",
       "date": "2026-11-28",
@@ -3590,6 +3718,22 @@
       "is_past": false
     },
     {
+      "id": "d62d3ca80f14",
+      "title": "Quattro bombe in tasca",
+      "date": "2026-11-28",
+      "time": "20:45",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Intero € 10, ridotto € 5 / Info e prenotazioni n. 370.1245353",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070059-665.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/quattro-bombe-in-tasca_128989.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/quattro-bombe-in-tasca_128989.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "310e58dd0078",
       "title": "L’è pròpri …Poarèt",
       "date": "2026-11-28",
@@ -3681,6 +3825,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753950",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753950"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ef6b9eb66642",
+      "title": "Cavoli a merenda",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "venue": "",
+      "location": "Garniga Terme",
+      "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754658",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754658"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3878,6 +4038,22 @@
       "is_past": false
     },
     {
+      "id": "2968dab7b20a",
+      "title": "Complessità – Il gioco della vita",
+      "date": "2026-12-04",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "Teatro Fiemme | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754679",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754679"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f64d8a086bc3",
       "title": "A chi tocca mia moglie?",
       "date": "2026-12-05",
@@ -3942,6 +4118,22 @@
       "is_past": false
     },
     {
+      "id": "3fbb4f5b60eb",
+      "title": "L’invidia dell’orso – Commedia (con musica) transanimalista e transalpina",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754664",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754664"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e25f011fd297",
       "title": "B.R.A.T.S. Brave Ragazze Ancora Tutte Single",
       "date": "2026-12-05",
@@ -3985,6 +4177,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754419",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754419"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b4f01c3a82b3",
+      "title": "Tina Merlin – La donna del Vajont",
+      "date": "2026-12-05",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro Ala | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754640",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754640"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4145,6 +4353,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753019",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753019"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2248fd7c0847",
+      "title": "Vita e avventure di Babbo Natale",
+      "date": "2026-12-12",
+      "time": "16:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754665",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754665"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4311,6 +4535,22 @@
       "is_past": false
     },
     {
+      "id": "f41d102f6e3a",
+      "title": "Jazzole. Storie e coccole in chiave jazz",
+      "date": "2026-12-13",
+      "time": "18:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2026/2027 | ore 18.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754641",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754641"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2fe3a2d7e8f1",
       "title": "Le Nozze di Figaro - Wolfgang Amadeus Mozart",
       "date": "2026-12-13",
@@ -4356,6 +4596,22 @@
         "https://www.teatrodipergine.it/cinema/3000-yellow-letters-cineforum"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "21e496f3555a",
+      "title": "Una cena d’addio",
+      "date": "2026-12-15",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Predazzo",
+      "location": "Predazzo",
+      "description": "Teatro Fiemme | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754680",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754680"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4500,6 +4756,22 @@
         "https://www.teatrodipergine.it/danza/2964-forma-mentis-holy-shift-danza"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "5cc7d37cb96a",
+      "title": "Arrivato a questo punto",
+      "date": "2026-12-18",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754642",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754642"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -4820,6 +5092,22 @@
         "https://www.teatrodipergine.it/musica/3007-concerto-di-capodanno"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "2ddb9ddc5a1e",
+      "title": "Black Soul Gospel Choir",
+      "date": "2027-01-05",
+      "time": "20:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754666",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754666"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -5303,6 +5591,22 @@
       "is_past": false
     },
     {
+      "id": "0f4ed56f62ca",
+      "title": "Pam! Parole a matita",
+      "date": "2027-01-17",
+      "time": "16:30",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754667",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754667"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "344b0a103e37",
       "title": "Come narala a finir?",
       "date": "2027-01-17",
@@ -5330,6 +5634,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754330",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754330"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "76f4adb326cd",
+      "title": "Canzoni, la vita",
+      "date": "2027-01-17",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754643",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754643"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -5650,6 +5970,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752718",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752718"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3fabe20cd107",
+      "title": "Giovinette – Le calciatrici che sfidarono il Duce",
+      "date": "2027-01-24",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754644",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754644"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
