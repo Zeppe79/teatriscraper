@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T21:17:53.490420+00:00",
-  "count": 357,
+  "last_updated": "2026-10-27T10:10:05.918481+00:00",
+  "count": 358,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,22 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "68d3ffc20af9",
-      "title": "Las Aventuras de Juan Quin Quin - La Rampa",
-      "date": "2026-10-26",
-      "time": "20:00",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/cinema/2026/las-aventuras-de-juan-quin-quin-la-rampa.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/las-aventuras-de-juan-quin-quin-la-rampa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "6bb6120b30cc",
       "title": "Gaza vive",
       "date": "2026-10-27",
@@ -1295,6 +1279,22 @@
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/paolo-nori-racconta-il-maestro-e-margherita.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/paolo-nori-racconta-il-maestro-e-margherita.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "631da0b33c7d",
+      "title": "Foyer della Prosa - Madre Courage",
+      "date": "2026-10-30",
+      "time": "17:30",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino /  Al Foyer sarà presente un interprete LIS.. Per maggiori informazioni scopri il progetto Accessibilità del Centro Santa Chiara",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069787-049595.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-madre-courage.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-madre-courage.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -5650,6 +5650,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752718",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752718"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "68ae73cdd499",
+      "title": "Network – Quinto potere",
+      "date": "2027-01-25",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "Teatro di Rovereto | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753811",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753811"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
