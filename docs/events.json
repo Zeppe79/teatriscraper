@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T11:14:26.078904+00:00",
+  "last_updated": "2026-10-29T21:30:54.391635+00:00",
   "count": 384,
   "events": [
     {
@@ -1268,22 +1268,6 @@
       "is_past": false
     },
     {
-      "id": "205135958857",
-      "title": "Sia Laudato San Francesco",
-      "date": "2026-10-30",
-      "time": "20:30",
-      "venue": "Castello del Buonconsiglio, Via B. Clesio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070089-laudato.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "50dbb3d5bb8d",
       "title": "Gaza vive",
       "date": "2026-10-30",
@@ -1461,22 +1445,6 @@
       "is_past": false
     },
     {
-      "id": "2041dfe22cef",
-      "title": "Basement - Lucretio",
-      "date": "2026-10-31",
-      "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada 82, Trento",
-      "location": "Trento",
-      "description": "10 euro i primi 100 biglietti / 15 euro fino al giorno prima / 20 euro Door Ticket",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069481-lucretio-basement.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/basement-lucretio.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/basement-lucretio.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "99d659d91f8e",
       "title": "Pinocchio",
       "date": "2026-11-01",
@@ -1522,22 +1490,6 @@
         "https://www.teatrodipergine.it/cinema/3005-l-isola-dei-ricordi"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "7e1033af8a33",
-      "title": "Mario Biondi",
-      "date": "2026-11-01",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Ascoltando per la prima volta in radio la hit This is what you are nel 2006, probabilmente vi sarete immaginati un robusto cantante afro-americano di mezza età. Invece Mario Biondi, nativo di Catania (città che da sempre ha un rapporto speciale con la musica italiana), aveva allora trentacinque anni e la pelle bianca. A trarre in inganno è la sua straordinaria voce calda e pastosa, affinata in tanti anni di live, che ha reso inevitabili i paragoni con Teddy Pendergrass, Isaac Hayes e Barry White",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1682,6 +1634,22 @@
         "https://www.teatrodipergine.it/danza/2945-figliasanta-prestagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "ba121a48058e",
+      "title": "Ballo liscio con musica dal vivo",
+      "date": "2026-11-05",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070114-798987.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_129008.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_129008.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2002,6 +1970,22 @@
         "https://www.cultura.trentino.it/content/view/full/753468"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c259c291c897",
+      "title": "Wildwood: I Segreti del Bosco Proibito",
+      "date": "2026-11-08",
+      "time": "17:00",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "informazioni, costi e calendario completo in www.artelaghi.it e www.trentinospettacoli.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069796-30929.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/wildwood-i-segreti-del-bosco-proibito_128968_129001_129011.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/wildwood-i-segreti-del-bosco-proibito_128968_129001_129011.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2818,6 +2802,22 @@
         "https://www.cultura.trentino.it/content/view/full/752862"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d7995de0d810",
+      "title": "Ballo liscio con musica dal vivo",
+      "date": "2026-11-19",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "Quota di partecipazione € 8 / Tesseramento ArteLaghi obbligatorio € 5 annuali",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070114-798987.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_129009.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_129009.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
