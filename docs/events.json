@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T21:29:36.036361+00:00",
-  "count": 382,
+  "last_updated": "2026-10-29T11:14:26.078904+00:00",
+  "count": 384,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1137,7 +1137,7 @@
         "https://www.cultura.trentino.it/content/view/full/752844"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "41bfc04c5fec",
@@ -6050,6 +6050,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752715",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752715"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4da54ae1ee79",
+      "title": "Haensel e Gretel | Infanzia in guerra",
+      "date": "2027-01-27",
+      "time": "10:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752953",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752953"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f1165ac468c7",
+      "title": "Dalser. La Mussolina",
+      "date": "2027-01-27",
+      "time": "18:30",
+      "venue": "Auditorium Comunale di Lavis",
+      "location": "Lavis",
+      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 18.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754356",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754356"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
