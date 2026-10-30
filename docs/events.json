@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T21:30:54.391635+00:00",
-  "count": 384,
+  "last_updated": "2026-10-30T11:08:47.445560+00:00",
+  "count": 383,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,22 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "d3c8093f5639",
-      "title": "Il sogno",
-      "date": "2026-10-28",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione 2026 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/ilsogno2/28137331-1-ita-IT/ilsogno2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752844",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752844"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "41bfc04c5fec",
       "title": "Madre Courage e i suoi figli",
       "date": "2026-10-29",
@@ -1153,23 +1137,7 @@
         "https://www.cultura.trentino.it/content/view/full/747763"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ec818123dcd1",
-      "title": "I figli della scimmia",
-      "date": "2026-10-29",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "informazioni, costi e calendario completo in www.artelaghi.it e www.trentinospettacoli.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068792-40495.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/i-figli-della-scimmia_128306.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/i-figli-della-scimmia_128306.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "ac62b51c7913",
@@ -1185,55 +1153,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/madre-courage-e-i-suoi-figli-con-lunetta-savino.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5131405ec3de",
-      "title": "Best of IV stagione Trento e lode",
-      "date": "2026-10-29",
-      "time": "20:30",
-      "venue": "Teatro Sanbàpolis, via della Malpensada 82, Trento",
-      "location": "Trento",
-      "description": "ingresso gratuito",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069783-039434.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/best-of-iv-stagione-trento-e-lode_128607.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/best-of-iv-stagione-trento-e-lode_128607.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5c355c41e402",
-      "title": "Paolo Nori racconta Il maestro e Margherita",
-      "date": "2026-10-29",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00\nRISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750475",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750475"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "190019a54eb4",
-      "title": "Paolo Nori racconta Il maestro e Margherita",
-      "date": "2026-10-29",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Sympathy for the Devil «Quando, nel 1967, Einaudi pubblica un romanzo di uno scrittore russo morto nel 1940, sconosciuto da noi, Michail Bulgakov, Il maestro e Margherita, Eugenio Montale scrive che siamo di fronte a “un miracolo che ognuno deve salutare con commozione”. L’anno successivo, nel 1968, i Rolling Stones incidono una canzone, Sympathy for the Devil, che Mick Jagger ha scritto dopo aver letto Il maestro e Margherita. Questo diavolo così simpatico, che nel romanzo si chiama Woland, qu",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069495-o444.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/paolo-nori-racconta-il-maestro-e-margherita.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/paolo-nori-racconta-il-maestro-e-margherita.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "631da0b33c7d",
@@ -1265,6 +1185,22 @@
         "https://www.cultura.trentino.it/content/view/full/752702"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "205135958857",
+      "title": "Sia Laudato San Francesco",
+      "date": "2026-10-30",
+      "time": "20:30",
+      "venue": "Castello del Buonconsiglio, Via B. Clesio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070089-laudato.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1445,6 +1381,22 @@
       "is_past": false
     },
     {
+      "id": "2041dfe22cef",
+      "title": "Basement - Lucretio",
+      "date": "2026-10-31",
+      "time": "21:00",
+      "venue": "Teatro SanbàPolis, Via della Malpensada 82, Trento",
+      "location": "Trento",
+      "description": "10 euro i primi 100 biglietti / 15 euro fino al giorno prima / 20 euro Door Ticket",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069481-lucretio-basement.jpg",
+      "source_url": "https://www.crushsite.it/it/musica/2026/basement-lucretio.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/basement-lucretio.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "99d659d91f8e",
       "title": "Pinocchio",
       "date": "2026-11-01",
@@ -1490,6 +1442,22 @@
         "https://www.teatrodipergine.it/cinema/3005-l-isola-dei-ricordi"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "7e1033af8a33",
+      "title": "Mario Biondi",
+      "date": "2026-11-01",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Ascoltando per la prima volta in radio la hit This is what you are nel 2006, probabilmente vi sarete immaginati un robusto cantante afro-americano di mezza età. Invece Mario Biondi, nativo di Catania (città che da sempre ha un rapporto speciale con la musica italiana), aveva allora trentacinque anni e la pelle bianca. A trarre in inganno è la sua straordinaria voce calda e pastosa, affinata in tanti anni di live, che ha reso inevitabili i paragoni con Teddy Pendergrass, Isaac Hayes e Barry White",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1548,7 +1516,7 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600-1/28089281-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751406",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751406"
@@ -1564,7 +1532,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 10.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/4-novembre/28140098-1-ita-IT/4-novembre_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752945",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752945"
@@ -6082,6 +6050,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754356",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754356"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "272fea800ce3",
+      "title": "Action Briquette Z | Kenji Shinohe",
+      "date": "2027-01-28",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751412",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751412"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
