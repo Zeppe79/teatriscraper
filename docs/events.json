@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T21:18:14.051817+00:00",
+  "last_updated": "2026-10-31T10:42:06.628208+00:00",
   "count": 383,
   "events": [
     {
@@ -1156,70 +1156,6 @@
       "is_past": true
     },
     {
-      "id": "631da0b33c7d",
-      "title": "Foyer della Prosa - Madre Courage",
-      "date": "2026-10-30",
-      "time": "17:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero / Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino /  Al Foyer sarà presente un interprete LIS.. Per maggiori informazioni scopri il progetto Accessibilità del Centro Santa Chiara",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069787-049595.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-madre-courage.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-madre-courage.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "6c22eea74c75",
-      "title": "Quasi quasi ci ripenso",
-      "date": "2026-10-30",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano - Stagione 2026/2027 | Stagione comica   | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-13/28131976-1-ita-IT/Vil26_27_Post_1080x13502-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752702",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752702"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "205135958857",
-      "title": "Sia Laudato San Francesco",
-      "date": "2026-10-30",
-      "time": "20:30",
-      "venue": "Castello del Buonconsiglio, Via B. Clesio, Trento",
-      "location": "Trento",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070089-laudato.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/sia-laudato-san-francesco.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "50dbb3d5bb8d",
-      "title": "Gaza vive",
-      "date": "2026-10-30",
-      "time": "21:00",
-      "venue": "",
-      "location": "Caderzone",
-      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754309",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754309"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "c698d96970be",
       "title": "Antonio e Scipione Salvotti",
       "date": "2026-10-31",
@@ -1453,9 +1389,41 @@
       "location": "Trento",
       "description": "Ascoltando per la prima volta in radio la hit This is what you are nel 2006, probabilmente vi sarete immaginati un robusto cantante afro-americano di mezza età. Invece Mario Biondi, nativo di Catania (città che da sempre ha un rapporto speciale con la musica italiana), aveva allora trentacinque anni e la pelle bianca. A trarre in inganno è la sua straordinaria voce calda e pastosa, affinata in tanti anni di live, che ha reso inevitabili i paragoni con Teddy Pendergrass, Isaac Hayes e Barry White",
       "image_url": null,
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html",
+      "source_url": "https://www.crushsite.it/it/musica/2026/mario-biondi.html",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mario-biondi.html"
+        "https://www.crushsite.it/it/musica/2026/mario-biondi.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "fc867a668465",
+      "title": "Se permuta - La Rampa",
+      "date": "2026-11-02",
+      "time": "20:00",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/cinema/2026/se-permuta-la-rampa.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/se-permuta-la-rampa.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "79d5eb120d8c",
+      "title": "Epiphanīa - Compagnia Abbondanza/Bertoni",
+      "date": "2026-11-03",
+      "time": "20:00",
+      "venue": "Teatro Cristallo, Via Dalmazia, Bolzano",
+      "location": "Bolzano",
+      "description": "Di Michele Abbondanza e Antonella Bertoni / ideazione, scena e costumi Antonella Bertoni / con Sara Cavalieri, Valentina Dal Mas, Ludovica Messina Poerio / musiche originali Sergio Beercock / disegno luci Alessio Guerra / direzione tecnica Claudio Modugno / assistente alla creazione Eleonora Chiocchini / sartoria Manuela Gober / organizzazione, strategia e sviluppo Dalia Macii / amministrazione e produzione esecutiva Francesca Leonelli / comunicazione Erika Parise / ufficio stampa Marilù Ursi / ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069156-0493843443-abbondanzabertoni.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/epiphana-compagnia-abbondanzabertoni.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/epiphana-compagnia-abbondanzabertoni.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
@@ -1564,7 +1532,7 @@
       "venue": "",
       "location": "Borgo Chiese",
       "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754314",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754314"
@@ -1628,7 +1596,7 @@
       "venue": "Teatro del Centro Scolastico di Borgo",
       "location": "Borgo Valsugana",
       "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753951",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753951"
@@ -6066,6 +6034,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/751412",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751412"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "5aeb146c47d2",
+      "title": "Come fu che la iena",
+      "date": "2027-01-29",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753659",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753659"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "cfc6eff286a0",
+      "title": "L’ombra perduta di Peter Schlemihl",
+      "date": "2027-01-29",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Stagione professionale | Teatro di Meano | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753390",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753390"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
