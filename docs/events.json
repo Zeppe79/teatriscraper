@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T20:23:08.504156+00:00",
-  "count": 383,
+  "last_updated": "2026-11-01T11:37:40.221892+00:00",
+  "count": 378,
   "events": [
     {
       "id": "06d96a048e56",
@@ -788,38 +788,6 @@
       "is_past": true
     },
     {
-      "id": "1bbd189333d6",
-      "title": "Parigi, amore e can can",
-      "date": "2026-10-02",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "ef545beb8dc2",
-      "title": "Parigi, amore e can can",
-      "date": "2026-10-03",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/parigiamorecancan1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2936-parigi-amore-e-can-can"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "047d6a7a98b2",
       "title": "Non passare per il bosco",
       "date": "2026-10-06",
@@ -833,134 +801,6 @@
         "https://www.teatrodivillazzano.it/event/non-passare-per-il-bosco/"
       ],
       "source_name": "teatrodivillazzano.it",
-      "is_past": true
-    },
-    {
-      "id": "ad582c0db37c",
-      "title": "Presentazione Cineforum e NAZRA Palestine Short Film Festival 2026",
-      "date": "2026-10-06",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cineforum Effetto Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/nazra.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/2991-presentazione-cineforum-e-nazra-palestine-short-film-festival",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/2991-presentazione-cineforum-e-nazra-palestine-short-film-festival"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "540b64f1e49d",
-      "title": "Complessità. Il Gioco della Vita",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/complessita1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2937-complessita-il-gioco-della-vita-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2937-complessita-il-gioco-della-vita-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "579f9ffafec9",
-      "title": "La sat la penultima?",
-      "date": "2026-10-08",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/lasatlapenultima1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2938-la-sat-la-penultima-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2938-la-sat-la-penultima-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "1e7ba607d058",
-      "title": "Concerto del quartetto chitarristico Silenzio Massimale",
-      "date": "2026-10-09",
-      "time": "18:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Foyer del Teatro Comunale di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/percorsi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2935-concerto-silenzio-massimale",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2935-concerto-silenzio-massimale"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "de7399307447",
-      "title": "Rovereto Wind Orchestra",
-      "date": "2026-10-10",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Altri eventi - Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/roveretowindorchestra1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2982-rovereto-wind-orchestra",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2982-rovereto-wind-orchestra"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "4162886dcb7b",
-      "title": "Safar. Viaggio mediterraneo - Ensemble Turchese",
-      "date": "2026-10-11",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/ensembleturchese1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/119-archivio/archivio-2026-2027/musica-2026-2027/2939-ensemble-turchese-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/119-archivio/archivio-2026-2027/musica-2026-2027/2939-ensemble-turchese-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "74d54f31a566",
-      "title": "Controvento. Teatro e scuola in dialogo - terza edizione",
-      "date": "2026-10-12",
-      "time": null,
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Lunedì 12 ottobre 2026 - dalle 16.00 alle 20.00",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/controvento1.png",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2986-controvento-terza-edizione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2986-controvento-terza-edizione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "3ff123dcc4f7",
-      "title": "Spegni lo schermo, accendi l’infanzia",
-      "date": "2026-10-13",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Altri eventi",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/spegniloschermo2.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2989-spegni-lo-schermo-accendi-l-infanzia",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/2989-spegni-lo-schermo-accendi-l-infanzia"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": true
     },
     {
@@ -1060,22 +900,6 @@
       "is_past": true
     },
     {
-      "id": "512453899a12",
-      "title": "La società dei ribelli",
-      "date": "2026-10-15",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Prestagione",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/lasocietadeiribelli1.jpg",
-      "source_url": "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2940-la-societa-dei-ribelli-prestagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/component/content/article/117-archivio/archivio-2026-2027/teatro-2026-2027/2940-la-societa-dei-ribelli-prestagione"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
       "id": "1a3610e2f19c",
       "title": "Cineforum 2026/27",
       "date": "2026-10-19",
@@ -1154,183 +978,6 @@
       ],
       "source_name": "crushsite.it",
       "is_past": true
-    },
-    {
-      "id": "c698d96970be",
-      "title": "Antonio e Scipione Salvotti",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Altri eventi  2026-2027 | Teatro comunale di Pergine | ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/salvotti1/28160628-1-ita-IT/salvotti1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753591",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753591",
-        "https://www.cultura.trentino.it/content/view/full/751570"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0ebb53c5e89d",
-      "title": "Le cognate",
-      "date": "2026-10-31",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Stagione professionale | Teatro di Meano | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/le-cognate/28153209-1-ita-IT/Le-cognate_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753355",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753355"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "171ee2977544",
-      "title": "Otto volte mistero",
-      "date": "2026-10-31",
-      "time": "20:30",
-      "venue": "Cinema Teatro Paradiso di Folgaria",
-      "location": "Folgaria",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753398",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753398"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6ad7a4bcd4bc",
-      "title": "La bugiarda",
-      "date": "2026-10-31",
-      "time": "20:30",
-      "venue": "Teatro di Cognola",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753455",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753455"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "851ad22fba73",
-      "title": "Chat a due piazze",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Sala della Comunità di Valle Alto Garda e Ledro",
-      "location": "Riva del Garda",
-      "description": "Ottobre a teatro 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752541",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752541"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2282839f68df",
-      "title": "Padri per un terzo – Quell’estate sull’isola",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
-      "location": "Civezzano",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753306",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753306"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2d7f4f7879b1",
-      "title": "Meno male che oggi è venerdì",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "",
-      "location": "Madruzzo",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753458",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753458"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "447680fd2df3",
-      "title": "Quattro bombe in tasca",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Cinema Teatro di Cembra Lisignago",
-      "location": "Cembra Lisignago",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753457",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753457"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cc601aafee9e",
-      "title": "L'equivoco",
-      "date": "2026-10-31",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/l-equivoco-pagina/28169848-1-ita-IT/L-Equivoco-PAGINA_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753830",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753830"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c8eec51b35d2",
-      "title": "Stuf",
-      "date": "2026-10-31",
-      "time": "21:00",
-      "venue": "Cinema Teatro San Pietro",
-      "location": "Mezzolombardo",
-      "description": "Teatro di Mezzolombardo | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753817",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753817"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2041dfe22cef",
-      "title": "Basement - Lucretio",
-      "date": "2026-10-31",
-      "time": "21:00",
-      "venue": "Teatro SanbàPolis, Via della Malpensada 82, Trento",
-      "location": "Trento",
-      "description": "10 euro i primi 100 biglietti / 15 euro fino al giorno prima / 20 euro Door Ticket",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069481-lucretio-basement.jpg",
-      "source_url": "https://www.crushsite.it/it/musica/2026/basement-lucretio.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/basement-lucretio.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "99d659d91f8e",
@@ -1477,6 +1124,22 @@
       "is_past": false
     },
     {
+      "id": "b307624a9cad",
+      "title": "Kontinental '25",
+      "date": "2026-11-03",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069190-40959.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/kontinental-25.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/kontinental-25.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4994dccf0227",
       "title": "Ero un bullo | Fondazione Aida",
       "date": "2026-11-04",
@@ -1548,7 +1211,7 @@
       "venue": "",
       "location": "Rovereto",
       "description": "dalle 8.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/02_post-generale-ilaria-cattoi/28190548-1-ita-IT/02_POST-GENERALE-Ilaria-Cattoi_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754461",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754461"
@@ -1612,7 +1275,7 @@
       "venue": "Auditorium del Conservatorio di Riva del Garda",
       "location": "Riva del Garda",
       "description": "Teatro di Riva del Garda Nago - Torbole | Stagione 2026/2027 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754101",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754101"
@@ -1628,7 +1291,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "La Terza stagione | Teatro di Meano | ore 14.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/non-ci-resta-che-ridere-nicola-sordo/28155015-1-ita-IT/non-ci-resta-che-ridere-nicola-sordo_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753402",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753402"
@@ -1644,7 +1307,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/6-novembre-2026-fango-1/28127709-1-ita-IT/6-novembre-2026-FANGO-1_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752588",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752588"
@@ -1676,7 +1339,7 @@
       "venue": "",
       "location": "Garniga Terme",
       "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754651",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754651"
@@ -1692,7 +1355,7 @@
       "venue": "",
       "location": "Altopiano della Vigolana",
       "description": "ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753342",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753342"
@@ -1724,7 +1387,7 @@
       "venue": "Teatro Sanbàpolis",
       "location": "Trento",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753456",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753456"
@@ -1740,7 +1403,7 @@
       "venue": "Teatro Comunale di Bedollo",
       "location": "Bedollo",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753381",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753381"
@@ -1756,7 +1419,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753451",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753451"
@@ -1804,7 +1467,7 @@
       "venue": "",
       "location": "Telve",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753466",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753466"
@@ -1820,7 +1483,7 @@
       "venue": "",
       "location": "Revò",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753463",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753463"
@@ -6071,6 +5734,54 @@
       "is_past": false
     },
     {
+      "id": "da8228f14706",
+      "title": "Come fu che la iena",
+      "date": "2027-01-30",
+      "time": "16:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754393",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754393"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bf985fc922d0",
+      "title": "Kohlhaas",
+      "date": "2027-01-30",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752888",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752888"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "16e127c2bf97",
+      "title": "Un drammaturgo sull’orlo di una crisi di nervi",
+      "date": "2027-01-30",
+      "time": "20:30",
+      "venue": "Teatro di Cognola",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754437",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754437"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9e3ff58ec08e",
       "title": "Kohlhaas",
       "date": "2027-01-30",
@@ -6082,6 +5793,119 @@
       "source_url": "https://www.teatrodipergine.it/teatro/2958-kohlhaas-fuoristagione",
       "source_urls": [
         "https://www.teatrodipergine.it/teatro/2958-kohlhaas-fuoristagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "3f38928a1f87",
+      "title": "Niente panico!",
+      "date": "2027-01-30",
+      "time": "20:45",
+      "venue": "",
+      "location": "San Lorenzo Dorsino",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753313",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753313",
+        "https://www.cultura.trentino.it/content/view/full/754438"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "139dee31b95b",
+      "title": "Coppie scoppiate",
+      "date": "2027-01-30",
+      "time": "20:45",
+      "venue": "Teatro Gigi Cona di Gardolo",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754440",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754440"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "194d80e26a0c",
+      "title": "Ovo, galina e cul caldo",
+      "date": "2027-01-30",
+      "time": "20:45",
+      "venue": "Cinema Teatro di Cembra Lisignago",
+      "location": "Cembra Lisignago",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754439",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754439"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "079b039de67b",
+      "title": "Gioco da ragazzi",
+      "date": "2027-01-30",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754645",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754645"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ed19b2c4ae47",
+      "title": "Il santo bevitore",
+      "date": "2027-02-03",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione | sul Palco del Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/ilsantobevitore1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2959-il-santo-bevitore-fuoristagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2959-il-santo-bevitore-fuoristagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "d9ea3d53487e",
+      "title": "Il santo bevitore",
+      "date": "2027-02-04",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Fuoristagione | sul Palco del Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/ilsantobevitore1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2959-il-santo-bevitore-fuoristagione",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2959-il-santo-bevitore-fuoristagione"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "62fe9bd5ac63",
+      "title": "Misurare il salto delle rane",
+      "date": "2027-02-11",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/misurareilsaltodellerane1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2952-misurare-il-salto-delle-rane",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2952-misurare-il-salto-delle-rane"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -6100,6 +5924,102 @@
         "https://www.crushsite.it/it/musica/2027/aoife-ni-bhriain-birkin-tree-paesaggi-sonori.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "65ec1fa9badd",
+      "title": "C'era due volte un cuore",
+      "date": "2027-02-14",
+      "time": "16:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/cera2volte1cuore1.jpg",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2971-c-era-due-volte-un-cuore",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2971-c-era-due-volte-un-cuore"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1a005b1d8e8a",
+      "title": "White out. La conquista dell'inutile",
+      "date": "2027-02-17",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Danza",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Danza/whiteout1.jpg",
+      "source_url": "https://www.teatrodipergine.it/danza/2966-white-out-danza",
+      "source_urls": [
+        "https://www.teatrodipergine.it/danza/2966-white-out-danza"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "7d50d6839870",
+      "title": "Banda Sociale di Roncone",
+      "date": "2027-02-20",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Altri eventi - Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/bandaroncone1.jpeg",
+      "source_url": "https://www.teatrodipergine.it/eventi/2984-banda-sociale-di-roncone",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/2984-banda-sociale-di-roncone"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "ce2964354f8e",
+      "title": "Beata oscenità",
+      "date": "2027-02-24",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Stagione Teatrale",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/beataoscenita1.jpg",
+      "source_url": "https://www.teatrodipergine.it/teatro/2953-beata-oscenita",
+      "source_urls": [
+        "https://www.teatrodipergine.it/teatro/2953-beata-oscenita"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "a34c8d775ea5",
+      "title": "Paesaggio argentino",
+      "date": "2027-02-25",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Musica",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/paesaggioargentino1.jpg",
+      "source_url": "https://www.teatrodipergine.it/musica/2980-paesaggio-argentino",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/2980-paesaggio-argentino"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "3a64ff3011b1",
+      "title": "La bottega dell'aria",
+      "date": "2027-02-28",
+      "time": "11:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro Ragazzi",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/labottegadelcuore1.jpg",
+      "source_url": "https://www.teatrodipergine.it/ragazzi/2972-la-bottega-dell-aria",
+      "source_urls": [
+        "https://www.teatrodipergine.it/ragazzi/2972-la-bottega-dell-aria"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
