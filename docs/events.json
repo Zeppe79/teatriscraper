@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T13:00:55.757776+00:00",
+  "last_updated": "2026-11-02T23:46:51.575057+00:00",
   "count": 377,
   "events": [
     {
@@ -964,22 +964,6 @@
       "is_past": true
     },
     {
-      "id": "fc867a668465",
-      "title": "Se permuta - La Rampa",
-      "date": "2026-11-02",
-      "time": "20:00",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/cinema/2026/se-permuta-la-rampa.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/se-permuta-la-rampa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "79d5eb120d8c",
       "title": "Epiphanīa - Compagnia Abbondanza/Bertoni",
       "date": "2026-11-03",
@@ -1199,6 +1183,22 @@
       "source_url": "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_129008.html",
       "source_urls": [
         "https://www.crushsite.it/it/incontri/2026/ballo-liscio-con-musica-dal-vivo_129008.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "43e9fa01f236",
+      "title": "Ludovica M. Poerio & Sergio Beercock - Figliasanta",
+      "date": "2026-11-05",
+      "time": "20:30",
+      "venue": "Teatro Comunale, P.zza Garibaldi 5/g, Pergine Valsugana (Tn)",
+      "location": "Pergine Valsugana",
+      "description": "Di e con Ludovica M. Poerio & Sergio Beercock / produzione Compagnia Abbondanza/Bertoni / con il sostegno di Campsirago Residenza, Piccolo Teatro dei Biscottari Circuito Danza. Figliasanta è un progetto di teatro-danza che esplora la condizione dell'essere figlia e, al tempo stesso, madre della propria madre. Al centro della ricerca vi è la generatività come processo di trasformazione, rinascita e trasmissione. Lo spettacolo attraversa il legame tra genitori e figli come spazio in cui memoria, c",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069834-034943.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/ludovica-m-poerio-sergio-beercock-figliasanta.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/ludovica-m-poerio-sergio-beercock-figliasanta.html"
       ],
       "source_name": "crushsite.it",
       "is_past": false
