@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T20:55:59.445935+00:00",
-  "count": 378,
+  "last_updated": "2026-11-02T13:00:55.757776+00:00",
+  "count": 377,
   "events": [
     {
       "id": "06d96a048e56",
@@ -948,70 +948,6 @@
       "is_past": true
     },
     {
-      "id": "41bfc04c5fec",
-      "title": "Madre Courage e i suoi figli",
-      "date": "2026-10-29",
-      "time": "20:30",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 29 e il 30 ottobre alle ore 20.30\nil 31 ottobre alle ore 18.00\nil 1. novembre alle ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-interno-1-cbasso-1/27975999-1-ita-IT/Teatro-Sociale-di-Trento-interno-1-cbasso-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/747763",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/747763"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
-      "id": "ac62b51c7913",
-      "title": "Madre Courage e i suoi figli con Lunetta Savino",
-      "date": "2026-10-29",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Tutte le informazioni sul rinnovo o acquisto Abbonamento 26.27 cliccando qui",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069158-040495.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/madre-courage-e-i-suoi-figli-con-lunetta-savino.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/madre-courage-e-i-suoi-figli-con-lunetta-savino.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": true
-    },
-    {
-      "id": "99d659d91f8e",
-      "title": "Pinocchio",
-      "date": "2026-11-01",
-      "time": "15:30",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pinocchio-22/28187041-1-ita-IT/pinocchio-2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754367",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754367"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "99700123fb5c",
-      "title": "Festa di chiusura al MAG - Museo Alto Garda",
-      "date": "2026-11-01",
-      "time": "16:00",
-      "venue": "MAG Museo Alto Garda",
-      "location": "Riva del Garda",
-      "description": "ore 16.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mag-panoramica-cbasso-4/28076528-1-ita-IT/Mag-panoramica-cbasso-4_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754655",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754655"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "802d83999b9f",
       "title": "L'isola dei ricordi",
       "date": "2026-11-01",
@@ -1020,28 +956,12 @@
       "location": "Pergine Valsugana",
       "description": "Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/isoladeiricordi1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/3005-l-isola-dei-ricordi",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/3005-l-isola-dei-ricordi",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/3005-l-isola-dei-ricordi"
+        "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/3005-l-isola-dei-ricordi"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "7e1033af8a33",
-      "title": "Mario Biondi",
-      "date": "2026-11-01",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Ascoltando per la prima volta in radio la hit This is what you are nel 2006, probabilmente vi sarete immaginati un robusto cantante afro-americano di mezza età. Invece Mario Biondi, nativo di Catania (città che da sempre ha un rapporto speciale con la musica italiana), aveva allora trentacinque anni e la pelle bianca. A trarre in inganno è la sua straordinaria voce calda e pastosa, affinata in tanti anni di live, che ha reso inevitabili i paragoni con Teddy Pendergrass, Isaac Hayes e Barry White",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026/mario-biondi.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/mario-biondi.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "fc867a668465",
@@ -1121,6 +1041,22 @@
         "https://www.teatrodipergine.it/cinema/2994-silent-friend-cineforum"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "0044628ec141",
+      "title": "Veronica Pivetti, Manuela Mandracchia, Lucia Vasini - Breaking Brecht",
+      "date": "2026-11-03",
+      "time": "20:30",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "BREAKING BRECHT - Sing'n'Song Cabaret / Di Giovanna Gra / Con Veronica Pivetti, Manuela Mandracchia e Lucia Vasini / Direzione musicale Alessandro Nidi / Disegno luci Eva Bruno / Regia di Giovanna Gra / Produzione International Music and Arts, Pigra Srl Stagione AudiPop BREAKING BRECHT - Sing’n’Song Cabaret è uno spettacolo epico-satirico che racconta le battaglie artistiche e le contraddizioni del grande poeta e drammaturgo Bertolt Brecht, e lo fa con un linguaggio contemporaneo che vuol divert",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069161-049834-audipop.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/veronica-pivetti-manuela-mandracchia-lucia-vasini-breaking-brecht.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/veronica-pivetti-manuela-mandracchia-lucia-vasini-breaking-brecht.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1220,6 +1156,22 @@
       "is_past": false
     },
     {
+      "id": "49415438ed00",
+      "title": "Dara Friedman - Sky Woman Women",
+      "date": "2026-11-05",
+      "time": "18:00",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Ingresso libero / A cura di Silvana Fiorese e Martina Melilli / Tutti i film sono proiettati in lingua originale con sottotitoli in italiano, alla presenza di autrici e autori. Dal giorno seguente la presentazione e fino all’appuntamento del mese successivo, le opere saranno proiettate in loop in una sala del Mart",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070013-039443.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/dara-friedman-sky-woman-women.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/dara-friedman-sky-woman-women.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "92b70e17c7d8",
       "title": "Figliasanta",
       "date": "2026-11-05",
@@ -1300,6 +1252,22 @@
       "is_past": false
     },
     {
+      "id": "bcb281c7f362",
+      "title": "Le canzoni che siamo",
+      "date": "2026-11-06",
+      "time": "18:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Generi Misti",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/lecanzonichesiamo.png",
+      "source_url": "https://www.teatrodipergine.it/musica/3017-le-canzoni-che-siamo-generi-misti",
+      "source_urls": [
+        "https://www.teatrodipergine.it/musica/3017-le-canzoni-che-siamo-generi-misti"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "e9b67d730464",
       "title": "Fango | Storia di un'alluvione",
       "date": "2026-11-06",
@@ -1371,7 +1339,7 @@
       "venue": "",
       "location": "Palù del Fersina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/7-novembre-2026/28184031-1-ita-IT/7-novembre-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754282",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754282"
@@ -1499,7 +1467,7 @@
       "venue": "Teatro San Marco",
       "location": "Trento",
       "description": "Palcoscenico Trentino 2026 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/l-importanza-de-ciamarse-onesto-pagina/28169855-1-ita-IT/L-importanza-de-ciamarse-Onesto-PAGINA_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752653",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752653"
@@ -1531,7 +1499,7 @@
       "venue": "Cinema Teatro Comunale di Tione",
       "location": "Tione di Trento",
       "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754315",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754315"
@@ -2321,22 +2289,6 @@
         "https://www.cultura.trentino.it/content/view/full/754318"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "12dd524363c7",
-      "title": "Laborintus - Signal to Noise Festival",
-      "date": "2026-11-15",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/laborintus1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2975-laborintus-signal-to-noise-festival",
-      "source_urls": [
-        "https://www.teatrodipergine.it/musica/2975-laborintus-signal-to-noise-festival"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5858,6 +5810,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754645",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754645"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d866bb62cfcd",
+      "title": "Come narala a finir?",
+      "date": "2027-01-31",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753391",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753391"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bb858f9943f8",
+      "title": "Rita",
+      "date": "2027-01-31",
+      "time": "18:00",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Degusta Teatro | ore 18.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753021",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753021"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
