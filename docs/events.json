@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T23:46:51.575057+00:00",
-  "count": 377,
+  "last_updated": "2026-11-03T12:33:59.847422+00:00",
+  "count": 378,
   "events": [
     {
       "id": "06d96a048e56",
@@ -3568,6 +3568,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754679",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754679"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a8e4b9aa4eee",
+      "title": "Naso di legno",
+      "date": "2026-12-05",
+      "time": "10:30",
+      "venue": "Palazzo dei Panni",
+      "location": "Arco",
+      "description": "Viva Pinocchio! | ore 10.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754964",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754964"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
