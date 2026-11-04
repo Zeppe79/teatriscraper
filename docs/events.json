@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T12:44:04.704221+00:00",
-  "count": 378,
+  "last_updated": "2026-11-04T22:19:57.829545+00:00",
+  "count": 381,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1178,7 +1178,7 @@
       "time": "14:30",
       "venue": "Teatro di Meano",
       "location": "Trento",
-      "description": "La Terza stagione | Teatro di Meano | ore 14.30",
+      "description": "La Terza stagione 2026-2027 | Teatro di Meano | ore 14.30",
       "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/non-ci-resta-che-ridere-nicola-sordo/28155015-1-ita-IT/non-ci-resta-che-ridere-nicola-sordo_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753402",
       "source_urls": [
@@ -1348,22 +1348,6 @@
       "is_past": false
     },
     {
-      "id": "788b94ce2c57",
-      "title": "Con tut el ben che te vòi",
-      "date": "2026-11-07",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753451",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753451"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "896f45f6c141",
       "title": "Pozzo dei miracoli",
       "date": "2026-11-07",
@@ -1375,6 +1359,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754416",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754416"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "788b94ce2c57",
+      "title": "Con tut el ben che te vòi",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-372/28215121-1-ita-IT/unnamed-37_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753451",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753451"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1855,6 +1855,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754351",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754351"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "58840a5f73da",
+      "title": "Naso di legno",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "venue": "",
+      "location": "Predazzo",
+      "description": "Viva Pinocchio! | ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755008",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755008"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3045,6 +3061,22 @@
       "is_past": false
     },
     {
+      "id": "033b2e6df24f",
+      "title": "Fagioli",
+      "date": "2026-11-28",
+      "time": "17:00",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755011",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755011"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "3fe46eee2275",
       "title": "1539: Morte del principe vescovo",
       "date": "2026-11-28",
@@ -3088,6 +3120,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754663",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754663"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "99cb3be3db1e",
+      "title": "L’invidia dell’orso – Commedia (con musica) transanimalista e transalpina",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755009",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755009"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
