@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T21:55:21.380074+00:00",
-  "count": 379,
+  "last_updated": "2026-11-07T11:27:08.616568+00:00",
+  "count": 380,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1012,22 +1012,6 @@
       "is_past": true
     },
     {
-      "id": "4d212c41603c",
-      "title": "Non ci resta che ridere",
-      "date": "2026-11-06",
-      "time": "14:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "La Terza stagione 2026-2027 | Teatro di Meano | ore 14.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/non-ci-resta-che-ridere-nicola-sordo/28155015-1-ita-IT/non-ci-resta-che-ridere-nicola-sordo_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753402",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753402"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "bcb281c7f362",
       "title": "Le canzoni che siamo",
       "date": "2026-11-06",
@@ -1041,23 +1025,7 @@
         "https://www.teatrodipergine.it/musica/3017-le-canzoni-che-siamo-generi-misti"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "e9b67d730464",
-      "title": "Fango | Storia di un'alluvione",
-      "date": "2026-11-06",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/6-novembre-2026-fango-1/28127709-1-ita-IT/6-novembre-2026-FANGO-1_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752588",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752588"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "39efd40ad2db",
@@ -1073,55 +1041,7 @@
         "https://www.teatrodipergine.it/cinema/3004-michael"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "c13656cc7bf2",
-      "title": "Gregorio Vivaldelli: Nel mezzo del cammin di nostra vita",
-      "date": "2026-11-06",
-      "time": "20:30",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026gregorio-vivaldelli-nel-mezzo-del-cammin-di-nostra-vita.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026gregorio-vivaldelli-nel-mezzo-del-cammin-di-nostra-vita.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "f7f09af43738",
-      "title": "Rita",
-      "date": "2026-11-06",
-      "time": "20:45",
-      "venue": "",
-      "location": "Garniga Terme",
-      "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754651",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754651"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8fd5443596d4",
-      "title": "Cattivo - Divergenze 26.27",
-      "date": "2026-11-06",
-      "time": "20:45",
-      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
-      "location": "Rovereto",
-      "description": "Divergenze è una rassegna di teatro contemporaneo organizzata da EvoèTeatro",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070014-90594.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/cattivo-divergenze-2627.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/cattivo-divergenze-2627.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "3493c34d7856",
@@ -1492,6 +1412,22 @@
       "is_past": false
     },
     {
+      "id": "10a6eb49b2b4",
+      "title": "Concorso cortometraggi EICTV - La Rampa",
+      "date": "2026-11-09",
+      "time": "20:00",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/cinema/2026/concorso-cortometraggi-eictv-la-rampa.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/concorso-cortometraggi-eictv-la-rampa.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "ee33ddc280f6",
       "title": "Federico Basso | Non faccio il bis",
       "date": "2026-11-09",
@@ -1540,6 +1476,22 @@
       "is_past": false
     },
     {
+      "id": "3b12faa4ec0c",
+      "title": "Borgo",
+      "date": "2026-11-10",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069191-03943.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/borgo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/borgo.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "1026c03a58e7",
       "title": "Lívia Mattos - Paesaggi Sonori",
       "date": "2026-11-10",
@@ -1563,7 +1515,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unacenadaddio22/28137617-1-ita-IT/unacenadaddio2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752855",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752855"
@@ -1595,7 +1547,7 @@
       "venue": "Auditorium Fausto Melotti",
       "location": "Rovereto",
       "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600-1/28089281-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751407",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751407"
@@ -1611,7 +1563,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 12 e il 13 novembre alle ore 20.30\nil 14 novembre alle ore 18.00\nil 15 novembre alle ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/teatro-sociale-di-trento-interno-1-cbasso-1/27975999-1-ita-IT/Teatro-Sociale-di-Trento-interno-1-cbasso-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/747764",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/747764"
@@ -5908,6 +5860,70 @@
         "https://www.teatrodipergine.it/teatro/2959-il-santo-bevitore-fuoristagione"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "fe0c6c499c4a",
+      "title": "L’amore delle tre melarance",
+      "date": "2027-02-05",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753669",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753669"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b135373a74e2",
+      "title": "Private Callas",
+      "date": "2027-02-05",
+      "time": "20:45",
+      "venue": "Cinema Teatro Dolomiti di Coredo",
+      "location": "Predaia",
+      "description": "Teatro Val di Non | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754785",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754785"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "849ef69ec60c",
+      "title": "Guarda le luci, amore mio",
+      "date": "2027-02-05",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Predazzo",
+      "location": "Predazzo",
+      "description": "Teatro Fiemme | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754681",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754681"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a6ca965a8979",
+      "title": "Benvenuti a casa Morandi – A letto senza cena",
+      "date": "2027-02-05",
+      "time": "21:00",
+      "venue": "PalaDolomiti - Pinzolo",
+      "location": "Pinzolo",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754331",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754331"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
