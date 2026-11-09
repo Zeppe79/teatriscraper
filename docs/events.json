@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T20:56:42.876745+00:00",
+  "last_updated": "2026-11-09T13:32:15.395971+00:00",
   "count": 373,
   "events": [
     {
@@ -1004,9 +1004,9 @@
       "location": "Pergine Valsugana",
       "description": "Generi Misti",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/lecanzonichesiamo.png",
-      "source_url": "https://www.teatrodipergine.it/musica/3017-le-canzoni-che-siamo-generi-misti",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/119-archivio/archivio-2026-2027/musica-2026-2027/3017-le-canzoni-che-siamo-generi-misti",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/3017-le-canzoni-che-siamo-generi-misti"
+        "https://www.teatrodipergine.it/component/content/article/119-archivio/archivio-2026-2027/musica-2026-2027/3017-le-canzoni-che-siamo-generi-misti"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -1020,9 +1020,9 @@
       "location": "Pergine Valsugana",
       "description": "Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/michael1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/3004-michael",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/3004-michael",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/3004-michael"
+        "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/3004-michael"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
@@ -1036,108 +1036,12 @@
       "location": "Pergine Valsugana",
       "description": "Diciassettesima Rassegna di teatro amatoriale \"Autunno a Teatro\" a cura della Filodrammatica ACS Punto 3",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/contutelben1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/3011-con-tut-el-ben-che-te-voi",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/3011-con-tut-el-ben-che-te-voi",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/3011-con-tut-el-ben-che-te-voi"
+        "https://www.teatrodipergine.it/component/content/article/122-archivio/archivio-2026-2027/altri-eventi-2026-2027/3011-con-tut-el-ben-che-te-voi"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": true
-    },
-    {
-      "id": "cf3705d206d9",
-      "title": "La gallinella rossa",
-      "date": "2026-11-08",
-      "time": "15:30",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La famiglia va a teatro 2026/2027 | ore 15.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/2-6/28187097-1-ita-IT/2-6_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754370",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754370"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5449e4e5236b",
-      "title": "Pinocchio - Teatro del drago",
-      "date": "2026-11-08",
-      "time": "16:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "PINOCCHIO - Spettacolo musicale per attori, pupazzi e... un burattino di legno / Con Mariasole Brusa, Roberta Colombo, Andrea Monticelli, Mauro Monticelli, Gianluca Palma, Flaminia Pasquini Ferretti / Dalle tavole orignali di Alain Letort / Colorate da Gianni Pla6zzi / Pupazzi Mauro Monticelli / Musiche originali di Claudio Capucci e Morrigan’s Wake / Ideazione, allestimento e messinscena Teatro del drago Scappo a teatro Il Pinocchio della compagnia Teatro del drago ha girato il mondo, è stato r",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070015-98405.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/pinocchio-teatro-del-drago.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/pinocchio-teatro-del-drago.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "5d8e816e26bc",
-      "title": "L’importanza de ciamarse Onesto",
-      "date": "2026-11-08",
-      "time": "17:00",
-      "venue": "",
-      "location": "Pomarolo",
-      "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/l-importanza-de-ciamarse-onesto-pagina-2/28170359-1-ita-IT/L-importanza-de-ciamarse-Onesto-PAGINA-2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753468",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753468"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c259c291c897",
-      "title": "Wildwood: I Segreti del Bosco Proibito",
-      "date": "2026-11-08",
-      "time": "17:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "informazioni, costi e calendario completo in www.artelaghi.it e www.trentinospettacoli.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069796-30929.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/wildwood-i-segreti-del-bosco-proibito_128968_129001_129011.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/wildwood-i-segreti-del-bosco-proibito_128968_129001_129011.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "b25082bce018",
-      "title": "Toma e Carolina",
-      "date": "2026-11-08",
-      "time": "17:30",
-      "venue": "",
-      "location": "Giustino",
-      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754316",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754316"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "48d27310f225",
-      "title": "Sangue Tuo di Marta Polidoro",
-      "date": "2026-11-08",
-      "time": "18:00",
-      "venue": "Villa Romana di Orfeo, Trento",
-      "location": "Trento",
-      "description": "Dopo la fucilazione di Galeazzo Ciano, ordinata dallo stesso Mussolini, la figlia Edda affronta il padre in un incontro che la Storia non ha mai concesso. Il testo immagina quel confronto e lo alterna ai ricordi di un passato perduto, a cui Edda vorrebbe ritornare. «Mio padre è la sola persona che ho amato, con amore, nella mia vita», dichiarava nel 1982: da queste parole parte Marta Polidoro, che intreccia interviste, diari di Mussolini e lettere della Contessa Ciano conservate all'Archivio Cen",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070167-0495445.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026sangue-tuo-di-marta-polidoro.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026sangue-tuo-di-marta-polidoro.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "2ad91a808db1",
@@ -1148,44 +1052,12 @@
       "location": "Pergine Valsugana",
       "description": "Teatro di Pergine",
       "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/michael1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/3004-michael",
+      "source_url": "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/3004-michael",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/3004-michael"
+        "https://www.teatrodipergine.it/component/content/article/118-archivio/archivio-2026-2027/cinema-2026-2027/3004-michael"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "1f1d6b571b82",
-      "title": "Francesca Michielin - Data Zero",
-      "date": "2026-11-08",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750481",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750481"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "076a36e1ab17",
-      "title": "Francesca Michielin - Data Zero",
-      "date": "2026-11-08",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "FRANCESCA MICHIELIN / Live nei Teatri 2026 - Data Zero Partirà domenica 8 novembre 2026 dall’Auditorium Santa Chiara di Trento il nuovo tour nei teatri di Francesca Michielin. Organizzatore: FIABAMUSIC SRL. Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070166-sh234.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/francesca-michielin-data-zero.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/francesca-michielin-data-zero.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "7959f5e5de6e",
@@ -1508,6 +1380,54 @@
       "is_past": false
     },
     {
+      "id": "c647ce67cd3e",
+      "title": "Foyer della Prosa - Le ultime lune",
+      "date": "2026-11-13",
+      "time": "18:00",
+      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
+      "location": "Trento",
+      "description": "Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino / Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069787-049595.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-ultime-lune.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-ultime-lune.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "3fd492aab2c8",
+      "title": "Se domani non torno",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/sedomaninontorno1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3018-se-domani-non-torno",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3018-se-domani-non-torno"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1dd7921f66de",
+      "title": "La Centenaria, festival per i 100 anni di Vita Trentina",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026/la-centenaria-festival-per-i-100-anni-di-vita-trentina.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/la-centenaria-festival-per-i-100-anni-di-vita-trentina.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "12768e5a623f",
       "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
       "date": "2026-11-13",
@@ -1556,6 +1476,38 @@
       "is_past": false
     },
     {
+      "id": "5b5a24a04152",
+      "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
+      "date": "2026-11-13",
+      "time": "21:00",
+      "venue": "Teatro Cuminetti, Via Santa Croce 67, Trento",
+      "location": "Trento",
+      "description": "PIT - Paranormal Investigation Team Un viaggio unico tra gli oggetti più maledetti della storia. Il PIT – Paranormal Investigation Team, dopo anni di ricerche nei luoghi più infestati del mondo, porta sul palco un’esperienza horror senza precedenti. “Lo Spettacolo Maledetto\" non è un semplice show, ma un incontro ravvicinato con oggetti che hanno seminato il terrore ovunque siano stati. Ogni pezzo esposto ha una storia da raccontare, una scia di eventi inquietanti e inspiegabili che il PIT condi",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070311-43443.jpg",
+      "source_url": "https://www.crushsite.it/it/incontri/2026lo-spettacolo-maledetto-pit-paranormal-investigation-team.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026lo-spettacolo-maledetto-pit-paranormal-investigation-team.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "5caa5acaa4d5",
+      "title": "L'invisibile filo rosso",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2024-2025/Cinema/filorosso1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3019-l-invisibile-filo-rosso-cinema",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3019-l-invisibile-filo-rosso-cinema"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "58840a5f73da",
       "title": "Naso di legno",
       "date": "2026-11-14",
@@ -1595,7 +1547,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753473",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753473"
@@ -1611,7 +1563,7 @@
       "venue": "",
       "location": "Lavis",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753471",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753471"
@@ -1627,7 +1579,7 @@
       "venue": "",
       "location": "Trento",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753477",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753477"
@@ -1668,22 +1620,6 @@
       "is_past": false
     },
     {
-      "id": "7910eea6eb7a",
-      "title": "L’è pròpri poarèt",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Diciassettesima Rassegna di teatro amatoriale \"Autunno a Teatro\" a cura della Filodrammatica ACS Punto 3",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/lepropripoaret1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/3012-le-propri-poaret",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/3012-le-propri-poaret"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "e29bb693141a",
       "title": "'Na gabia de mati",
       "date": "2026-11-14",
@@ -1691,7 +1627,7 @@
       "venue": "Teatro parrocchiale di Sabbionara",
       "location": "Avio",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753295",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753295"
@@ -1844,6 +1780,22 @@
       "is_past": false
     },
     {
+      "id": "baf77a3baa39",
+      "title": "Massimo Bubola & Of New Trolls - La lunga strada",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "LA LUNGA STRADA TOUR è il nuovo progetto live che vede insieme Massimo Bubola e OF New Trolls. Un incontro artistico che porta sul palco repertori e percorsi che si intrecciano nella storia della canzone d’autore italiana, anche attraverso le collaborazioni con Fabrizio De André. C’è un tratto di strada che unisce le carriere degli OF New Trolls e di Massimo Bubola, due percorsi distinti della musica italiana che oggi si incontrano attraverso esperienze artistiche che hanno segnato stagioni dive",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/massimo-bubola-of-new-trolls-la-lunga-strada.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/massimo-bubola-of-new-trolls-la-lunga-strada.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "018102363eb4",
       "title": "Vai via",
       "date": "2026-11-15",
@@ -1889,22 +1841,6 @@
         "https://www.cultura.trentino.it/content/view/full/753214"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "add3991883af",
-      "title": "Di robot e altre persone...",
-      "date": "2026-11-15",
-      "time": "16:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro Ragazzi | sul palco del Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/dirobotealtrepersone1.jpg",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2967-di-robot-e-altre-persone",
-      "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2967-di-robot-e-altre-persone"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2081,6 +2017,22 @@
         "https://www.cultura.trentino.it/content/view/full/752959"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "449bfc54e343",
+      "title": "Se domani non torno",
+      "date": "2026-11-20",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/sedomaninontorno1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3018-se-domani-non-torno",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3018-se-domani-non-torno"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -5810,6 +5762,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754105",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754105"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f44138b4faf1",
+      "title": "MAYBE – non tutto è come sembra",
+      "date": "2027-02-07",
+      "time": "16:00",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753465",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753465"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "851b65243b7b",
+      "title": "Il circo in valigia",
+      "date": "2027-02-07",
+      "time": "16:30",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753960",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753960"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "46e9bb9d1a86",
+      "title": "Scordàti",
+      "date": "2027-02-07",
+      "time": "17:30",
+      "venue": "",
+      "location": "Carisolo",
+      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754332",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754332"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
