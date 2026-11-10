@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T13:32:15.395971+00:00",
-  "count": 373,
+  "last_updated": "2026-11-10T00:31:40.366681+00:00",
+  "count": 371,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1060,70 +1060,6 @@
       "is_past": true
     },
     {
-      "id": "7959f5e5de6e",
-      "title": "La gallinella rossa",
-      "date": "2026-11-09",
-      "time": "10:15",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/la-gallinella-rossa2/28161932-1-ita-IT/La-gallinella-rossa_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753634",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753634"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "10a6eb49b2b4",
-      "title": "Concorso cortometraggi EICTV - La Rampa",
-      "date": "2026-11-09",
-      "time": "20:00",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/cinema/2026/concorso-cortometraggi-eictv-la-rampa.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/concorso-cortometraggi-eictv-la-rampa.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "ee33ddc280f6",
-      "title": "Federico Basso | Non faccio il bis",
-      "date": "2026-11-09",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752371",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752371"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "35a7b53d00c2",
-      "title": "Federico Basso - Non faccio il bis",
-      "date": "2026-11-09",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Se Federico Basso dovesse tatuarsi una parola sul braccio, non avrebbe dubbi: “abbastanza”. Perché, ogni tanto, è bello sapersi accontentare. Aggiungere “quanto basta” di sale, dare sapore senza esagerare. Da questa consapevolezza nasce il suo nuovo spettacolo: un viaggio tra riflessioni, appunti e pensieri accumulati nel tempo. Uno sguardo lucido e ironico sulla quotidianità, raccontato da chi continua a scegliere un “profilo basso”, sul palco e nella vita. Organizzatore: FIABAMUSIC SRL. Inform",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070017-05495.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/federico-basso-non-faccio-il-bis.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/federico-basso-non-faccio-il-bis.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "a3f58a94d278",
       "title": "Naza",
       "date": "2026-11-10",
@@ -1620,6 +1556,22 @@
       "is_past": false
     },
     {
+      "id": "1bc31d32339e",
+      "title": "Gli Eugenio in Via di Gioia per i 100 anni di Vita Trentina",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "ingresso gratuito",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026gli-eugenio-in-via-di-gioia-per-i-100-anni-di-vita-trentina.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026gli-eugenio-in-via-di-gioia-per-i-100-anni-di-vita-trentina.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "e29bb693141a",
       "title": "'Na gabia de mati",
       "date": "2026-11-14",
@@ -1643,7 +1595,7 @@
       "venue": "Teatro Comunale di Zambana",
       "location": "Zambana",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753485",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753485"
@@ -1659,7 +1611,7 @@
       "venue": "",
       "location": "Telve",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753483",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753483"
@@ -1905,6 +1857,22 @@
         "https://www.cultura.trentino.it/content/view/full/754318"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6b5d71b5c95b",
+      "title": "Seg Men Tar Si – Dis-integrazione dell’umano di Chiara Arrigoni",
+      "date": "2026-11-15",
+      "time": "18:00",
+      "venue": "Villa Romana di Orfeo, Trento",
+      "location": "Trento",
+      "description": "SEG MEN TAR SI – Dis-integrazione dell’umano di Chiara Arrigoni / con Beatrice Elena Festi (Anna), Denis Fontanari (Padre), Federica Chiusole (Madre), Emanuele Cerra (un* medic* e Prof.), Andrea Bonfanti (Billy, cyborg romantic* modello Air-B-14), Chiara Arrigoni (Loro, coro di cyborg) / musiche dal vivo di Adele Pardi, polistrumentista e violoncellista / dirigono Tindaro Granata e Maura Pettorruso In un futuro prossimo i ricchi dispongono di corpi meccanici, mentre gli umani tradizionali fatica",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070313-4595495.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/seg-men-tar-si-dis-integrazione-dellumano-di-chiara-arrigoni.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/seg-men-tar-si-dis-integrazione-dellumano-di-chiara-arrigoni.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
