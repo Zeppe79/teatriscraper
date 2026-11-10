@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T00:31:40.366681+00:00",
+  "last_updated": "2026-11-10T13:11:24.157831+00:00",
   "count": 371,
   "events": [
     {
@@ -3173,6 +3173,22 @@
       "is_past": false
     },
     {
+      "id": "9a91825451b2",
+      "title": "Ragione e sentimento",
+      "date": "2026-12-04",
+      "time": "20:30",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/ragioneesentimento1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3021-ragione-e-sentimento",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3021-ragione-e-sentimento"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "18c11d5e7a36",
       "title": "L’invidia dell’orso – Commedia (con musica) transanimalista e transalpina",
       "date": "2026-12-04",
@@ -3461,6 +3477,22 @@
       "is_past": false
     },
     {
+      "id": "5df3f3202767",
+      "title": "Dio ride",
+      "date": "2026-12-06",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/dioride1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3022-dio-ride",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3022-dio-ride"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "d03391b3a541",
       "title": "Per silenzio e vento",
       "date": "2026-12-08",
@@ -3538,6 +3570,22 @@
         "https://www.cultura.trentino.it/content/view/full/754780"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e6fce76d640d",
+      "title": "Scrooge e gli Spiriti del Natale",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Teatro di Pergine",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/scrooge1.jpg",
+      "source_url": "https://www.teatrodipergine.it/cinema/3023-scrooge-e-gli-spiriti-del-natale",
+      "source_urls": [
+        "https://www.teatrodipergine.it/cinema/3023-scrooge-e-gli-spiriti-del-natale"
+      ],
+      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -3635,22 +3683,6 @@
         "https://www.cultura.trentino.it/content/view/full/754421"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ed23137fb717",
-      "title": "Zent de paes",
-      "date": "2026-12-12",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Diciassettesima Rassegna di teatro amatoriale \"Autunno a Teatro\" a cura della Filodrammatica ACS Punto 3",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/zentdepaes1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/3015-zent-de-paes",
-      "source_urls": [
-        "https://www.teatrodipergine.it/eventi/3015-zent-de-paes"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -3782,22 +3814,6 @@
       "is_past": false
     },
     {
-      "id": "2fe3a2d7e8f1",
-      "title": "Le Nozze di Figaro - Wolfgang Amadeus Mozart",
-      "date": "2026-12-13",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/lenozzedifigaro1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2978-le-nozze-di-figaro",
-      "source_urls": [
-        "https://www.teatrodipergine.it/musica/2978-le-nozze-di-figaro"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
       "id": "c7640eefa640",
       "title": "Kamikaze di Eleazaro Rossi",
       "date": "2026-12-14",
@@ -3811,22 +3827,6 @@
         "https://www.cultura.trentino.it/content/view/full/750491"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6f8b26ec4cf6",
-      "title": "Yellow letters",
-      "date": "2026-12-15",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Cineforum Effetto Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/yellowletters1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/3000-yellow-letters-cineforum",
-      "source_urls": [
-        "https://www.teatrodipergine.it/cinema/3000-yellow-letters-cineforum"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
