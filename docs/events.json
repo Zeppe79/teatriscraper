@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T12:20:40.980039+00:00",
+  "last_updated": "2026-11-11T23:15:54.143484+00:00",
   "count": 371,
   "events": [
     {
@@ -1156,22 +1156,6 @@
       "is_past": false
     },
     {
-      "id": "c49271cbd1ff",
-      "title": "Wet floor",
-      "date": "2026-11-12",
-      "time": "20:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "Stagione professionale | Teatro di Meano | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/wet-floor-1536x973/28153363-1-ita-IT/Wet-Floor-1536x973_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753360",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753360"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "ea5697ba4056",
       "title": "Eumenidi – Tutta, tutta del padre io sono",
       "date": "2026-11-12",
@@ -1199,6 +1183,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754662",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754662"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c49271cbd1ff",
+      "title": "Wet floor",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Stagione professionale 2026-2027 | Teatro di Meano | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/wet-floor-1536x973/28153363-1-ita-IT/Wet-Floor-1536x973_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753360",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753360"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1732,22 +1732,6 @@
       "is_past": false
     },
     {
-      "id": "5f7c307484d4",
-      "title": "Di robot e altre persone...",
-      "date": "2026-11-15",
-      "time": "16:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752898",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752898"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "582b264e2027",
       "title": "Un brutto anatroccolo",
       "date": "2026-11-15",
@@ -1759,6 +1743,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753214",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753214"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b315eff31ae1",
+      "title": "Di robot e DI altre persone...",
+      "date": "2026-11-15",
+      "time": "16:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752898",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752898"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
