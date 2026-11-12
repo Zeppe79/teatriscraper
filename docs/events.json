@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T13:30:03.219356+00:00",
-  "count": 373,
+  "last_updated": "2026-11-12T22:31:59.729089+00:00",
+  "count": 374,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1755,7 +1755,7 @@
       "venue": "Teatro Auditorium, Via S. Croce, Trento",
       "location": "Trento",
       "description": "Di Danilo Conti e Antonella Piroli / Con Danilo Conti / Scenografia e oggetti di scena Scuola Arti e Mestieri di Cotignola, Massimiliano Fabbri / Compagnia Tanti Cosi Progetti / Produzione Accademia Perduta / Romagna Teatri Scappo a teatro La fiaba a cu i è ispirato lo spettacolo si perde nelle trame del tessuto popolare fitto di storie, racconti, aneddoti. Risale ad epoche in cui giramondo, vagabondi, soldati reduci da battaglie campali che tentavano di ritornare a casa, di solito a piedi e se ",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070393-493843.jpg",
       "source_url": "https://www.crushsite.it/it/danza-teatro/2026/zuppa-di-sasso-accademia-perduta-romagna-teatri.html",
       "source_urls": [
         "https://www.crushsite.it/it/danza-teatro/2026/zuppa-di-sasso-accademia-perduta-romagna-teatri.html"
@@ -3061,6 +3061,22 @@
       "is_past": false
     },
     {
+      "id": "da5a41d1a8c8",
+      "title": "Christmas dream - La bellezza della vita",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "venue": "Teatro Lux",
+      "location": "Pergine Valsugana",
+      "description": "Mercoledì 2 dicembre 2026 - ore 20.00",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/christmasdream1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/3029-christmas-dream-2026",
+      "source_urls": [
+        "https://www.teatrodipergine.it/eventi/3029-christmas-dream-2026"
+      ],
+      "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
       "id": "d7b8149acf70",
       "title": "Arrivato a questo punto",
       "date": "2026-12-02",
@@ -3168,6 +3184,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/752920",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752920"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "41dc194ea01b",
+      "title": "MOR. Storia per le mie madri",
+      "date": "2026-12-04",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755456",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755456"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3538,22 +3570,6 @@
         "https://www.cultura.trentino.it/content/view/full/752883"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "03b260fe44c7",
-      "title": "Tempo orfano",
-      "date": "2026-12-10",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Fuoristagione | sul palco del Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Teatro/tempoorfano1.jpg",
-      "source_url": "https://www.teatrodipergine.it/teatro/2957-tempo-orfano-fuoristagione",
-      "source_urls": [
-        "https://www.teatrodipergine.it/teatro/2957-tempo-orfano-fuoristagione"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
