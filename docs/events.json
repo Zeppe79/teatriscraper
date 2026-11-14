@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T22:20:19.419716+00:00",
-  "count": 370,
+  "last_updated": "2026-11-14T11:54:21.826400+00:00",
+  "count": 368,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1092,22 +1092,6 @@
       "is_past": true
     },
     {
-      "id": "9d17c9f112e7",
-      "title": "Every brilliant thing | Teatro Telaio",
-      "date": "2026-11-12",
-      "time": "10:00",
-      "venue": "Auditorium Fausto Melotti",
-      "location": "Rovereto",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600-1/28089281-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751407",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751407"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "09db566f2428",
       "title": "Le ultime lune",
       "date": "2026-11-12",
@@ -1140,38 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "e3275279b068",
-      "title": "Grammatica della fantasia | Il Museo degli errori",
-      "date": "2026-11-13",
-      "time": "10:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 10.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/13-novembreu/28140210-1-ita-IT/13-novembreu_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752949",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752949"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "c647ce67cd3e",
-      "title": "Foyer della Prosa - Le ultime lune",
-      "date": "2026-11-13",
-      "time": "18:00",
-      "venue": "Teatro Sociale, Via Oss Mazzurana, Trento",
-      "location": "Trento",
-      "description": "Appuntamenti in collaborazione con l'Università di Trento - Dipartimento di Lettere e Filosofia e la Fondazione Museo storico del Trentino / Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069787-049595.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-ultime-lune.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/foyer-della-prosa-le-ultime-lune.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "3fd492aab2c8",
       "title": "Se domani non torno",
       "date": "2026-11-13",
@@ -1185,87 +1137,7 @@
         "https://www.teatrodipergine.it/cinema/3018-se-domani-non-torno"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "1dd7921f66de",
-      "title": "La Centenaria, festival per i 100 anni di Vita Trentina",
-      "date": "2026-11-13",
-      "time": "20:30",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/incontri/2026/la-centenaria-festival-per-i-100-anni-di-vita-trentina.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026/la-centenaria-festival-per-i-100-anni-di-vita-trentina.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "12768e5a623f",
-      "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750482",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750482"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "28f45a3780bc",
-      "title": "Chiara e Francesco prima dell’alba",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "venue": "",
-      "location": "Pieve di Bono-Prezzo",
-      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754317",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754317"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "230309ca2eaa",
-      "title": "A (S)ragionar di guerra",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "venue": "Auditorium Comunale di Lavis",
-      "location": "Lavis",
-      "description": "Teatro di Lavis | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754351",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754351"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "5b5a24a04152",
-      "title": "Lo Spettacolo Maledetto - PIT (Paranormal Investigation Team)",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "venue": "Teatro Cuminetti, Via Santa Croce 67, Trento",
-      "location": "Trento",
-      "description": "PIT - Paranormal Investigation Team Un viaggio unico tra gli oggetti più maledetti della storia. Il PIT – Paranormal Investigation Team, dopo anni di ricerche nei luoghi più infestati del mondo, porta sul palco un’esperienza horror senza precedenti. “Lo Spettacolo Maledetto\" non è un semplice show, ma un incontro ravvicinato con oggetti che hanno seminato il terrore ovunque siano stati. Ogni pezzo esposto ha una storia da raccontare, una scia di eventi inquietanti e inspiegabili che il PIT condi",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070311-43443.jpg",
-      "source_url": "https://www.crushsite.it/it/incontri/2026lo-spettacolo-maledetto-pit-paranormal-investigation-team.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/incontri/2026lo-spettacolo-maledetto-pit-paranormal-investigation-team.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "5caa5acaa4d5",
@@ -1291,7 +1163,7 @@
       "venue": "",
       "location": "Predazzo",
       "description": "Viva Pinocchio! | ore 15.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pinocchio22/28211824-3-ita-IT/Pinocchio_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755008",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755008"
@@ -1515,7 +1387,7 @@
       "venue": "Teatro Comunale di Aldeno",
       "location": "Aldeno",
       "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754656",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754656"
@@ -1611,7 +1483,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Teatro Ragazzi 2026-2027 | Teatro di Meano | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/anatroccolo2/28148077-1-ita-IT/Anatroccolo_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753214",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753214"
@@ -1659,7 +1531,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Infanzia   | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-3/28132088-1-ita-IT/Vil26_27_Post_1080x13502-3_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752707",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752707"
@@ -1675,7 +1547,7 @@
       "venue": "",
       "location": "Pomarolo",
       "description": "ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751576",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751576"
@@ -1780,6 +1652,22 @@
       "is_past": false
     },
     {
+      "id": "581d3252137e",
+      "title": "Resurrection",
+      "date": "2026-11-17",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069192-049584.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/resurrection.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/resurrection.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4c91f92657a9",
       "title": "Storia del rock 1 - SOLD OUT",
       "date": "2026-11-18",
@@ -1825,6 +1713,22 @@
         "https://www.cultura.trentino.it/content/view/full/752862"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f80432f3c43a",
+      "title": "MBIRA - Aldes / Roberto Castello",
+      "date": "2026-11-18",
+      "time": "20:30",
+      "venue": "Forum, Bressanone (Bz)",
+      "location": "Bressanone",
+      "description": "Coreografia e regia Roberto Castello / musiche Marco Zanotti, Zam Moustapha Dembélé / testi Renato Sarti, Roberto Castello / con la preziosa collaborazione di Andrea Cosentino / interpreti Ilenia Romano, Giselda Ranieri, Erica Bravini (Danza, Voce), Marco Zanotti (Percussioni, Limba), Zam Moustapha Dembélé (Kora, Tamanì, Voce, Balafon), Roberto Castello / produzione ALDES - Teatro della Cooperativa / con il sostegno di MiC - Direzione Generale Spettacolo dal vivo, Regione Toscana - Sistema Regio",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069835-0394343.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mbira-aldes-roberto-castello_128577_128578.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/mbira-aldes-roberto-castello_128577_128578.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2498,6 +2402,22 @@
         "https://www.cultura.trentino.it/content/view/full/753015"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1c3c5285e907",
+      "title": "Se domani non torno",
+      "date": "2026-11-26",
+      "time": "20:30",
+      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
+      "location": "Vezzano - Vallelaghi",
+      "description": "informazioni, costi e calendario completo in www.artelaghi.it e www.trentinospettacoli.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070234-0439344393454.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/se-domani-non-torno_129211_129389_129390_129559.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/se-domani-non-torno_129211_129389_129390_129559.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -5780,6 +5700,54 @@
         "https://www.teatrodipergine.it/teatro/2952-misurare-il-salto-delle-rane"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "4735ef96f77f",
+      "title": "Rosaluna e i lupi",
+      "date": "2027-02-12",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753671",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753671"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2125abb89ee5",
+      "title": "Mi è scappato il morto",
+      "date": "2027-02-12",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Stagione comica   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753003",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753003"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9ac8be0a7476",
+      "title": "Le fuggitive",
+      "date": "2027-02-12",
+      "time": "20:45",
+      "venue": "Cinema Teatro Parrocchiale di Cles",
+      "location": "Cles",
+      "description": "Teatro Val di Non | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754786",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754786"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
