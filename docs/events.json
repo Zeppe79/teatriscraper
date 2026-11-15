@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T21:03:42.773129+00:00",
-  "count": 368,
+  "last_updated": "2026-11-15T12:25:42.191967+00:00",
+  "count": 363,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1153,311 +1153,7 @@
         "https://www.teatrodipergine.it/cinema/3019-l-invisibile-filo-rosso-cinema"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "58840a5f73da",
-      "title": "Naso di legno",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "venue": "",
-      "location": "Predazzo",
-      "description": "Viva Pinocchio! | ore 15.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pinocchio22/28211824-3-ita-IT/Pinocchio_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755008",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755008"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b16440980609",
-      "title": "L’importanza de ciamarse Onesto",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano - Stagione 2026/2027 | Teatro amatoriale | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-13/28131976-1-ita-IT/Vil26_27_Post_1080x13502-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753007",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753007"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "30046e198f0a",
-      "title": "L’è pròpri …Poarèt",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753473",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753473"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "96975efcce97",
-      "title": "B.R.A.T.S. Brave Ragazze Ancora Tutte Single",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "",
-      "location": "Lavis",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753471",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753471"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "8249cb88a7e5",
-      "title": "En gran rebalton",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "",
-      "location": "Trento",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753477",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753477"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "29a21a7575ae",
-      "title": "Le tre Marie",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Bedollo",
-      "location": "Bedollo",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751574",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751574"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ace78a441078",
-      "title": "Come narala a finir?",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "",
-      "location": "Villa Lagarina",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753384",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753384"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1bc31d32339e",
-      "title": "Gli Eugenio in Via di Gioia per i 100 anni di Vita Trentina",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
-      "location": "Trento",
-      "description": "ingresso gratuito",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026gli-eugenio-in-via-di-gioia-per-i-100-anni-di-vita-trentina.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026gli-eugenio-in-via-di-gioia-per-i-100-anni-di-vita-trentina.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "e29bb693141a",
-      "title": "'Na gabia de mati",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro parrocchiale di Sabbionara",
-      "location": "Avio",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753295",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753295"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "db73c4d0d2d3",
-      "title": "El giro del mondo en 79 dì",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Zambana",
-      "location": "Zambana",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753485",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753485"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cbe0b6de228f",
-      "title": "Zent de paes",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "",
-      "location": "Telve",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753483",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753483"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "7070e1bf942a",
-      "title": "Na carega col cusin",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "",
-      "location": "San Lorenzo Dorsino",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/tenda-teatro-pixabay-ulma93/28093753-1-ita-IT/tenda-teatro-Pixabay-ulma93_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753482",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753482"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "749289bf1e0f",
-      "title": "Un'incauta lettera d'amore",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/un-incauta-lettera-d-amore-pagina/28169862-1-ita-IT/un-incauta-lettera-d-amore-PAGINA_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753831",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753831"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "99ccb8096503",
-      "title": "L’algeri? L’è vegnù algeri!",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "",
-      "location": "Madruzzo",
-      "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753868",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753868"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f903933bb117",
-      "title": "Stuf",
-      "date": "2026-11-14",
-      "time": "20:45",
-      "venue": "Teatro Comunale di Aldeno",
-      "location": "Aldeno",
-      "description": "Teatro di Aldeno - Garniga | Stagione 2026/2027 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754656",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754656"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "0e15bd286873",
-      "title": "La famiglia Bruscolin",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "venue": "",
-      "location": "Ville d'Anaunia",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753871",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753871"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1a45ad31690b",
-      "title": "Ostinata, con brio",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "venue": "Centro Congressi Piné 1000",
-      "location": "Baselga di Pinè",
-      "description": "Teatro di Baselga di Piné | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753942",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753942"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "17cfbb9e84db",
-      "title": "Dreaming of Musical",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "Intero € 20, ridotto € 12 (under 11), prevendita online su www.trentinospettacoli.it soggetta a diritti a carico dell’utente / Info e prenotazioni n. 370.1245353",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070058-w.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/dreaming-of-musical.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/dreaming-of-musical.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "baf77a3baa39",
-      "title": "Massimo Bubola & Of New Trolls - La lunga strada",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "LA LUNGA STRADA TOUR è il nuovo progetto live che vede insieme Massimo Bubola e OF New Trolls. Un incontro artistico che porta sul palco repertori e percorsi che si intrecciano nella storia della canzone d’autore italiana, anche attraverso le collaborazioni con Fabrizio De André. C’è un tratto di strada che unisce le carriere degli OF New Trolls e di Massimo Bubola, due percorsi distinti della musica italiana che oggi si incontrano attraverso esperienze artistiche che hanno segnato stagioni dive",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026/massimo-bubola-of-new-trolls-la-lunga-strada.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/massimo-bubola-of-new-trolls-la-lunga-strada.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "018102363eb4",
@@ -1467,7 +1163,7 @@
       "venue": "Teatro San Marco",
       "location": "Trento",
       "description": "La famiglia va a teatro 2026/2027 | ore 15.30 e 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vai-via3/28187160-1-ita-IT/vai-via_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754372",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754372"
@@ -1499,7 +1195,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dirobotealtrepersone2/28138789-1-ita-IT/dirobotealtrepersone2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752898",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752898"
@@ -1563,7 +1259,7 @@
       "venue": "Teatro Valle dei Laghi di Vezzano",
       "location": "",
       "description": "Vallelaghi - Teatro Valle dei Laghi | Stagione 2026/2027 | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753889",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753889"
@@ -1579,7 +1275,7 @@
       "venue": "Oratorio Don Bosco di Ponte Arche",
       "location": "Comano Terme",
       "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754318",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754318"
@@ -1611,7 +1307,7 @@
       "venue": "Teatro San Marco",
       "location": "Trento",
       "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vai-via/28162037-1-ita-IT/Vai-via_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753636",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753636"
@@ -1675,7 +1371,7 @@
       "venue": "Teatro San Marco",
       "location": "Trento",
       "description": "La scuola va a teatro 2026/2027 | ore 9.00 | Replica alle ore 11.00\nEVENTO RISERVATO ALLE SCUOLE",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/storia-del-rock/28162205-1-ita-IT/Storia-del-rock_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753641",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753641"
@@ -1691,7 +1387,7 @@
       "venue": "Teatro Sociale ",
       "location": "Trento",
       "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600-1/28089281-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/751408",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/751408"
@@ -1707,7 +1403,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/rideresganasciarsiscompisciarsi2/28137840-1-ita-IT/rideresganasciarsiscompisciarsi2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752862",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752862"
@@ -1755,12 +1451,28 @@
       "venue": "Auditorium Santa Chiara - Trento",
       "location": "Trento",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/750483",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/750483"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d66967959080",
+      "title": "I Legnanesi - \"Ricordi\"",
+      "date": "2026-11-19",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "“Ricordi” è un nuovo, emozionante spettacolo de I Legnanesi, dove la mitica Teresa (Antonio Provasio), la vivace Mabilia (Enrico Dalceri) e l’intramontabile Giovanni (Italo Giglioli) accompagnano il pubblico in un viaggio attraverso i momenti più iconici e le scene memorabili che hanno reso celebre la compagnia. Accanto ai tre protagonisti, tutta la compagnia de I Legnanesi è pronta a regalare nuove emozioni, con la presenza degli altri attori che contribuiscono a ricreare l’atmosfera unica e co",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070395-34034034034.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026i-legnanesi-ricordi.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026i-legnanesi-ricordi.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1771,7 +1483,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 11.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/20-novembre/28140490-1-ita-IT/20-novembre_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752959",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752959"
@@ -1796,6 +1508,22 @@
       "is_past": false
     },
     {
+      "id": "daa142e1296a",
+      "title": "Symphonika on the Rock",
+      "date": "2026-11-20",
+      "time": "21:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Torna il grande spettacolo SYMPHONIKA ON THE ROCK: il tributo alle grandi leggende del rock che unisce le generazioni. Dopo la tournee nei maggiori teatri italiani ed europei, e grandi show estivi in prestigiose location, con spettacoli da standing ovation e soldout, si preannuncia una nuova stagione ricca di appuntamenti imperdibili. I Symphonika tornano con una miscela esplosiva di rock sinfonico per far rivivere i fasti delle leggendarie hit anni 60, 70 e 80 che hanno fatto sognare intere gen",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026symphonika-on-the-rock_129530.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026symphonika-on-the-rock_129530.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "6603861ffd61",
       "title": "Clownerentola",
       "date": "2026-11-21",
@@ -1803,7 +1531,7 @@
       "venue": "",
       "location": "Fierozzo",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/locandina-clownerentola-21-nov_web-1/28012344-1-ita-IT/locandina-Clownerentola-21-nov_WEB-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748899",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748899"
@@ -1860,6 +1588,22 @@
       "is_past": false
     },
     {
+      "id": "b5d644889496",
+      "title": "Vartalent 2026",
+      "date": "2026-11-21",
+      "time": "20:00",
+      "venue": "Teatro Sanbapolis, Via della Malpensada, Trento",
+      "location": "Trento",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/incontri/2026/vartalent-2026.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/incontri/2026/vartalent-2026.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "8eab6a0dc269",
       "title": "La vita mi è passata davanti e io… Tiè! L’ho doppiata",
       "date": "2026-11-21",
@@ -1867,7 +1611,7 @@
       "venue": "Teatro di Villazzano",
       "location": "Trento",
       "description": "Teatro di Villazzano - Stagione 2026/2027 | Stagione comica   | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vil26_27_post_1080x13502-13/28131976-1-ita-IT/Vil26_27_Post_1080x13502-1_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753000",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753000"
@@ -1883,7 +1627,7 @@
       "venue": "",
       "location": "Sant'Orsola Terme",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/21-novembre-2026/28146369-1-ita-IT/21-novembre-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753147",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753147"
@@ -1899,7 +1643,7 @@
       "venue": "Teatro di Meano",
       "location": "Trento",
       "description": "Stagione amatoriale | Teatro di Meano | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unincauta-lettera-damore-1536x1023/28148357-1-ita-IT/Unincauta-lettera-damore-1536x1023_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753225",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753225"
@@ -1979,7 +1723,7 @@
       "venue": "",
       "location": "Valfloriana",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753399",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753399",
@@ -2140,7 +1884,7 @@
       "venue": "",
       "location": "Ville d'Anaunia",
       "description": "ore 21.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753467",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753467"
@@ -5764,6 +5508,183 @@
         "https://www.crushsite.it/it/musica/2027/aoife-ni-bhriain-birkin-tree-paesaggi-sonori.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "94e1eb213788",
+      "title": "Sherlock Holmes",
+      "date": "2027-02-13",
+      "time": "16:00",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Infanzia   | ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752721",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752721"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "459599ab90e4",
+      "title": "Rosaluna e i lupi",
+      "date": "2027-02-13",
+      "time": "16:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La famiglia va a teatro 2026/2027 | ore 16.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754397",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754397"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "d32d97cba37d",
+      "title": "En gran rebalton",
+      "date": "2027-02-13",
+      "time": "20:30",
+      "venue": "Teatro di Cognola",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753481",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753481"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "45f444f09e59",
+      "title": "Co le femene le se m’ponta…el medico el posto el ghe donta",
+      "date": "2027-02-13",
+      "time": "20:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754441",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754441"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a888b987ce89",
+      "title": "Le tre Marie",
+      "date": "2027-02-13",
+      "time": "20:45",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751583",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751583",
+        "https://www.cultura.trentino.it/content/view/full/753231"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2450c8edf0ae",
+      "title": "Le bosìe le g’ha le gambe corte",
+      "date": "2027-02-13",
+      "time": "20:45",
+      "venue": "",
+      "location": "San Lorenzo Dorsino",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753356",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753356"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8659ef771aab",
+      "title": "Con tut el ben che te vòi",
+      "date": "2027-02-13",
+      "time": "20:45",
+      "venue": "Teatro Comunale di Zambana",
+      "location": "Zambana",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753452",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753452"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2e938c927cfb",
+      "title": "Se pol far senza",
+      "date": "2027-02-13",
+      "time": "20:45",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753462",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753462"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "9e2a676b7c87",
+      "title": "Don Chisciotte senza mancia",
+      "date": "2027-02-13",
+      "time": "20:45",
+      "venue": "Teatro del Centro Scolastico di Borgo",
+      "location": "Borgo Valsugana",
+      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753962",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753962"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "27b94f6bf8d7",
+      "title": "Segreto, segreto, segreto – disastrosa trama di velenose trine",
+      "date": "2027-02-13",
+      "time": "20:45",
+      "venue": "Teatro Gigi Cona di Gardolo",
+      "location": "Trento",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754442",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754442"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "442c40c52c22",
+      "title": "Ero un bullo – La vera storia di Daniel Zaccaro",
+      "date": "2027-02-13",
+      "time": "21:00",
+      "venue": "Casa della Comunità di Nago",
+      "location": "Nago-Torbole",
+      "description": "Teatro di Riva del Garda Nago - Torbole | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754106",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754106"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
