@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T13:17:51.591494+00:00",
-  "count": 360,
+  "last_updated": "2026-11-17T00:37:07.344086+00:00",
+  "count": 356,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,38 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "ac7938ddefa5",
-      "title": "Vai via",
-      "date": "2026-11-16",
-      "time": "10:15",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/vai-via/28162037-1-ita-IT/Vai-via_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753636",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753636"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e260b5ff4267",
-      "title": "MBIRA - Aldes / Roberto Castello",
-      "date": "2026-11-16",
-      "time": "20:30",
-      "venue": "Nobis, Brunico (Bz)",
-      "location": "Brunico",
-      "description": "Coreografia e regia Roberto Castello / musiche Marco Zanotti, Zam Moustapha Dembélé / testi Renato Sarti, Roberto Castello / con la preziosa collaborazione di Andrea Cosentino / interpreti Ilenia Romano, Giselda Ranieri, Erica Bravini (Danza, Voce), Marco Zanotti (Percussioni, Limba), Zam Moustapha Dembélé (Kora, Tamanì, Voce, Balafon), Roberto Castello / produzione ALDES - Teatro della Cooperativa / con il sostegno di MiC - Direzione Generale Spettacolo dal vivo, Regione Toscana - Sistema Regio",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069835-0394343.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/mbira-aldes-roberto-castello.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/mbira-aldes-roberto-castello.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "56cf83f5feb2",
       "title": "MBIRA - Aldes / Roberto Castello",
       "date": "2026-11-17",
@@ -1355,7 +1323,7 @@
       "venue": "",
       "location": "Revò",
       "description": "ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753882",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753882"
@@ -1810,6 +1778,22 @@
         "https://www.cultura.trentino.it/content/view/full/753881"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fd5970640e73",
+      "title": "Il baule di Natale - Teatro del Buratto",
+      "date": "2026-11-22",
+      "time": "16:30",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Messa in scena a cura di Aurelia Pini / in scena Gabriele Bajo e Selvaggia Tegon Giacoppo / oggetti a cura del Laboratorio Teatro del Buratto Scappo a teatro Aprire un grande baule è come esplorare un grande mare, un cielo stellato, un pozzo profondo, il Polo Nord, il sacco di Babbo Natale. Ci trovi cose dimenticate, storie da raccontare e già raccontate, domande a cui dare risposte come: quanti anni ha Babbo Natale? Il Natale è vicino e Selly e Gabriele decidono di aprire il grande baule diment",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/il-baule-di-natale-teatro-del-buratto.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/il-baule-di-natale-teatro-del-buratto.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -2581,17 +2565,17 @@
       "is_past": false
     },
     {
-      "id": "c826ea8aad5c",
-      "title": "Duo Boso Dellantonio",
+      "id": "acabc4141237",
+      "title": "La come siamo contenti",
       "date": "2026-12-04",
-      "time": "18:30",
+      "time": "15:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "Generi Misti",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/duobosiodellantonio1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/3027-duo-boso-dellantonio-generi-misti",
+      "description": "Altri eventi - La Terza Stagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/macomesiamocontenti1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti",
       "source_urls": [
-        "https://www.teatrodipergine.it/musica/3027-duo-boso-dellantonio-generi-misti"
+        "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -2626,22 +2610,6 @@
         "https://www.cultura.trentino.it/content/view/full/755456"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "9a91825451b2",
-      "title": "Ragione e sentimento",
-      "date": "2026-12-04",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/ragioneesentimento1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/3021-ragione-e-sentimento",
-      "source_urls": [
-        "https://www.teatrodipergine.it/cinema/3021-ragione-e-sentimento"
-      ],
-      "source_name": "teatrodipergine.it",
       "is_past": false
     },
     {
@@ -2773,17 +2741,17 @@
       "is_past": false
     },
     {
-      "id": "6c3fc08ab652",
-      "title": "Ho deciso de no morir",
+      "id": "75cc7564f947",
+      "title": "La come siamo contenti",
       "date": "2026-12-05",
       "time": "20:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "Diciassettesima Rassegna di teatro amatoriale \"Autunno a Teatro\" a cura della Filodrammatica ACS Punto 3",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/hodecisodenomorir1.jpg",
-      "source_url": "https://www.teatrodipergine.it/eventi/3014-ho-deciso-de-no-morir",
+      "description": "Altri eventi - La Terza Stagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/macomesiamocontenti1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti",
       "source_urls": [
-        "https://www.teatrodipergine.it/eventi/3014-ho-deciso-de-no-morir"
+        "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -2885,17 +2853,17 @@
       "is_past": false
     },
     {
-      "id": "b118f9418bd1",
-      "title": "Gli ultimi orsi polari",
+      "id": "b2b690c82cd1",
+      "title": "La come siamo contenti",
       "date": "2026-12-06",
       "time": "16:00",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "Teatro Ragazzi",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/TeatroRagazzi/gliultimiorsipolari.jpg",
-      "source_url": "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari",
+      "description": "Altri eventi - La Terza Stagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/macomesiamocontenti1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti",
       "source_urls": [
-        "https://www.teatrodipergine.it/ragazzi/2969-gli-ultimi-orsi-polari"
+        "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
@@ -2933,49 +2901,17 @@
       "is_past": false
     },
     {
-      "id": "5df3f3202767",
-      "title": "Dio ride",
-      "date": "2026-12-06",
-      "time": "20:00",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Teatro di Pergine",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/dioride1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/3022-dio-ride",
-      "source_urls": [
-        "https://www.teatrodipergine.it/cinema/3022-dio-ride"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "d03391b3a541",
-      "title": "Per silenzio e vento",
+      "id": "d58e3d842305",
+      "title": "La come siamo contenti",
       "date": "2026-12-08",
       "time": "20:30",
       "venue": "Teatro Lux",
       "location": "Pergine Valsugana",
-      "description": "Cineforum Effetto Festival",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Cinema/persilenzioevento1.jpg",
-      "source_url": "https://www.teatrodipergine.it/cinema/2999-per-silenzio-e-vento",
+      "description": "Altri eventi - La Terza Stagione",
+      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Eventi/macomesiamocontenti1.jpg",
+      "source_url": "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti",
       "source_urls": [
-        "https://www.teatrodipergine.it/cinema/2999-per-silenzio-e-vento"
-      ],
-      "source_name": "teatrodipergine.it",
-      "is_past": false
-    },
-    {
-      "id": "69181231c245",
-      "title": "Flòrula. Concerto Condiviso",
-      "date": "2026-12-09",
-      "time": "20:30",
-      "venue": "Teatro Lux",
-      "location": "Pergine Valsugana",
-      "description": "Musica",
-      "image_url": "https://www.teatrodipergine.it/images/articoli/2026-2027/Musica/florula1.jpg",
-      "source_url": "https://www.teatrodipergine.it/musica/2977-florula-concerto-condiviso",
-      "source_urls": [
-        "https://www.teatrodipergine.it/musica/2977-florula-concerto-condiviso"
+        "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti"
       ],
       "source_name": "teatrodipergine.it",
       "is_past": false
