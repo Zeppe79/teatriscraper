@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T00:37:07.344086+00:00",
-  "count": 356,
+  "last_updated": "2026-11-17T14:02:26.254271+00:00",
+  "count": 363,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,6 +1124,22 @@
       "is_past": true
     },
     {
+      "id": "5f6e9b953f58",
+      "title": "Posso chiamarti?",
+      "date": "2026-11-17",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Teatro della Meraviglia 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/posso-chiamarti/28221971-1-ita-IT/Posso-chiamarti_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755264",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755264"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "56cf83f5feb2",
       "title": "MBIRA - Aldes / Roberto Castello",
       "date": "2026-11-17",
@@ -1204,6 +1220,22 @@
       "is_past": false
     },
     {
+      "id": "67ed06d14288",
+      "title": "Mai più Majorana",
+      "date": "2026-11-18",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Teatro della Meraviglia 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mai-piu-majorana/28222104-1-ita-IT/Mai-piu-Majorana_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755274",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755274"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "f80432f3c43a",
       "title": "MBIRA - Aldes / Roberto Castello",
       "date": "2026-11-18",
@@ -1217,6 +1249,22 @@
         "https://www.crushsite.it/it/danza-teatro/2026/mbira-aldes-roberto-castello_128577_128578.html"
       ],
       "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "2c931f624ade",
+      "title": "Naufragio con spettatore",
+      "date": "2026-11-19",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Teatro della Meraviglia 2026 | ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/naufragio-con-spettatore/28222272-1-ita-IT/Naufragio-con-spettatore_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755280",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755280"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
@@ -1284,6 +1332,22 @@
       "is_past": false
     },
     {
+      "id": "b34743bbadf4",
+      "title": "La forza di dire NO",
+      "date": "2026-11-20",
+      "time": "18:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione | alle 18.30 alla Libreria Due Punti;\nalle 21.00 a Spazio Artificio",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dire-di-se-_slide1_ig-pequod-compagnia3/28226571-1-ita-IT/Dire-di-se-_slide1_IG-Pequod-Compagnia_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755430",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755430"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "daa142e1296a",
       "title": "Symphonika on the Rock",
       "date": "2026-11-20",
@@ -1323,7 +1387,7 @@
       "venue": "",
       "location": "Revò",
       "description": "ore 17.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753882",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753882"
@@ -1355,7 +1419,7 @@
       "venue": "",
       "location": "Castelnuovo",
       "description": "ore 20.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753873",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753873"
@@ -1596,7 +1660,7 @@
       "venue": "Teatro San Domenico Savio di Olle",
       "location": "Borgo Valsugana",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753875",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753875"
@@ -1612,7 +1676,7 @@
       "venue": "Cinema Teatro Paradiso di Folgaria",
       "location": "Folgaria",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753877",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753877"
@@ -1968,6 +2032,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754322",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754322"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2958785e0d73",
+      "title": "Guardarsi, riconoscersi, resistere",
+      "date": "2026-11-26",
+      "time": "18:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione | alle 18.30 e alle 21.00 a Spazio Artificio",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755431",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755431"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2501,6 +2581,22 @@
       "is_past": false
     },
     {
+      "id": "4343bcac7c6d",
+      "title": "Ripensare il maschile",
+      "date": "2026-12-03",
+      "time": "18:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione | alle 18.30 e alle 21.00 a Spazio Artificio",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755440",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755440"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "8d0f0511f544",
       "title": "La (in)coscienza di Zeno",
       "date": "2026-12-03",
@@ -2914,6 +3010,22 @@
         "https://www.teatrodipergine.it/eventi/3031-ma-come-siamo-contenti"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "7896ddad3be1",
+      "title": "Le voci che restano",
+      "date": "2026-12-10",
+      "time": "18:30",
+      "venue": "",
+      "location": "Trento",
+      "description": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione | alle 18.30 e alle 21.00 a Spazio Artificio",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755441",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755441"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
