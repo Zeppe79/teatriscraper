@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T23:43:54.768128+00:00",
-  "count": 315,
+  "last_updated": "2026-11-18T13:37:22.056058+00:00",
+  "count": 406,
   "events": [
     {
       "id": "06d96a048e56",
@@ -160,6 +160,791 @@
         "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/45-il-caso-kerenes"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": true
+    },
+    {
+      "id": "93dd692465e4",
+      "title": "mutant/6LL3",
+      "date": "2026-04-30",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Uno spazio sospeso tra umano e artificiale, tra corpo e codice. mutant/6LL3 è uno spettacolo che indaga il concetto di identità nell’era contemporanea, dove i confini tra naturale e tecnologico diventano sempre più sottili e instabili. In un ambiente scenico immersivo e...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/mutant6LL3-Folio-di-sala-C.Quarta-Parete-e1777584499736-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/mutant-6ll3/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/mutant-6ll3/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "378949ff0dac",
+      "title": "Artedacqua",
+      "date": "2026-05-11",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "L’acqua è una metafora potentissima e poliedrica che simboleggia vita, morte, amore, tempo, purificazione, memoria, flusso e cambiamento. Artedanza porta in scena lo spettacolo di fine anno. “Artedacqua” un bene prezioso da custodire…. Due repliche: ore 17.00 e ore 20.00",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/IMG-20260511-WA0002-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/artedacqua/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/artedacqua/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "990e9e1a330a",
+      "title": "Il libro delle fate",
+      "date": "2026-05-11",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "ENCICLOPEDIA DEL MERAVIGLIOSO Questa notte, qualcosa nell’aria porta sussurri di risvegli. I fiori riaprono i loro petali. Occhi che dormivano da tempo si dischiudono, portando l’incanto di un passato colmo di racconti. Strane creature tornano a palpitare nel buio tra...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/sito-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-libro-delle-fate/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-libro-delle-fate/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "48b9598bf7e0",
+      "title": "Puttana (ENG)",
+      "date": "2026-05-13",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è un’opera di narrazione musicale sperimentale che mette al banco dei testimoni non i suoi protagonisti, ma la...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/manifesto-A3-spettacoli-EN-1-pdf.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/puttana-eng-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/puttana-eng-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "6f9ba3640463",
+      "title": "Boxeur (ENG)",
+      "date": "2026-05-13",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Boxeur è la storia di due pugili che, dopo aver lottato sul ring, si ritrovano a combattere contro la guerra. Siamo negli anni del fascismo e del nazismo: la Seconda Guerra Mondiale è alle porte. Eugenio e Victor sono due...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/05/manifesto-A3-spettacoli-EN-pdf.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/boxeur-eng/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/boxeur-eng/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "774328c081f7",
+      "title": "BAMBU 2026",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“BAMBU” è un progetto che mira allo sviluppo delle relazioni culturali con l’Africa subsahariana su basi di concreto e reciproco rispetto e coinvolge operatori italiani che promuovono buone pratiche di collaborazione creando un ponte tra l’offerta di spettacoli di danza...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/BAMBU-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/bambu-2026/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/bambu-2026/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "841673179fcf",
+      "title": "Puttana",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una ragazza ha bisogno di soldi. Un uomo ha bisogno di sesso. L’inizio è scontato. Il resto? È negli occhi di chi giudica. Puttana è un’opera di narrazione musicale sperimentale che mette al banco dei testimoni non i suoi protagonisti, ma la...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/DSC03508-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/puttana-8/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/puttana-8/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "2005e4c78d59",
+      "title": "Boxeur",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Boxeur è uno spettacolo che parla di un incontro di boxe, il più importante e atteso incontro di boxe del dopo-guerra.E’ il 1946. Parigi.La folla si accalca curiosa attorno al ring, tutti aspettano l’entrata dei due sfidanti: Eugenio Smit Lorenzoni e...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Boxeur-1-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/boxeur-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/boxeur-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "55635139d62d",
+      "title": "Il lungo pranzo di Natale",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“Il lungo pranzo di Natale” di Wilder è un atto unico in cui viene raccontata la storia di una famiglia borghese americana di fine ‘800. Novanta pranzi di Natale permettono di conoscere i componenti della famiglia; in un susseguirsi di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Il-Lungo-pranzo-di-Natale-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-lungo-pranzo-di-natale/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-lungo-pranzo-di-natale/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "288a1aa51f45",
+      "title": "Robert Johnson non se n’è mai andato",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Robert Johnson non se n’è mai andato è un viaggio nel Mississippi degli anni Trenta, dentro il mondo da cui è nato il blues e dentro la vita di un uomo che ha scelto di inseguire la musica senza sapere dove...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Robert-Johnson-non-se-ne-mai-andato-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/robert-johnson-non-se-ne-mai-andato/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/robert-johnson-non-se-ne-mai-andato/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "888c3174272a",
+      "title": "Sherlock Holmes",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Londra 2017, Baker Street. Mary, una giovane ragazza, riceve per posta un pacco misterioso contenente delle lettere scritte a mano e legate, fra loro, da un filo rosso di seta. Incuriosita, decide di iniziare a leggere i manoscritti e scopre...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/4.-Sherlock-Holmes-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/sherlock-holmes/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/sherlock-holmes/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "e1e1cdd58419",
+      "title": "Marionette girovaghe cabaret",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Madame e messeri ecco che arriva il Carretto delle Marionette Girovaghe!Insoliti personaggi pronti a esibirsi per regalare un sorriso, brevi sketch che vivono di musica coinvolgente, storie dal finale inaspettato e interazione con il pubblico.Marionette di legno scolpite con maestria,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/5.-Marionette-Girovaghe-2-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/marionette-girovaghe-cabaret/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/marionette-girovaghe-cabaret/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "d3662c4b88d8",
+      "title": "Il cuoco con la gamba di legno",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In scena due cuochi che raccontano allegramente e malinconicamente la storia di un tesoro, due che cercano di sopravvivere, scansando fucilate, evitando coltellate, nuotando in un mare pericoloso e camminando in una foresta infestata da zanzare, fantasie che non cancellano...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/6.-Il-cuoco-con-la-gamba-di-legno-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-cuoco-con-la-gamba-di-legno/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-cuoco-con-la-gamba-di-legno/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "70cd5151970b",
+      "title": "Magik Show",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "la magia esiste e non sarà sul palco sarà in platea! ridere, sorprendersi, legare con i propri genitori e parenti in uno spettacolo live! quella è la vera magia! in un contesto storico dove siamo abituati a sorprenderci davanti a...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/3.-mago-mikele-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/magik-show-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/magik-show-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "b2fca40c0091",
+      "title": "Tut per na firma sbaliada",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Adele, truffata a causa della sua ingenuità e buonafede, inizia un rapporto con la ditta “Costopoc” e si ritrova, suo malgrado, costretta ad acquistare un computer di cui ignora l’utilizzo. Di conseguenza, spese improbabili e fatte per errore, creano equivoci...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Tut-per-na-firma-sbaliada-e1789055830353-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/tut-per-na-firma-sbaliada/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/tut-per-na-firma-sbaliada/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ce08c3ed9ad7",
+      "title": "Ajò!",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una tranquilla domenica mattina, la famiglia dell’Onorevole Sperandio, viene sconvolta dall’arrivo di uno strano personaggio accompagnato dalla sua fedele capra… Costui, dopo essere entrato, si mette comodo e mangia… ma cosa vuole dall’Onorevole questo singolare personaggio e che cosa nasconde?Il...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/5.-Ajo-1-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/ajo/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/ajo/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "769e53214d87",
+      "title": "Atomic Tales",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Il 26 aprile 1986 esplode il reattore della centrale nucleare di Cernobyl: un evento che ha segnato le coscienze e che Aleksievich rievoca attraverso testimonianze e monologhi, tra i quali quello di Ljudmila Ignatenko, moglie di un vigile del fuoco....",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/2.-Atomic-tales-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/atomic-tales-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/atomic-tales-2/",
+        "https://www.teatrodivillazzano.it/event/atomic-tales/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ea6cf42b28c8",
+      "title": "Se ti sposo mi rovino",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cosa succede a un miliardario scapolo con “il vizio delle donne” se chiede a tutte di sposarlo? E se tutte piombano a casa sua con l’intento di organizzare le nozze, ma nessuna sa dell’esistenza dell’altra? Semplice, la sua vita è...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/3.-Se-mi-sposi-ti-rovino-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/se-ti-sposo-mi-rovino/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/se-ti-sposo-mi-rovino/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "2c1b358b141f",
+      "title": "E alla fine arriva Tommy",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "“E alla fine arriva Tommy”, una nuova esilarante commedia scritta e interpretata dalla crew composta da Mirko Cannella, Michele Iovane e Jey Libertino ai quali si aggiunge Lorenza Giacometti.Lo spettacolo, di cui firma la regia Giovanni De Anna, racconta di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/4.-e-alla-fine-arriva-Tommy-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/e-alla-fine-arriva-tommy/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/e-alla-fine-arriva-tommy/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "0ec627d107f4",
+      "title": "Co le femene le se m’ponta… el medico el posto el ghe donta",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In un paese di montagna, si sa, tutti si rivolgono al medico di base per i loro piccoli o grandi problemi esistenziali…ops… di salute. Ma alle donne di Telve non sembra che il Dottor Zadra svolga al meglio il suo ruolo:...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/6.-Co-le-femene-le-se-mponta-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/co-le-femene-le-se-mponta-el-medico-el-posto-el-ghe-donta/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/co-le-femene-le-se-mponta-el-medico-el-posto-el-ghe-donta/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "ec8a6d7310eb",
+      "title": "Tut per sparmiar",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tre amici e una sola grande passione: non spendere!Giacobbe, Isaia e Abramo sono tre vecchi amici accomunati da una passione sfrenata per il risparmio.Ma quando decidono di organizzare insieme persino il proprio funerale per non lasciare agli altri il peso...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/4.-Tut-per-sparmiar-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/tut-per-sparmiar/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/tut-per-sparmiar/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "5112637f8f6a",
+      "title": "Anche meno",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Un tormentone, un modo di dire, quasi un “idioms”, come direbbero gli inglesi, che ormai fa parte del nostro linguaggio e che racchiude in se la necessità di smorzare i toni, di alleggerire questa necessità di caricare allo stremo ogni...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Anche-meno-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/anche-meno/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/anche-meno/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "94de2f4a1341",
+      "title": "L’importanza de ciamarse Onesto",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Vivace e divertente commedia che vede protagonisti due amici scapoli, Alberto Marchiori ed Ernesto Vicentini che si inventano falsi personaggi per sfuggire ognuno ai propri impegni sociali portando ad esilaranti complicazioni quando entrambi si innamorano di donne, Guendalina e Cecilia,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Limportanza-de-ciamerse-Onesto-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/limportanza-de-ciamarse-onesto/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/limportanza-de-ciamarse-onesto/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "7cca0f055be0",
+      "title": "A chi tocca mia moglie?",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Parigi, fine ‘800. Clarisse accetta di sposare un uomo di cui non è innamorata imponendo una condizione: se dovesse incontrare l’uomo della sua vita, divorzierà immediatamente per stare con il nuovo amore. Dopo un anno di matrimonio, lui, stufo della...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/A-chi-tocca-mia-moglie-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/a-chi-tocca-mia-moglie/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/a-chi-tocca-mia-moglie/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "f85e5903d359",
+      "title": "Come ammazzare la moglie o il marito senza tanti perché",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La comicità di Amurri, stringata ed elegante, prorompe, in maniera emblematica, con una vena ironica dissacrante e con i suoi commenti e giudizi portati al limite di assurdi ma divertenti “consigli di rapida eliminazione”, mette sotto una spietata lente di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/COME-AMMAZZARE-MILANESI-MADDALENA-RIZZI-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/come-ammazzare-la-moglie-o-il-marito-senza-tanti-perche/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/come-ammazzare-la-moglie-o-il-marito-senza-tanti-perche/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "68071d67bb23",
+      "title": "Mi è scappato il morto",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In un appartamento, meta gettonata di incontro galanti, Nico, il proprietario, sta illustrando all’uomo che di lì a poco dovrà incontrarsi con la fascinosa Emilie, gli spazi e le particolarità della loro alcova d’amore. Il tour sembra essersi quasi concluso,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Mi-e-scappato-il-morto-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/mi-e-scappato-il-morto/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/mi-e-scappato-il-morto/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "9be8a19de6b6",
+      "title": "La vita mi è passata davanti e io… Tiè! L’ho doppiata",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Alfredo Colina. Attore. Uomo. Racconta. Quella volta che si sentiva Bukowski e, prima di entrare in scena, ha bevuto perfino le pozzanghere. Quella volta che ha dimenticato una pistola di scena nel trolley, e il metal detector dell’aeroporto non l’ha...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/8.Colina-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-vita-mi-e-passata-davanti-e-io-tie-lho-doppiata-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "cd92fc41c34c",
+      "title": "Quasi quasi ci ripenso",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Riccardo e Greta vogliono sposarsi in chiesa per usufruire di un bonus in denaro stanziato dal papa per combattere la crisi dei matrimoni religiosi. A guidarli nel ritiro spirituale di 3 giorni troveranno Don Nino, un prete particolare e molto...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Quasi-quasi-ci-ripenso-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/quasi-quasi-ci-ripenso/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/quasi-quasi-ci-ripenso/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "d08d8244fc9b",
+      "title": "Piacere, sono Operetta!",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Piacere, sono Operetta! è uno spettacolo musicale in cui l’Operetta diventa personaggio e voce narrante della propria storia. Con ironia, eleganza e un pizzico di vanità, accompagna il pubblico in un viaggio tra celebri melodie e piccole gemme meno conosciute,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/4.-Piacere-sono-Operetta-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/piacere-sono-operetta/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/piacere-sono-operetta/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "24b414a2ee36",
+      "title": "I meravigliosi viaggi di Gulliver",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una credenza e una cassapanca. Una vela e la prua di una nave. Il mobiletto della nonna. Un appendiabiti. Il mare in tempesta. E in tutto questo Lamuel Gulliver: un medico e aspirante marinaio. Immerso in una scenografia piena di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/1.-I-meravigliosi-viaggi-di-Gulliver--870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/i-meravigliosi-viaggi-di-gulliver/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/i-meravigliosi-viaggi-di-gulliver/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "5bfd77ffe76d",
+      "title": "Fill e Foll raccontano Cappuccetto Rosso",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tornano Fill e Foll per raccontarci le loro storie. O almeno per provarci. Dopo aver affrontato Amleto, I tre porcellini e improbabili storie di capre, questa volta hanno deciso di andare sul sicuro.Racconteranno la storia più conosciuta del mondo: Cappuccetto...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/2.-Cappuccetto-Rosso-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/fill-e-foll-raccontano-cappuccetto-rosso/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/fill-e-foll-raccontano-cappuccetto-rosso/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "890662f93061",
+      "title": "Rita",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "RITA è una tragicommedia che affronta con delicatezza e ironia il tema della difficoltà di “lasciare andare” le persone che amiamo. Interroga il significato della dignità nella vita e nella morte, ponendo domande scomode e profonde sulla legittimità di decidere...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/3.-Rita-870x550.png",
+      "source_url": "https://www.teatrodivillazzano.it/event/rita/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/rita/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "85e1b1c7d34d",
+      "title": "Confronti – Concerto di fine anno",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Dal 2017, il 30 dicembre al Teatro di Villazzano è diventato sinonimo del Concerto di Capodanno “Confronti” con l’Orchestra Aurona: un appuntamento ormai imperdibile. Negli anni questo concerto sinfonico si è trasformato in un affascinante viaggio musicale, capace di sorprendere...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2025/09/confronti-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno-2/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/confronti-concerto-di-fine-anno-2/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "afe32c0c9355",
+      "title": "Solo tre minuti",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Solo tre minuti è un musical che racconta la storia d’amore tra Cathy Hiatt, attrice in cerca di successo, e Jamie Wellerstein, giovane scrittore emergente. La narrazione segue un originale doppio percorso temporale: Jamie ripercorre la relazione dall’inizio alla fine,...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/3.-Solo-tre-minuti--870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/solo-3-minuti/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/solo-3-minuti/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "e115635c7ab7",
+      "title": "Vite Binarie",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Cosa succederebbe se il mondo frenetico a cui siamo abituati, che ci spinge a correre costantemente da una parte all’altra, si fermasse? In una stazione ferroviaria l’orologio sembra andare ad un ritmo tutto suo, creando una bolla atemporale, fatta di...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Vite-Binarie--870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/vite-binarie/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/vite-binarie/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "60f2d915f4ee",
+      "title": "5 minuti",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Quanto dura, in media, un provino?5 minuti. A volte una /Per tutti quelli che almeno una volta nella vita hanno dovuto sostenere un provino per una parte a teatro, in un film, l’ammissione a un talent show o semplicemente un...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/5-minuti-870x550.jpeg",
+      "source_url": "https://www.teatrodivillazzano.it/event/5-minuti/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/5-minuti/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "dc5a081c7066",
+      "title": "Flyover Country",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La drammaturgia si ispira a una serie di storie vere provenienti dall’America profonda: terre della Cintura della Ruggine, territori isolati, depressi, di frontiera. Aree soprannominate – dagli abitanti delle ricche e movimentate metropoli atlantiche e californiane flyover country: quel pezzo...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Flyover-country-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/flyover-country/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/flyover-country/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "e23a67f6317d",
+      "title": "Betly, o la capanna svizzera",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tra le opere più fresche e brillanti di Gaetano Donizetti, Betly, o La capanna svizzera (1840) è una commedia musicale ambientata tra le montagne svizzere, dove amore, ironia ed equivoci si intrecciano in una storia dal lieto fine.Betly è una...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/1.-Betly-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/betly-o-la-capanna-svizzera/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/betly-o-la-capanna-svizzera/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "a469430c52d2",
+      "title": "Betly al buio",
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Tra le opere più fresche e brillanti di Gaetano Donizetti, Betly, o La capanna svizzera (1840) è una commedia musicale ambientata tra le montagne svizzere, dove amore, ironia ed equivoci si intrecciano in una storia dal lieto fine.Betly è una...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/1.-Betly-1-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/betly-al-buio/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/betly-al-buio/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "047d6a7a98b2",
+      "title": "Non passare per il bosco",
+      "date": "2026-10-06",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Una commedia per tutta la famiglia che ribalta la celebre fiaba di Cappuccetto Rosso con ironia e leggerezza. In questa versione, i “cattivi” non sono poi così cattivi, e ciò che sembrava scontato si capovolge in un vortice di risate...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/Teatro-in-cortile-186-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/non-passare-per-il-bosco/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/non-passare-per-il-bosco/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "afbe789781c6",
+      "title": "La mia famiglia a Taipei",
+      "date": "2026-10-15",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La famiglia della piccola I-Jing torna a Taipei dopo diversi anni. Mentre la madre single fronteggia i debiti gestendo un chiosco in un vivace mercato notturno e la sorella maggiore contribuisce con un lavoretto part-time, la bambina esplora con meraviglia...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/6.-La-mia-famiglia-a-Taipei-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/la-mia-famiglia-a-taipei/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/la-mia-famiglia-a-taipei/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "aa1d1bc0c074",
+      "title": "Nino",
+      "date": "2026-10-15",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Alla vigilia del compleanno Nino viene informato in ospedale che il suo mal di gola è in realtà un cancro e che deve iniziare la chemioterapia da lì a tre giorni. Non dalle 5 alle 7 (come la Cléo del...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/5.-Nino-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/nino/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/nino/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "04fd8dff6dec",
+      "title": "Il caso 137",
+      "date": "2026-10-15",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "L’ispettrice Stéphanie viene incaricata di indagare su un gruppo di colleghi poliziotti sospettati di aver ferito gravemente un giovane durante una manifestazione. Man mano che l’inchiesta procede, la donna si trova ad affrontare reticenze interne e pressioni che metteranno a...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/4.-Il-caso-137-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-caso-137/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-caso-137/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "d910980d07d4",
+      "title": "Yalla Parkour",
+      "date": "2026-10-15",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "La regista torna idealmente a Gaza spinta dai ricordi d’infanzia e si imbatte nei video di una squadra di giovani che praticano parkour tra le macerie. Attraverso il legame con l’atleta Ahmed, il film esplora il contrasto tra il desiderio...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/3.-Yalla-Parkour-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/yalla-parkour/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/yalla-parkour/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "9a7a195a6cdf",
+      "title": "Il sentiero azzurro",
+      "date": "2026-10-15",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "In un Brasile del futuro prossimo, la parte più anziana della popolazione viene al tempo stesso celebrata e ostracizzata, in una serie di attività cerimoniali di facciata che nascondono un tentativo di controllo e di rimozione forzata dalla società. È...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/2.-Il-sentiero-azzurro-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-sentiero-azzurro/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/il-sentiero-azzurro/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "7d811a49eeb4",
+      "title": "HEN. Storia di una gallina",
+      "date": "2026-10-15",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Fuggita da un allevamento intensivo, una gallina dalle piume nere trova rifugio nel cortile di un fatiscente ristorante di provincia. L’animale sviluppa un’inaspettata intelligenza che sovverte le dinamiche del luogo, dando vita a un’ironica metafora sulle disuguaglianze sociali e sulle...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/10/1.-Hen-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/hen-storia-di-una-gallina/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/event/hen-storia-di-una-gallina/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "1a3610e2f19c",
+      "title": "Cineforum 2026/27",
+      "date": "2026-10-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "A Villazzano arriva il Cineforum: il mercoledì ci vediamo al cinema! Dal 4 novembre una nuova collaborazione con Cinema Mezzanotte porta sul grande schermo del Teatro di Villazzano film indipendenti e d’essai. Un nuovo appuntamento che guarda già oltre le...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Vil26_27_QuadratiSito_833x8337-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2026/10/19/cineforum-2026-27/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2026/10/19/cineforum-2026-27/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "21f89ac5490c",
+      "title": "DegustaTeatro 2026/27",
+      "date": "2026-10-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "DegustaTeatro 2026/27: le storie si ascoltano, ma si possono anche assaporare Al Teatro di Villazzano torna la rassegna che unisce spettacoli, incontri con gli artisti e degustazioni. Un viaggio tra teatro, territori e sapori. Cosa succede quando una serata a...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Vil26_27_QuadratiSito_833x8333-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2026/10/19/degustateatro-2026-27/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2026/10/19/degustateatro-2026-27/"
+      ],
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
+    },
+    {
+      "id": "c36f85a4aef7",
+      "title": "Stagione 26/27 – C’è vita fuori dall’acquario",
+      "date": "2026-10-19",
+      "time": null,
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "C’è vita fuori dall’acquario: la stagione 2026/27 del Teatro di Villazzano Dieci anni di TeatroE a Villazzano, venticinque anni di attività della compagnia e una nuova stagione tutta da scoprire. Tra commedie, musica, teatro contemporaneo, spettacoli per famiglie e nuove...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2017/08/Vil25_26_BannerSito_900x600-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/2026/10/19/stagione-26-27-ce-vita-fuori-dallacquario/",
+      "source_urls": [
+        "https://www.teatrodivillazzano.it/2026/10/19/stagione-26-27-ce-vita-fuori-dallacquario/"
+      ],
+      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -339,22 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "5f6e9b953f58",
-      "title": "Posso chiamarti?",
-      "date": "2026-11-17",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Teatro della Meraviglia 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/posso-chiamarti/28221971-1-ita-IT/Posso-chiamarti_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755264",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755264"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "4c91f92657a9",
       "title": "Storia del rock 1 - SOLD OUT",
       "date": "2026-11-18",
@@ -526,6 +1295,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/755430",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755430"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e3d5e31e6a84",
+      "title": "Rompi il silenzio. Amore non è violenza!",
+      "date": "2026-11-20",
+      "time": "20:00",
+      "venue": "Teatro Demattè di Ravina",
+      "location": "Trento",
+      "description": "ore 20:00",
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755739",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755739"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -916,6 +1701,38 @@
       "is_past": false
     },
     {
+      "id": "306db3d4d2d9",
+      "title": "La famiglia Bruscolin",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "",
+      "location": "Besenello",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755703",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755703"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c43e0fd4f9ea",
+      "title": "Tuti boni de ciacerar",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "venue": "",
+      "location": "Giovo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755702",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755702"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "5137efd51ef8",
       "title": "W Robin!",
       "date": "2026-11-21",
@@ -948,6 +1765,22 @@
       "is_past": false
     },
     {
+      "id": "df3d3fa4e362",
+      "title": "Zent de paes",
+      "date": "2026-11-21",
+      "time": "21:00",
+      "venue": "",
+      "location": "Arco",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755704",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755704"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "13746ecb2e4f",
       "title": "Gli stivali di Amanda",
       "date": "2026-11-22",
@@ -967,10 +1800,10 @@
       "id": "80aff0ff2f6c",
       "title": "Il circo in valigia",
       "date": "2026-11-22",
-      "time": "10:30",
+      "time": "10:00",
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
-      "description": "ore 10.30",
+      "description": "ore 10.00",
       "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753880",
       "source_urls": [
@@ -1284,6 +2117,22 @@
       "is_past": false
     },
     {
+      "id": "cd9bd05ac3b2",
+      "title": "L’è dut n craut",
+      "date": "2026-11-26",
+      "time": "20:30",
+      "venue": "",
+      "location": "Moena",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755705",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755705"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "1c3c5285e907",
       "title": "Se domani non torno",
       "date": "2026-11-26",
@@ -1444,6 +2293,38 @@
       "is_past": false
     },
     {
+      "id": "a7963d50007d",
+      "title": "L’è dut n craut",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": "",
+      "location": "Canazei",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755706",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755706"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f16b0d29ef60",
+      "title": "Due di noi",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": "",
+      "location": "Giustino",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755707",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755707"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9527b8b44917",
       "title": "Come narala a finir?",
       "date": "2026-11-28",
@@ -1599,6 +2480,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754353",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754353"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6be1c02e0cf5",
+      "title": "L’è dut n craut",
+      "date": "2026-11-29",
+      "time": "15:00",
+      "venue": "",
+      "location": "Canazei",
+      "description": "ore 15.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755708",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755708"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1791,6 +2688,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754103",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754103"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "e5b9a06428ce",
+      "title": "Mondi Sonori | Risonanze della ricerca artistica",
+      "date": "2026-12-03",
+      "time": "09:30",
+      "venue": "Conservatorio di musica \"F. A. Bonporti\"",
+      "location": "Trento",
+      "description": "dalle ore 9.30 di giovedì 3 dicembre",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755717",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755717"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2068,6 +2981,38 @@
       "is_past": false
     },
     {
+      "id": "14cb6e3510ca",
+      "title": "Na gabia de mati",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "Teatro Don Bosco di Tenno",
+      "location": "Tenno",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755710",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755710"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0f43e3907d34",
+      "title": "Volpone",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "",
+      "location": "Ala",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755709",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755709"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "75cc7564f947",
       "title": "La come siamo contenti",
       "date": "2026-12-05",
@@ -2308,6 +3253,38 @@
       "is_past": false
     },
     {
+      "id": "badc55574f4a",
+      "title": "Le bosìe le g’ha le gambe corte",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755712",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755712"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0369d0d24dfd",
+      "title": "La scuola delle mogli",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "venue": "",
+      "location": "Mori",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755711",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755711"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2248fd7c0847",
       "title": "Vita e avventure di Babbo Natale",
       "date": "2026-12-12",
@@ -2389,6 +3366,22 @@
       "is_past": false
     },
     {
+      "id": "e0323281c776",
+      "title": "Zent de paes",
+      "date": "2026-12-12",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755713",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755713"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "83bb291af105",
       "title": "Sinistra o destra stessa minestra",
       "date": "2026-12-12",
@@ -2400,6 +3393,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753344",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753344"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ff9896615606",
+      "title": "La famiglia Bruscolin",
+      "date": "2026-12-12",
+      "time": "20:45",
+      "venue": "",
+      "location": "Villa Lagarina",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755714",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755714"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2512,6 +3521,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754641",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754641"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "336b32b22eee",
+      "title": "La scuola delle mogli",
+      "date": "2026-12-13",
+      "time": "20:30",
+      "venue": "",
+      "location": "Mori",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755715",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755715"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -2693,6 +3718,22 @@
       "is_past": false
     },
     {
+      "id": "1d82a87c37e2",
+      "title": "Chicago 1929: omicidio di un boss",
+      "date": "2026-12-19",
+      "time": "20:30",
+      "venue": "",
+      "location": "Giustino",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755716",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755716"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "3ebe04b908e6",
       "title": "Otto volte mistero",
       "date": "2026-12-19",
@@ -2853,6 +3894,22 @@
       "is_past": false
     },
     {
+      "id": "d879636dc487",
+      "title": "Vendesi attività",
+      "date": "2026-12-25",
+      "time": "20:30",
+      "venue": "",
+      "location": "Roverè della Luna",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755719",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755719"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "367c708c4ec7",
       "title": "Nella vecchia fattoria",
       "date": "2026-12-26",
@@ -2949,6 +4006,22 @@
       "is_past": false
     },
     {
+      "id": "24ddf9448a1f",
+      "title": "Vendesi attività",
+      "date": "2026-12-27",
+      "time": "20:30",
+      "venue": "",
+      "location": "Roverè della Luna",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755720",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755720"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "2f41c7b71e8a",
       "title": "Una renna alla vecchia fattoria",
       "date": "2026-12-29",
@@ -2960,6 +4033,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754383",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754383"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "049f1f2de0e2",
+      "title": "Piciola bosìa, gran rebalton",
+      "date": "2027-01-02",
+      "time": "21:00",
+      "venue": "",
+      "location": "Ville d'Anaunia",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755721",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755721"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "3f71b33faae5",
+      "title": "Na carega col cusin",
+      "date": "2027-01-03",
+      "time": "17:00",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755723",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755723"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3093,6 +4198,38 @@
       "is_past": false
     },
     {
+      "id": "d9ebbc649a7b",
+      "title": "La valisèta",
+      "date": "2027-01-09",
+      "time": "20:30",
+      "venue": "",
+      "location": "Valfloriana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755730",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755730"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "95d390e0475b",
+      "title": "Tut colpa de l’ors",
+      "date": "2027-01-09",
+      "time": "20:30",
+      "venue": "",
+      "location": "Roverè della Luna",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755724",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755724"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "065ff939e068",
       "title": "Le tre Marie",
       "date": "2027-01-09",
@@ -3136,6 +4273,70 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753479",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753479"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2c4124ccc753",
+      "title": "Ti porterò con me",
+      "date": "2027-01-09",
+      "time": "20:45",
+      "venue": "Teatro San Gottardo di Mezzocorona",
+      "location": "Mezzocorona",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755731",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755731"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "c5d0faad41eb",
+      "title": "Volpone",
+      "date": "2027-01-09",
+      "time": "20:45",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755732",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755732"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ec34156448cf",
+      "title": "Vento dall’est",
+      "date": "2027-01-10",
+      "time": "17:00",
+      "venue": "Teatro di Cognola",
+      "location": "Trento",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755734",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755734"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "152516012945",
+      "title": "La famiglia Bruscolin",
+      "date": "2027-01-10",
+      "time": "17:30",
+      "venue": "Cinema Teatro Dolomiti di Coredo",
+      "location": "Predaia",
+      "description": "ore 17.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755735",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755735"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3269,6 +4470,22 @@
       "is_past": false
     },
     {
+      "id": "4b0d63423aa3",
+      "title": "Gioco pericoloso",
+      "date": "2027-01-15",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755736",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755736"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "bb162c343138",
       "title": "Fragolina",
       "date": "2027-01-16",
@@ -3349,6 +4566,22 @@
       "is_past": false
     },
     {
+      "id": "fd4eac2ba428",
+      "title": "La sat la penultima?",
+      "date": "2027-01-16",
+      "time": "20:30",
+      "venue": "",
+      "location": "Ton",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755737",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755737"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "51c78a575564",
       "title": "Sinistra o destra stessa minestra",
       "date": "2027-01-16",
@@ -3413,6 +4646,70 @@
       "is_past": false
     },
     {
+      "id": "6d49842917d7",
+      "title": "Na malga par .. doe! Stavolta el malgaro l’ha ciapà na n’cavicià",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "Teatro Parrocchiale di Scurelle",
+      "location": "Scurelle",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755742",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755742"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2515044286c8",
+      "title": "Niente panico!",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "Teatro San Gottardo di Mezzocorona",
+      "location": "Mezzocorona",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755740",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755740"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "15562e80f0d6",
+      "title": "Nuda e per pochi soldi",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "",
+      "location": "Frassilongo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755738",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755738"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "6a18d547cb88",
+      "title": "Na carega col cusin",
+      "date": "2027-01-16",
+      "time": "20:45",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755741",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755741"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "046bbacac7a7",
       "title": "Nome in codice Afrodite",
       "date": "2027-01-16",
@@ -3440,6 +4737,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754329",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754329"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "604fdabef658",
+      "title": "L’asso nella tonaca",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "venue": "",
+      "location": "Romeno",
+      "description": "ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755743",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755743"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3733,6 +5046,22 @@
       "is_past": false
     },
     {
+      "id": "9e618175e3b2",
+      "title": "Nuda e per pochi soldi",
+      "date": "2027-01-22",
+      "time": "20:45",
+      "venue": "",
+      "location": "Fiavé",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755744",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755744"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9c2ed046081d",
       "title": "Riccardo Tesi, Quartetto Elastico - Paesaggi Sonori",
       "date": "2027-01-22",
@@ -3776,6 +5105,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754391",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754391"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "156415d3f6ad",
+      "title": "L’algeri? L’è vegnù algeri!",
+      "date": "2027-01-23",
+      "time": "20:30",
+      "venue": "",
+      "location": "Giustino",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755745",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755745"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "994b5d7f6dc8",
+      "title": "La sat la penultima?",
+      "date": "2027-01-23",
+      "time": "20:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755746",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755746"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3840,6 +5201,70 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753480",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753480"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "857ed5194039",
+      "title": "Quattro bombe in tasca",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "Teatro San Gottardo di Mezzocorona",
+      "location": "Mezzocorona",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755748",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755748"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f9d78ca69fec",
+      "title": "Na carega col cusin",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "",
+      "location": "Romallo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755747",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755747"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "64751f62104b",
+      "title": "Nome in codice Afrodite",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "",
+      "location": "Giovo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755749",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755749"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "7256772a4144",
+      "title": "La valisèta",
+      "date": "2027-01-23",
+      "time": "20:45",
+      "venue": "",
+      "location": "Vallelaghi",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755752",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755752"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4930,6 +6355,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754682",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754682"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ca3c18356c83",
+      "title": "Antonio Ornano - Il bar sotto il mare",
+      "date": "2027-02-16",
+      "time": "20:30",
+      "venue": "Auditorium Santa Chiara - Trento",
+      "location": "Trento",
+      "description": "Stagione AudiPOP 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751400",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751400"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "72f3a57d0d21",
+      "title": "Alfonsina corridora | APERTO AL PUBBLICO",
+      "date": "2027-02-16",
+      "time": "20:30",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753674",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753674"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
