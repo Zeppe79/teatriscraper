@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T23:14:55.955193+00:00",
-  "count": 406,
+  "last_updated": "2026-11-19T14:04:06.549694+00:00",
+  "count": 403,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1124,70 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "4c91f92657a9",
-      "title": "Storia del rock 1 - SOLD OUT",
-      "date": "2026-11-18",
-      "time": "09:00",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La scuola va a teatro 2026/2027 | ore 9.00 | Replica alle ore 11.00\nEVENTO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/storia-del-rock/28162205-1-ita-IT/Storia-del-rock_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753641",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753641"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "313b2b037d1b",
-      "title": "A small anatomy | De Dansers",
-      "date": "2026-11-18",
-      "time": "10:00",
-      "venue": "Teatro Sociale ",
-      "location": "Trento",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600-1/28089281-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751408",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751408"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "ff59bdc47ef0",
-      "title": "Ridere, sganasciarsi, scompisciarsi",
-      "date": "2026-11-18",
-      "time": "20:30",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/rideresganasciarsiscompisciarsi2/28137840-1-ita-IT/rideresganasciarsiscompisciarsi2_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752862",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752862"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "67ed06d14288",
-      "title": "Mai più Majorana",
-      "date": "2026-11-18",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Teatro della Meraviglia 2026 | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mai-piu-majorana/28222104-1-ita-IT/Mai-piu-Majorana_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755274",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755274"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "2c931f624ade",
       "title": "Naufragio con spettatore",
       "date": "2026-11-19",
@@ -1339,7 +1275,7 @@
       "venue": "",
       "location": "Revò",
       "description": "ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753882",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753882"
@@ -1371,7 +1307,7 @@
       "venue": "",
       "location": "Castelnuovo",
       "description": "ore 20.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753873",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753873"
@@ -1612,7 +1548,7 @@
       "venue": "Teatro San Domenico Savio di Olle",
       "location": "Borgo Valsugana",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753875",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753875"
@@ -1628,7 +1564,7 @@
       "venue": "Cinema Teatro Paradiso di Folgaria",
       "location": "Folgaria",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753877",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753877"
@@ -2208,22 +2144,6 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753953",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753953"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "033b2e6df24f",
-      "title": "Fagioli",
-      "date": "2026-11-28",
-      "time": "17:00",
-      "venue": "",
-      "location": "Frassilongo",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.00",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755011",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755011"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -6387,6 +6307,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753674",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753674"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a57b8f4ca750",
+      "title": "Rose nell'insalata | Schedìa Teatro",
+      "date": "2027-02-17",
+      "time": "10:00",
+      "venue": "Teatro Cuminetti",
+      "location": "Trento",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE\nil 17 febbraio presso il Teatro Cuminetti di Trento\nil 18 febbraio presso l'Auditorium Melotti di Rovereto",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751413",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751413"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fbfe31fa1110",
+      "title": "Alfonsina corridora",
+      "date": "2027-02-17",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nRISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753676",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753676"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
