@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T13:12:06.366264+00:00",
+  "last_updated": "2026-11-21T21:59:19.170136+00:00",
   "count": 403,
   "events": [
     {
@@ -1717,6 +1717,22 @@
       "is_past": false
     },
     {
+      "id": "84e1512876f9",
+      "title": "Cinemamore - Lavis",
+      "date": "2026-11-22",
+      "time": "20:00",
+      "venue": "Auditorium, Lavis (Tn)",
+      "location": "Lavis",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070656-394394.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/cinemamore-lavis.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/cinemamore-lavis.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "4a6dfeca759c",
       "title": "Sulla leggerezza - Virgilio Sieni",
       "date": "2026-11-22",
@@ -1874,22 +1890,6 @@
         "https://www.cultura.trentino.it/content/view/full/753646"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "49f9177da91a",
-      "title": "Emanuel Gat Dance - Five days in the sun",
-      "date": "2026-11-25",
-      "time": "20:30",
-      "venue": "Teatro Comunale, Piazza Verdi, Bolzano",
-      "location": "Bolzano",
-      "description": "Coreografia, scenografia e luci Emanuel Gat / musica Gustav Mahler, Sinfonia n. 5 in do diesis minore (movimenti 1-4), Wiener Philharmoniker, Leonard Bernstein, 1987 / creazione sonora aggiuntiva Emanuel Gat / costumi VICHER / con Emma Bogerd, Théo Brassart, Geremia Cappagli, Léa Delaporte, Zohar Kotz, Itai Meir, Giulia Quacqueri, Johanne Skogstad, Katherina Solvang, Noah Tyrell, Anaïs Van Caekenberghe, Winter Wieringa / direttore tecnico Guillaume Fevrier / sound designer Frédéric Duru / produz",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/069836-03944.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/emanuel-gat-dance-five-days-in-the-sun.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/emanuel-gat-dance-five-days-in-the-sun.html"
-      ],
-      "source_name": "crushsite.it",
       "is_past": false
     },
     {
