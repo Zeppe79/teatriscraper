@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T22:55:37.116655+00:00",
+  "last_updated": "2026-11-21T13:12:06.366264+00:00",
   "count": 403,
   "events": [
     {
@@ -1124,70 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "570e04665695",
-      "title": "Rita",
-      "date": "2026-11-20",
-      "time": "11:00",
-      "venue": "Teatro Comunale di Pergine",
-      "location": "Pergine Valsugana",
-      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 11.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/20-novembre/28140490-1-ita-IT/20-novembre_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/752959",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/752959"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "b34743bbadf4",
-      "title": "La forza di dire NO",
-      "date": "2026-11-20",
-      "time": "18:30",
-      "venue": "",
-      "location": "Trento",
-      "description": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione | alle 18.30 alla Libreria Due Punti;\nalle 21.00 a Spazio Artificio",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dire-di-se-_slide1_ig-pequod-compagnia3/28226571-1-ita-IT/Dire-di-se-_slide1_IG-Pequod-Compagnia_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755430",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755430"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e3d5e31e6a84",
-      "title": "Rompi il silenzio. Amore non è violenza!",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "venue": "Teatro Demattè di Ravina",
-      "location": "Trento",
-      "description": "ore 20:00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755739",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755739"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "daa142e1296a",
-      "title": "Symphonika on the Rock",
-      "date": "2026-11-20",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Torna il grande spettacolo SYMPHONIKA ON THE ROCK: il tributo alle grandi leggende del rock che unisce le generazioni. Dopo la tournee nei maggiori teatri italiani ed europei, e grandi show estivi in prestigiose location, con spettacoli da standing ovation e soldout, si preannuncia una nuova stagione ricca di appuntamenti imperdibili. I Symphonika tornano con una miscela esplosiva di rock sinfonico per far rivivere i fasti delle leggendarie hit anni 60, 70 e 80 che hanno fatto sognare intere gen",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026symphonika-on-the-rock_129530.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026symphonika-on-the-rock_129530.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
       "id": "6603861ffd61",
       "title": "Clownerentola",
       "date": "2026-11-21",
@@ -1227,7 +1163,7 @@
       "venue": "Cinema Teatro Parrocchiale di Cles",
       "location": "Cles",
       "description": "Teatro Val di Non | Stagione 2026/2027 | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754692",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754692"
@@ -1371,7 +1307,7 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753874",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753874"
@@ -1532,7 +1468,7 @@
       "venue": "Teatro parrocchiale di Avio",
       "location": "Avio",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754417",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754417"
@@ -1938,6 +1874,22 @@
         "https://www.cultura.trentino.it/content/view/full/753646"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "49f9177da91a",
+      "title": "Emanuel Gat Dance - Five days in the sun",
+      "date": "2026-11-25",
+      "time": "20:30",
+      "venue": "Teatro Comunale, Piazza Verdi, Bolzano",
+      "location": "Bolzano",
+      "description": "Coreografia, scenografia e luci Emanuel Gat / musica Gustav Mahler, Sinfonia n. 5 in do diesis minore (movimenti 1-4), Wiener Philharmoniker, Leonard Bernstein, 1987 / creazione sonora aggiuntiva Emanuel Gat / costumi VICHER / con Emma Bogerd, Théo Brassart, Geremia Cappagli, Léa Delaporte, Zohar Kotz, Itai Meir, Giulia Quacqueri, Johanne Skogstad, Katherina Solvang, Noah Tyrell, Anaïs Van Caekenberghe, Winter Wieringa / direttore tecnico Guillaume Fevrier / sound designer Frédéric Duru / produz",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069836-03944.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/emanuel-gat-dance-five-days-in-the-sun.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/emanuel-gat-dance-five-days-in-the-sun.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6355,6 +6307,54 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754787",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754787"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "b3fbc6fa1045",
+      "title": "A silly fox",
+      "date": "2027-02-19",
+      "time": "09:00",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Teatro per le scuole  2026-2027 | Teatro comunale di Pergine | ore 9.00 e 11.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752951",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752951"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ef368164c0ab",
+      "title": "Poco più in là",
+      "date": "2027-02-19",
+      "time": "10:15",
+      "venue": "Teatro San Marco",
+      "location": "Trento",
+      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nRISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753682",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753682"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "fc3a99992b90",
+      "title": "Una cena d’addio",
+      "date": "2027-02-19",
+      "time": "20:30",
+      "venue": "Teatro di Meano",
+      "location": "Trento",
+      "description": "Stagione professionale | Teatro di Meano | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753378",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753378"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
