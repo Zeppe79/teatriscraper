@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T01:14:16.122282+00:00",
-  "count": 382,
+  "last_updated": "2026-11-25T15:14:05.967756+00:00",
+  "count": 390,
   "events": [
     {
       "id": "06d96a048e56",
@@ -297,7 +297,7 @@
       "time": null,
       "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": "“Il lungo pranzo di Natale” di Wilder è un atto unico in cui viene raccontata la storia di una famiglia borghese americana di fine ‘800. Novanta pranzi di Natale permettono di conoscere i componenti della famiglia; in un susseguirsi di...",
+      "description": "Una famiglia a Natale” ha come protagonista il pranzo di Natale. Attorno a questa tavola apparecchiata le generazioni si susseguono portando con sé nuove dinamiche e visioni del mondo. Il giorno di Natale è il momento in cui fare il...",
       "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/09/Il-Lungo-pranzo-di-Natale-870x550.png",
       "source_url": "https://www.teatrodivillazzano.it/event/il-lungo-pranzo-di-natale/",
       "source_urls": [
@@ -1307,7 +1307,7 @@
       "venue": "",
       "location": "Moena",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755705",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755705"
@@ -1371,7 +1371,7 @@
       "venue": "",
       "location": "Predaia",
       "description": "ore 19.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753361",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753361"
@@ -1391,6 +1391,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754281",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754281"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "f94e3cb2d96c",
+      "title": "Rosso di sera",
+      "date": "2026-11-27",
+      "time": "20:30",
+      "venue": "",
+      "location": "Telve",
+      "description": "ore 20.30",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
+      "source_url": "https://www.cultura.trentino.it/content/view/full/756056",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/756056"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -1499,7 +1515,7 @@
       "venue": "",
       "location": "Cloz",
       "description": "ore 19.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753883",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753883"
@@ -1515,7 +1531,7 @@
       "venue": "Teatro Comunale di Bedollo",
       "location": "Bedollo",
       "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753884",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753884"
@@ -1595,7 +1611,7 @@
       "venue": "",
       "location": "Madruzzo",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753388",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753388"
@@ -1611,7 +1627,7 @@
       "venue": "",
       "location": "Telve",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753460",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753460"
@@ -1643,7 +1659,7 @@
       "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
       "location": "Civezzano",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753886",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753886"
@@ -1659,7 +1675,7 @@
       "venue": "Teatro parrocchiale di Sabbionara",
       "location": "Avio",
       "description": "ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": null,
       "source_url": "https://www.cultura.trentino.it/content/view/full/753887",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753887"
@@ -1723,7 +1739,7 @@
       "venue": "",
       "location": "Arco",
       "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-2303/27755635-1-ita-IT/sfondo-ocra-230_opengraph.jpg",
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753475",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753475"
@@ -2309,22 +2325,6 @@
       "is_past": false
     },
     {
-      "id": "14cb6e3510ca",
-      "title": "Na gabia de mati",
-      "date": "2026-12-05",
-      "time": "20:30",
-      "venue": "Teatro Don Bosco di Tenno",
-      "location": "Tenno",
-      "description": "ore 20.30",
-      "image_url": null,
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755710",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755710"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
       "id": "0f43e3907d34",
       "title": "Volpone",
       "date": "2026-12-05",
@@ -2336,6 +2336,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/755709",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755709"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "763f53c1ea2a",
+      "title": "Na gabia de mati",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "venue": "",
+      "location": "Tenna",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755710",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755710"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -3062,6 +3078,22 @@
       "is_past": false
     },
     {
+      "id": "16e0e73416eb",
+      "title": "Il teatro allunga la tua notte – IX Edizione",
+      "date": "2026-12-19",
+      "time": "18:00",
+      "venue": "Teatro Comunale di Ospedaletto",
+      "location": "Ospedaletto",
+      "description": "ore 18.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/756058",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/756058"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "e117f173e7aa",
       "title": "Il portale magico del Polo Nord",
       "date": "2026-12-19",
@@ -3606,6 +3638,22 @@
       "is_past": false
     },
     {
+      "id": "814744fed863",
+      "title": "7 donne e un mistero",
+      "date": "2027-01-09",
+      "time": "20:30",
+      "venue": "",
+      "location": "Spiazzo",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/756059",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/756059"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "065ff939e068",
       "title": "Le tre Marie",
       "date": "2027-01-09",
@@ -3681,6 +3729,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/755732",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755732"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "0f47c726e596",
+      "title": "Tut per sparmiar",
+      "date": "2027-01-09",
+      "time": "20:45",
+      "venue": "Teatro Comunale Luigi Pirandello di Civezzano",
+      "location": "Civezzano",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/756061",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/756061"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
@@ -4950,6 +5014,38 @@
       "is_past": false
     },
     {
+      "id": "90347955709d",
+      "title": "Gioco pericoloso",
+      "date": "2027-01-30",
+      "time": "20:30",
+      "venue": "",
+      "location": "Tre Ville",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755973",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755973"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "bfe5c7ea59df",
+      "title": "Chat a due piazze",
+      "date": "2027-01-30",
+      "time": "20:30",
+      "venue": "",
+      "location": "Pergine Valsugana",
+      "description": "ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755971",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755971"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "9e3ff58ec08e",
       "title": "Kohlhaas",
       "date": "2027-01-30",
@@ -5015,6 +5111,22 @@
       "is_past": false
     },
     {
+      "id": "c6e572454132",
+      "title": "Con tut el ben che te vòi",
+      "date": "2027-01-30",
+      "time": "20:45",
+      "venue": "",
+      "location": "Madruzzo",
+      "description": "ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755976",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755976"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "079b039de67b",
       "title": "Gioco da ragazzi",
       "date": "2027-01-30",
@@ -5058,6 +5170,22 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/753391",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753391"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "dd1896bc5cda",
+      "title": "Nuda e per pochi soldi",
+      "date": "2027-01-31",
+      "time": "17:00",
+      "venue": "",
+      "location": "Romeno",
+      "description": "ore 17.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755986",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755986"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
