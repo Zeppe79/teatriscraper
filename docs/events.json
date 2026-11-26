@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T15:14:05.967756+00:00",
-  "count": 390,
+  "last_updated": "2026-11-26T00:49:05.832587+00:00",
+  "count": 389,
   "events": [
     {
       "id": "06d96a048e56",
@@ -1137,39 +1137,7 @@
         "https://www.cultura.trentino.it/content/view/full/751409"
       ],
       "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "fe0b2ddb38a9",
-      "title": "Storia di un no | replica - SOLD OUT",
-      "date": "2026-11-25",
-      "time": "10:15",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "La scuola va a teatro 2026/2027 | ore 10.15\nEVENTO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/storia-di-un-no3/28162373-1-ita-IT/storia-di-un-no_opengraph.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753646",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753646"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "27126c134a86",
-      "title": "Devi solo ringraziare",
-      "date": "2026-11-25",
-      "time": "18:30",
-      "venue": "Teatro di Meano",
-      "location": "Trento",
-      "description": "ore 18.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755838",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755838"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "49f9177da91a",
@@ -1185,87 +1153,7 @@
         "https://www.crushsite.it/it/danza-teatro/2026/emanuel-gat-dance-five-days-in-the-sun.html"
       ],
       "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "f18251da3794",
-      "title": "Vestire gli ignudi - Teatro Stabile del Veneto",
-      "date": "2026-11-25",
-      "time": "20:30",
-      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Di Luigi Pirandello / Regia Alessandro Businaro / Con Francesca Accolla, Claudia Manuelli, Eleonora Panizzo, Elisa Pastore, Federica Chiara Serpe, Matilde Sgarbossa / Dramaturg del progetto Stefano Fortin / Scene Rosita Vallefuoco / Luci Desideria Angeloni / Suono Dario Felli, Federico Mezzana / Assistente alla regia Chiara Businaro / Produzione TSV - Teatro Nazionale / Lo spettacolo si inserisce nel progetto della Compagnia Giovani, parte dell’Accordo di Programma tra Regione Veneto e Teatro St",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070698-roeroer.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/vestire-gli-ignudi-teatro-stabile-del-veneto.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/vestire-gli-ignudi-teatro-stabile-del-veneto.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "4d65c1478e39",
-      "title": "Raul Cremona - Bravisssssimo!",
-      "date": "2026-11-25",
-      "time": "21:00",
-      "venue": "Auditorium Santa Chiara - Trento",
-      "location": "Trento",
-      "description": "ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra-4282/28059889-1-ita-IT/sfondo-ocra-428_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/750485",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/750485"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "9164fa21eb2a",
-      "title": "Complessità – Il gioco della vita",
-      "date": "2026-11-25",
-      "time": "21:00",
-      "venue": "",
-      "location": "Sella Giudicarie",
-      "description": "Teatro Giudicarie | Stagione 2026/2027 | ore 21.00",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754322",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754322"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "38b904053df4",
-      "title": "Complessità – Il gioco della vita",
-      "date": "2026-11-25",
-      "time": "21:00",
-      "venue": "Teatro parrocchiale, Roncone (Tn)",
-      "location": "Roncone",
-      "description": "Drammaturgia: Andrea Brunello / Con: Maria Vittoria Barrella e Andrea Brunello / Regia: Manfredi Rutelli e Michela Marelli / Musiche originali: Carlo Casillo / Video: Tommaso Rosi / Luci: Fabrizio Visconti / Scenografie: Tessa Battisti / Tecnica: Giacomo Gottardi / Coproduzione: Arditodesìo, Centro Servizi Culturali Santa Chiara e Teatro Stabile di Bolzano Con il supporto di: Fondazione Caritro, Provincia Autonoma di Trento e Regione Autonoma Trentino Alto Adige/Südtirol Età/pubblico: Adulti/rag",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070667-4039434.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_128345_129897_129898.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_128345_129897_129898.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "c6ce95aefdf4",
-      "title": "Raul Cremona - Bravissssssimo!",
-      "date": "2026-11-25",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Raul Cremona torna in scena con il suo nuovo spettacolo “Bravissssssimo”, un recital magico/comico che promette diincantare e divertire il pubblico per un’ora e mezza di puro intrattenimento. Raul si esibisce in una serie di numeri irresistibili, mescolando abilmente l’arte della magia con il suo inconfondibilehumour. Attraverso giochi di prestigio, illusioni e gag comiche, Cremona trasporta il pubblico in un mondo incantato esurreale, dove nulla è come sembra e tutto è possibile. Il talento e l",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070487-434345.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/raul-cremona-bravissssssimo.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/raul-cremona-bravissssssimo.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "is_past": true
     },
     {
       "id": "2958785e0d73",
@@ -1492,6 +1380,22 @@
       "is_past": false
     },
     {
+      "id": "c7d6efaceb56",
+      "title": "Cinemamore - Riva del Garda",
+      "date": "2026-11-28",
+      "time": "16:00",
+      "venue": "MAG (Museo Alto Garda), Riva del Garda (Tn)",
+      "location": "Riva del Garda",
+      "description": "Ingresso libero",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/070696-cine.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/cinemamore-riva-del-garda.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/cinemamore-riva-del-garda.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "1d90a7c35b8a",
       "title": "Divenuta docile",
       "date": "2026-11-28",
@@ -1524,6 +1428,22 @@
       "is_past": false
     },
     {
+      "id": "bad80ea8966e",
+      "title": "Hans Zimmer by Ensemble Symphony Orchestra",
+      "date": "2026-11-28",
+      "time": "20:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Il tour tributo dell’Ensemble Symphony Orchestra diretta da Giacomo Loprieno dedicato a Hans Zimmer parte il 21 ottobre 2026 dal Politeama Genovese. Tappe nei più prestigiosi teatri italiani per omaggiare il grande compositore statunitense che si è aggiudicato Oscar, Golden Globes ed Emmy per aver composto le colonne sonore di capolavori entrati nella storia del cinema e nell’immaginario collettivo. 50 ARTISTI IN SCENA I 50 elementi dell’Ensemble Symphony Orchestra, tra cui prestigiosi solisti f",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/hans-zimmer-by-ensemble-symphony-orchestra.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/hans-zimmer-by-ensemble-symphony-orchestra.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
       "id": "c56202bc7310",
       "title": "Tut colpa de l’ors",
       "date": "2026-11-28",
@@ -1547,7 +1467,7 @@
       "venue": "Cinema Teatro di Cembra Lisignago",
       "location": "Cembra Lisignago",
       "description": "Teatro di Cembra - Lisignago | Stagione 2026/2027 | ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754663",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754663"
@@ -1675,7 +1595,7 @@
       "venue": "Teatro parrocchiale di Sabbionara",
       "location": "Avio",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753887",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753887"
@@ -1691,7 +1611,7 @@
       "venue": "",
       "location": "Grigno",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753885",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753885"
@@ -1707,7 +1627,7 @@
       "venue": "Cinema Teatro Comunale di Tesero",
       "location": "Tesero",
       "description": "ore 20.45",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/754150",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754150"
@@ -1745,6 +1665,22 @@
         "https://www.cultura.trentino.it/content/view/full/753475"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "17a54400290e",
+      "title": "Concerto di beneficienza Pinkside",
+      "date": "2026-11-28",
+      "time": "21:00",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it/",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/concerto-di-beneficienza-pinkside.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/concerto-di-beneficienza-pinkside.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6168,6 +6104,38 @@
       "is_past": false
     },
     {
+      "id": "b50d87143aaa",
+      "title": "Beata oscenità",
+      "date": "2027-02-24",
+      "time": "20:30",
+      "venue": "Teatro Comunale di Pergine",
+      "location": "Pergine Valsugana",
+      "description": "Stagione 2026-2027 | Teatro comunale di Pergine | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752876",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752876"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "47d42ed7aca8",
+      "title": "Tre variazioni della vita",
+      "date": "2027-02-24",
+      "time": "20:30",
+      "venue": "Teatro Zandonai",
+      "location": "Rovereto",
+      "description": "Teatro di Rovereto | Stagione 2026/2027 | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/753814",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/753814"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "ce2964354f8e",
       "title": "Beata oscenità",
       "date": "2027-02-24",
@@ -6181,6 +6149,22 @@
         "https://www.teatrodipergine.it/teatro/2953-beata-oscenita"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "1b80e55bc94b",
+      "title": "Amleto a pranzo e a cena",
+      "date": "2027-02-24",
+      "time": "20:45",
+      "venue": "Cinema Teatro Comunale di Tesero",
+      "location": "Tesero",
+      "description": "Teatro Fiemme | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754683",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754683"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
