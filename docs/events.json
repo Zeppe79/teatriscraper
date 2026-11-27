@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T14:39:36.142121+00:00",
+  "last_updated": "2026-11-27T00:55:29.142062+00:00",
   "count": 389,
   "events": [
     {
@@ -1124,22 +1124,6 @@
       "is_past": true
     },
     {
-      "id": "86a33a89366a",
-      "title": "Vestire gli ignudi | De Dansers",
-      "date": "2026-11-25",
-      "time": "10:00",
-      "venue": "Teatro Cuminetti",
-      "location": "Trento",
-      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600-1/28089281-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600-1_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/751409",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/751409"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": true
-    },
-    {
       "id": "49f9177da91a",
       "title": "Emanuel Gat Dance - Five days in the sun",
       "date": "2026-11-25",
@@ -1154,86 +1138,6 @@
       ],
       "source_name": "crushsite.it",
       "is_past": true
-    },
-    {
-      "id": "2958785e0d73",
-      "title": "Guardarsi, riconoscersi, resistere",
-      "date": "2026-11-26",
-      "time": "18:30",
-      "venue": "",
-      "location": "Trento",
-      "description": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione | alle 18.30 e alle 21.00 a Spazio Artificio",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dire-di-se-_slide1_ig-pequod-compagnia-4/28226564-1-ita-IT/Dire-di-se-_slide1_IG-Pequod-Compagnia-4_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755431",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755431"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "e90a95c1bb1a",
-      "title": "Flyover Country",
-      "date": "2026-11-26",
-      "time": "20:30",
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Teatro di Villazzano - Stagione 2026/2027 | Degusta Teatro | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/flyover-country-1130x650/28142328-1-ita-IT/Flyover-country-1130x650_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753015",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753015"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "cd9bd05ac3b2",
-      "title": "L’è dut n craut",
-      "date": "2026-11-26",
-      "time": "20:30",
-      "venue": "",
-      "location": "Moena",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/755705",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/755705"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "1c3c5285e907",
-      "title": "Se domani non torno",
-      "date": "2026-11-26",
-      "time": "20:30",
-      "venue": "Teatro Valle dei Laghi, Via Stoppani, Vezzano - Vallelaghi (Tn)",
-      "location": "Vezzano - Vallelaghi",
-      "description": "informazioni, costi e calendario completo in www.artelaghi.it e www.trentinospettacoli.it",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070234-0439344393454.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/se-domani-non-torno_129211_129389_129390_129559.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/se-domani-non-torno_129211_129389_129390_129559.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "2369ce942c8e",
-      "title": "Cinemamore - Arco",
-      "date": "2026-11-26",
-      "time": "20:30",
-      "venue": "Palazzo dei Panni, Arco (Tn)",
-      "location": "Arco",
-      "description": "Ingresso libero",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070657-404954945.jpg",
-      "source_url": "https://www.crushsite.it/it/cinema/2026/cinemamore-arco.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/cinema/2026/cinemamore-arco.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
     },
     {
       "id": "4022ed24cbba",
@@ -1403,7 +1307,7 @@
       "venue": "Teatro San Marco",
       "location": "Trento",
       "description": "ore 18.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755854",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755854"
@@ -1483,7 +1387,7 @@
       "venue": "",
       "location": "Canazei",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755706",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755706"
@@ -1499,7 +1403,7 @@
       "venue": "",
       "location": "Giustino",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755707",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755707"
@@ -1515,12 +1419,44 @@
       "venue": "Teatro Cuminetti",
       "location": "Trento",
       "description": "ore 20.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/ltapsah-bear-7741962/28215450-1-ita-IT/ltapsah-bear-7741962_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755009",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755009"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "8087faed3110",
+      "title": "Angela Dematté e Angelo Comin - L'invidia dell'orso",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": "Teatro Cuminetti, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Commedia (con musica) transanimalista e transalpina / di Angela Dematté / con Giuliano Comin e Angela Dematté / e con Coro Ana Piani (presente in occasione della recita di San Giacomo) / regia Alice Sinigaglia / scene e costumi Rubidori-Manshaft / musiche Federica Furlani / produzione Teatro Stabile di Bolzano Stagione regionale contemporanea L’orso è stato per secoli il re degli animali in tutta Europa, negli ultimi 30 anni è tornato a popolare i boschi del Nord Italia, a stretto contatto con l",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069842-04955.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/angela-dematte-e-angelo-comin-linvidia-dellorso.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/angela-dematte-e-angelo-comin-linvidia-dellorso.html"
+      ],
+      "source_name": "crushsite.it",
+      "is_past": false
+    },
+    {
+      "id": "7c02ab1540ea",
+      "title": "Il mondo",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": "Chiesa di San Francesco Saverio, Trento",
+      "location": "Trento",
+      "description": "Ingresso libero",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/il-mondo.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/il-mondo.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6168,6 +6104,54 @@
       "is_past": false
     },
     {
+      "id": "9d0d47134c2a",
+      "title": "Il nuovo vestito dell'imperatrice - Alice Bossi",
+      "date": "2027-02-25",
+      "time": "10:00",
+      "venue": "Auditorium Fausto Melotti",
+      "location": "Rovereto",
+      "description": "Scappo a Teatro SCUOLE 2026/2027 | ore 10.00 SPETTACOLO RISERVATO ALLE SCUOLE",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/751415",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/751415"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "822b9affef05",
+      "title": "Scheda bianca",
+      "date": "2027-02-25",
+      "time": "20:30",
+      "venue": "Teatro Sociale ",
+      "location": "Trento",
+      "description": "Teatro Sociale di Trento | Stagione 2026/2027 | il 25 e il 26 febbraio alle ore 20.30\nil 27 febbraio alle ore 18.00\nil 28 febbraio alle ore 16.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/747774",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/747774"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "1710529ba3a7",
+      "title": "Puttana",
+      "date": "2027-02-25",
+      "time": "20:30",
+      "venue": "Teatro di Villazzano",
+      "location": "Trento",
+      "description": "Teatro di Villazzano - Stagione 2026/2027 | Festa del Teatro   | ore 20.30",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/752716",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/752716"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
       "id": "a34c8d775ea5",
       "title": "Paesaggio argentino",
       "date": "2027-02-25",
@@ -6181,6 +6165,22 @@
         "https://www.teatrodipergine.it/musica/2980-paesaggio-argentino"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "910f201cab9c",
+      "title": "Mamma sei sempre nei miei pensieri. Spostati!",
+      "date": "2027-02-25",
+      "time": "21:00",
+      "venue": "Auditorium del Conservatorio di Riva del Garda",
+      "location": "Riva del Garda",
+      "description": "Teatro di Riva del Garda Nago - Torbole | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754107",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754107"
+      ],
+      "source_name": "cultura.trentino.it",
       "is_past": false
     },
     {
