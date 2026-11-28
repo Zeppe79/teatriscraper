@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T14:35:28.340612+00:00",
-  "count": 389,
+  "last_updated": "2026-11-28T00:19:45.331562+00:00",
+  "count": 386,
   "events": [
     {
       "id": "06d96a048e56",
@@ -160,22 +160,6 @@
         "https://www.teatrodipergine.it/archivio-2013-2014/23-cinema-archivio-2013-2014/45-il-caso-kerenes"
       ],
       "source_name": "teatrodipergine.it",
-      "is_past": true
-    },
-    {
-      "id": "93dd692465e4",
-      "title": "mutant/6LL3",
-      "date": "2026-04-30",
-      "time": null,
-      "venue": "Teatro di Villazzano",
-      "location": "Trento",
-      "description": "Uno spazio sospeso tra umano e artificiale, tra corpo e codice. mutant/6LL3 è uno spettacolo che indaga il concetto di identità nell’era contemporanea, dove i confini tra naturale e tecnologico diventano sempre più sottili e instabili. In un ambiente scenico immersivo e...",
-      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/04/mutant6LL3-Folio-di-sala-C.Quarta-Parete-e1777584499736-870x550.jpg",
-      "source_url": "https://www.teatrodivillazzano.it/event/mutant-6ll3/",
-      "source_urls": [
-        "https://www.teatrodivillazzano.it/event/mutant-6ll3/"
-      ],
-      "source_name": "teatrodivillazzano.it",
       "is_past": true
     },
     {
@@ -1140,132 +1124,20 @@
       "is_past": true
     },
     {
-      "id": "4022ed24cbba",
-      "title": "Radici di Alba Maria Porto",
+      "id": "30c132e56e14",
+      "title": "Il dio del massacro",
       "date": "2026-11-27",
-      "time": "18:00",
-      "venue": "Villa Romana di Orfeo, Trento",
+      "time": null,
+      "venue": "Teatro di Villazzano",
       "location": "Trento",
-      "description": "Di Alba Maria Porto / con Elisa Salvini (Agata), Stefano Pietro Detassis (Stefano), Astrid Mauri (Antonia), Manuela Fischietti (Cinzia), Maria Giulia Scarcella (Maria) / artista accompagnatore Marco Tabilio / dirigono Tindaro Granata e Maura Pettorruso Enna, metà degli anni Settanta. In un semplice quaderno, sulla cui copertina campeggia la scritta “Coordinamento Femminista di Enna”, un gruppo di giovani donne siciliane annota riunioni, sessioni di autocoscienza, sogni e preoccupazioni. Il testo",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070489-radi.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/radici-di-alba-maria-porto.html",
+      "description": "Il dio della carneficina, è una delle commedie più famose della drammaturga francese Yasmina Reza, portata al debutto nel 2006 a Zurigo.Nel 2008 lo spettacolo è stato messo in scena a Parigi e a Londra.La produzione londinese ha avuto un...",
+      "image_url": "https://www.teatrodivillazzano.it/wp-content/uploads/2026/11/FINAL-Locandina-con-testo-870x550.jpg",
+      "source_url": "https://www.teatrodivillazzano.it/event/il-dio-del-massacro/",
       "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/radici-di-alba-maria-porto.html"
+        "https://www.teatrodivillazzano.it/event/il-dio-del-massacro/"
       ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "9dcde53d5224",
-      "title": "Chicago 1929: omicidio di un boss",
-      "date": "2026-11-27",
-      "time": "19:30",
-      "venue": "",
-      "location": "Predaia",
-      "description": "ore 19.30",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753361",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753361"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "2b56d6bd0217",
-      "title": "80 anni e non sentirli",
-      "date": "2026-11-27",
-      "time": "20:30",
-      "venue": "",
-      "location": "Sant'Orsola Terme",
-      "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/27-novembre-costituzione/28183975-1-ita-IT/27-novembre-costituzione_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/754281",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/754281"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "f94e3cb2d96c",
-      "title": "Rosso di sera",
-      "date": "2026-11-27",
-      "time": "20:30",
-      "venue": "",
-      "location": "Telve",
-      "description": "ore 20.30",
-      "image_url": "https://www.cultura.trentino.it/extension/ngopengraph/design/standard/images/opengraph_default_image.png",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/756056",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/756056"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "aea4489b0cdc",
-      "title": "Complessità – Il gioco della vita",
-      "date": "2026-11-27",
-      "time": "20:45",
-      "venue": "Teatro del Centro Scolastico di Borgo",
-      "location": "Borgo Valsugana",
-      "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753953",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753953"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "6e655e7e02d6",
-      "title": "Antropocene e altri poceti",
-      "date": "2026-11-27",
-      "time": "20:45",
-      "venue": "Teatro San Marco",
-      "location": "Trento",
-      "description": "Palcoscenico Trentino 2026 | ore 20.45",
-      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/antropocene-e-altri-poceti/28169876-1-ita-IT/Antropocene-e-altri-poceti_opengraph.jpg",
-      "source_url": "https://www.cultura.trentino.it/content/view/full/753833",
-      "source_urls": [
-        "https://www.cultura.trentino.it/content/view/full/753833"
-      ],
-      "source_name": "cultura.trentino.it",
-      "is_past": false
-    },
-    {
-      "id": "99118933e4d6",
-      "title": "Complessità – Il gioco della vita",
-      "date": "2026-11-27",
-      "time": "20:45",
-      "venue": "Cineteatro del Centro Scolastico, Via XXIV Maggio 7, Borgo Valsugana (Tn)",
-      "location": "Borgo Valsugana",
-      "description": "Drammaturgia: Andrea Brunello / Con: Maria Vittoria Barrella e Andrea Brunello / Regia: Manfredi Rutelli e Michela Marelli / Musiche originali: Carlo Casillo / Video: Tommaso Rosi / Luci: Fabrizio Visconti / Scenografie: Tessa Battisti / Tecnica: Giacomo Gottardi / Coproduzione: Arditodesìo, Centro Servizi Culturali Santa Chiara e Teatro Stabile di Bolzano Con il supporto di: Fondazione Caritro, Provincia Autonoma di Trento e Regione Autonoma Trentino Alto Adige/Südtirol Età/pubblico: Adulti/rag",
-      "image_url": "https://www.crushsite.it/upload/images/media/large/070667-4039434.jpg",
-      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_128345_129897.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/danza-teatro/2026/complessita-il-gioco-della-vita_128345_129897.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
-    },
-    {
-      "id": "9bd129ad59c6",
-      "title": "Gianmarco Carroccia - Emozioni",
-      "date": "2026-11-27",
-      "time": "21:00",
-      "venue": "Teatro Auditorium, Via S. Croce, Trento",
-      "location": "Trento",
-      "description": "Informazioni complete e biglietti: https://www.centrosantachiara.it",
-      "image_url": null,
-      "source_url": "https://www.crushsite.it/it/musica/2026/gianmarco-carroccia-emozioni.html",
-      "source_urls": [
-        "https://www.crushsite.it/it/musica/2026/gianmarco-carroccia-emozioni.html"
-      ],
-      "source_name": "crushsite.it",
-      "is_past": false
+      "source_name": "teatrodivillazzano.it",
+      "is_past": true
     },
     {
       "id": "9bc69aafcd81",
@@ -1275,7 +1147,7 @@
       "venue": "",
       "location": "Rovereto",
       "description": "EVENTO ANNULLATO!",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/755813",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/755813"
@@ -1675,12 +1547,28 @@
       "venue": "Teatro Comunale di Pergine",
       "location": "Pergine Valsugana",
       "description": "Teatro ragazzi  2026-2027 | Teatro comunale di Pergine | ore 16.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/gliaiutantidibabbonatale2/28138845-1-ita-IT/gliaiutantidibabbonatale2_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/752900",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/752900"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "ec849458ff60",
+      "title": "Rudolph. Operazione Natale - Fondazione Aida",
+      "date": "2026-11-29",
+      "time": "16:00",
+      "venue": "Teatro Auditorium, Via S. Croce, Trento",
+      "location": "Trento",
+      "description": "Una produzione di Fondazione Aida ETS ICC / Regia Pino Costalunga / Drammaturgia Simone Dini Gandini e Pino Costalunga / Aiuto regia Chiara Tommasini / Con Andrea Messina, Anna Nappi e Ivan Portale / Tecnici audio/luci Antonela Saccomanno, Elia Giacomazzi, Chiara Tommasini / Scenografia Luca Zanolli / Sound design Rebecca Pecoriello e Nicola Marotta Scappo a teatro ”Ah, la notte della Vigilia… La notte più magica dell’anno! Può accadere di tutto… Davvero di tutto!” Può accadere, ad esempio, che ",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/068617-scappo.jpg",
+      "source_url": "https://www.crushsite.it/it/danza-teatro/2026/rudolph-operazione-natale-fondazione-aida.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/danza-teatro/2026/rudolph-operazione-natale-fondazione-aida.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1691,7 +1579,7 @@
       "venue": "Teatro del Centro Scolastico di Borgo",
       "location": "Borgo Valsugana",
       "description": "Teatro di Borgo Valsugana | Stagione 2026/2027 | ore 16.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753955",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753955"
@@ -1707,7 +1595,7 @@
       "venue": "",
       "location": "Dimaro Folgarida",
       "description": "Teatro Dimaro Folgarida - Mezzana | Stagione 2026/2027 | ore 17.00",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
       "source_url": "https://www.cultura.trentino.it/content/view/full/753950",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/753950"
@@ -1740,12 +1628,28 @@
       "venue": "",
       "location": "Vignola-Falesina",
       "description": "Cultura in rete 2026: storie, luoghi e comunità in connessione | ore 17.30",
-      "image_url": null,
+      "image_url": "https://www.cultura.trentino.it/var/001/storage/images/media/images/29-novembre-2026/28008935-1-ita-IT/29-novembre-2026_opengraph.png",
       "source_url": "https://www.cultura.trentino.it/content/view/full/748740",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/748740"
       ],
       "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "2bcf163837b1",
+      "title": "La vita è bella così com'è - Pippo Pollina Tour",
+      "date": "2026-11-29",
+      "time": "21:00",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Formazione: quintetto cameristico: Pippo Pollina: Voce, piano e chitarre; Roberto Petroli: fiati; Cecile Grüebler: violoncello; Gionata Colaprisca: percussioni; Elisa Sandrini: piano, fisarmonica e voce. Pippo Pollina, eclettico musicista siciliano, è uno dei più creativi artisti nella scena del cantautorato europeo. Da sempre attivo punto di riferimento in centro Europa della nostra canzone d’autore più nobile, Pippo rinnova il suo repertorio con puntuale continuità attraverso la produzione di ",
+      "image_url": null,
+      "source_url": "https://www.crushsite.it/it/musica/2026/concerto-di-pippo-pollina-quartetto-acustico.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/musica/2026/concerto-di-pippo-pollina-quartetto-acustico.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -1794,6 +1698,22 @@
         "https://www.teatrodipergine.it/cinema/2998-sirat-cineforum"
       ],
       "source_name": "teatrodipergine.it",
+      "is_past": false
+    },
+    {
+      "id": "4dec3a194b18",
+      "title": "Dom",
+      "date": "2026-12-01",
+      "time": "20:45",
+      "venue": "Auditorium Melotti, Corso Bettini, Rovereto (Tn)",
+      "location": "Rovereto",
+      "description": "Cinemart / Proiezione in lingua originale con sottotitoli in italiano / Cinemart è a cura del Nuovo Cineforum Rovereto / Ingresso Euro 5 / Con tessera Nuovo Cineforum Rovereto Euro 3 / Tessera Nuovo Cineforum Rovereto Euro 10 / Presso la biglietteria dell’Auditorium Melotti a partire da 1 ora prima dell’inizio della proiezione / Informazioni sulla proiezione e biglietti online in www.centrosantachiara.it",
+      "image_url": "https://www.crushsite.it/upload/images/media/large/069846-4545.jpg",
+      "source_url": "https://www.crushsite.it/it/cinema/2026/dom.html",
+      "source_urls": [
+        "https://www.crushsite.it/it/cinema/2026/dom.html"
+      ],
+      "source_name": "crushsite.it",
       "is_past": false
     },
     {
@@ -6179,6 +6099,38 @@
       "source_url": "https://www.cultura.trentino.it/content/view/full/754107",
       "source_urls": [
         "https://www.cultura.trentino.it/content/view/full/754107"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "a4284112651e",
+      "title": "Mi chiamavano Tina. Sulle tracce di una rivoluzionaria antifascista",
+      "date": "2027-02-26",
+      "time": "20:45",
+      "venue": "",
+      "location": "Garniga Terme",
+      "description": "Teatro di Garniga | Stagione 2026/2027 | ore 20.45",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/755911",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/755911"
+      ],
+      "source_name": "cultura.trentino.it",
+      "is_past": false
+    },
+    {
+      "id": "4c70c41115bf",
+      "title": "Una cena d’addio",
+      "date": "2027-02-26",
+      "time": "21:00",
+      "venue": "Teatro Giacomo Sartori",
+      "location": "Ala",
+      "description": "Teatro di Ala | Stagione 2026/2027 | ore 21.00",
+      "image_url": null,
+      "source_url": "https://www.cultura.trentino.it/content/view/full/754646",
+      "source_urls": [
+        "https://www.cultura.trentino.it/content/view/full/754646"
       ],
       "source_name": "cultura.trentino.it",
       "is_past": false
